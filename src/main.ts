@@ -271,7 +271,10 @@ app.querySelector('.skip-link')!.addEventListener('click', (e) => {
 document.body.dataset.view = 'globe';
 
 // Data loads in parallel with the map; search and list view work as soon as it arrives.
-const firstData = loadData().then(setData, (err) => {
+const firstData = loadData().then((d) => {
+  setData(d);
+  if (initialHash === '#list') setView('list');
+}, (err) => {
   console.error(err);
   app.querySelector('.statusline')!.textContent = 'Headlines could not be loaded. Please try again later.';
   throw err;
@@ -300,8 +303,8 @@ map.on('load', async () => {
     if (!map.queryRenderedFeatures(e.point, { layers: HIT_LAYERS }).length) panel.close();
   });
 
-  // Deep links (#city=<key> or #list) – only if the visitor has not already navigated.
-  if (!panel.isOpen && view === 'globe') followHash(initialHash);
+  // City deep links need the map; #list is handled as soon as the data is there (see firstData).
+  if (!panel.isOpen && view === 'globe' && initialHash.startsWith('#city=')) followHash(initialHash);
   window.addEventListener('hashchange', () => followHash(decodeURIComponent(location.hash)));
 
   window.setInterval(async () => {

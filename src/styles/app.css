@@ -707,6 +707,19 @@ body[data-view='list'] .dock {
   display: none;
 }
 
+/* In the list view, content scrolls under the top bar – give the bar a backing. */
+body[data-view='list'] .topbar::before {
+  content: '';
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: calc(var(--safe-top) + 84px);
+  background: linear-gradient(var(--bg) 78%, rgb(7 9 15 / 0));
+  pointer-events: none;
+}
+
 /* ---------- Panel (desktop) ---------- */
 
 .panel {
@@ -1002,6 +1015,10 @@ body[data-view='list'] .dock {
 
   .listview {
     padding: calc(var(--safe-top) + 124px) 16px calc(var(--safe-bottom) + 40px);
+  }
+
+  body[data-view='list'] .topbar::before {
+    height: calc(var(--safe-top) + 122px);
   }
 
   .listview__title {

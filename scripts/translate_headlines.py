@@ -63,6 +63,13 @@ def translate(texts: list[tuple[str, str]], translator, sp) -> list[str]:
     return out
 
 
+def plausible(source: str, result: str) -> bool:
+    """Reject obvious failures: empty, unchanged, unknown tokens (⁇), or a wildly different length."""
+    if not result or result.casefold() == source.casefold() or "⁇" in result:
+        return False
+    return 0.35 <= len(result) / max(1, len(source)) <= 3.0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--sample", type=int, help="print N sample translations, write nothing")
@@ -107,7 +114,7 @@ def main() -> int:
         if args.sample:
             print(f"[{lang}] {title}\n   → {result}")
             continue
-        if result and result.casefold() != title.casefold():
+        if plausible(title, result):
             data["items"][sid].setdefault("translations", {})[TARGET] = result
             done += 1
 
