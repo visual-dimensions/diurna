@@ -107,8 +107,10 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
   "name": "Der Standard",
   "country": "AT",
   "city": "Wien",
+  "city_country": "AT",
   "lat": 48.2082,
   "lon": 16.3738,
+  "tz": "Europe/Vienna",
   "lang": "de",
   "type": "daily",
   "tier": 1,
@@ -121,6 +123,8 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
 - `type`: `daily` | `weekly` | `online` | `magazine`
 - `tier`: 1 = Leitmedium (immer sichtbar), 2 = wichtig, 3 = regional/ergänzend
 - `feed_kind`: `top` (Aufmacher/Titelseite) | `latest` (neuester Beitrag) | `none` (kein Feed gefunden)
+- `city_country`: Land des Redaktionsorts (Seed-Spalte, leer = `country`); nötig für Exilmedien
+- `tz`: Zeitzone aus GeoNames, für die Ortszeit im Panel
 - `note`: z. B. `exile` für Exilmedien (Redaktion außerhalb des Herkunftslands – Marker am tatsächlichen Redaktionsort, im Panel kennzeichnen)
 
 ### `headlines.json` (Objekt, Key = Source-ID)
@@ -154,6 +158,8 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
 - Liest `data/seed/*.csv`, geokodiert `city` + `country` über GeoNames `cities15000`.
 - Treffer ohne eindeutige Zuordnung → Warnung + Zeile im Report, **nicht** raten.
 - Erzeugt stabile `id`s (slug aus Name + ggf. Land).
+- Zweite Stufe: nur wenn `cities15000` gar keinen Treffer hat, wird `cities500` gefragt. Mehrdeutig bleibt mehrdeutig.
+- Optionale Seed-Spalten `lat`/`lon`/`tz` (manueller Override) und `id`. Report: `data/geocode_report.csv`.
 
 ### discover_feeds.py
 1. Homepage laden (Timeout 15 s, ehrlicher User-Agent mit Projekt-URL).
@@ -162,6 +168,8 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
 4. Ranking: Feeds, deren URL oder Titel `portada|une|frontpage|front-page|topstories|top-stories|home|startseite|titelseite|hauptnachrichten|главное|prima` enthält → `top`. Sonst der allgemeinste Feed → `latest`.
 5. Feed testweise parsen: mindestens 1 Item mit Titel und Link.
 6. Ergebnis in `discovery_report.csv` (Quelle, gefundene Feeds, Wahl, Begründung) – **ich prüfe den Report manuell**, erst dann wird `sources.json` aktualisiert.
+   - Ergänzung: Liefern Fallback-Pfade oder „RSS“-Links der Startseite eine HTML-Seite, wird sie als RSS-Übersichtsseite gelesen (`chosen_via = overview page`, im Report mit `CHECK` markiert).
+   - Korrekturen direkt im Report (`chosen_feed`, `feed_kind`), dann `discover_feeds.py --apply` → schreibt `data/sources.json` + `public/data/sources.json`. `--only id1,id2` für Teil-Läufe.
 
 ### fetch_headlines.py
 - Async, max. 10 parallele Requests, Timeout 10 s, 1 Retry.
