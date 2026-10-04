@@ -138,11 +138,18 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
       "title": "…",
       "url": "https://…",
       "published": "2026-10-04T19:12:00Z",
+      "first_seen": "2026-10-04T19:30:04Z",
+      "feed_updated": "2026-10-04T19:25:00Z",
       "fetched_at": "2026-10-04T19:30:04Z"
     }
   }
 }
 ```
+
+- `published`: Datum des Artikels laut Feed; `null`, wenn der Feed keins liefert oder es > 15 Min. in der Zukunft liegt.
+- `first_seen`: erster Abruf, der diese Headline gesehen hat (Ersatz-Alter, wenn `published` fehlt).
+- `feed_updated`: neuestes datiertes Item im Feed. Daran wird „stale“ gemessen – ein Aufmacher-Feed kann mit einem älteren Stück aufmachen und trotzdem lebendig sein.
+- `headlines.json` wird nur neu geschrieben, wenn sich eine Headline ändert (nicht bei bloßem `fetched_at`).
 
 ### `status.json`
 ```json
@@ -150,7 +157,8 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
   "derstandard": { "state": "ok", "last_success": "…", "fail_streak": 0, "http": 200 }
 }
 ```
-`state`: `ok` | `stale` (Headline > 48 h) | `failing` (≥ 3 Fehler in Folge) | `dead` (≥ 10 Fehler in Folge) | `no_feed`
+Zusätzlich `runs` / `successes` (Erfolgsquote) und `error` bei Fehlschlag.
+`state`: `ok` | `stale` (neuestes Feed-Item > 48 h bzw. keine Headline) | `failing` (≥ 3 Fehler in Folge) | `dead` (≥ 10 Fehler in Folge) | `no_feed`
 
 ---
 

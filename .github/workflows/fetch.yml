@@ -2,9 +2,8 @@ name: Fetch headlines
 
 on:
   workflow_dispatch:
-  # Enabled in Phase 2, once fetch_headlines.py is implemented:
-  # schedule:
-  #   - cron: '*/30 * * * *'
+  schedule:
+    - cron: '*/30 * * * *'
 
 permissions:
   contents: write
@@ -36,10 +35,11 @@ jobs:
         run: |
           git config user.name "diurna-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data data/http_cache.json 2>/dev/null || true
+          git add public/data/headlines.json public/data/status.json data/http_cache.json
           if git diff --cached --quiet; then
             echo "No changes."
           else
             git commit -m "data: update headlines"
+            git pull --rebase
             git push
           fi
