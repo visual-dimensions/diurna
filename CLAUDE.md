@@ -21,7 +21,7 @@ Dieses Dokument ist die verbindliche Grundlage für die Umsetzung. Bei Widerspr�
 ## 2. Prinzipien (nicht verhandelbar)
 
 1. **Kein Backend, keine Datenbank, keine Logins.** Die Website ist statisch. Daten liegen als JSON-Dateien neben der Seite.
-2. **Eine Methode für alle Medien.** Headlines kommen ausschließlich über RSS/Atom, verarbeitet von *einem* generischen Skript. Kein medienspezifischer Code, keine Scraper pro Seite. Was ein Medium besonders braucht, steht als Datenfeld in `sources.json`, nicht im Code.
+2. **Eine Methode für alle Medien.** Headlines kommen ausschließlich aus maschinenlesbaren Formaten, die der Verlag selbst veröffentlicht: RSS/Atom, und nur wo es kein RSS gibt, Google-News-Sitemaps (`feed_format: news_sitemap`, enthalten nur Titel, Link, Datum). Verarbeitet von *einem* generischen Skript (Parser in `scripts/feeds.py`). Kein medienspezifischer Code, keine Scraper pro Seite. Was ein Medium besonders braucht, steht als Datenfeld in `sources.json`, nicht im Code.
 3. **Nimm, was die Quelle hergibt.** Gibt es einen Top-Stories-/Titelseiten-Feed → Aufmacher. Sonst → neuester Beitrag. Beides wird im UI ehrlich gekennzeichnet.
 4. **Jedes Medium bleibt sichtbar.** Ist kein Feed vorhanden, blockiert die Seite den Abruf oder ist die Headline älter als 48 h, wird das Medium trotzdem angezeigt – ausgegraut, mit Link zur Startseite, ohne Headline.
 5. **Rechtlich schlank:** Nur Titel + Link + Medienname speichern und anzeigen. **Keine** Teasertexte, **keine** Bilder aus Feeds, keine Volltexte. (Hintergrund: § 76f UrhG nimmt Hyperlinks und sehr kurze Auszüge aus.)
@@ -116,12 +116,14 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
   "tier": 1,
   "homepage": "https://www.derstandard.at",
   "feed": "https://www.derstandard.at/rss",
+  "feed_format": "rss",
   "feed_kind": "top",
   "note": ""
 }
 ```
 - `type`: `daily` | `weekly` | `online` | `magazine`
 - `tier`: 1 = Leitmedium (immer sichtbar), 2 = wichtig, 3 = regional/ergänzend
+- `feed_format`: `rss` (RSS/Atom) | `news_sitemap` | leer (kein Feed)
 - `feed_kind`: `top` (Aufmacher/Titelseite) | `latest` (neuester Beitrag) | `none` (kein Feed gefunden)
 - `city_country`: Land des Redaktionsorts (Seed-Spalte, leer = `country`); nötig für Exilmedien
 - `tz`: Zeitzone aus GeoNames, für die Ortszeit im Panel
@@ -169,6 +171,9 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
 5. Feed testweise parsen: mindestens 1 Item mit Titel und Link.
 6. Ergebnis in `discovery_report.csv` (Quelle, gefundene Feeds, Wahl, Begründung) – **ich prüfe den Report manuell**, erst dann wird `sources.json` aktualisiert.
    - Ergänzung: Liefern Fallback-Pfade oder „RSS“-Links der Startseite eine HTML-Seite, wird sie als RSS-Übersichtsseite gelesen (`chosen_via = overview page`, im Report mit `CHECK` markiert).
+   - Von Hand recherchierte Feeds stehen in `data/feed_overrides.csv` (`id, feed, feed_kind, note`); sie werden bei jedem Lauf mitgeprüft und gewinnen, solange sie gültig sind.
+   - Letzte Stufe: Google-News-Sitemaps aus der `robots.txt`.
+   - Ehrlicher User-Agent, keine Umgehung von Bot-Schutz. Blockierte Medien bleiben ausgegraut.
    - Korrekturen direkt im Report (`chosen_feed`, `feed_kind`), dann `discover_feeds.py --apply` → schreibt `data/sources.json` + `public/data/sources.json`. `--only id1,id2` für Teil-Läufe.
 
 ### fetch_headlines.py

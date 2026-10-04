@@ -2,16 +2,21 @@
 
     discover_feeds.py            write data/discovery_report.csv for manual review
     discover_feeds.py --only a,b limit discovery to these source ids (report is merged)
-    discover_feeds.py --apply    copy chosen_feed/feed_kind from the (reviewed,
-                                 possibly hand-edited) report into sources.json
+    discover_feeds.py --apply    copy chosen_feed/feed_format/feed_kind from the
+                                 (reviewed, possibly hand-edited) report into sources.json
+
+Hand-researched feeds live in data/feed_overrides.csv (id, feed, feed_kind, note).
+They are validated like any other candidate and, if valid, always chosen.
 
 Discovery per source (CLAUDE.md, section 6):
 1. Load the homepage, collect <link rel="alternate" type="application/(rss|atom)+xml">.
 2. If none of them is a valid feed, try the fallback paths plus any homepage
    link labelled RSS/Feed. Those that answer with HTML are treated as RSS
    overview pages: their feed links are collected and checked as well.
-3. A feed is valid if it has at least one item with title and link.
-4. Rank: feeds whose URL or title matches TOP_PATTERN -> "top", otherwise the
+3. If there is still nothing, try the Google News sitemaps announced in
+   robots.txt (format "news_sitemap", see feeds.py; always "latest").
+4. A feed is valid if it has at least one item with title and link.
+5. Rank: feeds whose URL or title matches TOP_PATTERN -> "top", otherwise the
    most general feed -> "latest". Feeds not known to be stale (newest dated
    item < 48 h, or undated) win over stale ones, shallow URL paths over deep
    ones, earlier links over later ones.
@@ -21,25 +26,25 @@ from __future__ import annotations
 
 import argparse
 import asyncio
-import calendar
 import csv
-import html
 import json
 import re
 import sys
-import time
 from dataclasses import dataclass, field
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit
 
-import feedparser
 import httpx
 from selectolax.lexbor import LexborHTMLParser
+
+from feeds import clean_title, parse
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "data" / "sources.json"
 PUBLIC_SOURCES_FILE = ROOT / "public" / "data" / "sources.json"
 REPORT_FILE = ROOT / "data" / "discovery_report.csv"
+OVERRIDES_FILE = ROOT / "data" / "feed_overrides.csv"
 
 USER_AGENT = "Diurna/0.1 (+https://github.com/visual-dimensions/diurna; feed discovery)"
 TIMEOUT = 15.0
@@ -67,7 +72,7 @@ COMMENTS_PATTERN = re.compile(r"comments?(/|\.|$)|commentaires", re.I)
 
 REPORT_FIELDS = [
     "id", "name", "country", "homepage", "homepage_status", "candidates",
-    "chosen_feed", "feed_kind", "chosen_via", "reason", "first_item_age_h", "newest_item_age_h", "sample_title",
+    "chosen_feed", "feed_format", "feed_kind", "chosen_via", "reason", "first_item_age_h", "newest_item_age_h", "sample_title",
 ]
 
 
@@ -83,11 +88,14 @@ class Candidate:
     first_title: str = ""
     first_age_h: float | None = None
     newest_age_h: float | None = None
-    via: str = "homepage"  # homepage <link> | fallback | overview page
+    format: str = "rss"
+    via: str = "homepage"  # homepage | fallback | overview page | robots.txt | manual
     page: str = ""  # HTML body, if the URL answered with a web page instead of a feed
 
     @property
     def is_top(self) -> bool:
+        if self.format != "rss":
+            return False
         return bool(TOP_PATTERN.search(self.url) or TOP_PATTERN.search(self.title) or TOP_PATTERN.search(self.feed_title))
 
     @property
@@ -104,7 +112,7 @@ class Candidate:
             return f"{self.url} [{self.status}]"
         age = f"{self.newest_age_h:.0f}h" if self.newest_age_h is not None else "?"
         kind = "top" if self.is_top else "gen"
-        return f"{self.url} [{kind}, {self.via}, {self.items} items, newest {age}]"
+        return f"{self.url} [{kind}, {self.format}, {self.via}, {self.items} items, newest {age}]"
 
 
 @dataclass
@@ -117,19 +125,10 @@ class Result:
     reason: str = ""
 
 
-def clean_title(raw: str) -> str:
-    text = re.sub(r"<[^>]+>", " ", raw or "")
-    return re.sub(r"\s+", " ", html.unescape(text)).strip()
-
-
-def age_hours(struct) -> float | None:
-    if not struct:
+def age_hours(value: datetime | None) -> float | None:
+    if value is None:
         return None
-    return max(0.0, (time.time() - calendar.timegm(struct)) / 3600)  # feedparser structs are UTC
-
-
-def entry_age(entry) -> float | None:
-    return age_hours(entry.get("published_parsed") or entry.get("updated_parsed"))
+    return max(0.0, (datetime.now(timezone.utc) - value).total_seconds() / 3600)
 
 
 async def check_feed(client: httpx.AsyncClient, cand: Candidate) -> None:
@@ -142,20 +141,20 @@ async def check_feed(client: httpx.AsyncClient, cand: Candidate) -> None:
     if resp.status_code != 200:
         return
     content_type = resp.headers.get("content-type", "")
-    parsed = feedparser.parse(resp.content, response_headers={"content-type": content_type})
-    entries = [e for e in parsed.entries if e.get("title") and e.get("link")]
-    if not entries:
+    feed = parse(resp.content, content_type)
+    if feed is None:
         if "html" in content_type.lower():
             cand.status, cand.page = "html page", resp.text
         else:
             cand.status = "no items"
         return
     cand.valid = True
-    cand.feed_title = clean_title(parsed.feed.get("title", ""))
-    cand.items = len(entries)
-    cand.first_title = clean_title(entries[0].title)
-    cand.first_age_h = entry_age(entries[0])
-    ages = [a for a in (entry_age(e) for e in entries) if a is not None]
+    cand.format = feed.format
+    cand.feed_title = feed.title
+    cand.items = len(feed.items)
+    cand.first_title = feed.items[0].title
+    cand.first_age_h = age_hours(feed.items[0].published)
+    ages = [a for a in (age_hours(i.published) for i in feed.items) if a is not None]
     cand.newest_age_h = min(ages) if ages else None
 
 
@@ -215,7 +214,7 @@ def feed_links_from_overview(page: str, base_url: str, order_offset: int) -> lis
 def choose(result: Result) -> None:
     valid = [c for c in result.candidates if c.valid and not COMMENTS_PATTERN.search(c.url + " " + c.title)]
     if not valid:
-        result.reason = result.reason or "no valid feed found"
+        result.reason = (result.reason + "no valid feed found") if result.reason.endswith("; ") else (result.reason or "no valid feed found")
         return
     top = [c for c in valid if c.is_top]
     pool, kind = (top, "top") if top else (valid, "latest")
@@ -234,12 +233,44 @@ def choose(result: Result) -> None:
         why.append(f"WARNING newest item older than {STALE_HOURS}h")
     elif result.chosen.newest_age_h is None:
         why.append("items carry no date")
-    result.reason = "; ".join(why)
+    result.reason = (result.reason if result.reason.endswith("; ") else "") + "; ".join(why)
 
 
-async def discover(client: httpx.AsyncClient, sem: asyncio.Semaphore, source: dict) -> Result:
+async def news_sitemaps_from_robots(client: httpx.AsyncClient, base_url: str) -> list[str]:
+    parts = urlsplit(base_url)
+    try:
+        resp = await client.get(f"{parts.scheme}://{parts.netloc}/robots.txt")
+    except httpx.HTTPError:
+        return []
+    if resp.status_code != 200:
+        return []
+    urls = re.findall(r"(?im)^\s*sitemap:\s*(\S+)", resp.text)
+    return [u for u in dict.fromkeys(urls) if "news" in u.lower()][:3]
+
+
+def read_overrides() -> dict[str, dict]:
+    if not OVERRIDES_FILE.exists():
+        return {}
+    with OVERRIDES_FILE.open(encoding="utf-8", newline="") as f:
+        return {row["id"]: row for row in csv.DictReader(f) if row.get("feed")}
+
+
+async def discover(client: httpx.AsyncClient, sem: asyncio.Semaphore, source: dict, override: dict | None) -> Result:
     result = Result(source=source)
     async with sem:
+        if override:
+            manual = Candidate(url=override["feed"], title=override.get("note", ""), order=-1, via="manual")
+            await check_feed(client, manual)
+            result.candidates.append(manual)
+            if manual.valid:
+                result.chosen, result.feed_kind = manual, override["feed_kind"]
+                result.reason = f"manual override ({override.get('note') or 'no note'})"
+                if manual.is_stale:
+                    result.reason += f"; WARNING newest item older than {STALE_HOURS}h"
+                print(f"MANUAL {source['id']:<32} {manual.url}", flush=True)
+                return result
+            result.reason = f"manual override invalid ({manual.status}); "
+
         base_url, homepage_html = source["homepage"], ""
         try:
             resp = await client.get(source["homepage"])
@@ -282,6 +313,13 @@ async def discover(client: httpx.AsyncClient, sem: asyncio.Semaphore, source: di
             for c in result.candidates:
                 c.page = ""
 
+        if not any(c.valid for c in result.candidates):
+            sitemaps = await news_sitemaps_from_robots(client, base_url)
+            known = {c.url for c in result.candidates}
+            extra = [Candidate(url=u, order=500 + i, via="robots.txt") for i, u in enumerate(sitemaps) if u not in known]
+            await asyncio.gather(*(check_feed(client, c) for c in extra))
+            result.candidates += extra
+
     choose(result)
     mark = {"top": "TOP   ", "latest": "LATEST", "none": "NONE  "}[result.feed_kind]
     print(f"{mark} {source['id']:<32} {result.chosen.url if result.chosen else result.reason}", flush=True)
@@ -299,6 +337,7 @@ def to_row(r: Result) -> dict:
         "homepage_status": r.homepage_status,
         "candidates": " | ".join(x.summary() for x in r.candidates),
         "chosen_feed": c.url if c else "",
+        "feed_format": c.format if c else "",
         "feed_kind": r.feed_kind,
         "chosen_via": c.via if c else "",
         "reason": r.reason,
@@ -321,7 +360,8 @@ async def run_discovery(sources: list[dict], only: set[str] | None) -> None:
     limits = httpx.Limits(max_connections=CONCURRENCY * 4)
     headers = {"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml,application/rss+xml,application/atom+xml,application/xml;q=0.9,*/*;q=0.8"}
     async with httpx.AsyncClient(timeout=TIMEOUT, follow_redirects=True, headers=headers, limits=limits) as client:
-        results = await asyncio.gather(*(discover(client, sem, s) for s in targets))
+        overrides = read_overrides()
+        results = await asyncio.gather(*(discover(client, sem, s, overrides.get(s["id"])) for s in targets))
 
     rows = read_report() if only else {}
     rows.update({r.source["id"]: to_row(r) for r in results})
@@ -351,8 +391,12 @@ def apply_report(sources: list[dict]) -> int:
         if kind not in {"top", "latest", "none"} or (kind != "none" and not feed):
             print(f"WARN {s['id']}: invalid feed_kind/chosen_feed in report, skipped", file=sys.stderr)
             continue
-        if (s.get("feed"), s.get("feed_kind")) != (feed, kind):
-            s["feed"], s["feed_kind"] = feed, kind
+        fmt = (row.get("feed_format") or "rss").strip() if kind != "none" else ""
+        if fmt not in {"rss", "news_sitemap", ""}:
+            print(f"WARN {s['id']}: unknown feed_format '{fmt}', skipped", file=sys.stderr)
+            continue
+        if (s.get("feed"), s.get("feed_kind"), s.get("feed_format")) != (feed, kind, fmt):
+            s["feed"], s["feed_kind"], s["feed_format"] = feed, kind, fmt
             changed += 1
     payload = json.dumps(sources, ensure_ascii=False, indent=2) + "\n"
     for path in (SOURCES_FILE, PUBLIC_SOURCES_FILE):

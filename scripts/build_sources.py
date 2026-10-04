@@ -33,7 +33,7 @@ PUBLIC_SOURCES_FILE = ROOT / "public" / "data" / "sources.json"
 REPORT_FILE = ROOT / "data" / "geocode_report.csv"
 
 TYPES = {"daily", "weekly", "online", "magazine"}
-PRESERVED_FIELDS = ("feed", "feed_kind", "skip_pattern")
+PRESERVED_FIELDS = ("feed", "feed_format", "feed_kind", "skip_pattern")
 
 
 # Latin letters that NFKD does not decompose into base letter + diacritic.
@@ -167,6 +167,7 @@ def main() -> int:
             "tier": int(row["tier"]),
             "homepage": row["homepage"],
             "feed": "",
+            "feed_format": "",
             "feed_kind": "none",
             "note": row.get("note", ""),
         }

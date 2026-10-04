@@ -1,0 +1,28 @@
+id,feed,feed_kind,note
+salzburgernachrichten,https://www.sn.at/xml/rss,latest,hand-researched
+diewelt,https://www.welt.de/feeds/topnews.rss,top,"TOPNEWS feed"
+dertagesspiegel,https://www.tagesspiegel.de/contentexport/feed/home,top,"homepage feed"
+handelsblatt,https://www.handelsblatt.com/contentexport/feed/top-themen,top,"Top-Themen"
+tagesanzeiger,https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/front,top,"Tamedia front feed"
+theirishtimes,https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml,latest,"all sections"
+politiken,https://politiken.dk/rss/senestenyt.rss,latest,"senestenyt = latest news"
+berlingske,https://www.berlingske.dk/content/rss,latest,
+svenskadagbladet,https://www.svd.se/feed/articles.rss,latest,"Senast publicerat"
+dagbladet,https://www.dagbladet.no/?lab_viewport=rss,top,"front page rendered as RSS; first item undated – CHECK"
+aamulehti,https://www.aamulehti.fi/rss/uutiset.xml,latest,
+kathimerini,https://www.kathimerini.gr/infeeds/rss/nx-rss-feed.xml,latest,"news stream"
+hurriyet,https://www.hurriyet.com.tr/rss/anasayfa,top,"anasayfa = homepage, front-page order"
+kommersant,https://www.kommersant.ru/RSS/main.xml,top,"Главное"
+kolnerstadtanzeiger,https://feed.ksta.de/feed/rss/index.rss,latest,"all sections instead of Wirtschaft"
+lefigaro,https://www.lefigaro.fr/rss/figaro_une.xml,top,"À la une"
+larepubblica,https://www.repubblica.it/rss/homepage/rss2.0.xml,top,"homepage feed"
+ilsole24ore,https://www.ilsole24ore.com/rss/italia.xml,latest,"only section feeds available (Italia) – CHECK"
+pravda,https://spravy.pravda.sk/rss/xml/,latest,"news instead of blog feed"
+diezeit,https://newsfeed.zeit.de/index,top,"feed of zeit.de/index (homepage) – CHECK"
+dailymail,https://www.dailymail.co.uk/home/index.rss,top,"home"
+liberation,https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml,latest,
+leparisien,https://feeds.leparisien.fr/leparisien/rss,latest,"items undated – freshness unknown"
+publico,https://feeds.feedburner.com/PublicoRSS,latest,
+expresso,https://feeds.feedburner.com/expresso-geral,latest,
+thetimes,https://www.thetimes.com/sitemaps/news,latest,"no RSS; Google News sitemap"
+vecer,https://vecer.com/sitemaps/articles.xml,latest,"no RSS; Google News sitemap"
