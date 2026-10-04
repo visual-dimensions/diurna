@@ -196,7 +196,7 @@ Zusätzlich `runs` / `successes` (Erfolgsquote) und `error` bei Fehlschlag.
 - Schreibt `headlines.json` und `status.json` nur, wenn sich etwas geändert hat.
 
 ### GitHub Action (`fetch.yml`)
-- `schedule: cron: '*/30 * * * *'` + `workflow_dispatch` für manuelle Läufe.
+- `schedule: cron: '7,37 * * * *'` (alle 30 Min., bewusst nicht zu :00/:30 – dort lässt GitHub Läufe oft ausfallen) + `workflow_dispatch` für manuelle Läufe.
 - Python installieren, `fetch_headlines.py` ausführen, bei Änderungen committen (Daten bleiben versioniert, `http_cache.json`/`status.json` überleben so zwischen Läufen).
 - Danach ruft `fetch.yml` `deploy.yml` auf: `npm run build` + `wrangler pages deploy dist` (Direct Upload, keine Git-Integration → zählt nicht gegen das Pages-Build-Limit). `deploy.yml` läuft außerdem bei jedem Code-Push.
 - Secrets: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` (ohne sie wird nur gebaut). Pages-Projektname: `diurna`.
