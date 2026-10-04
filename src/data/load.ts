@@ -25,6 +25,8 @@ export interface Headline {
   published: string | null;
   first_seen: string;
   feed_updated: string | null;
+  /** Machine translations by target language, e.g. { en: "…" } (scripts/translate_headlines.py). */
+  translations?: Record<string, string>;
 }
 
 /** 3 = fresh (< 1 h), 2 = 1–12 h, 1 = older but feed alive, 0 = no current headline. */

@@ -204,6 +204,9 @@ async def run() -> int:
                     "feed_updated": iso(out.feed_updated),
                     "fetched_at": iso(now),
                 }
+                # Translations (translate_headlines.py) belong to the title; keep them while it is unchanged.
+                if old_item and old_item.get("title") == out.item.title and old_item.get("translations"):
+                    entry["translations"] = old_item["translations"]
             elif entry is not None:
                 entry = {**entry, "fetched_at": iso(now)}
             if out.etag or out.last_modified:

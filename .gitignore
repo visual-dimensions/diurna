@@ -6,3 +6,4 @@ __pycache__/
 .DS_Store
 # GeoNames dump (downloaded by build_sources.py, not committed)
 data/geonames/
+.models/

@@ -15,7 +15,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30 # the first run converts the translation model (~10 min), later runs take ~2 min
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:
@@ -30,8 +30,26 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
+      - name: Restore translation model
+        id: model-cache
+        uses: actions/cache@v4
+        with:
+          path: .models/m2m100_1.2B-ct2
+          key: m2m100-1.2B-ct2-int8-v1
+
+      - name: Prepare translation model (cache miss only)
+        if: steps.model-cache.outputs.cache-hit != 'true'
+        run: bash scripts/prepare_translation_model.sh
+
+      - name: Install translation runtime
+        run: pip install -r scripts/requirements-translate.txt
+
       - name: Fetch headlines
         run: python scripts/fetch_headlines.py
+
+      - name: Translate new headlines
+        continue-on-error: true # without translations the site still works
+        run: python scripts/translate_headlines.py
 
       - name: Commit changes
         id: commit

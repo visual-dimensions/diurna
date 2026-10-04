@@ -91,9 +91,12 @@ export class LiveBar {
     if (!m?.headline) return;
     const age = relativeAge(Math.max(0, (Date.now() - headlineTime(m)) / 60000));
     const when = age === 'just now' ? 'Just now' : age.charAt(0).toUpperCase() + age.slice(1);
+    // A glance at the strip should be understandable – show the English machine translation if there is one.
+    const en = m.lang !== 'en' ? m.headline.translations?.en : undefined;
+    const [text, lang] = en ? [en, 'en'] : [m.headline.title, m.lang];
     this.item.innerHTML = `
-      <span class="livebar__where">${escapeHtml(when)} in ${escapeHtml(m.city)} · <span class="livebar__masthead">${escapeHtml(m.name)}</span></span>
-      <span class="livebar__headline" lang="${escapeHtml(m.lang)}" dir="auto">${escapeHtml(m.headline.title)}</span>
+      <span class="livebar__where">${escapeHtml(when)} in ${escapeHtml(m.city)} · <span class="livebar__masthead">${escapeHtml(m.name)}</span>${en ? ' · <span class="livebar__mt">machine-translated</span>' : ''}</span>
+      <span class="livebar__headline" lang="${escapeHtml(lang)}" dir="auto">${escapeHtml(text)}</span>
       <span class="sr-only">– show on globe</span>`;
     if (animate && !this.reducedMotion) {
       this.item.classList.remove('is-entering');

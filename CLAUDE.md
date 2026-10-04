@@ -303,7 +303,7 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
 - ~~Vanilla TS oder Svelte~~ → **Vanilla TypeScript** (entschieden nach dem Design-Spike).
 - ~~Sprache der Website~~ → **Englisch** (UI-Texte, Kennzeichnungen wie „Top story“ / „Latest“). Headlines bleiben in Originalsprache.
 - ~~Stadtnamen~~ → **Landessprache**, wie in der Seed-Liste (Praha, København, Athina).
-- ~~Maschinelle Übersetzung~~ → **nach Phase 4**: Übersetzung neuer Headlines in der GitHub Action (nur neue, gecacht), zuerst Zielsprache **Englisch** via **Azure Translator** (API-Key als GitHub-Secret), im UI als „Machine-translated“ gekennzeichnet, Original bleibt sichtbar. Weitere Zielsprachen später per Konfiguration.
+- ~~Maschinelle Übersetzung~~ → Übersetzung neuer Headlines **nach Englisch** in der GitHub Action mit einem **offenen Modell**: M2M100 1.2B (Meta, MIT) als CTranslate2-int8 (`scripts/translate_headlines.py`, Modell im Actions-Cache, einmalig erzeugt von `scripts/prepare_translation_model.sh`). Kein API-Dienst, kein Key, keine Kosten, keine Mengengrenze. Azure scheiterte an der Kontoeinrichtung, DeepL Free (500k Zeichen/Monat) reicht für ~3,3 Mio. Zeichen/Monat nicht. Übersetzung steht als `translations.en` am Headline-Item und bleibt erhalten, solange der Titel gleich ist. Im UI als „Machine-translated“ gekennzeichnet, Original bleibt sichtbar. Fehlt das Modell, läuft alles ohne Übersetzung weiter.
 
 ---
 

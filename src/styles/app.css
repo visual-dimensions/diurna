@@ -872,6 +872,35 @@ body[data-view='list'] .dock {
   hyphens: auto;
 }
 
+.card__translation {
+  margin: 6px 0 0;
+  font-size: 0.875rem;
+  line-height: 1.45;
+  color: var(--paper-2);
+}
+
+.card__mt,
+.livebar__mt {
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.card__mt {
+  margin-right: 4px;
+}
+
+.ambient-label__translation {
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: var(--paper-2);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .card--l1 .card__headline {
   color: var(--paper-2);
 }
@@ -1096,7 +1125,8 @@ body[data-view='list'] .dock {
     overflow: hidden;
   }
 
-  .panel[data-snap='peek'] .card__links {
+  .panel[data-snap='peek'] .card__links,
+  .panel[data-snap='peek'] .card__translation {
     display: none;
   }
 

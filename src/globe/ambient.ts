@@ -118,12 +118,14 @@ export class Ambient {
     this.marker?.remove();
     this.marker = null;
     if (m?.headline) {
+      const en = m.lang !== 'en' ? m.headline.translations?.en : undefined;
       // Outer element is positioned by MapLibre (via transform), the inner one animates.
       const el = document.createElement('div');
       el.setAttribute('aria-hidden', 'true');
       el.innerHTML = `<div class="ambient-label">
         <span class="ambient-label__masthead">${escapeHtml(m.name)} · ${escapeHtml(m.city)}</span>
         <span class="ambient-label__headline" lang="${escapeHtml(m.lang)}" dir="auto">${escapeHtml(m.headline.title)}</span>
+        ${en ? `<span class="ambient-label__translation" lang="en">${escapeHtml(en)}</span>` : ''}
       </div>`;
       this.marker = new maplibregl.Marker({ element: el, anchor: 'bottom', offset: [0, -14] }).setLngLat([m.lon, m.lat]).addTo(this.map);
     }

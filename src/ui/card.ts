@@ -1,6 +1,13 @@
 import type { Medium } from '../data/load';
 import { countryName, escapeHtml, missingReason, relativeAge } from './format';
 
+/** English machine translation below the original, clearly labelled. */
+function translation(m: Medium): string {
+  const en = m.headline?.translations?.en;
+  if (!en || m.lang === 'en') return '';
+  return `<p class="card__translation"><span class="card__mt">Machine-translated</span> <span lang="en">${escapeHtml(en)}</span></p>`;
+}
+
 /**
  * One medium: masthead, kind of headline, age, headline in the original
  * language, links. Shared by the city panel and the list view.
@@ -30,6 +37,7 @@ export function mediumCard(m: Medium, headingLevel = 3): string {
     ${exile}
     <p class="card__meta"><span class="card__kind" title="${kindHint}">${kind}</span> ${age}</p>
     <p class="card__headline" lang="${escapeHtml(m.lang)}" dir="auto">${escapeHtml(m.headline.title)}</p>
+    ${translation(m)}
     <p class="card__links">
       <a class="card__link" href="${escapeHtml(m.headline.url)}" target="_blank" rel="noopener">Read article<span class="sr-only"> at ${name}</span> <span aria-hidden="true">↗</span></a>
       ${home}
