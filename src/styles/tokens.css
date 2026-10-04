@@ -1,16 +1,24 @@
 :root {
   --bg: #07090f;
   --bg-2: #0b0e14;
-  --land: #141925;
-  --line: rgb(255 255 255 / 0.12);
+  --land: #161c2a;
+  --line: rgb(170 190 225 / 0.16);
   --glow-fresh: #ffb347;
-  --glow-mid: #c9a46a;
+  --glow-mid: #e3a55a;
   --paper: #f3ebdd;
-  --muted: #8a93a6;
-  --accent-live: #ff5a4e;
+  --paper-2: #c9c1b3;
+  --muted: #9aa2b2;
+  --accent-live: #ff6a4d;
 
-  --font-serif: 'Newsreader', 'Noto Serif', Georgia, serif;
-  --font-sans: 'Inter', 'Noto Sans', system-ui, -apple-system, sans-serif;
+  --surface: rgb(13 17 26 / 0.82);
+  --surface-line: rgb(243 235 221 / 0.1);
+
+  --font-serif: 'Newsreader Variable', 'Noto Serif Variable', Georgia, serif;
+  --font-sans: 'Inter Variable', 'Noto Sans', system-ui, -apple-system, sans-serif;
+
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 *,
@@ -23,29 +31,30 @@ html,
 body {
   margin: 0;
   height: 100%;
+  overflow: hidden;
+  overscroll-behavior: none;
 }
 
 body {
-  background: radial-gradient(ellipse at center, var(--bg-2) 0%, var(--bg) 70%);
+  background: radial-gradient(ellipse 120% 90% at 50% 45%, var(--bg-2) 0%, var(--bg) 70%);
   color: var(--paper);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
 }
 
-#app {
-  position: fixed;
-  inset: 0;
-  display: grid;
-  place-items: center;
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
 }
 
-.wordmark {
-  font-family: var(--font-serif);
-  font-weight: 400;
-  font-size: clamp(2rem, 6vw, 3.5rem);
-  letter-spacing: 0.3em;
-  text-transform: uppercase;
-  margin: 0;
-  padding-left: 0.3em;
-  color: var(--paper);
+:focus-visible {
+  outline: 2px solid var(--glow-fresh);
+  outline-offset: 3px;
+  border-radius: 4px;
 }
