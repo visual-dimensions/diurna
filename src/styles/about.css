@@ -1,0 +1,154 @@
+/* The about page scrolls like a normal document. */
+html:has(body.about),
+body.about {
+  height: auto;
+  overflow: auto;
+}
+
+body.about {
+  min-height: 100vh;
+  padding: calc(var(--safe-top) + 20px) 20px calc(var(--safe-bottom) + 64px);
+  line-height: 1.6;
+}
+
+.skip-link {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--paper);
+  color: var(--bg);
+  font-weight: 600;
+  transform: translateY(-200%);
+}
+
+.skip-link:focus {
+  transform: none;
+}
+
+.about__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.wordmark {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-weight: 500;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--paper);
+  text-decoration: none;
+}
+
+.about__back {
+  font-size: 0.875rem;
+  color: var(--muted);
+}
+
+.about__main {
+  max-width: 680px;
+  margin: 56px auto 0;
+}
+
+.about h1 {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: clamp(2.2rem, 7vw, 3.2rem);
+  font-weight: 500;
+  font-variation-settings: 'opsz' 72;
+  line-height: 1.05;
+}
+
+.about__lead {
+  margin: 20px 0 0;
+  font-family: var(--font-serif);
+  font-size: 1.3rem;
+  line-height: 1.45;
+  color: var(--paper-2);
+}
+
+.about h2 {
+  margin: 48px 0 10px;
+  font-size: 0.75rem;
+  font-weight: 650;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--glow-mid);
+}
+
+.about p,
+.about li,
+.about dd {
+  color: var(--paper-2);
+}
+
+.about a {
+  color: var(--paper);
+  text-decoration-color: rgb(255 179 71 / 0.5);
+  text-underline-offset: 3px;
+}
+
+.about ul {
+  padding-left: 1.2em;
+}
+
+.about__defs dt {
+  margin-top: 12px;
+  font-weight: 600;
+  color: var(--paper);
+}
+
+.about__defs dd {
+  margin: 2px 0 0;
+}
+
+.about__legend {
+  list-style: none;
+  padding: 0;
+}
+
+.about__legend li {
+  display: flex;
+  gap: 12px;
+  align-items: baseline;
+  margin: 8px 0;
+}
+
+.dot {
+  flex: none;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  transform: translateY(1px);
+}
+
+.dot--fresh {
+  background: #fff3dc;
+  box-shadow: 0 0 10px 3px rgb(255 179 71 / 0.7);
+}
+
+.dot--mid {
+  background: #f1d3a0;
+  box-shadow: 0 0 8px 2px rgb(227 165 90 / 0.4);
+}
+
+.dot--dim {
+  background: #a08866;
+}
+
+.dot--none {
+  border: 1px solid #7b8496;
+}
+
+.about__placeholder {
+  padding: 12px 14px;
+  border: 1px dashed var(--accent-live);
+  border-radius: 10px;
+  font-family: ui-monospace, monospace;
+  font-size: 0.85rem;
+}

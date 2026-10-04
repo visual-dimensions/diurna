@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#07090F" />
+    <title>About – Diurna</title>
+    <meta name="description" content="What Diurna is, where its headlines come from, and how to reach us." />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script type="module" src="/src/about.ts"></script>
+  </head>
+  <body class="about">
+    <a class="skip-link" href="#content">Skip to content</a>
+    <header class="about__header">
+      <a class="wordmark" href="/">Diurna</a>
+      <a class="about__back" href="/">← Back to the globe</a>
+    </header>
+
+    <main id="content" class="about__main">
+      <h1>About Diurna</h1>
+      <p class="about__lead">
+        <em>Acta diurna</em> – “daily acts” – were the public notices of ancient Rome. Diurna shows Europe’s
+        newspapers where their newsrooms are, and what they lead with right now.
+      </p>
+
+      <section aria-labelledby="how">
+        <h2 id="how">How it works</h2>
+        <p>
+          Every newsroom is a point of light on the globe. Every 30 minutes, Diurna reads the feeds the publishers
+          themselves provide – RSS or Atom, and where there is none, the news sitemap they publish for search engines.
+          The same method applies to every outlet; nothing is scraped from web pages.
+        </p>
+        <p>
+          Diurna stores and shows only the headline, the link to the article and the name of the outlet. No teasers,
+          no images, no article text. Headlines appear in their original language. Every headline links to the
+          publisher’s own site.
+        </p>
+      </section>
+
+      <section aria-labelledby="labels">
+        <h2 id="labels">“Top story” and “Latest”</h2>
+        <dl class="about__defs">
+          <dt>Top story</dt>
+          <dd>The lead story of the outlet’s front page. Used when the publisher offers a front-page feed.</dd>
+          <dt>Latest</dt>
+          <dd>
+            The most recently published article. Used when the publisher offers no front-page feed – this is not
+            necessarily what the outlet considers most important.
+          </dd>
+        </dl>
+      </section>
+
+      <section aria-labelledby="lights">
+        <h2 id="lights">Reading the lights</h2>
+        <ul class="about__legend">
+          <li><span class="dot dot--fresh" aria-hidden="true"></span> Bright amber: headline less than an hour old</li>
+          <li><span class="dot dot--mid" aria-hidden="true"></span> Softer: one to twelve hours old</li>
+          <li><span class="dot dot--dim" aria-hidden="true"></span> Dim: older, but the outlet’s feed is alive</li>
+          <li>
+            <span class="dot dot--none" aria-hidden="true"></span> Grey ring: no current headline – the outlet has no
+            feed, blocks automated access, or has published nothing new for 48 hours. It stays on the map with a link
+            to its homepage.
+          </li>
+        </ul>
+        <p>
+          Outlets in exile – for example Russian and Belarusian newsrooms working from Riga or Vilnius – are shown
+          where their newsroom actually is, and marked as such.
+        </p>
+        <p>Times shown are approximate: some feeds publish no dates, in which case Diurna uses the time it first saw the headline.</p>
+      </section>
+
+      <section aria-labelledby="publishers">
+        <h2 id="publishers">For publishers</h2>
+        <p>
+          Missing your outlet, wrong feed, or prefer not to be listed? Write to
+          <a href="mailto:CONTACT_EMAIL">CONTACT_EMAIL</a> and we will sort it out quickly.
+        </p>
+        <p>
+          Diurna fetches feeds with an identifiable user agent (“Diurna/0.1”, with a link to the project), uses
+          conditional requests, and never works around access restrictions.
+        </p>
+      </section>
+
+      <section aria-labelledby="privacy">
+        <h2 id="privacy">Privacy</h2>
+        <p>
+          No cookies, no tracking, no analytics, no accounts. All fonts and map data are served from this site; the
+          page makes no requests to third parties. Your browser may remember small preferences locally (for example
+          that you have already seen the intro); nothing is sent anywhere.
+        </p>
+        <p>
+          The site is hosted on Cloudflare Pages, which processes technical access data (such as IP addresses) to
+          deliver the site. When you follow a link to an article, the publisher’s own privacy policy applies.
+        </p>
+      </section>
+
+      <section aria-labelledby="credits">
+        <h2 id="credits">Data and credits</h2>
+        <ul>
+          <li>Map data: <a href="https://www.naturalearthdata.com/">Natural Earth</a> (public domain)</li>
+          <li>
+            City coordinates: <a href="https://www.geonames.org/">GeoNames</a>, licensed under
+            <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+          </li>
+          <li>Globe: <a href="https://maplibre.org/">MapLibre GL JS</a> (BSD-3-Clause)</li>
+          <li>Fonts: Newsreader, Noto Serif, Inter (SIL Open Font License 1.1); map digits in Open Sans (Apache 2.0)</li>
+          <li>Headlines: © the respective publishers</li>
+          <li>Source code: <a href="https://github.com/visual-dimensions/diurna">github.com/visual-dimensions/diurna</a></li>
+        </ul>
+      </section>
+
+      <section aria-labelledby="imprint">
+        <h2 id="imprint">Imprint</h2>
+        <!-- TODO: legally required details (Austria: § 5 ECG, § 25 MedienG) – to be supplied by the site owner. -->
+        <p class="about__placeholder">
+          IMPRINT_NAME<br />
+          IMPRINT_ADDRESS<br />
+          <a href="mailto:CONTACT_EMAIL">CONTACT_EMAIL</a>
+        </p>
+      </section>
+    </main>
+  </body>
+</html>

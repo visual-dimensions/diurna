@@ -405,6 +405,11 @@
   font-variant-numeric: tabular-nums;
 }
 
+.statusline__about {
+  color: var(--paper-2);
+  text-underline-offset: 3px;
+}
+
 .livebar {
   display: flex;
   align-items: center;

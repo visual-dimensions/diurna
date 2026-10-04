@@ -46,7 +46,7 @@ public/data/headlines.json    aktuelle Schlagzeilen
 public/data/status.json       Feed-Gesundheit pro Quelle
         │
         ▼
-Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
+Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler aus der Action)
 ```
 
 ### Stack
@@ -88,8 +88,10 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Auto-Deploy bei Push)
 │  ├─ ui/                        Panel, Bottom-Sheet, Live-Leiste, Suche, Listenansicht
 │  ├─ styles/                    Tokens, Typografie
 │  └─ data/                      Laden, Zusammenführen, Frische-Berechnung
-├─ assets/geo/                   Natural-Earth-GeoJSON (vereinfacht)
-└─ .github/workflows/fetch.yml
+├─ about/index.html              Info-/Impressum-Seite
+├─ assets/geo/                   Natural-Earth-GeoJSON (110m für den ersten Frame, 50m nachgeladen)
+├─ public/_headers               Sicherheits-Header (CSP) und Caching für Cloudflare Pages
+└─ .github/workflows/            fetch.yml (alle 30 Min.), deploy.yml (Build + Upload)
 ```
 
 ### Entwicklung
@@ -195,9 +197,10 @@ Zusätzlich `runs` / `successes` (Erfolgsquote) und `error` bei Fehlschlag.
 
 ### GitHub Action (`fetch.yml`)
 - `schedule: cron: '*/30 * * * *'` + `workflow_dispatch` für manuelle Läufe.
-- Python installieren, `fetch_headlines.py` ausführen, bei Änderungen committen (`[skip ci]` nicht verwenden, damit Pages deployt).
+- Python installieren, `fetch_headlines.py` ausführen, bei Änderungen committen (Daten bleiben versioniert, `http_cache.json`/`status.json` überleben so zwischen Läufen).
+- Danach ruft `fetch.yml` `deploy.yml` auf: `npm run build` + `wrangler pages deploy dist` (Direct Upload, keine Git-Integration → zählt nicht gegen das Pages-Build-Limit). `deploy.yml` läuft außerdem bei jedem Code-Push.
+- Secrets: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` (ohne sie wird nur gebaut). Pages-Projektname: `diurna`.
 - Hinweis: GitHub-Cron kann sich 5–30 Min. verspäten – akzeptabel.
-- Später optional: statt Commit direkt per `wrangler pages deploy` hochladen (vermeidet Commit-Flut). Für den MVP reicht Commit.
 
 ---
 

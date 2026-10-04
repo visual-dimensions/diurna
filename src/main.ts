@@ -165,9 +165,11 @@ function updateStatus() {
   const shown = cities.reduce((n, c) => n + c.media.length, 0);
   const withHeadline = cities.reduce((n, c) => n + c.media.filter((m) => m.headline).length, 0);
   const updated = data.generatedAt ? `<span class="statusline__stand"> · Updated ${clockTime(data.generatedAt)}</span>` : '';
-  app.querySelector('.statusline')!.innerHTML = activeFilterCount(filters)
-    ? `${shown} of ${total} outlets shown · ${withHeadline} with a current headline`
-    : `${total} outlets · ${withHeadline} with a current headline${updated}`;
+  const about = ` · <a class="statusline__about" href="/about/">About</a>`;
+  app.querySelector('.statusline')!.innerHTML =
+    (activeFilterCount(filters)
+      ? `${shown} of ${total} outlets shown · ${withHeadline} with a current headline`
+      : `${total} outlets · ${withHeadline} with a current headline${updated}`) + about;
 }
 
 function applyFilters() {
