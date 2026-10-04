@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-04T20:27:47Z",
+ "generated_at": "2026-10-04T21:35:10Z",
  "items": {
   "derstandard": {
    "title": "Babler weicht Anfang 2027 zurück, Marterbauer wird Vizekanzler",
    "url": "https://www.derstandard.at/story/3000000342573/spoe-entscheidet-ueber-weiteren-weg?ref=rss",
    "published": "2026-10-04T07:16:32Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:14:57Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T20:50:42Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "diepresse": {
    "title": "Montenegros EU-Beitritt in Gefahr: Kroatien fordert im Streit um jugoslawisches Militärvermögen Milliarden",
@@ -15,39 +15,39 @@
    "published": "2026-10-04T17:51:43Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:58:18Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "kronenzeitung": {
    "title": "Partei im Umbruch - Babler tritt 2027 ab: Das ist die neue SPÖ-Spitze",
    "url": "https://www.krone.at/4319997",
-   "published": "2026-10-04T20:24:54Z",
+   "published": "2026-10-04T21:23:40Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:24:54Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:28:37Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "kurier": {
-   "title": "Wütender Schlager nach 1:1 im Kosovo: „Mit Fußball hat das wenig am Hut“",
-   "url": "https://kurier.at/sport/fussball/rangnick-oefb-kosovo-oesterreich-nations-league/403195913",
-   "published": "2026-10-04T18:52:14Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:52:14Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Bablers Beharrlichkeit sorgt für verworrene Zustände in der SPÖ",
+   "url": "https://kurier.at/politik/inland/andreas-babler-spoe-markus-marterbauer-philip-kucher-eva-maria-holzleitner/403195916",
+   "published": "2026-10-04T20:56:23Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:56:23Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "kleinezeitung": {
-   "title": "Last-Minute-Ausgleich zu wenig! VSV verliert in Overtime gegen Wien",
-   "url": "https://www.kleinezeitung.at/artikel/41323260/jetzt-im-liveticker-der-vsv-empfaengt-die-vienna-capitals",
-   "published": "2026-10-04T20:13:46Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:13:46Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Wanderer in Tirol bei Unfall tödlich verunglückt",
+   "url": "https://www.kleinezeitung.at/artikel/41324373/wanderer-in-tirol-bei-unfall-toedlich-verunglueckt",
+   "published": "2026-10-04T21:01:05Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:01:05Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "salzburgernachrichten": {
    "title": "Alte Saline Bad Reichenhall: Ein Familienerlebnis zwischen Geschichte und Technik",
    "url": "https://www.sn.at/anzeige/alte-saline-bad-reichenhall-ein-familienerlebnis-zwischen-geschichte-und-technik-art-676232",
    "published": null,
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:16:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:02:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "oberosterreichischenachrichten": {
    "title": "Nationalisten führen bei Wahlen in Bosnien-Herzegowina",
@@ -55,7 +55,7 @@
    "published": "2026-10-04T19:56:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:56:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "tirolertageszeitung": {
    "title": "Babler muss in Etappen gehen, Marterbauer ab Jahreswechsel Vizekanzler",
@@ -63,39 +63,39 @@
    "published": "2026-10-04T20:01:16Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T20:01:16Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "suddeutschezeitung": {
-   "title": "Manöver “Dispersed Operations“: Kampfjets starten zu Übungszwecken vom Flughafen Nürnberg",
-   "url": "https://www.sueddeutsche.de/bayern/bayern-nuernberg-flughafen-kampfjets-uebung-li.3558306",
-   "published": "2026-10-04T15:44:31Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T15:44:31Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Deutschland in der Einzelkritik: Derry Scherhant arbeitet an seinem Aufstieg",
+   "url": "https://www.sueddeutsche.de/sport/nations-league-deutschland-griechenland-einzelkritik-li.3558326",
+   "published": "2026-10-04T21:31:02Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:31:02Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "frankfurterallgemeinezeitung": {
    "title": "Bildungsfabrik: Ein Jahresgehalt, um sich auf eine Prüfung vorzubereiten",
    "url": "https://www.faz.net/aktuell/politik/ausland/kota-lernen-bis-zur-erschoepfung-in-indiens-coachinghauptstadt-201230877.html",
    "published": "2026-10-04T20:20:30Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:20:30Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:20:24Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "diewelt": {
-   "title": "„Dann greifen andere zu“ – Innenminister Redmann lässt Deutschlandflaggen dauerhaft hissen",
-   "url": "https://www.welt.de/politik/deutschland/article6ac2ac5c219d17d68d771f5e/brandenburg-dann-greifen-andere-zu-innenminister-redmann-laesst-deutschlandflaggen-dauerhaft-hissen.html",
-   "published": "2026-10-04T20:15:33Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:15:33Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Klopps holpriger Start bringt auch Gewinner hervor",
+   "url": "https://www.welt.de/sport/fussball/article6ac2b1a7219d17d68d771f9c/nationalelf-klopps-holpriger-start-bringt-auch-gewinner-hervor.html",
+   "published": "2026-10-04T21:30:42Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:30:42Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "bild": {
-   "title": "Sogar bei der Hymne - Heftige Pfiffe gegen deutsche Stars!",
-   "url": "https://www.bild.de/sport/fussball/heftige-pfiffe-gegen-deutschland-und-die-dfb-stars-in-griechenland-6ac2aad51ed6e1fa12a472db",
+   "title": "„Wie es uns geht, ist scheißegal“ - Ex-Bundesliga-Star mit deftiger Wutrede",
+   "url": "https://www.bild.de/sport/fussball/bundesliga-ehemaliger-star-mit-deftiger-wutrede-nach-remis-in-der-nations-league-6ac2b2af2433def12e72cea1",
    "published": null,
-   "first_seen": "2026-10-04T20:27:47Z",
-   "feed_updated": "2026-10-04T20:38:57Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:48:56Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "taz": {
    "title": "Windexpertin kritisiert Reiches Reform: „Der erfolgreiche Windenergieausbau wird bestraft“",
@@ -103,15 +103,15 @@
    "published": "2026-10-04T18:14:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T18:21:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "dertagesspiegel": {
-   "title": "Heftige Regenfälle in Spanien: Zwei Tote in der Nähe von Barcelona – eine Person vermisst",
-   "url": "https://www.tagesspiegel.de/gesellschaft/panorama/heftige-regenfalle-in-spanien-zwei-tote-in-der-nahe-von-barcelona--eine-person-vermisst-16124184.html",
-   "published": "2026-10-04T20:13:02Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:13:02Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Nations League: Portugal siegt ohne Ronaldo, Niederlande schlagen Serben",
+   "url": "https://www.tagesspiegel.de/sport/dpa-nations-league-portugal-siegt-ohne-ronaldo-niederlande-schlagen-serben-16124206.html",
+   "published": "2026-10-04T20:59:41Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:27:25Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "handelsblatt": {
    "title": "Deep Read: Wie SAP trotz KI-Rückstand wieder gewinnen will",
@@ -119,7 +119,7 @@
    "published": "2026-10-04T16:39:36Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T16:39:36Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "derspiegel": {
    "title": "Deutschland – Griechenland im Liveticker: DFB-Team hofft in der Nations League auf Sieg in Thessaloniki",
@@ -127,47 +127,47 @@
    "published": "2026-10-04T18:35:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:30:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "diezeit": {
-   "title": "»Tatort« Ludwigshafen: Nichts ist nicht ganz richtig",
-   "url": "https://www.zeit.de/feuilleton/film/2026-10/tatort-ludwigshafen-ard-explosive-mischung-andreas-hoppe",
-   "published": "2026-10-04T20:01:30Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:01:30Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Nations League, 4. Spieltag: Deutschland spielt unentschieden gegen Griechenland",
+   "url": "https://www.zeit.de/sport/2026-10/nations-league-deutschland-griechenland-viertes-spiel",
+   "published": "2026-10-04T21:29:51Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:29:51Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "kolnerstadtanzeiger": {
-   "title": "Ulrike Folkerts als Lena Odenthal: Wann hört die dienstälteste „Tatort“-Ermittlerin auf?",
-   "url": "https://www.ksta.de/panorama/promis/ulrike-folkerts-als-lena-odenthal-wann-hoert-die-dienstaelteste-tatort-ermittlerin-auf-1388582",
-   "published": "2026-10-04T20:00:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:00:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Notfall über Deutschland: A380 von Emirates bricht plötzlich Flug ab – Notlandung",
+   "url": "https://www.ksta.de/panorama/notfall-ueber-deutschland-a380-von-emirates-bricht-flug-ab-notlandung-4-1387084",
+   "published": "2026-10-04T21:00:21Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:00:21Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "neuezurcherzeitung": {
    "title": "Die endlose Suche nach einer bezahlbaren Wohnung nährt einen neuen Klassenkampf",
    "url": "https://www.nzz.ch/international/in-der-endlosen-suche-nach-einer-bezahlbaren-wohnung-naehrt-sich-ein-neuer-klassenkampf-ld.10026323",
    "published": "2026-10-04T03:30:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T14:55:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T20:51:38Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "tagesanzeiger": {
    "title": "Moncler-Modeschau in Bergdorf: «Was bitteschön hat eine Luxusmarke mit Guarda zu tun?»",
    "url": "https://www.tagesanzeiger.ch/moncler-modeschau-in-guarda-so-reagiert-das-buendner-dorf-623572021732",
    "published": "2026-10-04T19:46:49Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:23:42Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T20:56:48Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "blick": {
-   "title": "Journalistin erinnert sich an Interview mit Christa Pike",
-   "url": "https://www.blick.ch/ausland/christa-pike-journalistin-erinnert-sich-an-interview/ryz2jph",
-   "published": "2026-10-04T19:52:46Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:52:46Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "DFB-Legende sieht bei Klopp-Team ein grosses Manko",
+   "url": "https://www.blick.ch/sport/fussball/nations-league/nations-league-deutschland-spielt-gegen-griechenland-remis/kxte4jc",
+   "published": "2026-10-04T20:54:22Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:54:22Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "letemps": {
    "title": "Dans les rangs de l'UDC, Marcel Dettling et Sylvain Freymond renoncent à la succession de Guy Parmelin au Conseil fédéral",
@@ -175,23 +175,23 @@
    "published": "2026-10-04T20:06:07Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T20:06:07Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "theguardian": {
    "title": "A cargo ship, 20 crew, and a huge stash of cocaine: the seafarer imprisoned for smuggling – on no evidence",
    "url": "https://www.theguardian.com/business/2026/oct/04/a-cargo-ship-20-crew-and-a-huge-stash-of-cocaine-the-seafarer-imprisoned-for-smuggling-on-no-evidence",
    "published": "2026-10-04T11:00:26Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:13:48Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:17:19Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "thetimes": {
-   "title": "Taxi union demands payoffs over driverless cars due to job loss fears",
-   "url": "https://www.thetimes.com/uk/transport/article/taxi-union-payoffs-driverless-cars-x7vhqwwn8",
-   "published": "2026-10-04T20:20:12Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:20:12Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Social media users face passport checks to enforce under-16 ban",
+   "url": "https://www.thetimes.com/uk/politics/article/social-media-ban-driving-licences-passports-credit-g7mzrxz8j",
+   "published": "2026-10-04T21:30:54Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:30:54Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "thetelegraph": {
    "title": "Jibulu emerges as England World Cup bolter in Sale defeat of Saracens",
@@ -199,31 +199,31 @@
    "published": "2026-10-04T19:07:17Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:07:17Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "financialtimes": {
    "title": "Schneider Electric nears deal to buy software group PTC for $20bn",
    "url": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
-   "published": "2026-10-04T19:33:33Z",
+   "published": "2026-10-04T21:11:58Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:33:33Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:11:58Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "dailymail": {
-   "title": "Russian PLAGUE alert: Hundreds of people and three hospitals put into quarantine amid fatal outbreak as Putin accused of 'cover-up'",
-   "url": "https://www.dailymail.com/news/article-16182289/Russian-hospitals-hundreds-people-quarantine-amid-fatal-pneumonic-plague-outbreak-government-accused-cover-up.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "published": "2026-10-04T20:21:26Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:21:26Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Hairy Biker Si King finds happiness with 'very special lady' after the heartbreak of losing his best friend Dave Myers",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16182307/Hairy-Biker-Si-King-finds-happiness-special-lady-heartbreak-losing-best-friend-Dave-Myers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-10-04T21:29:07Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:29:07Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "theindependent": {
-   "title": "Adrian Meronk holds nerve to win Alfred Dunhill Links Championship",
-   "url": "https://www.independent.co.uk/sport/golf/adrian-meronk-alfred-dunhill-links-championship-b3061176.html",
-   "published": "2026-10-04T20:16:32Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:16:32Z",
-   "fetched_at": "2026-10-04T20:26:39Z"
+   "title": "Ireland v Israel LIVE: Ireland held to draw as controversial Nations League fixture played behind closed doors",
+   "url": "https://www.independent.co.uk/sport/football/ireland-israel-live-score-result-nations-league-boycott-b3060507.html",
+   "published": "2026-10-04T21:30:05Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:30:05Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "thescotsman": {
    "title": "'Hurt' Celtic have the final laugh as they respond to Rangers mauling to claim Tennent's Sixes title",
@@ -231,55 +231,55 @@
    "published": "2026-10-04T19:42:36Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:42:36Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "belfasttelegraph": {
-   "title": "‘The result will lift our confidence’: Peter Hutton says Institute have now set the bar after Newington rout",
-   "url": "https://www.belfasttelegraph.co.uk/sport/football/irish-league/the-result-will-lift-our-confidence-peter-hutton-says-institute-have-now-set-the-bar-after-newington-rout/a/162569543.html",
-   "published": "2026-10-04T20:00:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:00:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Migrants arrive in Gosport as protesters gather at scene",
+   "url": "https://www.belfasttelegraph.co.uk/news/uk/migrants-arrive-in-gosport-as-protesters-gather-at-scene/a/162576780.html",
+   "published": "2026-10-04T21:26:22Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:26:22Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "manchestereveningnews": {
-   "title": "Firefighters tackling house blaze in Oldham involving sauna",
-   "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/firefighters-tackling-house-blaze-oldham-34715707",
-   "published": "2026-10-04T20:05:43Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:05:43Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Green Party leader Zack Polanski barred from entering Israel",
+   "url": "https://www.manchestereveningnews.co.uk/news/uk-news/green-party-leader-zack-polanski-34715835",
+   "published": "2026-10-04T21:05:44Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:05:44Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "theirishtimes": {
-   "title": "Ireland v Israel live updates: Troy Parrott penalty gives Ireland lead but Israel equalise early in second half",
-   "url": "https://www.irishtimes.com/sport/soccer/2026/10/04/ireland-v-israel-live-updates-uefa-approves-israel-request-to-wear-black-armbands-in-memory-of-october-7/",
-   "published": "2026-10-04T20:24:27Z",
-   "first_seen": "2026-10-04T20:27:47Z",
-   "feed_updated": "2026-10-04T20:24:27Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Austria pull off another late show to stay top of Group B3",
+   "url": "https://www.irishtimes.com/sport/2026/10/04/austria-pull-off-another-late-show-to-stay-top-of-group-b3/",
+   "published": "2026-10-04T21:28:44Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:28:44Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "irishindependent": {
-   "title": "Garrymore back in first Mayo decider since 1982 while old rivals are best once again in Roscommon",
-   "url": "https://www.independent.ie/sport/gaa/gaelic-football/garrymore-back-in-first-mayo-decider-since-1982-while-old-rivals-are-best-once-again-in-roscommon/a/162574510.html",
-   "published": "2026-10-04T20:05:43Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:05:43Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Ferns St. Aidan's finish off Castletown's JAFC hopes with late scoring flourish",
+   "url": "https://www.independent.ie/county/wexford/ferns-st.-aidans-finish-off-castletowns-jafc-hopes-with-late-scoring-flourish/a/162575770.html",
+   "published": "2026-10-04T21:30:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:30:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "irishexaminer": {
    "title": "Budget 2027: Proposed childcare package could save some parents €1,000 a year",
    "url": "https://www.irishexaminer.com/news/politics/arid-41919670.html",
    "published": "2026-10-04T19:29:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:11:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:28:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "lemonde": {
-   "title": "EN DIRECT, débat de la primaire à gauche : les cinq candidats sont interrogés sur la question des retraites",
+   "title": "EN DIRECT, débat de la primaire à gauche : Emmanuel Maurel défend l’idée de « grand emprunt citoyen », Olivier Faure favorable à la taxe Zucman",
    "url": "https://www.lemonde.fr/politique/live/2026/10/04/en-direct-debat-de-la-primaire-a-gauche-suivez-la-derniere-confrontation-entre-olivier-faure-raphael-glucksmann-segolene-royal-jerome-guedj-et-emmanuel-maurel-avant-le-premier-tour_6788319_823448.html",
    "published": "2026-10-04T16:43:33Z",
-   "first_seen": "2026-10-04T20:26:39Z",
+   "first_seen": "2026-10-04T21:35:10Z",
    "feed_updated": "2026-10-04T19:03:33Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "lefigaro": {
    "title": "« Les clientes viennent y chercher de vrais vêtements » : chez Hermès, Celine et Loewe, le savoir-faire au service des femmes",
@@ -287,23 +287,23 @@
    "published": "2026-10-04T19:53:22Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:53:22Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "liberation": {
-   "title": "EN DIRECT – Troisième débat de la primaire de la gauche : Royal dénonce le «hold-up» sur le PS de Glucksmann",
+   "title": "EN DIRECT – Troisième débat de la primaire de la gauche : sur la fiscalité, les candidats dénoncent les «cadeaux» de Macron",
    "url": "https://www.liberation.fr/politique/elections/en-direct-presidentielle-2027-suivez-le-troisieme-debat-de-la-primaire-de-la-gauche-20261004_PZQMC734CFCOVDA5336QE7LLME/",
-   "published": "2026-10-04T20:21:05Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:21:05Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "published": "2026-10-04T21:25:31Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:25:31Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "leparisien": {
-   "title": "« J’assume complètement » : Glucksmann s’explique et s’excuse après ses propos polémiques contre Royal, Mélenchon et Le Pen",
-   "url": "https://www.leparisien.fr/politique/jassume-completement-glucksmann-sexplique-et-sexcuse-apres-ses-propos-polemiques-contre-royal-melenchon-et-le-pen-04-10-2026-XTAQAVUWARERVDLEYWWV6TSRUM.php",
+   "title": "Présidentielle au Brésil : le vote est désormais clos, les résultats du scrutin, qui oppose Lula à Bolsonaro, attendus",
+   "url": "https://www.leparisien.fr/international/presidentielle-au-bresil-le-vote-est-desormais-clos-les-resultats-du-scrutin-qui-oppose-lula-a-bolsonaro-attendus-04-10-2026-4DNQ2NCKHBD3TEAB6IP7OH7VWI.php",
    "published": null,
-   "first_seen": "2026-10-04T20:26:39Z",
+   "first_seen": "2026-10-04T21:35:10Z",
    "feed_updated": null,
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "ouestfrance": {
    "title": "Blocage des lycées : Sébastien Lecornu veut répondre à la colère, les manifestations du 6 octobre dans tous les esprits",
@@ -311,7 +311,7 @@
    "published": "2026-10-04T18:08:57Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T18:08:57Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "sudouest": {
    "title": "Blocage des lycées : la famille de l’adolescent éborgné à Tours a porté plainte pour « violences par personne dépositaire de l’autorité publique »",
@@ -319,23 +319,23 @@
    "published": "2026-10-04T19:08:59Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:08:59Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "ladepechedumidi": {
-   "title": "DIRECT. Primaire de la gauche : \"Je pense pas qu'on ait été au niveau\", l'aveu d'impuissance de Raphaël Glucksmann face à une électrice",
+   "title": "DIRECT. Primaire de la gauche : \"Un discours sirupeux\"... le tacle de Jérôme Guedj à Ségolène Royal au sujet de sa position sur l'Ukraine",
    "url": "https://www.ladepeche.fr/2026/10/04/direct-primaire-de-la-gauche-apres-la-divulgation-denregistrements-de-raphael-glucksmann-le-troisieme-et-dernier-debat-sannonce-explosif-suivez-notre-13583443.php",
-   "published": "2026-10-04T20:20:58Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:20:58Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "published": "2026-10-04T21:27:11Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:27:11Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "leprogres": {
    "title": "Rhône. Snapchat, Instagram et Bourse du travail : comment les lycéens s’organisent pour les manifestations et les blocages ?",
    "url": "https://www.leprogres.fr/education/2026/10/04/snapchat-instagram-et-bourse-du-travail-comment-les-lyceens-s-organisent-pour-les-manifestations-et-les-blocages",
    "published": "2026-10-04T17:00:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:44:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:00:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "monacomatin": {
    "title": "La victoire de l’AS Monaco Volley contre Bordeaux pose la première pierre d’un projet ambitieux",
@@ -343,111 +343,111 @@
    "published": "2026-10-04T15:35:02Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T15:35:02Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "elpais": {
    "title": "Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso",
    "url": "https://elpais.com/espana/2026-10-04/todo-listo-en-el-psoe-y-el-gobierno-para-un-adelanto-electoral-tras-la-derrota-de-los-decretos-en-el-congreso.html",
    "published": "2026-10-04T19:22:32Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:24:08Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:20:44Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "elmundo": {
-   "title": "Alejandro Talavante sufre una cornada y triunfa en el festival de cierre de la temporada de Sevilla",
-   "url": "https://www.elmundo.es/cultura/toros/2026/10/04/6ac2b013fc6c831b148b459c.html",
-   "published": "2026-10-04T20:08:18Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:08:18Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Flávio Bolsonaro supera a Lula en los primeros resultados de las elecciones en Brasil",
+   "url": "https://www.elmundo.es/internacional/2026/10/04/6ac2b9b0fdddfff8458b458e.html",
+   "published": "2026-10-04T21:27:02Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:27:02Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "abc": {
-   "title": "Borja Jiménez, la estocada de la tarde, el mejor homenaje a Benlliure",
-   "url": "https://www.abc.es/cultura/toros/borja-jimenez-estocada-tarde-mejor-homenaje-benlliure-20261004212246-nt.html",
-   "published": "2026-10-04T19:33:14Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:33:14Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Portugal sabe vivir sin Cristiano",
+   "url": "https://www.abc.es/deportes/futbol/portugal-sabe-vivir-cristiano-20261004225650-nt.html",
+   "published": "2026-10-04T20:59:13Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:59:13Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "eldiarioes": {
    "title": "Moncloa prepara el adelanto electoral y el rescate de los decretos de vivienda que tumbó la derecha",
    "url": "https://www.eldiario.es/politica/moncloa-prepara-adelanto-electoral-rescate-decretos-vivienda-tumbo-derecha_1_13561276.html",
    "published": "2026-10-04T19:36:10Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:36:10Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:24:11Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "lavanguardia": {
    "title": "Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha",
    "url": "https://www.lavanguardia.com/politica/20261004/11650799/sanchez-inclina-adelantar-elecciones-pendiente-fijar-fecha.html",
    "published": "2026-10-04T20:06:45Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:06:45Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T20:38:34Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "elcorreo": {
-   "title": "La marcha contra el cáncer de Miranda superó un año más las expectativas",
-   "url": "https://www.elcorreo.com/miranda/marcha-cancer-miranda-supero-ano-expectativas-20261005222353-nt.html",
-   "published": "2026-10-04T20:23:54Z",
-   "first_seen": "2026-10-04T20:27:47Z",
-   "feed_updated": "2026-10-04T20:23:54Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "En libertad el médico detenido por la muerte de una compañera de trabajo con la que se hospedaba en un hotel de Málaga",
+   "url": "https://www.elcorreo.com/sociedad/libertad-medico-detenido-muerte-companera-trabajo-hospedaba-20261004232351-ntrc.html",
+   "published": "2026-10-04T21:23:52Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:23:52Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "publico": {
-   "title": "Internet quântica: “Neste momento, a Europa está na vanguarda desta tecnologia”",
-   "url": "https://www.publico.pt/2026/10/04/ciencia/entrevista/internet-quantica-neste-momento-europa-vanguarda-tecnologia-2190076",
-   "published": "2026-10-04T19:00:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:00:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Quatro eleitores morrem após passarem mal em locais de votação no Brasil",
+   "url": "https://www.publico.pt/2026/10/04/mundo/noticia/quatro-eleitores-morrem-apos-passarem-mal-locais-votacao-brasil-2190283",
+   "published": "2026-10-04T20:13:59Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:13:59Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "diariodenoticias": {
-   "title": "Votação em Portugal. Lula vence no Porto",
-   "url": "https://dnbrasil.dn.pt/eleicoes-brasil/acompanhe-aqui-a-votao-presidencial-brasileira-em-portugal",
-   "published": "2026-10-04T07:15:45Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:54:50Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Gonçalo Ramos destaca força do grupo após vitória sobre a Noruega",
+   "url": "https://www.dn.pt/desporto/gonalo-ramos-destaca-fora-do-grupo-aps-vitria-sobre-a-noruega",
+   "published": "2026-10-04T21:14:32Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:14:32Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "expresso": {
-   "title": "Como funciona a contagem dos votos nas eleições presidenciais brasileiras",
-   "url": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-04-como-funciona-a-contagem-dos-votos-nas-eleicoes-presidenciais-brasileiras-cdeeeacd",
-   "published": "2026-10-04T20:01:40Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:01:40Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Nuno Rogeiro: “A Ucrânia chora a morte do capitão Marat, que morreu a pilotar. Os homens mais treinados dos ares vão desaparecendo um a um”",
+   "url": "https://expresso.pt/podcasts/guerra-fria/2026-10-04-nuno-rogeiro-a-ucrania-chora-a-morte-do-capitao-marat-que-morreu-a-pilotar.-os-homens-mais-treinados-dos-ares-vao-desaparecendo-um-a-um-9a03a382",
+   "published": "2026-10-04T20:35:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:35:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "diaridandorra": {
    "title": "Els mossos avisen Andorra per un home fugit a la Seu després d’agredir l'exparella",
    "url": "https://www.diariandorra.ad/nacional/261004/els-mossos-avisen-andorra-per-home-fugit-seu-despres-d-agredir-l-exparella_205757.html",
    "published": "2026-10-04T18:09:48Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:38:06Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:04:38Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "corrieredellasera": {
    "title": "Zelensky: «Gli Usa chiedono colloqui trilaterali con Mosca entro fine ottobre». Raid a Kiev durante la visita di Merz, colpito il Ponte Nord",
    "url": "https://www.corriere.it/esteri/diretta-live/26_ottobre_04/guerra-ucraina-russia-le-notizie-in-diretta-attacco-con-i-droni-su-kharkiv-almeno-due-morti.shtml",
    "published": "2026-10-04T19:45:17Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:05:28Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T20:47:12Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "larepubblica": {
-   "title": "Russia, ricercatrice di un istituto anti-peste muore per una polmonite: il timore di un incidente in laboratorio",
-   "url": "https://www.repubblica.it/esteri/2026/10/04/news/russia_ricercatrice_di_un_istituto_anti-peste_muore_per_una_polmonite_il_timore_di_un_incidente_in_laboratorio-425625840/",
-   "published": "2026-10-04T19:17:48Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:17:48Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Elezioni in Brasile, Bolsonaro ora è oltre il 50%. Indietro lo spoglio dove Lula era favorito",
+   "url": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/",
+   "published": "2026-10-04T20:42:14Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:42:14Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "lastampa": {
    "title": "De Giovanni risponde ai lettori: la memoria di ieri costruisce il domani",
    "url": "https://www.lastampa.it/editoriali/lettere-e-idee/2026/10/04/news/de_giovanni_risponde_ai_lettori_se_lo_sguardo_al_futuro_perde_la_memoria_ci_fa_diventare_intolleranti_e_senza_identita-15756452/",
    "published": "2026-10-03T21:00:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:15:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T18:51:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "ilsole24ore": {
    "title": "Mps, Delfin schierata con Intesa Sanpaolo",
@@ -455,7 +455,7 @@
    "published": "2026-10-04T17:52:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T17:52:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "ilmessaggero": {
    "title": "Lula: i cinque figli, il patrimonio inferiore al milione di euro, il carcere e la corsa al quarto mandato",
@@ -463,7 +463,7 @@
    "published": null,
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": null,
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "ilfattoquotidiano": {
    "title": "Mancini cambia ancora l’Italia: “Al talento va concessa fiducia”. Giovani, 4-3-3 e più difesa: contro la Turchia la prova del nove dopo Parigi",
@@ -471,31 +471,31 @@
    "published": "2026-10-04T19:03:48Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:03:48Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "ilmattino": {
-   "title": "Garlasco, i genitori di Chiara Poggi: «Dopo 19 anni ha diritto a riposare in pace. Prenderemo atto se c'è un nuovo colpevole, ma ora è Stasi»",
-   "url": "https://www.ilmattino.it/primopiano/cronaca/garlasco_genitori_chiara_poggi_verissimo_cosa_hanno_detto-9803745.html",
+   "title": "Il Premio Serao a Nadia Terranova: «La sua lezione resta un faro per tutte noi»",
+   "url": "https://www.ilmattino.it/cultura/libri/la_lezione_resta_un_faro_tutte_noi-9803814.html",
    "published": null,
-   "first_seen": "2026-10-04T20:26:39Z",
+   "first_seen": "2026-10-04T21:35:10Z",
    "feed_updated": null,
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "sanmarinortv": {
-   "title": "Inferno nel camping a Peschiera del Garda: 24 feriti, in fiamme decine di bungalow",
-   "url": "https://www.sanmarinortv.sm/news/italia-c7/inferno-nel-camping-a-peschiera-del-garda-24-feriti-in-fiamme-decine-di-bungalow-a296799",
-   "published": "2026-10-04T05:02:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T05:02:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Volley U20, l'Islanda batte 3-2 San Marino e va all'Europeo",
+   "url": "https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/volley-u20-l-islanda-batte-3-2-san-marino-e-va-all-europeo-a296801",
+   "published": "2026-10-04T08:49:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T08:49:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "devolkskrant": {
    "title": "Bestsellerfilosoof: ‘We kunnen straks alles doen dat we willen: een opgeloste wereld, waarin geen problemen meer bestaan’",
    "url": "https://www.volkskrant.nl/tech/bestsellerfilosoof-we-kunnen-straks-alles-doen-dat-we-willen-een-opgeloste-wereld-waarin-geen-problemen-meer-bestaan~b35877c6/",
    "published": "2026-10-01T16:00:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:00:51Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:19:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "nrc": {
    "title": "Don’t put Donald Trump and Kim Jong Un in a room together",
@@ -503,15 +503,15 @@
    "published": "2026-10-04T20:00:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T20:00:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "detelegraaf": {
-   "title": "LIVE Nations League | Invaller Zirkzee zet Nederlands elftal met bevrijdende goal op voorsprong tegen Servië",
-   "url": "https://www.telegraaf.nl/sport/voetbal/live-nations-league-invaller-zirkzee-zet-nederlands-elftal-met-bevrijdende-goal-op-voorsprong-tegen-servie/162558969.html",
-   "published": "2026-10-04T20:13:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:13:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Virgil van Dijk na 100e interland: ’Ik ben emotioneel en dankbaar’",
+   "url": "https://www.telegraaf.nl/sport/voetbal/virgil-van-dijk-na-100e-interland-ik-ben-emotioneel-en-dankbaar/162576567.html",
+   "published": "2026-10-04T21:20:10Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:20:10Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "trouw": {
    "title": "Kyiv onder vuur van drones tijdens bezoek Merz",
@@ -519,71 +519,71 @@
    "published": "2026-10-04T19:02:30Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T20:00:13Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "ad": {
-   "title": "Nauwelijks kansen bij Griekenland-Duitsland, Haaland valt geblesseerd uit in Portugal, Parrott weer trefzeker",
-   "url": "https://www.ad.nl/voetbal/nauwelijks-kansen-bij-griekenland-duitsland-haaland-valt-geblesseerd-uit-in-portugal-parrott-weer-trefzeker~a9c14454/",
-   "published": "2026-10-04T20:18:00Z",
-   "first_seen": "2026-10-04T20:27:47Z",
-   "feed_updated": "2026-10-04T20:18:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Virgil van Dijk emotioneel na zijn 100ste interland: ‘In de kleedkamer had ik het best wel moeilijk’",
+   "url": "https://www.ad.nl/voetbal/virgil-van-dijk-emotioneel-na-zijn-100ste-interland-in-de-kleedkamer-had-ik-het-best-wel-moeilijk~a941cf4b/",
+   "published": "2026-10-04T21:21:51Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:21:51Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "lalibrebelgique": {
-   "title": "Le gouvernement bruxellois a trouvé un accord sur le budget régional, annonce Dirk De Smedt",
-   "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/04/le-gouvernement-bruxellois-a-trouve-un-accord-sur-le-budget-regional-annonce-dirk-de-smedt-QHEDRQKIMVDETOICLA6JIW2FA4/",
-   "published": "2026-10-04T19:59:36Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:59:36Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "L’austérité sans les barricades",
+   "url": "https://www.lalibre.be/debats/edito/2026/10/04/lausterite-sans-les-barricades-4YEBPWNOWJHIDKFRV3KNTA4NZA/",
+   "published": "2026-10-04T21:00:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:00:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "destandaard": {
-   "title": "‘Gouden generatie’ van België maakt reputatie waar en wint Motorcross der Naties: “Dit is voor de geschiedenisboeken”",
-   "url": "https://www.standaard.be/sport/gouden-generatie-van-belgie-maakt-reputatie-waar-en-wint-motorcross-der-naties-dit-is-voor-de-geschiedenisboeken/162574230.html",
-   "published": "2026-10-04T20:12:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:12:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Water over besparingen blijft heel diep, maar De Wever houdt regering bijeen",
+   "url": "https://www.standaard.be/politiek/water-over-besparingen-blijft-heel-diep-maar-de-wever-houdt-regering-bijeen/162571390.html",
+   "published": "2026-10-04T20:32:38Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:32:38Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "hetlaatstenieuws": {
-   "title": "Kernkabinet zonder akkoord uiteen: “Iedereen verschilde hard maar beschaafd van mening”",
-   "url": "https://www.hln.be/binnenland/kernkabinet-zonder-akkoord-uiteen-iedereen-verschilde-hard-maar-beschaafd-van-mening~a9cb0fe2/",
-   "published": "2026-10-04T19:57:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:57:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Maandag nog even genieten van de zon met temperaturen tot 20 graden. Donderdag gaan we dan écht naar de herfst",
+   "url": "https://www.hln.be/weernieuws/weerbericht~ac484c3e/",
+   "published": "2026-10-04T21:01:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:01:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "luxemburgerwort": {
-   "title": "Dylan Pereira kehrt an den Ort seines schlimmsten Umfalls zurück und gewinnt",
-   "url": "https://www.wort.lu/sport/dylan-pereira-kehrt-an-den-ort-seines-schlimmsten-umfalls-zurueck-und-gewinnt/8414287.html",
+   "title": "Dylan Pereira kehrt an den Ort seines schlimmsten Unfalls zurück und gewinnt",
+   "url": "https://www.wort.lu/sport/dylan-pereira-kehrt-an-den-ort-seines-schlimmsten-unfalls-zurueck-und-gewinnt/8414287.html",
    "published": "2026-10-04T18:40:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
+   "first_seen": "2026-10-04T21:35:10Z",
    "feed_updated": "2026-10-04T18:40:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "politiken": {
-   "title": "Hun siger, at sådan noget gør hun ikke, hun er »jo jyde«, men det er ikke desto mindre præcis, hvad hun gør",
-   "url": "https://politiken.dk/kultur/boger/art11000145/Hun-siger-at-s%C3%A5dan-noget-g%C3%B8r-hun-ikke-hun-er-%C2%BBjo-jyde%C2%AB-men-det-er-ikke-desto-mindre-pr%C3%A6cis-hvad-hun-g%C3%B8r",
-   "published": "2026-10-04T19:10:22Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:10:22Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Karakterbogen: Det var jernmændenes aften i Cardiff, da alvoren pludselig meldte sig",
+   "url": "https://politiken.dk/sport/fodbold/art11001368/Det-var-jernm%C3%A6ndenes-aften-i-Cardiff-da-alvoren-pludselig-meldte-sig",
+   "published": "2026-10-04T21:30:39Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:30:39Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "berlingske": {
-   "title": "Det nye portræt af Kongen er mislykket og en undergravning af kongehuset",
-   "url": "https://www.berlingske.dk/kommentatorer/det-nye-portraet-af-kongen-er-mislykket-og-en-undergravning-af-kongehuset?referrer=RSS",
-   "published": "2026-10-04T19:58:27Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:58:27Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Bolsonaro tager tidlig føring i brasiliansk præsidentvalg",
+   "url": "https://www.berlingske.dk/internationalt/bolsonaro-tager-tidlig-foering-i-brasiliansk-praesidentvalg?referrer=RSS",
+   "published": "2026-10-04T21:27:44Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:27:44Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "jyllandsposten": {
    "title": "Pludselig talte Mette Frederiksen om en navngiven borger: »Jamen, det tror jeg slet ikke, at de får noget ordentligt ud af«",
    "url": "https://jyllands-posten.dk/politik/ECE19681305/millionaeren-martin-faar-mere-ud-af-momsplanen-end-pensionisten-erna-det-er-aandssvagt/",
    "published": "2026-10-04T17:00:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:00:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T20:54:53Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "dagensnyheter": {
    "title": "Thand Ringqvist: Röda linjerna bleknar inte",
@@ -591,7 +591,7 @@
    "published": "2026-10-04T20:04:50Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T20:04:50Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "svenskadagbladet": {
    "title": "Kronan tappar – flera riskfaktorer i sikte",
@@ -599,7 +599,7 @@
    "published": "2026-10-04T19:57:35Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:57:35Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "aftonbladet": {
    "title": "Iran: Ingen militär lösning på konflikten",
@@ -607,7 +607,7 @@
    "published": "2026-10-04T20:13:21Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T20:13:21Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "goteborgsposten": {
    "title": "Kulturkalaset: Konservativa kvinnor som ångrat sig",
@@ -615,63 +615,63 @@
    "published": "2026-10-03T04:00:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-03T04:00:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "sydsvenskan": {
-   "title": "C: Partierna möts på fredag",
-   "url": "https://www.sydsvenskan.se/sverige/oppositionen-mots-pa-fredag/",
-   "published": "2026-10-04T20:13:04Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:13:04Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Portugal besegrade Norge efter dubbla drömmål",
+   "url": "https://www.sydsvenskan.se/sport/portugal-besegrade-norge-efter-dubbla-drommal/",
+   "published": "2026-10-04T21:19:47Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:25:50Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "aftenposten": {
-   "title": "Politiet fjernet demonstranter – så kom de tilbake",
-   "url": "https://www.aftenposten.no/norge/i/w3P9mn/politiet-fjernet-demonstranter-saa-kom-de-tilbake?utm_medium=rss",
-   "published": "2026-10-04T18:22:27Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:22:27Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "USA fjerner alle bombefly fra flybase i Storbritannia",
+   "url": "https://www.aftenposten.no/verden/i/yl39AK/usa-fjerner-alle-bombefly-fra-flybase-i-storbritannia?utm_medium=rss",
+   "published": "2026-10-04T21:01:02Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:01:02Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "vg": {
-   "title": "Putin-vennlig bosnisk-serbisk separatist erklærer valgseier i Bosnia",
-   "url": "https://www.vg.no/nyheter/i/1onr4Q/putin-vennlig-bosnisk-serbisk-separatist-erklaerer-valgseier-i-bosnia",
-   "published": "2026-10-04T20:18:52Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:18:52Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Her forlater Haaland stadion etter Portugal-tapet",
+   "url": "https://www.vg.no/sport/i/ElWBVA/her-forlater-haaland-stadion-etter-portugal-tapet",
+   "published": "2026-10-04T21:32:49Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:32:49Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "dagbladet": {
-   "title": "Byttet ut: - Kjedelig",
-   "url": "https://live.dagbladet.no/fotball/2026-10-04/1/events/2738944",
+   "title": "SE NÅ: Møter pressen",
+   "url": "https://www.dagbladet.no/video/live/XNvW14GI",
    "published": null,
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:34:27Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:41:50Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "bergenstidende": {
-   "title": "Løpetrener om apparatkupping: – Du trener effektivt på andres bekostning",
-   "url": "https://www.bt.no/sprek/i/n9aM7n/loepetrener-om-apparatkupping-du-trener-effektivt-paa-andres-bekostning?utm_medium=rss",
-   "published": "2026-10-04T19:42:12Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:42:12Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Ville avlyse: – Ikke forsvarlig",
+   "url": "https://www.bt.no/sport/ballspark/i/mKRvb1/ville-avlyse-ikke-forsvarlig?utm_medium=rss",
+   "published": "2026-10-04T20:44:42Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:44:42Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "helsinginsanomat": {
-   "title": "Israel | Joukko juutalaisia saa kansakunnan vihat niskaansa",
+   "title": "Israel | ”On pysyttävä ihmisenä”, sanoo mies, jota liki koko Israel halveksii",
    "url": "https://www.hs.fi/maailma/art-2000012307437.html",
    "published": "2026-10-04T18:00:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:00:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:53:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "iltasanomat": {
-   "title": "Trump julisti sodan hyttysiä vastaan",
-   "url": "https://www.is.fi/ulkomaat/art-2000012320032.html",
-   "published": "2026-10-04T19:52:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:52:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Kohu-Portugali pelasi ilman lätkimään lähtenyttä Cristiano Ronaldoa – sekasorto repesi",
+   "url": "https://www.is.fi/jalkapallo/art-2000012320045.html",
+   "published": "2026-10-04T20:44:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:44:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "hufvudstadsbladet": {
    "title": "Så har Ukraina trappat upp drönarkriget mot Ryssland",
@@ -679,7 +679,7 @@
    "published": "2026-10-04T18:00:51Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T18:00:51Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "aamulehti": {
    "title": "Myrskypuuskia ja sadetta – meteorologi kertoo, millaista säätä Pirkanmaalle on luvassa",
@@ -687,23 +687,23 @@
    "published": "2026-10-04T18:49:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T18:49:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "morgunbladid": {
-   "title": "Meirihlutinn sprunginn í Suðurnesjabæ",
-   "url": "https://www.mbl.is/frettir/innlent/2026/10/04/meirihlutinn_sprunginn_i_sudurnesjabae/",
-   "published": "2026-10-04T18:48:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:15:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Trúnaðarbrestur ástæða samstarfsslita",
+   "url": "https://www.mbl.is/frettir/innlent/2026/10/04/trunadarbrestur_astaeda_samstarfsslita/",
+   "published": "2026-10-04T21:24:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:24:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "postimees": {
-   "title": "Eesti rallimehed lihvisid Dakariks vormi: kindlasti olime alguses roostes",
-   "url": "https://pmo.ee/8557974",
-   "published": "2026-10-04T19:59:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:59:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Nelja lapse ema kaotas saamata jäänud toetuse tõttu une ja meelerahu",
+   "url": "https://pmo.ee/8557146",
+   "published": "2026-10-04T21:01:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:01:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "diena": {
    "title": "Kulbergs uzsver, ka Apvienotais saraksts neveidos koalīciju ar Šleseru un LPV",
@@ -711,15 +711,15 @@
    "published": "2026-10-04T18:34:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T18:34:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "lietuvosrytas": {
-   "title": "Prieš akistatą su „Žalgiriu“ – „Barcelona“ kluptelėjimas Ispanijoje",
-   "url": "http://www.lrytas.lt/sportas/krepsinis/2026/10/04/news/pries-akistata-su-zalgiriu-barcelona-kluptelejimas-ispanijoje-44324158/",
-   "published": "2026-10-04T19:38:54Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:38:54Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Palmiros horoskopas pirmadieniui, spalio 5 d.",
+   "url": "http://www.lrytas.lt/gyvenimo-budas/horoskopai/2026/10/05/news/palmiros-horoskopas-pirmadieniui-spalio-5-d--44260285/",
+   "published": "2026-10-04T21:01:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:01:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "gazetawyborcza": {
    "title": "Nike 2026. \"Ta opowieść była nam potrzebna\". Laudacja przewodniczącego jury",
@@ -727,15 +727,15 @@
    "published": "2026-10-04T20:00:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T20:00:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "rzeczpospolita": {
-   "title": "„Null\" Szczepana Twardocha z Nagrodą Literacką „Nike” 2026",
-   "url": "https://www.rp.pl/literatura/art45248461-null-szczepana-twardocha-z-nagroda-literacka-nike-2026",
-   "published": "2026-10-04T20:07:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:07:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Przeżyła dwa śmiertelne zastrzyki. Nowe informacje o stanie Christy Pike",
+   "url": "https://www.rp.pl/przestepczosc/art45247881-przezyla-dwa-smiertelne-zastrzyki-nowe-informacje-o-stanie-christy-pike",
+   "published": "2026-10-04T20:55:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:55:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "fakt": {
    "title": "Dramatyczne wieści z Łęcznej. Podpalony przez żołnierza WOT Jakub nie żyje",
@@ -743,7 +743,7 @@
    "published": "2026-10-03T07:12:49Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T20:24:51Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "dziennikpolski": {
    "title": "Tak kiedyś wyglądała codzienność uczniów i uczennic! Zobacz archiwalne szkolne zdjęcia z XX wieku",
@@ -751,15 +751,15 @@
    "published": "2026-10-04T10:11:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T10:11:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "mladafrontadnes": {
-   "title": "Lula, či Bolsonaro? Brazílie volí prezidenta i parlament",
-   "url": "https://www.idnes.cz/zpravy/zahranicni/brazilie-prezidentske-volby-voli-parlament-dnes-nerozhodne.A261004_085832_zahranicni_ikul#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main",
-   "published": "2026-10-04T20:18:07Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:18:07Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Portugalsko vítězí dál i bez Ronalda. Němci opět ztratili, v Lize národů slaví Nizozemci",
+   "url": "https://www.idnes.cz/fotbal/reprezentace/liga-narodu-portugalsko-ronaldo-norsko-vysledky.A261004_230004_fot_reprez_hava#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main",
+   "published": "2026-10-04T21:00:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:00:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "hospodarskenoviny": {
    "title": "Volby v Česku, nebo motorka v Maroku? Otázka, na kterou zatím Petr Pavel odpovídá ke své škodě úplně špatně",
@@ -767,7 +767,7 @@
    "published": "2026-10-04T13:18:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T13:18:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "denikn": {
    "title": "Útoky na mosty mají rozdělit Kyjev. Rusko přitvrdilo už před zimou, vyzývá cizince k útěku",
@@ -775,23 +775,23 @@
    "published": "2026-10-04T18:50:15Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T18:50:15Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "lidovenoviny": {
-   "title": "Lula, či Bolsonaro? Brazílie volí prezidenta i parlament",
-   "url": "https://www.idnes.cz/zpravy/zahranicni/brazilie-prezidentske-volby-voli-parlament-dnes-nerozhodne.A261004_085832_zahranicni_ikul#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main",
-   "published": "2026-10-04T20:18:07Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:18:07Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Portugalsko vítězí dál i bez Ronalda. Němci opět ztratili, v Lize národů slaví Nizozemci",
+   "url": "https://www.idnes.cz/fotbal/reprezentace/liga-narodu-portugalsko-ronaldo-norsko-vysledky.A261004_230004_fot_reprez_hava#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main",
+   "published": "2026-10-04T21:00:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:00:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "sme": {
-   "title": "Pri útoku na vozidlá s potravinovou pomocou OSN v Sudáne zahynul vodič",
-   "url": "https://www.sme.sk/svet/c/pri-utoku-na-vozidla-s-potravinovou-pomocou-osn-v-sudane-zahynul-vodic?utm_source=rss&utm_medium=feed&utm_campaign=www-rss",
-   "published": "2026-10-04T19:12:24Z",
-   "first_seen": "2026-10-04T20:27:47Z",
-   "feed_updated": "2026-10-04T19:12:24Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Ranný brífing: Vláda nastavila deficit vysoko, bezpečnostná rada rieši rok starú správu",
+   "url": "https://www.sme.sk/domov/c/ranny-brifing-vlada-nastavila-deficit-vysoko-bezpecnostna-rada-riesi-rok-staru-spravu?utm_source=rss&utm_medium=feed&utm_campaign=www-rss",
+   "published": "2026-10-04T21:15:03Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:15:03Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "dennikn": {
    "title": "F1 v „Bahrajzii“: nezvyčajný koncept aj pripomienka problémov súčasnej formuly",
@@ -799,15 +799,15 @@
    "published": "2026-10-04T18:09:34Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T18:09:34Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "pravda": {
-   "title": "Filipínci chceli zastaviť loď podozrivú z lovu dynamitom. Čína sa im postavila do cesty, prenasledovanie vzdali",
-   "url": "https://www.pravda.sk/spravy/svet/clanok/2052639-filipiny-armada-lod-rybari-dynamit-cina?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-   "published": "2026-10-04T19:13:57Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:13:57Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Tragédia na poľovačke: strelec zabil dvoch ľudí, ďalšieho ťažko zranil",
+   "url": "https://www.pravda.sk/spravy/svet/clanok/2052671-tragedia-na-polovacke-strelec-zabil-dvoch-ludi-dalsieho-tazko-zranil?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+   "published": "2026-10-04T21:18:17Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:18:17Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "nepszava": {
    "title": "„Milyen jó, hogy nekem semmi bajom sincsen” – Eddig 840 millió forint jött össze az eddigi legmegindítóbb és legnagyobb magyar közakadozásban Micskó Benjáminért",
@@ -815,7 +815,7 @@
    "published": "2026-10-04T19:50:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:50:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "magyarnemzet": {
    "title": "Durván kiakadt Magyar Péter a sajtóra a Facebookon, hazugsággal vádolja a norvég közmédiát is",
@@ -823,7 +823,7 @@
    "published": "2026-10-04T18:10:29Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T18:10:29Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "telex": {
    "title": "Ez a köd még Skóciában is durvának számít",
@@ -839,103 +839,103 @@
    "published": "2026-10-04T19:49:36Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:49:36Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "delo": {
-   "title": "Ameriške smrtne kazni pod drobnogledom",
-   "url": "https://www.delo.si/novice/svet/ameriske-smrtne-kazni-pod-drobnogledom",
-   "published": "2026-10-04T20:24:47Z",
-   "first_seen": "2026-10-04T20:27:47Z",
-   "feed_updated": "2026-10-04T20:24:47Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Portugalci brez Ronalda do nove zmage, še ena ničla Srbov",
+   "url": "https://www.delo.si/sport/nogomet/portugalci-brez-ronalda-do-nove-zmage-nova-nicla-srbov",
+   "published": "2026-10-04T21:31:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:31:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "vecer": {
    "title": "Prvi izidi volitev v BiH: Bećirović in Cvijanović pred novo zmago, Dodikov SNSD ohranja moč",
    "url": "https://vecer.com/svet/volitve-bih-becirovic-cvijanovic-filipovic-dodik-snsd-10429291",
-   "published": null,
+   "published": "2026-10-04T21:28:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:23:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:28:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "jutarnjilist": {
-   "title": "Vučić ljubi staru ženu dok je odvodi Hitna, hvali se snimkom, mreže eksplodirale: ‘Uskrisuje mrtve, liječi slijepe...‘",
-   "url": "https://www.jutarnji.hr/vijesti/svijet/vucicev-poljubac-na-skupu-izazvao-val-satire-i-kritika-15752652",
-   "published": "2026-10-04T20:17:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:17:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Sindikat ZET-a se žestokom objavom oglasio o štrajku: ‘Ovo je istina koju vam prešućuju...‘",
+   "url": "https://www.jutarnji.hr/vijesti/zagreb/sindikati-zeta-odgovaraju-na-hajku-traze-posteniju-placu-i-sigurniji-zet-15752656",
+   "published": "2026-10-04T20:41:06Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:41:06Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "vecernjilist": {
    "title": "UŽIVO Novo Predsjedništvo BiH na vidiku: Cvijanović za Srbe, Bećirović za Bošnjake, Filipović za Hrvate",
    "url": "https://www.vecernji.hr/vijesti/zatvorena-vecina-glasackih-mjesta-u-bih-cekaju-se-rezultati-2001232",
-   "published": "2026-10-04T20:16:00Z",
+   "published": "2026-10-04T21:30:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:16:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T21:30:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "slobodnadalmacija": {
-   "title": "HDZ-ova Darijana Filipović ulazi u Predsjedništvo BiH, Komšić održao razočarani govor, javio se i Plenković",
-   "url": "https://slobodnadalmacija.hr/vijesti/regija/live-izbori-u-bih-hoce-li-hrvatima-opet-drugi-birati-clana-predsjednistva-1582500",
-   "published": "2026-10-04T20:16:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:16:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Strašna tragedija, svi su u potpunom šoku: Mladi sudac (22) srušio se usred utakmice i preminuo u bolnici!",
+   "url": "https://slobodnadalmacija.hr/sport/ostalo/velika-tragedija-u-susjedstvu-svi-su-u-potpunom-soku-mladi-sudac-22-srusio-se-usred-utakmice-i-preminuo-u-bolnici-1582568",
+   "published": "2026-10-04T21:30:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:30:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "oslobodjenje": {
-   "title": "Koalicija 'Pod lupom' zabilježila više od 100 težih izbornih nepravilnosti",
-   "url": "https://www.oslobodjenje.ba/vijesti/bih/koalicija-pod-lupom-zabiljezila-vise-od-100-tezih-izbornih-nepravilnosti/",
-   "published": "2026-10-04T20:23:09Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:23:09Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Golman koji se povezivao sa Željezničarom i Borcem izabrao novi klub",
+   "url": "https://www.oslobodjenje.ba/sport/fudbal/ino-fudbal/golman-koji-se-povezivao-sa-zeljeznicarom-i-borcem-izabrao-novi-klub/",
+   "published": "2026-10-04T21:34:03Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:34:03Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "dnevniavaz": {
-   "title": "Efendić nakon izbora: SBiH računa na nekoliko državnih mandata i bliža je opoziciji nego Trojci",
-   "url": "https://avaz.ba/vijesti/bih/1077571/efendic-nakon-izbora-sbih-racuna-na-nekoliko-drzavnih-mandata-i-bliza-je-opoziciji-nego-trojci",
+   "title": "Ovo je top pet stranaka u Federalnom parlamentu: SDA ima više glasova nego SDP i HDZ-ova koalicija zajedno",
+   "url": "https://avaz.ba/vijesti/bih/1077590/ovo-je-top-pet-stranaka-u-federalnom-parlamentu-sda-ima-vise-glasova-nego-sdp-i-hdz-ova-koalicija-zajedno",
    "published": null,
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:41:01Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:49:38Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "politika": {
-   "title": "Дмитријев: Ратни хушкач Мерц жели да Немци престану да буду лењи и више раде - за Кијев",
-   "url": "https://www.politika.rs/scc/clanak/790799/dmitrijev-ratni-huskac-merc-zeli-da-nemci-prestanu-da-budu-lenji-i-vise-rade-za-kijev",
-   "published": "2026-10-04T20:19:00Z",
-   "first_seen": "2026-10-04T20:27:47Z",
-   "feed_updated": "2026-10-04T20:19:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Флавио Болсонаро освојио више од 50 одсто",
+   "url": "https://www.politika.rs/scc/clanak/790809/flavio-bolsonaro-osvojio-vise-od-50-odsto",
+   "published": "2026-10-04T21:28:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:28:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "danas": {
-   "title": "Čović zahvalio Bošnjacima što nisu preglasali kandidatkinju HDZ-a za hrvatskog člana Predsedništva",
-   "url": "https://www.danas.rs/svet/region/covic-zahvalio-bosnjacima-sto-nisu-preglasali-kandidatkinju-hdz-a-za-hrvatskog-clana-predsednistva/",
-   "published": "2026-10-04T20:19:37Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:19:37Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Kad i gde možete da gledate polufinale Pekinga Novak Đoković – Danil Medvedev?",
+   "url": "https://www.danas.rs/sport/novak-djokovic-danil-medvedev-uzivo-prenos-termin-livestream/",
+   "published": "2026-10-04T21:27:12Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:27:12Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "blic": {
-   "title": "PRVI PRELIMINARNI REZULTATI IZBORA U BIH I REPUBLICI SRPSKOJ Haos zbog elektronskog glasanja, Dodik proglasio pobedu, Stanivuković glasao sa bakom (FOTO, VIDEO)",
-   "url": "https://www.blic.rs/vesti/politika/izbori-u-bih-i-republici-srpskoj-uzivo-prvi-rezultati-dodik-proglasio-pobedu/p9n9vde",
-   "published": "2026-10-04T20:25:42Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:25:42Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "\"PAS JE UGINUO, NIJE JEO NAKON NJEGOVE SMRTI\" Komšije Halida Bešlića otkrile potresne detalje i otvorile dušu o njegovim poslednjim danima: \"Nestao je za mesec dana\"",
+   "url": "https://www.blic.rs/sudbine/komsije-halida-beslica-otkrile-potresne-detalje-pas-je-uginuo-nije-jeo/rtxdwnp",
+   "published": "2026-10-04T21:29:49Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:29:49Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "vijesti": {
-   "title": "KUD \"Njegoš\" uz \"Zauvijek moja\" nastupio u Koreji",
-   "url": "https://www.vijesti.me/zabava/zanimljivo/829839/kud-njegos-uz-zauvijek-moja-nastupio-u-koreji",
-   "published": "2026-10-04T19:52:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:52:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Tužan dan za crnogorsku košarku - preminuo mladi sudija",
+   "url": "https://www.vijesti.me/sport/kosarka/829845/tuzan-dan-za-crnogorsku-kosarku-preminuo-mladi-sudija",
+   "published": "2026-10-04T21:26:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:26:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "kohaditore": {
-   "title": "Mot me diell gjatë javës së ardhshme në Kosovë",
-   "url": "https://www.koha.net/arberi/mot-me-diell-gjate-javes-se-ardhshme-ne-kosove",
-   "published": "2026-10-04T20:22:38Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:22:38Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Robotë të prodhuar në vend shërbejnë në një restorant të Pakistanit",
+   "url": "https://www.koha.net/tech/robote-te-prodhuar-ne-vend-sherbejne-ne-nje-restorant-te-pakistanit",
+   "published": "2026-10-04T21:35:02Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:35:02Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "novamakedonija": {
    "title": "Денеска се регистрирани вкупно 46 пожари на отворено",
@@ -943,31 +943,31 @@
    "published": "2026-10-04T18:38:43Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T18:38:43Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "kathimerini": {
-   "title": "Κρίστα Πάικ: Παραμένει σε κρίσιμη κατάσταση μετά την διπλή απόπειρα εκτέλεσής της",
-   "url": "https://www.kathimerini.gr/world/564500467/krista-paik-paramenei-se-krisimi-katastasi-meta-tin-dipli-apopeira-ektelesis-tis/",
-   "published": "2026-10-04T20:15:22Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:15:22Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 5 Οκτωβρίου",
+   "url": "https://www.kathimerini.gr/eortologio/564479146/eortologio-poioi-giortazoyn-simera-5-oktovrioy/",
+   "published": "2026-10-04T21:00:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:00:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "tanea": {
-   "title": "Αίγυπτος: Έπιασε στον αέρα 4χρονο παιδί που έπεφτε από τον δεύτερο όροφο – Συγκλονιστικό βίντεο",
-   "url": "https://www.tanea.gr/2026/10/04/world/aigyptos-epiase-ston-aera-4xrono-paidi-pou-epefte-apo-ton-deytero-orofo-sygklonistiko-vinteo/",
-   "published": "2026-10-04T20:17:18Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:17:18Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Nations League: «Μοιράζεται» τη κορυφή του ομίλου με την Ολλανδία η Εθνική όντας αήττητη – Η βαθμολογία",
+   "url": "https://www.tanea.gr/2026/10/05/sports/football/nations-league-moirazetai-ti-koryfi-tou-omilou-me-tin-ollandia-i-ethniki-ontas-aittiti-i-vathmologia/",
+   "published": "2026-10-04T21:14:08Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:14:08Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "tovima": {
-   "title": "Wall Street: Τεστ αντοχής με ομόλογα, ενδιάμεσες εκλογές και οικονομικά αποτελέσματα",
-   "url": "https://www.tovima.gr/2026/10/04/finance/wall-street-test-antoxis-me-omologa-endiameses-ekloges-kai-oikonomika-apotelesmata/",
-   "published": "2026-10-04T20:07:41Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:07:41Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Ελλάδα – Γερμανία 0-0: Παρέμεινε αήττητη και ονειρεύεται οκτάδα η Εθνική",
+   "url": "https://www.tovima.gr/2026/10/04/sports/ellada-germania-0-0-paremeine-aittiti-kai-stin-koryfi-i-ethniki/",
+   "published": "2026-10-04T20:41:18Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:41:18Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "phileleftheros": {
    "title": "Νέα δεδομένα για τον θάνατο του Γιώργου Μαζωνάκη – Τι έδειξαν οι πρώτες τοξικολογικές εξετάσεις",
@@ -975,7 +975,7 @@
    "published": "2026-10-04T19:33:09Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:33:09Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "cyprusmail": {
    "title": "Djokovic rallies past Zverev in thriller to reach China Open semi-finals",
@@ -983,7 +983,7 @@
    "published": "2026-10-04T15:39:06Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T15:39:06Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "dnevnik": {
    "title": "Додик обяви пълна победа на партията си на изборите в Босна",
@@ -994,36 +994,36 @@
    "fetched_at": "2026-10-04T20:26:39Z"
   },
   "24chasa": {
-   "title": "Приятелката на Илиян Филипов видяла убиеца, който чакал във входа с маска и пръст на спусъка",
-   "url": "https://www.24chasa.bg/bulgaria/article/23674726",
-   "published": "2026-10-04T20:00:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:00:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Китайци ще спасяват Maserati",
+   "url": "https://www.24chasa.bg/biznes/article/23672183",
+   "published": "2026-10-04T21:09:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:09:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "adevarul": {
-   "title": "Canadienii confirmă existența unui scenariu „de risc extrem”: război asimetric declanșat de o ipotetică invazie militară americană",
-   "url": "https://adevarul.ro/blogurile-adevarul/canadienii-confirma-existenta-unui-scenariu-de-2561757.html",
-   "published": "2026-10-04T19:44:38Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:44:38Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "De ce mor românii de inimă de 2,5 ori mai mult decât alți europeni? Semnalele de alarmă care salvează vieți",
+   "url": "https://adevarul.ro/stiri-interne/sanatate/de-ce-mor-romanii-de-inima-de-25-ori-mai-mult-2561705.html",
+   "published": "2026-10-04T21:22:25Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:22:25Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "libertatea": {
-   "title": "Adio vacanțe lungi și rigide. Cum se schimbă modul în care vom călători în 2027, potrivit unui nou studiu",
-   "url": "https://www.libertatea.ro/lifestyle/tendinte-turism-2027-studiu-raport-hilton-cum-vom-calatori-anul-viitor-c0ggzle",
-   "published": "2026-10-04T19:12:42Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:14:12Z",
-   "fetched_at": "2026-10-04T20:26:39Z"
+   "title": "CE Oltenia a scos la vânzare energie cu livrare în 2027, dar n-a venit nimeni să cumpere",
+   "url": "https://www.libertatea.ro/stiri/ce-oltenia-esec-licitatii-opcom-energie-2027-preturi-r48tq8r",
+   "published": "2026-10-04T20:18:42Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:55:32Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "gandul": {
-   "title": "România a importat mai multă energie decât a produs. Aproape 3.400 MW, sâmbătă seară. Sistemul energetic se apropie de limite",
-   "url": "https://www.gandul.ro/actualitate/romania-import-record-energie-electrica-limite-2026-21025345",
-   "published": "2026-10-04T20:07:11Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:07:11Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "O epavă americană, încărcată cu muniție din al Doilea Război Mondial, este o bombă cu ceas pentru Londra. Ce pagube ar putea cauza",
+   "url": "https://www.gandul.ro/international/ss-richard-montgomery-epava-bomba-ceas-londra-tamisa-21025367",
+   "published": "2026-10-04T21:07:49Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:07:49Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "ziaruldegarda": {
    "title": "LIVE TEXT/ Germania anunță ajutor de 1,3 miliarde de euro pentru Ucraina, inclusiv drone interceptoare. Război în Ucraina, ziua 1684",
@@ -1031,31 +1031,31 @@
    "published": "2026-10-04T15:00:36Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T15:00:36Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "ukrainskapravda": {
-   "title": "Росіяни влучили в будинок у Харкові: загинула людина, є поранені",
+   "title": "Росіяни атакували Харків: загинула людина, 6 дістали поранень",
    "url": "https://www.pravda.com.ua/news/2026/10/04/8056465/",
-   "published": "2026-10-04T20:25:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:25:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "published": "2026-10-04T20:56:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:56:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "thekyivindependent": {
-   "title": "Ukraine's deep strikes have wrecked over half of Russia's oil refining capacity, Defense Ministry says",
-   "url": "https://kyivindependent.com/ukraines-deep-strikes-have-wrecked-over-half-of-russias-oil-refining-capacity-defense-ministry-says/",
-   "published": "2026-10-04T19:46:58Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:46:58Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "US proposes trilateral talks with Russia, Ukraine by end of October, Zelensky says",
+   "url": "https://kyivindependent.com/us-proposes-trilateral-talks-with-russia-ukraine-by-end-of-october-zelensky-says/",
+   "published": "2026-10-04T20:58:12Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T20:58:12Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "dzerkalotyzhnia": {
-   "title": "Франція закриє до 500 ліцеїв через протести учнів",
-   "url": "https://zn.ua/ukr/europe/frantsija-zakrije-do-500-litsejiv-cherez-protesti-uchniv.html",
-   "published": "2026-10-04T20:05:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:05:00Z",
-   "fetched_at": "2026-10-04T20:26:39Z"
+   "title": "ООН зафіксувала понад 15 тисяч загиблих і поранених цивільних в Україні за вісім місяців",
+   "url": "https://zn.ua/ukr/war/oon-zafiksuvala-ponad-15-tisjach-zahiblikh-i-poranenikh-tsivilnikh-v-ukrajini-za-visim-misjatsiv.html",
+   "published": "2026-10-04T21:14:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:14:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "vysokyizamok": {
    "title": "Франція відмовляється від кондиціонерів попри спеку",
@@ -1063,15 +1063,15 @@
    "published": "2026-07-01T07:34:33Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-07-01T07:34:33Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "hurriyet": {
    "title": "Adana ve Osmaniye'deki depremlerin ardından uzman isimden çarpıcı uyarı: Arka arkaya gelmesi bizi tedirgin etti",
    "url": "https://www.hurriyet.com.tr/gundem/adana-ve-osmaniyedeki-depremlerin-ardindan-uzman-isimden-carpici-uyari-43329259",
    "published": "2026-10-04T12:07:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:26:59Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "feed_updated": "2026-10-04T20:19:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "sabah": {
    "title": "Milli Teknoloji Hamlesi yer altının potansiyeliyle buluştu: Türk Altın'a TEKNOFEST'te yoğun ilgi!",
@@ -1079,31 +1079,31 @@
    "published": "2026-10-04T15:55:08Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T17:12:34Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "sozcu": {
-   "title": "İbrahim Hacıosmanoğlu sessizliğini bozdu! ‘Türk futbolunun 30 yıllık pisliğini üzerime yıkamazsınız’",
-   "url": "https://www.sozcu.com.tr/ibrahim-haciosmanoglu-sessizligini-bozdu-turk-futbolunun-30-yillik-pisligini-uzerime-yikamazsiniz-p366120",
-   "published": "2026-10-04T20:12:03Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:12:03Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Montella'yı çıldırtan soru! '3.Lig'den oyuncu almamı istediler'",
+   "url": "https://www.sozcu.com.tr/montella-yi-cildirtan-soru-3-lig-den-oyuncu-almami-istediler-p366114",
+   "published": "2026-10-04T21:32:17Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:32:17Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "cumhuriyet": {
-   "title": "Ozan Kabak takım arkadaşlarına güveniyor: 'Düştüğümüz yerden birlikte kalkacağız'",
-   "url": "https://www.cumhuriyet.com.tr/spor/ozan-kabak-takim-arkadaslarina-guveniyor-dustugumuz-yerden-birlikte-kalkacagiz-2543688",
-   "published": "2026-10-04T20:23:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:23:00Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Portekiz Uluslar Ligi'nde 4'te 4 yaptı!",
+   "url": "https://www.cumhuriyet.com.tr/spor/portekiz-uluslar-ligi-nde-4-te-4-yapti-2543711",
+   "published": "2026-10-04T21:23:00Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:23:00Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "kommersant": {
-   "title": "«Школу обороны» впишут в закон // ДОСААФ получит новые задачи, старое имущество и усиленный госконтроль",
-   "url": "https://www.kommersant.ru/doc/9005987",
-   "published": "2026-10-04T17:47:18Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T17:47:18Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "title": "Банка от легенды // Александр Овечкин запускает свой бренд пива OVI",
+   "url": "https://www.kommersant.ru/doc/9005985",
+   "published": "2026-10-04T21:09:27Z",
+   "first_seen": "2026-10-04T21:35:10Z",
+   "feed_updated": "2026-10-04T21:09:27Z",
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "meduza": {
    "title": "В Уфе после жалобы провластных активистов закрасили мурал с Земфирой на фасаде дома, где она жила в детстве",
@@ -1111,7 +1111,7 @@
    "published": "2026-10-04T17:31:05Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T17:31:05Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   },
   "novayagazetaeurope": {
    "title": "Бывшего бойца сепаратистского батальона Моторолы задержали по делу об убийстве двух женщин в Москве",
@@ -1119,7 +1119,7 @@
    "published": "2026-10-04T15:41:11Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T15:41:11Z",
-   "fetched_at": "2026-10-04T20:27:47Z"
+   "fetched_at": "2026-10-04T21:35:10Z"
   }
  }
 }
