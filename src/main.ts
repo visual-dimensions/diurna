@@ -7,19 +7,26 @@ import './styles/app.css';
 
 import maplibregl, { type GeoJSONSource, type MapLayerMouseEvent } from 'maplibre-gl';
 import { activeFilterCount, defaultFilters, filterCities, type Filters } from './data/filter';
-import { groupByCity, loadData, type City, type Dataset } from './data/load';
-import { addMarkerLayers, citiesToGeoJSON, HIT_LAYERS, pulseFresh, updateMarkers } from './globe/markers';
+import { groupByCity, loadData, type City, type Dataset, type Medium } from './data/load';
+import { Ambient } from './globe/ambient';
+import { INTRO_START, introWanted, playIntro } from './globe/intro';
+import { addMarkerLayers, citiesToGeoJSON, HIT_LAYERS, pulse, updateMarkers } from './globe/markers';
 import { globeStyle, NIGHT_BANDS, upgradeGeometry } from './globe/style';
 import { nightBands, sunLightPosition } from './globe/terminator';
 import { FilterControl } from './ui/filters';
 import { clockTime } from './ui/format';
+import { LiveBar } from './ui/livebar';
 import { ListView } from './ui/listview';
 import { CityPanel, snapHeight } from './ui/panel';
 import { Search, type SearchResult } from './ui/search';
 
 const REFRESH_MS = 5 * 60_000;
 const initialHash = decodeURIComponent(location.hash);
-const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+const reducedMotion =
+  window.matchMedia('(prefers-reduced-motion: reduce)').matches ||
+  // Dev only: test the reduced-motion paths without changing the OS setting.
+  (import.meta.env.DEV && new URLSearchParams(location.search).has('reduced-motion'));
+if (reducedMotion) document.documentElement.dataset.reducedMotion = 'true';
 const narrowQuery = window.matchMedia('(max-width: 767px)');
 
 type View = 'globe' | 'list';
@@ -34,6 +41,11 @@ app.innerHTML = `
   <header class="topbar">
     <h1 class="wordmark">Diurna</h1>
     <div class="topbar__tools"></div>
+    <div class="topbar__right">
+    <button type="button" class="icon-button ambient-toggle" aria-pressed="false">
+      <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M12 3.5l1.6 4.9 4.9 1.6-4.9 1.6L12 16.5l-1.6-4.9L5.5 10l4.9-1.6zM18.5 15l.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8z" fill="currentColor"/></svg>
+      <span class="ambient-toggle__label">Ambient</span>
+    </button>
     <div class="viewtoggle" role="group" aria-label="View">
       <button type="button" class="viewtoggle__btn" data-view="globe" aria-pressed="true">
         <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M4 12h16M12 4c2.5 2.6 2.5 13.4 0 16M12 4c-2.5 2.6-2.5 13.4 0 16" fill="none" stroke="currentColor" stroke-width="1.2"/></svg>
@@ -44,8 +56,11 @@ app.innerHTML = `
         <span>List</span>
       </button>
     </div>
+    </div>
   </header>
-  <p class="statusline" aria-live="polite"></p>`;
+  <div class="dock">
+    <p class="statusline" aria-live="polite"></p>
+  </div>`;
 
 const search = new Search();
 const filterControl = new FilterControl();
@@ -53,14 +68,19 @@ app.querySelector('.topbar__tools')!.append(search.el, filterControl.el);
 const listView = new ListView();
 app.append(listView.el);
 const panel = new CityPanel(app);
+const liveBar = new LiveBar(reducedMotion);
+app.querySelector('.dock')!.append(liveBar.el);
+const ambientButton = app.querySelector<HTMLButtonElement>('.ambient-toggle')!;
 
 // ---------- Map ----------
+
+const HOME = { center: [15, 49] as [number, number], zoom: narrowQuery.matches ? 1.9 : 2.6 };
+const withIntro = introWanted(reducedMotion, initialHash.length > 1);
 
 const map = new maplibregl.Map({
   container: 'globe',
   style: globeStyle(),
-  center: [15, 49],
-  zoom: narrowQuery.matches ? 1.9 : 2.6,
+  ...(withIntro ? INTRO_START : HOME),
   minZoom: 1,
   maxZoom: 8,
   maxPitch: 0,
@@ -74,6 +94,8 @@ if (import.meta.env.DEV) Object.assign(window, { __map: map });
 map
   .getCanvas()
   .setAttribute('aria-label', 'Globe showing newsrooms across Europe. Use the search, or switch to the list view for every outlet and headline.');
+
+const ambient = new Ambient(map, reducedMotion, () => (narrowQuery.matches ? 1.9 : 2.3));
 
 // ---------- State ----------
 
@@ -114,6 +136,7 @@ function openCity(key: string, mediumId?: string) {
   // From the search, an outlet may be hidden by filters – then show its whole city.
   const city = cityByKey(key) ?? cityByKey(key, allCities);
   if (!city) return;
+  ambient.stop();
   if (view !== 'globe') setView('globe', false);
   panel.open(city, mediumId);
   flyToCity(city);
@@ -125,6 +148,7 @@ function setView(next: View, moveFocus = true) {
   document.body.dataset.view = next;
   app.querySelectorAll<HTMLElement>('.viewtoggle__btn').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.view === next)));
   if (next === 'list') {
+    ambient.stop();
     panel.close();
     listView.show();
     history.replaceState(null, '', '#list');
@@ -155,12 +179,40 @@ function applyFilters() {
   updateStatus();
 }
 
+/** Media whose headline changed since the previous dataset (empty on the first load). */
+function newHeadlines(prev: Dataset | null, next: Dataset): Medium[] {
+  if (!prev) return [];
+  const before = new Map(prev.media.map((m) => [m.id, m.headline?.url]));
+  return next.media.filter((m) => m.headline && before.get(m.id) !== m.headline.url);
+}
+
 function setData(next: Dataset) {
+  const fresh = newHeadlines(data, next);
   data = next;
   allCities = groupByCity([...next.media]);
   search.setData(next.media, allCities);
   filterControl.setOptions(next.media);
   applyFilters();
+  liveBar.setMedia(next.media, fresh.length > 0);
+  ambient.setMedia(next.media);
+  if (fresh.length) {
+    // New headlines "ignite": a pulse at their cities, and they float up first in ambient mode.
+    const keys = new Set(fresh.map((m) => `${m.city}|${m.city_country}`));
+    pulse(map, cities.filter((c) => keys.has(c.key)), reducedMotion);
+    ambient.enqueue(fresh);
+  }
+}
+
+function setAmbient(on: boolean) {
+  if (on) {
+    if (view !== 'globe') setView('globe', false);
+    panel.close();
+    ambient.start();
+  } else {
+    ambient.stop();
+  }
+  document.body.dataset.ambient = String(ambient.active);
+  ambientButton.setAttribute('aria-pressed', String(ambient.active));
 }
 
 function onSearch(r: SearchResult) {
@@ -197,6 +249,15 @@ filterControl.onChange = (f) => {
   applyFilters();
 };
 listView.onShowCity = (key) => openCity(key);
+liveBar.onSelect = (m) => openCity(`${m.city}|${m.city_country}`, m.id);
+ambient.onStop = () => {
+  document.body.dataset.ambient = 'false';
+  ambientButton.setAttribute('aria-pressed', 'false');
+};
+ambientButton.addEventListener('click', () => setAmbient(!ambient.active));
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && ambient.active) ambient.stop();
+});
 panel.onClose = () => {
   if (location.hash.startsWith('#city=')) history.replaceState(null, '', location.pathname);
 };
@@ -225,7 +286,8 @@ map.on('load', async () => {
     return;
   }
   addMarkerLayers(map, citiesToGeoJSON(cities));
-  pulseFresh(map, cities, reducedMotion);
+  if (withIntro) playIntro(map, cities, HOME);
+  else pulse(map, cities, reducedMotion, 1400);
 
   for (const layer of HIT_LAYERS) {
     map.on('click', layer, onMarkerClick);

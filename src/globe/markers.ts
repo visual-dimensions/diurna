@@ -41,6 +41,10 @@ const MINOR_FULL = 3.2;
 const fade = (expr: unknown): ExpressionSpecification =>
   ['interpolate', ['linear'], ['zoom'], MINOR_FROM, ['*', expr, ['case', ['get', 'minor'], 0, 1]], MINOR_FULL, expr] as unknown as ExpressionSpecification;
 
+/** Multiply by feature-state "on" (0..1, default 1) – used by the intro to switch the lights on. */
+const lit = (expr: unknown): ExpressionSpecification =>
+  ['*', expr, ['coalesce', ['feature-state', 'on'], 1]] as unknown as ExpressionSpecification;
+
 export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point, CityProps>) {
   map.addSource(MARKER_SOURCE, { type: 'geojson', data, promoteId: 'key' });
 
@@ -53,7 +57,7 @@ export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point,
     paint: {
       'circle-color': byLevel('#ffb347', '#e3a55a', '#8a6a42', '#000'),
       'circle-radius': zoomed(['+', byLevel(16, 11, 7, 0), ['*', ['min', ['get', 'count'], 6], 1.5]] as ExpressionSpecification),
-      'circle-opacity': fade(byLevel(0.42, 0.24, 0.14, 0)),
+      'circle-opacity': fade(lit(byLevel(0.42, 0.24, 0.14, 0))),
       'circle-blur': 1,
       'circle-pitch-alignment': 'map',
     },
@@ -91,7 +95,7 @@ export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point,
         7, ['case', cluster, byLevel(9.5, 9, 8.5, 0), ['*', 1.5, single]],
       ],
       'circle-blur': ['interpolate', ['linear'], ['zoom'], 3.2, 0.35, 3.6, ['case', cluster, 0.12, 0.35]],
-      'circle-opacity': fade(1),
+      'circle-opacity': fade(lit(1)),
     },
   });
 
@@ -106,7 +110,7 @@ export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point,
       'circle-radius': ['interpolate', ['linear'], ['zoom'], 1.5, 2, 3.4, 2.6, 3.6, ['case', cluster, 6, 2.6], 7, ['case', cluster, 8, 3.5]],
       'circle-stroke-color': '#7b8496',
       'circle-stroke-width': 1,
-      'circle-stroke-opacity': fade(0.8),
+      'circle-stroke-opacity': fade(lit(0.8)),
     },
   });
 
@@ -126,7 +130,7 @@ export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point,
     },
     paint: {
       'text-color': byLevel('#3a2408', '#3a2a12', '#1c1608', '#9aa2b2'),
-      'text-opacity': ['interpolate', ['linear'], ['zoom'], 3.4, 0, 3.7, 1],
+      'text-opacity': ['interpolate', ['linear'], ['zoom'], 3.4, 0, 3.7, lit(1)],
     },
   });
 
@@ -152,30 +156,63 @@ export function updateMarkers(map: MapLibreMap, cities: City[]) {
   (map.getSource(MARKER_SOURCE) as GeoJSONSource | undefined)?.setData(citiesToGeoJSON(cities));
 }
 
-/**
- * One pulse per fresh city, staggered east → west like a sunrise.
- * Skipped entirely with prefers-reduced-motion.
- */
-export function pulseFresh(map: MapLibreMap, cities: City[], reducedMotion: boolean) {
-  if (reducedMotion) return;
-  const fresh = cities.filter((c) => c.level === 3);
-  if (!fresh.length) return;
-  const lons = fresh.map((c) => c.lon);
+const easeOut = (p: number) => 1 - (1 - p) ** 3;
+
+/** Run `step(progress 0..1)` per city, staggered east → west like a sunrise. Returns a cancel function. */
+function sunrise(cities: City[], duration: number, stagger: number, step: (c: City, p: number) => void, done?: () => void): () => void {
+  let cancelled = false;
+  if (!cities.length) {
+    done?.();
+    return () => {};
+  }
+  const lons = cities.map((c) => c.lon);
   const east = Math.max(...lons);
   const span = Math.max(1, east - Math.min(...lons));
-  const DURATION = 1600;
-  const STAGGER = 1400;
   const start = performance.now();
-
   const frame = (t: number) => {
+    if (cancelled) return;
     let running = false;
-    for (const c of fresh) {
-      const local = (t - start - ((east - c.lon) / span) * STAGGER) / DURATION;
-      const p = Math.min(1, Math.max(0, local));
+    for (const c of cities) {
+      const local = (t - start - ((east - c.lon) / span) * stagger) / duration;
       if (local < 1) running = true;
-      if (local >= 0) map.setFeatureState({ source: MARKER_SOURCE, id: c.key }, { pulse: 1 - (1 - p) ** 3 });
+      if (local >= 0) step(c, Math.min(1, local));
     }
     if (running) requestAnimationFrame(frame);
+    else done?.();
   };
   requestAnimationFrame(frame);
+  return () => (cancelled = true);
+}
+
+/** A pulse ring on each given city with a fresh headline. No-op with reduced motion. */
+export function pulse(map: MapLibreMap, cities: City[], reducedMotion: boolean, stagger = 0) {
+  if (reducedMotion) return;
+  sunrise(cities.filter((c) => c.level === 3), 1600, stagger, (c, p) =>
+    map.setFeatureState({ source: MARKER_SOURCE, id: c.key }, { pulse: easeOut(p) }),
+  );
+}
+
+/** Switch all lights off (for the intro). */
+export function lightsOff(map: MapLibreMap, cities: City[]) {
+  for (const c of cities) map.setFeatureState({ source: MARKER_SOURCE, id: c.key }, { on: 0 });
+}
+
+/** Switch the lights on east → west; fresh cities pulse as they light up. Returns a cancel function. */
+export function lightsOn(map: MapLibreMap, cities: City[], stagger: number, onDone?: () => void) {
+  return sunrise(
+    cities,
+    1400,
+    stagger,
+    (c, p) =>
+      map.setFeatureState(
+        { source: MARKER_SOURCE, id: c.key },
+        { on: easeOut(Math.min(1, p * 3)), ...(c.level === 3 ? { pulse: easeOut(p) } : {}) },
+      ),
+    onDone,
+  );
+}
+
+/** Immediately switch every light on (skipped intro). */
+export function lightsOnNow(map: MapLibreMap, cities: City[]) {
+  for (const c of cities) map.setFeatureState({ source: MARKER_SOURCE, id: c.key }, { on: 1, pulse: 1 });
 }

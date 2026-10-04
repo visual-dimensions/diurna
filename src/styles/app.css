@@ -366,15 +366,251 @@
   color: var(--paper);
 }
 
-.statusline {
+.topbar__right {
+  justify-self: end;
+  display: flex;
+  gap: 8px;
+}
+
+.ambient-toggle[aria-pressed='true'] {
+  border-color: rgb(255 179 71 / 0.5);
+  color: var(--glow-fresh);
+}
+
+/* ---------- Bottom dock: status line + live bar ---------- */
+
+.dock {
   position: absolute;
+  z-index: 15;
   left: 20px;
-  bottom: calc(var(--safe-bottom) + 16px);
+  right: 20px;
+  bottom: calc(var(--safe-bottom) + 14px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  pointer-events: none;
+  transition: opacity 400ms;
+}
+
+.dock > * {
+  pointer-events: auto;
+}
+
+.statusline {
   margin: 0;
   font-size: 0.75rem;
   letter-spacing: 0.02em;
   color: var(--muted);
   font-variant-numeric: tabular-nums;
+}
+
+.livebar {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  width: min(640px, 100%);
+  height: 52px;
+  padding: 0 6px 0 16px;
+  border-radius: 999px;
+  background: rgb(13 17 26 / 0.7);
+  border: 1px solid var(--surface-line);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.livebar[hidden] {
+  display: none;
+}
+
+.livebar__live {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-right: 8px;
+  font-size: 0.65rem;
+  font-weight: 650;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent-live);
+}
+
+.livebar__dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent-live);
+  box-shadow: 0 0 8px var(--accent-live);
+  animation: live-breathe 2.4s ease-in-out infinite;
+}
+
+@keyframes live-breathe {
+  50% {
+    opacity: 0.35;
+  }
+}
+
+.livebar__item {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1px;
+  height: 44px;
+  padding: 0 8px;
+  border: 0;
+  border-radius: 12px;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.livebar__item:hover .livebar__headline {
+  text-decoration: underline;
+  text-decoration-color: rgb(255 179 71 / 0.5);
+  text-underline-offset: 3px;
+}
+
+.livebar__item.is-entering {
+  animation: live-in 500ms var(--ease-out);
+}
+
+@keyframes live-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+}
+
+.livebar__where,
+.livebar__headline {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.livebar__where {
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
+.livebar__masthead {
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--paper-2);
+}
+
+.livebar__headline {
+  font-family: var(--font-serif);
+  font-size: 0.98rem;
+  color: var(--paper);
+}
+
+.livebar__controls {
+  flex: none;
+  display: flex;
+}
+
+.livebar__btn {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border: 0;
+  border-radius: 999px;
+  background: none;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.livebar__btn:hover {
+  background: rgb(255 255 255 / 0.06);
+  color: var(--paper);
+}
+
+/* ---------- Ambient mode ---------- */
+
+body[data-ambient='true'] .topbar,
+body[data-ambient='true'] .dock {
+  opacity: 0.18;
+  transition: opacity 600ms;
+}
+
+body[data-ambient='true'] .topbar:hover,
+body[data-ambient='true'] .topbar:focus-within {
+  opacity: 1;
+}
+
+body[data-ambient='true'] .dock {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.ambient-label {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  max-width: 300px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: rgb(10 13 20 / 0.78);
+  border: 1px solid rgb(255 179 71 / 0.22);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 10px 40px rgb(0 0 0 / 0.5), 0 0 30px rgb(255 179 71 / 0.08);
+  pointer-events: none;
+  animation: ambient-in 7s var(--ease-out) both;
+}
+
+.ambient-label::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: -7px;
+  width: 1px;
+  height: 7px;
+  background: rgb(255 179 71 / 0.5);
+}
+
+@keyframes ambient-in {
+  0% {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  10%,
+  86% {
+    opacity: 1;
+    transform: none;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+}
+
+.ambient-label__masthead {
+  font-size: 0.65rem;
+  font-weight: 650;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--glow-fresh);
+}
+
+.ambient-label__headline {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  line-height: 1.25;
+  color: var(--paper);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 /* ---------- List view ---------- */
@@ -462,7 +698,7 @@
   padding: 0;
 }
 
-body[data-view='list'] .statusline {
+body[data-view='list'] .dock {
   display: none;
 }
 
@@ -473,7 +709,7 @@ body[data-view='list'] .statusline {
   top: calc(var(--safe-top) + 80px);
   right: 20px;
   width: 420px;
-  max-height: calc(100% - 120px);
+  max-height: calc(100% - 180px);
   display: flex;
   flex-direction: column;
   background: var(--surface);
@@ -690,12 +926,17 @@ body[data-view='list'] .statusline {
     font-size: 0.9rem;
   }
 
-  .viewtoggle {
+  .topbar__right {
     grid-area: view;
   }
 
+  .ambient-toggle {
+    padding: 0;
+  }
+
   .viewtoggle__btn span,
-  .filters__label {
+  .filters__label,
+  .ambient-toggle__label {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -738,19 +979,29 @@ body[data-view='list'] .statusline {
     gap: 0;
   }
 
-  .statusline {
-    left: 16px;
-    right: 16px;
-    text-align: center;
-    transition: opacity 200ms;
+  .dock {
+    left: 12px;
+    right: 12px;
+    bottom: calc(var(--safe-bottom) + 10px);
   }
 
-  .statusline__stand {
+  .statusline__stand,
+  .livebar [data-step='-1'],
+  .livebar__live {
     display: none;
   }
 
-  body:has(.panel:not([hidden])) .statusline {
+  .livebar {
+    padding-left: 6px;
+  }
+
+  body:has(.panel:not([hidden])) .dock {
     opacity: 0;
+    pointer-events: none;
+  }
+
+  .ambient-label {
+    max-width: 240px;
   }
 
   .panel {
@@ -852,8 +1103,18 @@ body[data-view='list'] .statusline {
 
 @media (prefers-reduced-motion: reduce) {
   .panel,
-  .statusline {
+  .dock,
+  .topbar,
+  .livebar__dot,
+  .livebar__item,
+  .ambient-label {
     animation: none !important;
     transition: none !important;
   }
+}
+
+/* Same, when reduced motion is forced via the dev switch (?reduced-motion). */
+[data-reduced-motion='true'] :is(.panel, .dock, .topbar, .livebar__dot, .livebar__item, .ambient-label) {
+  animation: none !important;
+  transition: none !important;
 }

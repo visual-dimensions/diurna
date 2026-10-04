@@ -226,8 +226,9 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
    - Headline groß in der Serif, mit `lang`-Attribut und `dir="auto"`.
    - Link „Zum Artikel ↗“ und „Zur Startseite“.
    - Bei mehreren Medien: horizontal durchwischen (Mobile) bzw. Liste (Desktop).
-3. **Live-Leiste:** Unten eine schmale, ruhige Leiste mit den zuletzt hereingekommenen Schlagzeilen („Gerade eben in Lissabon: …“). Antippen → Globus fliegt hin. Pausiert bei Hover/Fokus, bei `prefers-reduced-motion` statisch.
+3. **Live-Leiste:** Unten eine schmale, ruhige Leiste mit den zuletzt hereingekommenen Schlagzeilen („Gerade eben in Lissabon: …“). Antippen → Globus fliegt hin. Pausiert bei Hover/Fokus, bei `prefers-reduced-motion` statisch. Eigener Pause-Knopf (WCAG 2.2.2).
 4. **Ambient-Modus (optional, Umschalter):** Globus dreht langsam; neue Schlagzeilen erscheinen kurz als schwebende Label an ihrem Punkt. Gedacht als „Bildschirmschoner der Weltnachrichten“ – das ist der Screenshot-/Demo-Moment.
+   - Umsetzung, solange nur Europa erfasst ist: langsames Pendeln über Europa statt voller Rotation (sonst wäre die meiste Zeit kein Medium sichtbar). Bei weiteren Kontinenten → echte Rotation. Beenden per Escape, Ziehen oder Zoomen.
 5. **Suche & Filter:** schwebende Pill oben; Suche nach Medium, Stadt, Land; Filter Sprache, Land, Tier, „nur mit Headline“.
 6. **Listenansicht:** Umschalter Globus ↔ Liste (Land → Stadt → Medium). Vollständig per Tastatur und Screenreader nutzbar, gleiche Daten.
 
