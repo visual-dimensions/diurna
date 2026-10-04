@@ -1,67 +1,67 @@
 {
  "derstandard": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "diepresse": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "kronenzeitung": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "kurier": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "kleinezeitung": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "salzburgernachrichten": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "oberosterreichischenachrichten": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "tirolertageszeitung": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "vorarlbergernachrichten": {
   "state": "no_feed",
@@ -71,115 +71,115 @@
  },
  "suddeutschezeitung": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "frankfurterallgemeinezeitung": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "diewelt": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "bild": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "taz": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
-  "http": 304,
-  "runs": 3,
-  "successes": 3
+  "http": 200,
+  "runs": 4,
+  "successes": 4
  },
  "dertagesspiegel": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "handelsblatt": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "derspiegel": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "diezeit": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "kolnerstadtanzeiger": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "neuezurcherzeitung": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "tagesanzeiger": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "blick": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "letemps": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
-  "http": 304,
-  "runs": 3,
-  "successes": 3
+  "http": 200,
+  "runs": 4,
+  "successes": 4
  },
  "corrieredelticino": {
   "state": "no_feed",
@@ -195,123 +195,124 @@
  },
  "theguardian": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "thetimes": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "thetelegraph": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 304,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "financialtimes": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "dailymail": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "theindependent": {
   "state": "ok",
   "last_success": "2026-10-04T21:35:10Z",
-  "fail_streak": 0,
-  "http": 200,
-  "runs": 3,
-  "successes": 2
+  "fail_streak": 1,
+  "http": 429,
+  "runs": 4,
+  "successes": 2,
+  "error": "HTTP 429"
  },
  "thescotsman": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "belfasttelegraph": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "manchestereveningnews": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "theirishtimes": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "irishindependent": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "irishexaminer": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "lemonde": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "lefigaro": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "liberation": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "lesechos": {
   "state": "no_feed",
@@ -321,91 +322,91 @@
  },
  "leparisien": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "ouestfrance": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "sudouest": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "ladepechedumidi": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "leprogres": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "monacomatin": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "elpais": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "elmundo": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "abc": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "eldiarioes": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "lavanguardia": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "elperiodico": {
   "state": "no_feed",
@@ -415,35 +416,35 @@
  },
  "elcorreo": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "publico": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "diariodenoticias": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "expresso": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "jornaldenoticias": {
   "state": "no_feed",
@@ -453,67 +454,67 @@
  },
  "diaridandorra": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "corrieredellasera": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "larepubblica": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "lastampa": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "ilsole24ore": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
-  "http": 200,
-  "runs": 3,
-  "successes": 3
+  "http": 304,
+  "runs": 4,
+  "successes": 4
  },
  "ilmessaggero": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "ilfattoquotidiano": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "ilmattino": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "timesofmalta": {
   "state": "no_feed",
@@ -523,51 +524,51 @@
  },
  "sanmarinortv": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "devolkskrant": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "nrc": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "detelegraaf": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "trouw": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "ad": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "lesoir": {
   "state": "no_feed",
@@ -577,412 +578,411 @@
  },
  "lalibrebelgique": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "destandaard": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "hetlaatstenieuws": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "luxemburgerwort": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "politiken": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "berlingske": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "jyllandsposten": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "dagensnyheter": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "svenskadagbladet": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "aftonbladet": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "goteborgsposten": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 304,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "sydsvenskan": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "aftenposten": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "vg": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "dagbladet": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "bergenstidende": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "helsinginsanomat": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "iltasanomat": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "hufvudstadsbladet": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "aamulehti": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "morgunbladid": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "postimees": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "diena": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "lietuvosrytas": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "gazetawyborcza": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
-  "http": 200,
-  "runs": 3,
-  "successes": 3
+  "http": 304,
+  "runs": 4,
+  "successes": 4
  },
  "rzeczpospolita": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "fakt": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "dziennikpolski": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "mladafrontadnes": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "hospodarskenoviny": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "denikn": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "lidovenoviny": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "sme": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 2
+  "runs": 4,
+  "successes": 3
  },
  "dennikn": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "pravda": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "nepszava": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "magyarnemzet": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "telex": {
   "state": "ok",
-  "last_success": "2026-10-04T20:26:39Z",
-  "fail_streak": 2,
-  "http": 403,
-  "runs": 3,
-  "successes": 1,
-  "error": "HTTP 403"
+  "last_success": "2026-10-04T22:31:16Z",
+  "fail_streak": 0,
+  "http": 200,
+  "runs": 4,
+  "successes": 2
  },
  "hvg": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "delo": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
-  "http": 200,
-  "runs": 3,
-  "successes": 3
+  "http": 304,
+  "runs": 4,
+  "successes": 4
  },
  "vecer": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "jutarnjilist": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "vecernjilist": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "slobodnadalmacija": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "oslobodjenje": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "dnevniavaz": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "politika": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "danas": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "blic": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "vijesti": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "kohaditore": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "panorama": {
   "state": "no_feed",
@@ -992,68 +992,68 @@
  },
  "novamakedonija": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 304,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "kathimerini": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
-  "http": 200,
-  "runs": 3,
-  "successes": 3
+  "http": 304,
+  "runs": 4,
+  "successes": 4
  },
  "tanea": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "tovima": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "phileleftheros": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 304,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "cyprusmail": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 304,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "dnevnik": {
-  "state": "ok",
+  "state": "failing",
   "last_success": "2026-10-04T20:26:39Z",
-  "fail_streak": 2,
+  "fail_streak": 3,
   "http": 403,
-  "runs": 3,
+  "runs": 4,
   "successes": 1,
   "error": "HTTP 403"
  },
  "24chasa": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "trud": {
   "state": "no_feed",
@@ -1063,107 +1063,107 @@
  },
  "adevarul": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "libertatea": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 2
+  "runs": 4,
+  "successes": 3
  },
  "gandul": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "ziaruldegarda": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 304,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "ukrainskapravda": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "thekyivindependent": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "dzerkalotyzhnia": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 2
+  "runs": 4,
+  "successes": 3
  },
  "vysokyizamok": {
   "state": "stale",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "hurriyet": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "sabah": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "sozcu": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "cumhuriyet": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "kommersant": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "rossiyskayagazeta": {
   "state": "no_feed",
@@ -1173,19 +1173,19 @@
  },
  "meduza": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 200,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "novayagazetaeurope": {
   "state": "ok",
-  "last_success": "2026-10-04T21:35:10Z",
+  "last_success": "2026-10-04T22:31:16Z",
   "fail_streak": 0,
   "http": 304,
-  "runs": 3,
-  "successes": 3
+  "runs": 4,
+  "successes": 4
  },
  "nashaniva": {
   "state": "no_feed",
