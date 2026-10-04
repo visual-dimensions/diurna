@@ -296,7 +296,10 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
 - Abgrenzung: Wochenzeitungen, Nachrichtenmagazine, reine Online-Medien dabei? (Startliste enthält einzelne, über `type` gekennzeichnet und filterbar.)
 - Exilmedien (z. B. russische/belarussische Redaktionen in Riga oder Vilnius): am Redaktionsort zeigen und kennzeichnen – so in der Startliste vorgesehen.
 - Transkontinentale Länder (Georgien, Armenien, Aserbaidschan) und Russland jenseits Moskaus: später.
-- Vanilla TS oder Svelte fürs Frontend (nach dem Design-Spike entscheiden).
+- ~~Vanilla TS oder Svelte~~ → **Vanilla TypeScript** (entschieden nach dem Design-Spike).
+- ~~Sprache der Website~~ → **Englisch** (UI-Texte, Kennzeichnungen wie „Top story“ / „Latest“). Headlines bleiben in Originalsprache.
+- ~~Stadtnamen~~ → **Landessprache**, wie in der Seed-Liste (Praha, København, Athina).
+- Maschinelle Übersetzung der Headlines in eine wählbare Zielsprache: in Klärung (siehe Chat 2026-10-04).
 
 ---
 
