@@ -1,0 +1,51 @@
+:root {
+  --bg: #07090f;
+  --bg-2: #0b0e14;
+  --land: #141925;
+  --line: rgb(255 255 255 / 0.12);
+  --glow-fresh: #ffb347;
+  --glow-mid: #c9a46a;
+  --paper: #f3ebdd;
+  --muted: #8a93a6;
+  --accent-live: #ff5a4e;
+
+  --font-serif: 'Newsreader', 'Noto Serif', Georgia, serif;
+  --font-sans: 'Inter', 'Noto Sans', system-ui, -apple-system, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background: radial-gradient(ellipse at center, var(--bg-2) 0%, var(--bg) 70%);
+  color: var(--paper);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+#app {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+}
+
+.wordmark {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  margin: 0;
+  padding-left: 0.3em;
+  color: var(--paper);
+}

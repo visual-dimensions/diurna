@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# GeoNames dump (downloaded by build_sources.py, not committed)
+data/geonames/
