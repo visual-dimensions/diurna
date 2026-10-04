@@ -3,21 +3,21 @@ import type { FeatureCollection, Point } from 'geojson';
 import type { City } from '../data/load';
 
 export const MARKER_SOURCE = 'cities';
-export const HIT_LAYER = 'city-hit';
+export const HIT_LAYERS = ['city-hit', 'city-hit-minor'];
 
 interface CityProps {
   key: string;
   level: number;
   count: number;
+  minor: boolean;
 }
 
 export function citiesToGeoJSON(cities: City[]): FeatureCollection<Point, CityProps> {
   return {
     type: 'FeatureCollection',
-    features: cities.map((c, i) => ({
+    features: cities.map((c) => ({
       type: 'Feature',
-      id: i,
-      properties: { key: c.key, level: c.level, count: c.media.length },
+      properties: { key: c.key, level: c.level, count: c.media.length, minor: c.minor },
       geometry: { type: 'Point', coordinates: [c.lon, c.lat] },
     })),
   };
@@ -35,8 +35,14 @@ const cluster = ['>', ['get', 'count'], 1] as unknown as ExpressionSpecification
 /** Core radius of a point; multi-media cities get a little more light. */
 const single = ['+', byLevel(3.0, 2.6, 2.2, 0), ['*', 0.35, ['min', ['-', ['get', 'count'], 1], 4]]] as unknown as ExpressionSpecification;
 
+/** Cities with only regional (tier 3) media fade in between these zoom levels. */
+const MINOR_FROM = 2.6;
+const MINOR_FULL = 3.2;
+const fade = (expr: unknown): ExpressionSpecification =>
+  ['interpolate', ['linear'], ['zoom'], MINOR_FROM, ['*', expr, ['case', ['get', 'minor'], 0, 1]], MINOR_FULL, expr] as unknown as ExpressionSpecification;
+
 export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point, CityProps>) {
-  map.addSource(MARKER_SOURCE, { type: 'geojson', data });
+  map.addSource(MARKER_SOURCE, { type: 'geojson', data, promoteId: 'key' });
 
   // Soft halo – the "light" of the newsroom.
   map.addLayer({
@@ -47,13 +53,13 @@ export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point,
     paint: {
       'circle-color': byLevel('#ffb347', '#e3a55a', '#8a6a42', '#000'),
       'circle-radius': zoomed(['+', byLevel(16, 11, 7, 0), ['*', ['min', ['get', 'count'], 6], 1.5]] as ExpressionSpecification),
-      'circle-opacity': byLevel(0.42, 0.24, 0.14, 0),
+      'circle-opacity': fade(byLevel(0.42, 0.24, 0.14, 0)),
       'circle-blur': 1,
       'circle-pitch-alignment': 'map',
     },
   });
 
-  // One-time pulse ring, driven by feature-state "pulse" (0..1).
+  // Pulse ring, driven by feature-state "pulse" (0..1).
   map.addLayer({
     id: 'city-pulse',
     type: 'circle',
@@ -85,6 +91,7 @@ export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point,
         7, ['case', cluster, byLevel(9.5, 9, 8.5, 0), ['*', 1.5, single]],
       ],
       'circle-blur': ['interpolate', ['linear'], ['zoom'], 3.2, 0.35, 3.6, ['case', cluster, 0.12, 0.35]],
+      'circle-opacity': fade(1),
     },
   });
 
@@ -99,7 +106,7 @@ export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point,
       'circle-radius': ['interpolate', ['linear'], ['zoom'], 1.5, 2, 3.4, 2.6, 3.6, ['case', cluster, 6, 2.6], 7, ['case', cluster, 8, 3.5]],
       'circle-stroke-color': '#7b8496',
       'circle-stroke-width': 1,
-      'circle-stroke-opacity': 0.8,
+      'circle-stroke-opacity': fade(0.8),
     },
   });
 
@@ -123,13 +130,26 @@ export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point,
     },
   });
 
-  // Invisible 44×44 px hit area.
+  // Invisible 44×44 px hit areas; regional-only cities become tappable once they are visible.
   map.addLayer({
-    id: HIT_LAYER,
+    id: HIT_LAYERS[0],
     type: 'circle',
     source: MARKER_SOURCE,
+    filter: ['!', ['get', 'minor']],
     paint: { 'circle-radius': 22, 'circle-opacity': 0 },
   });
+  map.addLayer({
+    id: HIT_LAYERS[1],
+    type: 'circle',
+    source: MARKER_SOURCE,
+    minzoom: MINOR_FULL - 0.2,
+    filter: ['get', 'minor'],
+    paint: { 'circle-radius': 22, 'circle-opacity': 0 },
+  });
+}
+
+export function updateMarkers(map: MapLibreMap, cities: City[]) {
+  (map.getSource(MARKER_SOURCE) as GeoJSONSource | undefined)?.setData(citiesToGeoJSON(cities));
 }
 
 /**
@@ -138,9 +158,9 @@ export function addMarkerLayers(map: MapLibreMap, data: FeatureCollection<Point,
  */
 export function pulseFresh(map: MapLibreMap, cities: City[], reducedMotion: boolean) {
   if (reducedMotion) return;
-  const fresh = cities.map((c, i) => ({ c, i })).filter(({ c }) => c.level === 3);
+  const fresh = cities.filter((c) => c.level === 3);
   if (!fresh.length) return;
-  const lons = fresh.map(({ c }) => c.lon);
+  const lons = fresh.map((c) => c.lon);
   const east = Math.max(...lons);
   const span = Math.max(1, east - Math.min(...lons));
   const DURATION = 1600;
@@ -149,17 +169,13 @@ export function pulseFresh(map: MapLibreMap, cities: City[], reducedMotion: bool
 
   const frame = (t: number) => {
     let running = false;
-    for (const { c, i } of fresh) {
+    for (const c of fresh) {
       const local = (t - start - ((east - c.lon) / span) * STAGGER) / DURATION;
       const p = Math.min(1, Math.max(0, local));
       if (local < 1) running = true;
-      if (local >= 0) map.setFeatureState({ source: MARKER_SOURCE, id: i }, { pulse: 1 - (1 - p) ** 3 });
+      if (local >= 0) map.setFeatureState({ source: MARKER_SOURCE, id: c.key }, { pulse: 1 - (1 - p) ** 3 });
     }
     if (running) requestAnimationFrame(frame);
   };
   requestAnimationFrame(frame);
-}
-
-export function updateMarkers(map: MapLibreMap, data: FeatureCollection<Point, CityProps>) {
-  (map.getSource(MARKER_SOURCE) as GeoJSONSource | undefined)?.setData(data);
 }

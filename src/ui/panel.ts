@@ -1,5 +1,7 @@
-import type { City, Medium } from '../data/load';
-import { countryName, escapeHtml, localTime, relativeAge } from './format';
+import type { City } from '../data/load';
+import { mediumCard } from './card';
+import { trapFocus } from './focus';
+import { countryName, localTime } from './format';
 
 /**
  * City panel. Desktop: floating card on the right. Mobile (< 768 px): bottom
@@ -11,41 +13,11 @@ export type Snap = 'peek' | 'half' | 'full';
 
 const mobileQuery = window.matchMedia('(max-width: 767px)');
 
-function snapHeight(snap: Snap): number {
+export function snapHeight(snap: Snap): number {
   const vh = window.innerHeight;
   if (snap === 'peek') return Math.min(236, vh * 0.42);
   if (snap === 'half') return vh * 0.56;
   return vh - 64;
-}
-
-function mediumCard(m: Medium): string {
-  const name = escapeHtml(m.name);
-  const exile = m.note === 'exile'
-    ? `<p class="card__note">Exilmedium aus ${escapeHtml(countryName(m.country))}</p>`
-    : '';
-  const home = `<a class="card__link card__link--quiet" href="${escapeHtml(m.homepage)}" target="_blank" rel="noopener">Zur Startseite<span class="sr-only"> von ${name}</span></a>`;
-
-  if (!m.headline) {
-    return `<li class="card card--l0">
-      <p class="card__masthead">${name}</p>
-      ${exile}
-      <p class="card__empty">Keine aktuelle Schlagzeile</p>
-      <p class="card__links">${home}</p>
-    </li>`;
-  }
-
-  const kind = m.feed_kind === 'top' ? 'Aufmacher' : 'Neuester Beitrag';
-  const age = m.ageMin !== null ? `<span aria-hidden="true">·</span> <span>${relativeAge(m.ageMin)}</span>` : '';
-  return `<li class="card card--l${m.level}">
-    <p class="card__masthead">${name}</p>
-    ${exile}
-    <p class="card__meta"><span class="card__kind">${kind}</span> ${age}</p>
-    <h3 class="card__headline" lang="${escapeHtml(m.lang)}" dir="auto">${escapeHtml(m.headline.title)}</h3>
-    <p class="card__links">
-      <a class="card__link" href="${escapeHtml(m.headline.url)}" target="_blank" rel="noopener">Zum Artikel<span class="sr-only"> bei ${name}</span> <span aria-hidden="true">↗</span></a>
-      ${home}
-    </p>
-  </li>`;
 }
 
 export class CityPanel {
@@ -58,7 +30,7 @@ export class CityPanel {
   private clockTimer = 0;
   private returnFocus: HTMLElement | null = null;
 
-  /** Called whenever the panel opens, closes or changes its covered height. */
+  /** Called whenever the panel opens, closes or changes the area it covers. */
   onLayout: (coveredBottom: number, coveredRight: number) => void = () => {};
   onClose: () => void = () => {};
 
@@ -75,7 +47,7 @@ export class CityPanel {
           <p class="panel__meta"></p>
           <h2 class="panel__title" id="panel-title" tabindex="-1"></h2>
         </div>
-        <button class="panel__close" type="button" aria-label="Schließen">
+        <button class="panel__close" type="button" aria-label="Close">
           <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
         </button>
       </header>
@@ -89,6 +61,11 @@ export class CityPanel {
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape' && this.isOpen) this.close();
     });
+    trapFocus(this.el, () => this.isOpen);
+    // Keyboard users in the peek state: focusing a card expands the sheet so its links are visible.
+    this.list.addEventListener('focusin', () => {
+      if (mobileQuery.matches && this.snap === 'peek') this.setSnap('half');
+    });
     this.setupDrag();
     mobileQuery.addEventListener('change', () => this.applySnap());
     window.addEventListener('resize', () => this.applySnap());
@@ -98,20 +75,37 @@ export class CityPanel {
     return !this.el.hidden;
   }
 
-  open(city: City) {
-    if (!this.isOpen) this.returnFocus = document.activeElement as HTMLElement | null;
-    this.city = city;
-    this.title.textContent = city.name;
-    this.updateClock();
-    window.clearInterval(this.clockTimer);
-    this.clockTimer = window.setInterval(() => this.updateClock(), 30_000);
+  get currentKey() {
+    return this.city?.key ?? null;
+  }
 
-    this.list.innerHTML = city.media.map(mediumCard).join('');
+  open(city: City, focusMediumId?: string) {
+    if (!this.isOpen) this.returnFocus = document.activeElement as HTMLElement | null;
+    this.render(city);
     this.list.scrollTo({ left: 0, top: 0 });
     this.el.hidden = false;
-    this.snap = 'peek';
+    this.snap = focusMediumId && city.media.length > 1 ? 'half' : 'peek';
     this.applySnap();
-    this.title.focus({ preventScroll: true });
+    window.clearInterval(this.clockTimer);
+    this.clockTimer = window.setInterval(() => this.updateMeta(), 30_000);
+
+    const card = focusMediumId ? this.list.querySelector<HTMLElement>(`[data-medium="${CSS.escape(focusMediumId)}"]`) : null;
+    if (card) {
+      card.classList.add('card--focus');
+      card.scrollIntoView({ block: 'nearest', inline: 'start' });
+      card.querySelector<HTMLElement>('a')?.focus({ preventScroll: true });
+    } else {
+      this.title.focus({ preventScroll: true });
+    }
+  }
+
+  /** Re-render with fresh data, keeping snap point and scroll position. */
+  refresh(city: City | undefined) {
+    if (!this.isOpen) return;
+    if (!city) return this.close();
+    const { scrollTop, scrollLeft } = this.list;
+    this.render(city);
+    this.list.scrollTo({ top: scrollTop, left: scrollLeft });
   }
 
   close() {
@@ -121,16 +115,28 @@ export class CityPanel {
     window.clearInterval(this.clockTimer);
     this.onLayout(0, 0);
     this.onClose();
-    this.returnFocus?.focus({ preventScroll: true });
+    if (this.returnFocus?.isConnected) this.returnFocus.focus({ preventScroll: true });
   }
 
-  private updateClock() {
+  private render(city: City) {
+    this.city = city;
+    this.title.textContent = city.name;
+    this.updateMeta();
+    this.list.innerHTML = city.media.map((m) => mediumCard(m, 3)).join('');
+  }
+
+  private updateMeta() {
     if (!this.city) return;
     const count = this.city.media.length;
     const time = localTime(this.city.tz);
-    this.meta.textContent = [countryName(this.city.country), time && `${time} Ortszeit`, `${count} ${count === 1 ? 'Medium' : 'Medien'}`]
+    this.meta.textContent = [countryName(this.city.country), time && `${time} local time`, `${count} ${count === 1 ? 'outlet' : 'outlets'}`]
       .filter(Boolean)
       .join(' · ');
+  }
+
+  private setSnap(snap: Snap) {
+    this.snap = snap;
+    this.applySnap();
   }
 
   private applySnap() {
@@ -163,6 +169,7 @@ export class CityPanel {
       dragging = true;
       startY = lastY = e.clientY;
       lastT = e.timeStamp;
+      velocity = 0;
       startOffset = snapHeight('full') - snapHeight(this.snap);
       this.el.classList.add('is-dragging');
       (e.currentTarget as HTMLElement).setPointerCapture(e.pointerId);
@@ -179,26 +186,19 @@ export class CityPanel {
       if (!dragging) return;
       dragging = false;
       this.el.classList.remove('is-dragging');
-      const moved = Math.abs(e.clientY - startY);
-      if (moved < 6) {
-        // Tap on the grip cycles through the snap points.
-        this.snap = this.snap === 'peek' ? 'half' : this.snap === 'half' ? 'full' : 'peek';
-        this.applySnap();
-        return;
+      if (Math.abs(e.clientY - startY) < 6) {
+        // A tap cycles through the snap points.
+        return this.setSnap(this.snap === 'peek' ? 'half' : this.snap === 'half' ? 'full' : 'peek');
       }
       const visible = snapHeight('full') - (startOffset + e.clientY - startY);
       const order: Snap[] = ['peek', 'half', 'full'];
       if (visible < snapHeight('peek') * 0.6 && velocity > 0) return this.close();
-      let target: Snap;
       if (Math.abs(velocity) > 0.5) {
         const i = order.indexOf(this.snap) + (velocity < 0 ? 1 : -1);
         if (i < 0) return this.close();
-        target = order[Math.min(2, i)];
-      } else {
-        target = order.reduce((best, s) => (Math.abs(snapHeight(s) - visible) < Math.abs(snapHeight(best) - visible) ? s : best));
+        return this.setSnap(order[Math.min(2, i)]);
       }
-      this.snap = target;
-      this.applySnap();
+      this.setSnap(order.reduce((best, s) => (Math.abs(snapHeight(s) - visible) < Math.abs(snapHeight(best) - visible) ? s : best)));
     };
     for (const el of [handle, grip]) {
       el.addEventListener('pointerdown', down);

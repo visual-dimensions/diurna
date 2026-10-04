@@ -1,6 +1,8 @@
-import type { StyleSpecification } from 'maplibre-gl';
-import landUrl from '../../assets/geo/land.geojson?url';
-import bordersUrl from '../../assets/geo/borders.geojson?url';
+import type { GeoJSONSource, Map as MapLibreMap, StyleSpecification } from 'maplibre-gl';
+import land110Url from '../../assets/geo/land-110m.geojson?url';
+import borders110Url from '../../assets/geo/borders-110m.geojson?url';
+import land50Url from '../../assets/geo/land-50m.geojson?url';
+import borders50Url from '../../assets/geo/borders-50m.geojson?url';
 
 /** Colours of the globe itself; UI colours live in styles/tokens.css. */
 export const GLOBE = {
@@ -24,8 +26,9 @@ export function globeStyle(): StyleSpecification {
       'atmosphere-blend': ['interpolate', ['linear'], ['zoom'], 0, 0.42, 3, 0.32, 6, 0],
     },
     sources: {
-      land: { type: 'geojson', data: landUrl },
-      borders: { type: 'geojson', data: bordersUrl },
+      // Coarse 110m geometry for the first frame; upgradeGeometry() swaps in 50m.
+      land: { type: 'geojson', data: land110Url },
+      borders: { type: 'geojson', data: borders110Url },
       night: { type: 'geojson', data: { type: 'FeatureCollection', features: [] } },
     },
     layers: [
@@ -51,4 +54,12 @@ export function globeStyle(): StyleSpecification {
       },
     ],
   };
+}
+
+/** Swap in the detailed 50m geometry once the first frame is on screen. */
+export function upgradeGeometry(map: MapLibreMap) {
+  map.once('idle', () => {
+    (map.getSource('land') as GeoJSONSource | undefined)?.setData(land50Url);
+    (map.getSource('borders') as GeoJSONSource | undefined)?.setData(borders50Url);
+  });
 }

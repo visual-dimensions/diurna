@@ -1,5 +1,6 @@
 export type FeedKind = 'top' | 'latest' | 'none';
 export type State = 'ok' | 'stale' | 'failing' | 'dead' | 'no_feed';
+export type Tier = 1 | 2 | 3;
 
 export interface Source {
   id: string;
@@ -12,7 +13,7 @@ export interface Source {
   tz: string;
   lang: string;
   type: 'daily' | 'weekly' | 'online' | 'magazine';
-  tier: 1 | 2 | 3;
+  tier: Tier;
   homepage: string;
   feed_kind: FeedKind;
   note: string;
@@ -38,6 +39,7 @@ export interface Medium extends Source {
 }
 
 export interface City {
+  /** Stable key: "<city>|<country of the newsroom>". */
   key: string;
   name: string;
   country: string;
@@ -46,6 +48,14 @@ export interface City {
   tz: string;
   media: Medium[];
   level: Level;
+  /** Only regional (tier 3) media – faded in when zooming in. */
+  minor: boolean;
+}
+
+export interface Dataset {
+  cities: City[];
+  media: Medium[];
+  generatedAt: string | null;
 }
 
 interface HeadlinesFile {
@@ -71,9 +81,36 @@ function toMedium(source: Source, headline: Headline | undefined, state: State, 
   return { ...source, headline: visible, state, ageMin, level: visible ? levelFor(ageMin) : 0 };
 }
 
-export async function loadData(): Promise<{ cities: City[]; generatedAt: string | null }> {
+/** Freshest first, then tier, then age. */
+export function sortMedia(media: Medium[]): Medium[] {
+  return media.sort((a, b) => b.level - a.level || a.tier - b.tier || (a.ageMin ?? 1e9) - (b.ageMin ?? 1e9));
+}
+
+/** Group media by newsroom city. */
+export function groupByCity(media: Medium[]): City[] {
+  const byCity = new Map<string, City>();
+  for (const m of media) {
+    const key = `${m.city}|${m.city_country}`;
+    let city = byCity.get(key);
+    if (!city) {
+      city = { key, name: m.city, country: m.city_country, lat: m.lat, lon: m.lon, tz: m.tz, media: [], level: 0, minor: true };
+      byCity.set(key, city);
+    }
+    city.media.push(m);
+    city.level = Math.max(city.level, m.level) as Level;
+    city.minor &&= m.tier === 3;
+  }
+  for (const city of byCity.values()) sortMedia(city.media);
+  return [...byCity.values()];
+}
+
+export async function loadData(): Promise<Dataset> {
   const base = import.meta.env.BASE_URL;
-  const get = <T>(file: string) => fetch(`${base}data/${file}`, { cache: 'no-cache' }).then((r) => r.json() as Promise<T>);
+  const get = <T>(file: string) =>
+    fetch(`${base}data/${file}`, { cache: 'no-cache' }).then((r) => {
+      if (!r.ok) throw new Error(`${file}: HTTP ${r.status}`);
+      return r.json() as Promise<T>;
+    });
   const [sources, headlines, status] = await Promise.all([
     get<Source[]>('sources.json'),
     get<HeadlinesFile>('headlines.json'),
@@ -81,22 +118,6 @@ export async function loadData(): Promise<{ cities: City[]; generatedAt: string 
   ]);
 
   const now = Date.now();
-  const byCity = new Map<string, City>();
-  for (const source of sources) {
-    const medium = toMedium(source, headlines.items[source.id], status[source.id]?.state ?? 'no_feed', now);
-    const key = `${source.city}|${source.city_country}`;
-    let city = byCity.get(key);
-    if (!city) {
-      city = { key, name: source.city, country: source.city_country, lat: source.lat, lon: source.lon, tz: source.tz, media: [], level: 0 };
-      byCity.set(key, city);
-    }
-    city.media.push(medium);
-    city.level = Math.max(city.level, medium.level) as Level;
-  }
-
-  for (const city of byCity.values()) {
-    // Freshest first, then tier.
-    city.media.sort((a, b) => b.level - a.level || a.tier - b.tier || (a.ageMin ?? 1e9) - (b.ageMin ?? 1e9));
-  }
-  return { cities: [...byCity.values()], generatedAt: headlines.generated_at };
+  const media = sources.map((s) => toMedium(s, headlines.items[s.id], status[s.id]?.state ?? 'no_feed', now));
+  return { cities: groupByCity(media), media, generatedAt: headlines.generated_at };
 }

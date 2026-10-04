@@ -14,7 +14,7 @@ Dieses Dokument ist die verbindliche Grundlage für die Umsetzung. Bei Widerspr�
 
 **MVP-Umfang:** ca. 150–200 Medien aus ~40 europäischen Ländern (Startliste: `data/seed/europe.csv`).
 
-**Nicht im MVP:** Übersetzung der Headlines, Nutzerkonten, Kommentare, Archiv/Zeitverlauf, Teaser/Bilder aus Feeds.
+**Nicht im MVP:** Nutzerkonten, Kommentare, Archiv/Zeitverlauf, Teaser/Bilder aus Feeds.
 
 ---
 
@@ -299,7 +299,7 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
 - ~~Vanilla TS oder Svelte~~ → **Vanilla TypeScript** (entschieden nach dem Design-Spike).
 - ~~Sprache der Website~~ → **Englisch** (UI-Texte, Kennzeichnungen wie „Top story“ / „Latest“). Headlines bleiben in Originalsprache.
 - ~~Stadtnamen~~ → **Landessprache**, wie in der Seed-Liste (Praha, København, Athina).
-- Maschinelle Übersetzung der Headlines in eine wählbare Zielsprache: in Klärung (siehe Chat 2026-10-04).
+- ~~Maschinelle Übersetzung~~ → **nach Phase 4**: Übersetzung neuer Headlines in der GitHub Action (nur neue, gecacht), zuerst Zielsprache **Englisch** via **Azure Translator** (API-Key als GitHub-Secret), im UI als „Machine-translated“ gekennzeichnet, Original bleibt sichtbar. Weitere Zielsprachen später per Konfiguration.
 
 ---
 
