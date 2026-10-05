@@ -1,2 +1,2 @@
-country,name,city,city_country,homepage,lang,type,tier,note,note_source
-FJ,Fiji Times,Suva,,http://www.fijitimes.com,en,daily,2,,
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+FJ,Fiji Times,Suva,,http://www.fijitimes.com,en,daily,2,,,-18.1333,178.4333

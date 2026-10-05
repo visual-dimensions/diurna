@@ -1,50 +1,50 @@
-country,name,city,city_country,homepage,lang,type,tier,note,note_source
-AU,The Sydney Morning Herald,Sydney,,https://www.smh.com.au,en,daily,1,,
-AU,The Age,Melbourne,,https://www.theage.com.au/,en,daily,1,,
-AU,Herald Sun,Melbourne,,http://www.heraldsun.com.au/,en,daily,1,,
-AU,The Daily Telegraph,Sydney,,http://www.dailytelegraph.news.com.au/,en,daily,1,,
-AU,The West Australian,Perth,,http://www.thewest.com.au/,en,daily,1,,
-AU,The Courier-Mail,Brisbane,,https://www.couriermail.com.au/,en,daily,2,,
-AU,The Canberra Times,Canberra,,https://www.canberratimes.com.au/,en,daily,2,,
-AU,The Australian Financial Review,Sydney,,http://www.afr.com/,en,daily,2,,
-AU,The Advertiser,Adelaide,,http://www.news.com.au/adelaidenow/,en,daily,2,,
-AU,The Mercury,Hobart,,http://www.themercury.com.au/,en,daily,3,,
-AU,The Sunday Times,Perth,,http://www.perthnow.com.au,en,daily,3,,
-AU,Fremantle Herald,Fremantle,,http://www.fremantleherald.com/,en,daily,3,,
-AU,mX,Melbourne,,http://www.mx.net.au/,en,daily,3,,
-AU,The Cairns Post,Cairns,,http://www.cairns.com.au/,en,daily,3,,
-AU,Barrier Daily Truth,Broken Hill,,http://www.bdtruth.com.au,en,daily,3,,
-AU,The Daily Advertiser,Wagga Wagga,,https://www.dailyadvertiser.com.au/,en,daily,3,,
-AU,The Northern Star,Lismore,,http://www.northernstar.com.au,en,daily,3,,
-AU,The Young Witness,Young,,https://www.youngwitness.com.au/,en,daily,3,,
-AU,Central Western Daily,Orange,,http://www.centralwesterndaily.com.au,en,daily,3,,
-AU,Daily Mercury,Mackay,,http://www.dailymercury.com.au/,en,daily,3,,
-AU,The Courier,Ballarat,,https://www.thecourier.com.au/,en,daily,3,,
-AU,The North Queensland Register,Charters Towers,,https://www.northqueenslandregister.com.au/,en,daily,3,,
-AU,City Messenger,Adelaide,,http://www.citymessenger.com.au,en,daily,3,,
-AU,Illawarra Mercury,Wollongong,,http://www.illawarramercury.com.au/,en,daily,3,,
-AU,Koori Mail,Lismore,,http://www.koorimail.com,en,daily,3,,
-AU,The Coffs Coast Advocate,Coffs Harbour,,http://www.coffscoastadvocate.com.au,en,daily,3,,
-AU,WAtoday,East Perth,,http://watoday.com.au/,en,daily,3,,
-AU,Northern Daily Leader,Tamworth,,https://www.northerndailyleader.com.au/,en,daily,3,,
-AU,Riverine Herald,Echuca,,http://riverineherald.com.au,en,daily,3,,
-AU,The Saturday Paper,Carlton,,http://www.thesaturdaypaper.com.au,en,daily,3,,
-AU,The Newcastle Chronicle and Hunter River District News,Newcastle,,http://www.theherald.com.au/,en,daily,3,,
-AU,The Macleay Argus,Kempsey,,http://macleayargus.com.au,en,daily,3,,
-AU,Yass Tribune,Yass,,https://www.yasstribune.com.au/,en,daily,3,,
-AU,The Nightly,Perth,,https://thenightly.com.au/,en,daily,3,,
-AU,Tablelands Advertiser,Mareeba,,http://www.newsspace.com.au/tablelands_advertiser,en,weekly,3,,
-AU,The Hamilton Spectator,Hamilton,,http://www.spec.com.au/,en,daily,3,,
-AU,The Gympie Times,Gympie,,http://www.gympietimes.com.au,en,daily,3,,
-AU,InDaily,Adelaide,,http://www.indaily.com.au/,en,daily,3,,
-AU,The Sunday Mail,Bowen Hills,,http://www.thesundaymail.com.au,en,daily,3,,
-AU,The Toowoomba Chronicle,Toowoomba,,http://www.thechronicle.com.au,en,daily,3,,
-AU,Warwick Daily News,Warwick,,http://www.warwickdailynews.com.au,en,daily,3,,
-AU,Centralian Advocate,Alice Springs,,http://www.alicenow.com.au/,en,daily,3,,
-AU,The Leader,Angaston,,http://barossaleader.com,en,weekly,3,,
-AU,The Standard,Warrnambool,,https://www.standard.net.au/,en,daily,3,,
-AU,Lismore Echo,Lismore,,https://www.echonews.com.au/,en,daily,3,,
-AU,Western Advocate,Bathurst,,https://www.westernadvocate.com.au/,en,daily,3,,
-AU,The valley and East Coast voice,St Marys,,https://www.valleyvoice.com.au/,en,daily,3,,
-AU,Bunbury Mail,Bunbury,,https://www.bunburymail.com.au/,en,daily,3,,
-AU,Bayside Leader,Southbank,,http://www.baysideleader.com.au/,en,weekly,3,,
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+AU,The Sydney Morning Herald,Sydney,,https://www.smh.com.au,en,daily,1,,,-33.8678,151.2100
+AU,The Age,Melbourne,,https://www.theage.com.au/,en,daily,1,,,-37.8142,144.9631
+AU,Herald Sun,Melbourne,,http://www.heraldsun.com.au/,en,daily,1,,,-37.8142,144.9631
+AU,The Daily Telegraph,Sydney,,http://www.dailytelegraph.news.com.au/,en,daily,1,,,-33.8678,151.2100
+AU,The West Australian,Perth,,http://www.thewest.com.au/,en,daily,1,,,-31.9558,115.8597
+AU,The Courier-Mail,Brisbane,,https://www.couriermail.com.au/,en,daily,2,,,-27.4678,153.0278
+AU,The Canberra Times,Canberra,,https://www.canberratimes.com.au/,en,daily,2,,,-35.2931,149.1269
+AU,The Australian Financial Review,Sydney,,http://www.afr.com/,en,daily,2,,,-33.8678,151.2100
+AU,The Advertiser,Adelaide,,http://www.news.com.au/adelaidenow/,en,daily,2,,,-34.9275,138.6000
+AU,The Mercury,Hobart,,http://www.themercury.com.au/,en,daily,3,,,-42.8833,147.3167
+AU,The Sunday Times,Perth,,http://www.perthnow.com.au,en,daily,3,,,-31.9558,115.8597
+AU,Fremantle Herald,Fremantle,,http://www.fremantleherald.com/,en,daily,3,,,-32.0542,115.7475
+AU,mX,Melbourne,,http://www.mx.net.au/,en,daily,3,,,-37.8142,144.9631
+AU,The Cairns Post,Cairns,,http://www.cairns.com.au/,en,daily,3,,,-16.9256,145.7753
+AU,Barrier Daily Truth,Broken Hill,,http://www.bdtruth.com.au,en,daily,3,,,-31.9650,141.4511
+AU,The Daily Advertiser,Wagga Wagga,,https://www.dailyadvertiser.com.au/,en,daily,3,,,-35.1194,147.3667
+AU,The Northern Star,Lismore,,http://www.northernstar.com.au,en,daily,3,,,-28.8067,153.2858
+AU,The Young Witness,Young,,https://www.youngwitness.com.au/,en,daily,3,,,-34.3000,148.3000
+AU,Central Western Daily,Orange,,http://www.centralwesterndaily.com.au,en,daily,3,,,-33.2817,149.1011
+AU,Daily Mercury,Mackay,,http://www.dailymercury.com.au/,en,daily,3,,,-21.1411,149.1861
+AU,The Courier,Ballarat,,https://www.thecourier.com.au/,en,daily,3,,,-37.5608,143.8475
+AU,The North Queensland Register,Charters Towers,,https://www.northqueenslandregister.com.au/,en,daily,3,,,-20.0731,146.2603
+AU,City Messenger,Adelaide,,http://www.citymessenger.com.au,en,daily,3,,,,
+AU,Illawarra Mercury,Wollongong,,http://www.illawarramercury.com.au/,en,daily,3,,,-34.4331,150.8831
+AU,Koori Mail,Lismore,,http://www.koorimail.com,en,daily,3,,,-28.8067,153.2858
+AU,The Coffs Coast Advocate,Coffs Harbour,,http://www.coffscoastadvocate.com.au,en,daily,3,,,-30.3023,153.1189
+AU,WAtoday,East Perth,,http://watoday.com.au/,en,daily,3,,,-31.9540,115.8760
+AU,Northern Daily Leader,Tamworth,,https://www.northerndailyleader.com.au/,en,daily,3,,,-31.0906,150.9317
+AU,Riverine Herald,Echuca,,http://riverineherald.com.au,en,daily,3,,,-36.1333,144.7500
+AU,The Saturday Paper,Carlton,,http://www.thesaturdaypaper.com.au,en,daily,3,,,-37.8001,144.9670
+AU,The Newcastle Chronicle and Hunter River District News,Newcastle,,http://www.theherald.com.au/,en,daily,3,,,-32.9167,151.7500
+AU,The Macleay Argus,Kempsey,,http://macleayargus.com.au,en,daily,3,,,-31.0819,152.8350
+AU,Yass Tribune,Yass,,https://www.yasstribune.com.au/,en,daily,3,,,-34.8203,148.9136
+AU,The Nightly,Perth,,https://thenightly.com.au/,en,daily,3,,,-25.0000,133.0000
+AU,Tablelands Advertiser,Mareeba,,http://www.newsspace.com.au/tablelands_advertiser,en,weekly,3,,,-16.9833,145.4170
+AU,The Hamilton Spectator,Hamilton,,http://www.spec.com.au/,en,daily,3,,,-37.7333,142.0170
+AU,The Gympie Times,Gympie,,http://www.gympietimes.com.au,en,daily,3,,,-26.1833,152.6667
+AU,InDaily,Adelaide,,http://www.indaily.com.au/,en,daily,3,,,-34.9275,138.6000
+AU,The Sunday Mail,Bowen Hills,,http://www.thesundaymail.com.au,en,daily,3,,,-27.4432,153.0380
+AU,The Toowoomba Chronicle,Toowoomba,,http://www.thechronicle.com.au,en,daily,3,,,-27.5500,151.9500
+AU,Warwick Daily News,Warwick,,http://www.warwickdailynews.com.au,en,daily,3,,,-28.2172,152.0347
+AU,Centralian Advocate,Alice Springs,,http://www.alicenow.com.au/,en,daily,3,,,-23.7000,133.8667
+AU,The Leader,Angaston,,http://barossaleader.com,en,weekly,3,,,-34.5000,139.0500
+AU,The Standard,Warrnambool,,https://www.standard.net.au/,en,daily,3,,,-38.3825,142.4814
+AU,Lismore Echo,Lismore,,https://www.echonews.com.au/,en,daily,3,,,-28.8067,153.2858
+AU,Western Advocate,Bathurst,,https://www.westernadvocate.com.au/,en,daily,3,,,-33.4200,149.5778
+AU,The valley and East Coast voice,St Marys,,https://www.valleyvoice.com.au/,en,daily,3,,,-41.5811,148.1844
+AU,Bunbury Mail,Bunbury,,https://www.bunburymail.com.au/,en,daily,3,,,-33.3272,115.6369
+AU,Bayside Leader,Southbank,,http://www.baysideleader.com.au/,en,weekly,3,,,-37.8290,144.9570

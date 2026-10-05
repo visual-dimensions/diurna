@@ -1,19 +1,19 @@
-country,name,city,city_country,homepage,lang,type,tier,note,note_source
-NZ,The New Zealand Herald,Auckland,,https://www.nzherald.co.nz/,en,daily,1,,
-NZ,The Press,Christchurch,,https://www.stuff.co.nz/the-press/,en,daily,2,,
-NZ,Otago Daily Times,Dunedin,,https://www.odt.co.nz/,en,daily,2,,
-NZ,The Northern Advocate,Whangārei,,http://www.northernadvocate.co.nz/index.cfm,en,daily,3,,
-NZ,Wairarapa Times-Age,Masterton,,http://www.times-age.co.nz,en,daily,3,,
-NZ,The Southland Times,Invercargill,,http://www.southlandtimes.co.nz,en,daily,3,,
-NZ,Whanganui Chronicle,Whanganui,,http://www.wanganuichronicle.co.nz/,en,daily,3,,
-NZ,Westport News,Westport,,http://www.westportnews.co.nz/,en,daily,3,,
-NZ,Bay of Plenty Times,Tauranga,,http://www.bayofplentytimes.co.nz/,en,daily,3,,
-NZ,Greymouth Star,Greymouth,,http://greystar.co.nz/,en,daily,3,,
-NZ,The Oamaru Mail,Oamaru,,http://www.oamarumail.co.nz,en,daily,3,,
-NZ,Hawke's Bay Today,Hastings,,http://www.hbtoday.co.nz,en,daily,3,,
-NZ,Sunday Star-Times,Auckland,,http://sundaystartimes.co.nz/,en,daily,3,,
-NZ,The Daily Post,Rotorua,,http://www.rotoruadailypost.co.nz,en,daily,3,,
-NZ,Whakatane Beacon,Whakatāne,,http://www.whakatanebeacon.co.nz,en,daily,3,,
-NZ,Chinese Herald,Auckland,,https://www.chineseherald.co.nz/,zh,daily,3,,
-NZ,The Guardian,Motueka,,https://topsouthmedia.co.nz/guardian-motueka-golden-bay,en,daily,3,,
-NZ,Nor'West News,Christchurch,,https://starmedia.kiwi/digital-editions/?publication=gfm1HjAVyM7OpbxS,en,weekly,3,,
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+NZ,The New Zealand Herald,Auckland,,https://www.nzherald.co.nz/,en,daily,1,,,-36.8492,174.7653
+NZ,The Press,Christchurch,,https://www.stuff.co.nz/the-press/,en,daily,2,,,-43.5311,172.6361
+NZ,Otago Daily Times,Dunedin,,https://www.odt.co.nz/,en,daily,2,,,-45.8742,170.5036
+NZ,The Northern Advocate,Whangārei,,http://www.northernadvocate.co.nz/index.cfm,en,daily,3,,,-35.7250,174.3236
+NZ,Wairarapa Times-Age,Masterton,,http://www.times-age.co.nz,en,daily,3,,,-40.9667,175.6500
+NZ,The Southland Times,Invercargill,,http://www.southlandtimes.co.nz,en,daily,3,,,-46.4290,168.3620
+NZ,Whanganui Chronicle,Whanganui,,http://www.wanganuichronicle.co.nz/,en,daily,3,,,-39.9325,175.0519
+NZ,Westport News,Westport,,http://www.westportnews.co.nz/,en,daily,3,,,-41.7550,171.5990
+NZ,Bay of Plenty Times,Tauranga,,http://www.bayofplentytimes.co.nz/,en,daily,3,,,-37.6858,176.1667
+NZ,Greymouth Star,Greymouth,,http://greystar.co.nz/,en,daily,3,,,-42.4500,171.2075
+NZ,The Oamaru Mail,Oamaru,,http://www.oamarumail.co.nz,en,daily,3,,,-45.0894,170.9661
+NZ,Hawke's Bay Today,Hastings,,http://www.hbtoday.co.nz,en,daily,3,,,-39.6500,176.8333
+NZ,Sunday Star-Times,Auckland,,http://sundaystartimes.co.nz/,en,daily,3,,,-36.8492,174.7653
+NZ,The Daily Post,Rotorua,,http://www.rotoruadailypost.co.nz,en,daily,3,,,-38.1378,176.2514
+NZ,Whakatane Beacon,Whakatāne,,http://www.whakatanebeacon.co.nz,en,daily,3,,,-37.9640,176.9840
+NZ,Chinese Herald,Auckland,,https://www.chineseherald.co.nz/,zh,daily,3,,,-36.8492,174.7653
+NZ,The Guardian,Motueka,,https://topsouthmedia.co.nz/guardian-motueka-golden-bay,en,daily,3,,,-41.1233,173.0147
+NZ,Nor'West News,Christchurch,,https://starmedia.kiwi/digital-editions/?publication=gfm1HjAVyM7OpbxS,en,weekly,3,,,-43.5311,172.6361

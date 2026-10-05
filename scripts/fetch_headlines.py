@@ -40,7 +40,7 @@ from urllib.parse import urljoin, urlsplit
 
 import httpx
 
-from feeds import Item, parse
+from feeds import Item, parse, sitemap_index_child
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "data" / "sources.json"
@@ -142,6 +142,14 @@ async def fetch_one(client: httpx.AsyncClient, sem: asyncio.Semaphore, host_sem:
                     out.etag, out.last_modified = cached.get("etag", ""), cached.get("last_modified", "")
                 elif resp.status_code == 200:
                     feed = parse(resp.content, resp.headers.get("content-type", ""))
+                    child = sitemap_index_child(resp.content) if feed is None else None
+                    if child:  # sitemap index → read its current child
+                        try:
+                            child_resp = await client.get(child)
+                            if child_resp.status_code == 200:
+                                feed = parse(child_resp.content, child_resp.headers.get("content-type", ""))
+                        except httpx.HTTPError:
+                            feed = None
                     if feed is None:
                         out.error = "no items"
                     else:

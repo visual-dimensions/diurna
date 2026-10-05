@@ -8,6 +8,9 @@ Two publisher-provided, machine-readable formats are supported, both generic
 - "news_sitemap": Google News sitemaps (<urlset> with <news:news> entries).
                   They carry exactly title, link and publication date. Their
                   order is not meaningful, so items are sorted newest first.
+                  A sitemap *index* is followed to its most recent child
+                  (sitemap_index_child), so the stored URL stays stable even
+                  when publishers rotate dated child sitemaps.
 """
 
 from __future__ import annotations
@@ -85,6 +88,31 @@ def parse_news_sitemap(content: bytes) -> Feed | None:
     items.sort(key=lambda i: i.published or oldest, reverse=True)
     name = root.find(f"{SITEMAP_NS}url/{NEWS_NS}news/{NEWS_NS}publication/{NEWS_NS}name")
     return Feed("news_sitemap", clean_title(name.text if name is not None else ""), items)
+
+
+def sitemap_index_child(content: bytes) -> str | None:
+    """For a <sitemapindex>: the child to read – the most recently modified one,
+    preferring children with "news" in their URL. None if this is not an index."""
+    if b"sitemapindex" not in content[:4000]:
+        return None
+    try:
+        root = ET.fromstring(content)
+    except ET.ParseError:
+        return None
+    if root.tag != f"{SITEMAP_NS}sitemapindex":
+        return None
+    children = [
+        ((el.findtext(f"{SITEMAP_NS}loc") or "").strip(), el.findtext(f"{SITEMAP_NS}lastmod") or "")
+        for el in root.iter(f"{SITEMAP_NS}sitemap")
+    ]
+    children = [(loc, mod) for loc, mod in children if loc.startswith(("https://", "http://"))]
+    if not children:
+        return None
+    news = [c for c in children if "news" in c[0].lower()] or children
+    with_dates = [c for c in news if _from_iso(c[1])]
+    if with_dates:
+        return max(with_dates, key=lambda c: _from_iso(c[1]))[0]
+    return news[0][0]
 
 
 def parse(content: bytes, content_type: str = "") -> Feed | None:

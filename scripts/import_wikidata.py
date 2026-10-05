@@ -423,9 +423,15 @@ def accept(cc: str) -> int:
         with target.open(encoding="utf-8", newline="") as f:
             existing = list(csv.DictReader(f))
     known = {domain(r["homepage"]) for r in existing}
-    new = [{k: r.get(k, "") for k in SEED_FIELDS} for r in chosen if domain(r["homepage"]) not in known]
+    # The Wikidata coordinate travels along as a hint: build_sources.py uses it only to tell
+    # apart cities with the same name (Portland, Oregon vs. Portland, Maine).
+    new = [
+        {**{k: r.get(k, "") for k in SEED_FIELDS}, "hint_lat": r.get("wd_lat", ""), "hint_lon": r.get("wd_lon", "")}
+        for r in chosen
+        if domain(r["homepage"]) not in known
+    ]
     with target.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=SEED_FIELDS, lineterminator="\n")
+        writer = csv.DictWriter(f, fieldnames=[*SEED_FIELDS, "hint_lat", "hint_lon"], lineterminator="\n", extrasaction="ignore")
         writer.writeheader()
         writer.writerows(existing + new)
     print(f"{len(new)} outlet(s) added to {target.relative_to(ROOT)} – next: build_sources.py, discover_feeds.py --only …")

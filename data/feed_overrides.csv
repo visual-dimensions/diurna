@@ -26,3 +26,6 @@ publico,https://feeds.feedburner.com/PublicoRSS,latest,
 expresso,https://feeds.feedburner.com/expresso-geral,latest,
 thetimes,https://www.thetimes.com/sitemaps/news,latest,"no RSS; Google News sitemap"
 vecer,https://vecer.com/sitemaps/articles.xml,latest,"no RSS; Google News sitemap"
+thewashingtonpost,https://feeds.washingtonpost.com/rss/national,latest,"national news feed; homepage times out for our user agent"
+axios,https://api.axios.com/feed/,latest,
+thebuffalonews,https://buffalonews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,latest,"BLOX CMS search feed"

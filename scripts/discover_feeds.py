@@ -38,7 +38,7 @@ from urllib.parse import urljoin, urlsplit
 import httpx
 from selectolax.lexbor import LexborHTMLParser
 
-from feeds import clean_title, parse
+from feeds import clean_title, parse, sitemap_index_child
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "data" / "sources.json"
@@ -51,7 +51,8 @@ CONCURRENCY = 8
 MAX_CANDIDATES = 20
 MAX_OVERVIEW_PAGES = 3
 STALE_HOURS = 48
-FALLBACK_PATHS = ("/rss", "/feed", "/rss.xml", "/feed.xml", "/index.rss")
+# The brief's paths, plus the standard feed path of the Arc XP publishing system (used by many US papers).
+FALLBACK_PATHS = ("/rss", "/feed", "/rss.xml", "/feed.xml", "/index.rss", "/arc/outboundfeeds/rss/?outputType=xml")
 FEED_TYPE = re.compile(r"application/(rss|atom)\+xml", re.I)
 
 # Tokens from the brief, plus a few direct equivalents in further languages
@@ -141,6 +142,13 @@ async def check_feed(client: httpx.AsyncClient, cand: Candidate) -> None:
         return
     content_type = resp.headers.get("content-type", "")
     feed = parse(resp.content, content_type)
+    child = sitemap_index_child(resp.content) if feed is None else None
+    if child:
+        try:
+            child_resp = await client.get(child)
+            feed = parse(child_resp.content, child_resp.headers.get("content-type", "")) if child_resp.status_code == 200 else None
+        except httpx.HTTPError:
+            feed = None
     if feed is None:
         if "html" in content_type.lower():
             cand.status, cand.page = "html page", resp.text
