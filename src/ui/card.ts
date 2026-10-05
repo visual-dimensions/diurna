@@ -1,6 +1,18 @@
 import type { Medium } from '../data/load';
 import { countryName, escapeHtml, missingReason, relativeAge } from './format';
 
+/** Exile and state-ownership labels; state ownership links to its evidence. */
+function noteLine(m: Medium): string {
+  if (m.note === 'exile') return `<p class="card__note">In exile · from ${escapeHtml(countryName(m.country))}</p>`;
+  if (m.note === 'state') {
+    const source = m.note_source
+      ? ` · <a class="card__notesource" href="${escapeHtml(m.note_source)}" target="_blank" rel="noopener">Source<span class="sr-only"> for the state ownership of ${escapeHtml(m.name)}</span></a>`
+      : '';
+    return `<p class="card__note card__note--state">State-owned${source}</p>`;
+  }
+  return '';
+}
+
 /** English machine translation below the original, clearly labelled. */
 function translation(m: Medium): string {
   const en = m.headline?.translations?.en;
@@ -16,8 +28,7 @@ function translation(m: Medium): string {
 export function mediumCard(m: Medium, headingLevel = 3): string {
   const name = escapeHtml(m.name);
   const h = `h${headingLevel}`;
-  const exile =
-    m.note === 'exile' ? `<p class="card__note">In exile · from ${escapeHtml(countryName(m.country))}</p>` : '';
+  const exile = noteLine(m);
   const home = `<a class="card__link card__link--quiet" href="${escapeHtml(m.homepage)}" target="_blank" rel="noopener">Homepage<span class="sr-only"> of ${name}</span></a>`;
 
   if (!m.headline) {

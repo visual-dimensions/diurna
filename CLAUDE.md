@@ -120,7 +120,8 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler au
   "feed": "https://www.derstandard.at/rss",
   "feed_format": "rss",
   "feed_kind": "top",
-  "note": ""
+  "note": "",
+  "note_source": ""
 }
 ```
 - `type`: `daily` | `weekly` | `online` | `magazine`
@@ -129,7 +130,7 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler au
 - `feed_kind`: `top` (Aufmacher/Titelseite) | `latest` (neuester Beitrag) | `none` (kein Feed gefunden)
 - `city_country`: Land des Redaktionsorts (Seed-Spalte, leer = `country`); nötig für Exilmedien
 - `tz`: Zeitzone aus GeoNames, für die Ortszeit im Panel
-- `note`: z. B. `exile` für Exilmedien (Redaktion außerhalb des Herkunftslands – Marker am tatsächlichen Redaktionsort, im Panel kennzeichnen); geplant: `state` für staatseigene/-kontrollierte Medien (siehe Abschnitt 10)
+- `note`: z. B. `exile` für Exilmedien (Redaktion außerhalb des Herkunftslands – Marker am tatsächlichen Redaktionsort, im Panel kennzeichnen); `state` für staatseigene/-kontrollierte Medien (siehe Abschnitt 10), Beleg in `note_source` (URL)
 
 ### `headlines.json` (Objekt, Key = Source-ID)
 ```json

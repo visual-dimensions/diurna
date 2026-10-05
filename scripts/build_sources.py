@@ -170,6 +170,7 @@ def main() -> int:
             "feed_format": "",
             "feed_kind": "none",
             "note": row.get("note", ""),
+            "note_source": row.get("note_source", ""),
         }
         for field in PRESERVED_FIELDS:
             if field in existing.get(sid, {}):

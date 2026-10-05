@@ -13,9 +13,10 @@
     "tier": 1,
     "homepage": "https://www.derstandard.at",
     "feed": "https://www.derstandard.at/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "diepresse",
@@ -31,9 +32,10 @@
     "tier": 1,
     "homepage": "https://www.diepresse.com",
     "feed": "https://www.diepresse.com/rss//",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "kronenzeitung",
@@ -49,9 +51,10 @@
     "tier": 1,
     "homepage": "https://www.krone.at",
     "feed": "https://api.krone.at/v1/rss/rssfeed-google.xml?id=2311992",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "kurier",
@@ -67,9 +70,10 @@
     "tier": 2,
     "homepage": "https://kurier.at",
     "feed": "https://kurier.at/xml/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "kleinezeitung",
@@ -85,9 +89,10 @@
     "tier": 1,
     "homepage": "https://www.kleinezeitung.at",
     "feed": "https://www.kleinezeitung.at/rss/news",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "salzburgernachrichten",
@@ -103,9 +108,10 @@
     "tier": 2,
     "homepage": "https://www.sn.at",
     "feed": "https://www.sn.at/xml/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "oberosterreichischenachrichten",
@@ -121,9 +127,10 @@
     "tier": 2,
     "homepage": "https://www.nachrichten.at",
     "feed": "https://www.nachrichten.at/storage/rss/rss/nachrichten.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "tirolertageszeitung",
@@ -139,9 +146,10 @@
     "tier": 2,
     "homepage": "https://www.tt.com",
     "feed": "https://www.tt.com/rss/news.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "vorarlbergernachrichten",
@@ -157,9 +165,10 @@
     "tier": 3,
     "homepage": "https://www.vn.at",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "suddeutschezeitung",
@@ -175,9 +184,10 @@
     "tier": 1,
     "homepage": "https://www.sueddeutsche.de",
     "feed": "https://rss.sueddeutsche.de/rss/Topthemen",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "frankfurterallgemeinezeitung",
@@ -193,9 +203,10 @@
     "tier": 1,
     "homepage": "https://www.faz.net",
     "feed": "https://www.faz.net/rss/aktuell/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "diewelt",
@@ -211,9 +222,10 @@
     "tier": 1,
     "homepage": "https://www.welt.de",
     "feed": "https://www.welt.de/feeds/topnews.rss",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "bild",
@@ -229,9 +241,10 @@
     "tier": 1,
     "homepage": "https://www.bild.de",
     "feed": "http://www.bild.de/rss-feeds/rss-16725492,feed=home.bild.html",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "taz",
@@ -247,9 +260,10 @@
     "tier": 2,
     "homepage": "https://taz.de",
     "feed": "https://taz.de/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "dertagesspiegel",
@@ -265,9 +279,10 @@
     "tier": 2,
     "homepage": "https://www.tagesspiegel.de",
     "feed": "https://www.tagesspiegel.de/contentexport/feed/home",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "handelsblatt",
@@ -283,9 +298,10 @@
     "tier": 2,
     "homepage": "https://www.handelsblatt.com",
     "feed": "https://www.handelsblatt.com/contentexport/feed/top-themen",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "derspiegel",
@@ -301,9 +317,10 @@
     "tier": 1,
     "homepage": "https://www.spiegel.de",
     "feed": "https://www.spiegel.de/index.rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "diezeit",
@@ -319,9 +336,10 @@
     "tier": 2,
     "homepage": "https://www.zeit.de",
     "feed": "https://newsfeed.zeit.de/index",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "kolnerstadtanzeiger",
@@ -337,9 +355,10 @@
     "tier": 3,
     "homepage": "https://www.ksta.de",
     "feed": "https://feed.ksta.de/feed/rss/index.rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "neuezurcherzeitung",
@@ -355,9 +374,10 @@
     "tier": 1,
     "homepage": "https://www.nzz.ch",
     "feed": "https://www.nzz.ch/startseite.rss",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "tagesanzeiger",
@@ -373,9 +393,10 @@
     "tier": 2,
     "homepage": "https://www.tagesanzeiger.ch",
     "feed": "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/front",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "blick",
@@ -391,9 +412,10 @@
     "tier": 2,
     "homepage": "https://www.blick.ch",
     "feed": "https://www.blick.ch/rss",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "letemps",
@@ -409,9 +431,10 @@
     "tier": 1,
     "homepage": "https://www.letemps.ch",
     "feed": "https://www.letemps.ch/feed",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "corrieredelticino",
@@ -427,9 +450,10 @@
     "tier": 3,
     "homepage": "https://www.cdt.ch",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "liechtensteinervaterland",
@@ -445,9 +469,10 @@
     "tier": 3,
     "homepage": "https://www.vaterland.li",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "theguardian",
@@ -463,9 +488,10 @@
     "tier": 1,
     "homepage": "https://www.theguardian.com",
     "feed": "https://www.theguardian.com/europe/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "thetimes",
@@ -481,9 +507,10 @@
     "tier": 1,
     "homepage": "https://www.thetimes.com",
     "feed": "https://www.thetimes.com/sitemaps/news",
+    "feed_format": "news_sitemap",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "news_sitemap"
+    "note_source": ""
   },
   {
     "id": "thetelegraph",
@@ -499,9 +526,10 @@
     "tier": 1,
     "homepage": "https://www.telegraph.co.uk",
     "feed": "https://www.telegraph.co.uk/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "financialtimes",
@@ -517,9 +545,10 @@
     "tier": 1,
     "homepage": "https://www.ft.com",
     "feed": "https://www.ft.com/rss/home/international",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "dailymail",
@@ -535,9 +564,10 @@
     "tier": 2,
     "homepage": "https://www.dailymail.co.uk",
     "feed": "https://www.dailymail.co.uk/home/index.rss",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "theindependent",
@@ -553,9 +583,10 @@
     "tier": 2,
     "homepage": "https://www.independent.co.uk",
     "feed": "https://www.independent.co.uk/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "thescotsman",
@@ -571,9 +602,10 @@
     "tier": 2,
     "homepage": "https://www.scotsman.com",
     "feed": "https://www.scotsman.com/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "belfasttelegraph",
@@ -589,9 +621,10 @@
     "tier": 3,
     "homepage": "https://www.belfasttelegraph.co.uk",
     "feed": "https://www.belfasttelegraph.co.uk/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "manchestereveningnews",
@@ -607,9 +640,10 @@
     "tier": 3,
     "homepage": "https://www.manchestereveningnews.co.uk",
     "feed": "https://www.manchestereveningnews.co.uk/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "theirishtimes",
@@ -625,9 +659,10 @@
     "tier": 1,
     "homepage": "https://www.irishtimes.com",
     "feed": "https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "irishindependent",
@@ -643,9 +678,10 @@
     "tier": 2,
     "homepage": "https://www.independent.ie",
     "feed": "https://www.independent.ie/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "irishexaminer",
@@ -661,9 +697,10 @@
     "tier": 2,
     "homepage": "https://www.irishexaminer.com",
     "feed": "https://www.irishexaminer.com/feed/35-top_news.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "lemonde",
@@ -679,9 +716,10 @@
     "tier": 1,
     "homepage": "https://www.lemonde.fr",
     "feed": "https://www.lemonde.fr/rss/une.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "lefigaro",
@@ -697,9 +735,10 @@
     "tier": 1,
     "homepage": "https://www.lefigaro.fr",
     "feed": "https://www.lefigaro.fr/rss/figaro_une.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "liberation",
@@ -715,9 +754,10 @@
     "tier": 1,
     "homepage": "https://www.liberation.fr",
     "feed": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "lesechos",
@@ -733,9 +773,10 @@
     "tier": 2,
     "homepage": "https://www.lesechos.fr",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "leparisien",
@@ -751,9 +792,10 @@
     "tier": 2,
     "homepage": "https://www.leparisien.fr",
     "feed": "https://feeds.leparisien.fr/leparisien/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "ouestfrance",
@@ -769,9 +811,10 @@
     "tier": 2,
     "homepage": "https://www.ouest-france.fr",
     "feed": "https://www.ouest-france.fr/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "sudouest",
@@ -787,9 +830,10 @@
     "tier": 3,
     "homepage": "https://www.sudouest.fr",
     "feed": "https://www.sudouest.fr/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "ladepechedumidi",
@@ -805,9 +849,10 @@
     "tier": 3,
     "homepage": "https://www.ladepeche.fr",
     "feed": "https://www.ladepeche.fr/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "leprogres",
@@ -823,9 +868,10 @@
     "tier": 3,
     "homepage": "https://www.leprogres.fr",
     "feed": "https://www.leprogres.fr/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "monacomatin",
@@ -841,9 +887,10 @@
     "tier": 3,
     "homepage": "https://www.monacomatin.mc",
     "feed": "https://www.nicematin.com/monaco/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "elpais",
@@ -859,9 +906,10 @@
     "tier": 1,
     "homepage": "https://elpais.com",
     "feed": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "elmundo",
@@ -877,9 +925,10 @@
     "tier": 1,
     "homepage": "https://www.elmundo.es",
     "feed": "https://www.elmundo.es/rss/googlenews/portada.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "abc",
@@ -895,9 +944,10 @@
     "tier": 2,
     "homepage": "https://www.abc.es",
     "feed": "https://www.abc.es/rss/2.0/portada/",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "eldiarioes",
@@ -913,9 +963,10 @@
     "tier": 2,
     "homepage": "https://www.eldiario.es",
     "feed": "https://www.eldiario.es/rss/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "lavanguardia",
@@ -931,9 +982,10 @@
     "tier": 1,
     "homepage": "https://www.lavanguardia.com",
     "feed": "https://www.lavanguardia.com/rss/home.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "elperiodico",
@@ -949,9 +1001,10 @@
     "tier": 2,
     "homepage": "https://www.elperiodico.com",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "elcorreo",
@@ -967,9 +1020,10 @@
     "tier": 3,
     "homepage": "https://www.elcorreo.com",
     "feed": "https://www.elcorreo.com/rss/2.0/?section=",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "publico",
@@ -985,9 +1039,10 @@
     "tier": 1,
     "homepage": "https://www.publico.pt",
     "feed": "https://feeds.feedburner.com/PublicoRSS",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "diariodenoticias",
@@ -1003,9 +1058,10 @@
     "tier": 2,
     "homepage": "https://www.dn.pt",
     "feed": "https://www.dn.pt/feed",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "expresso",
@@ -1021,9 +1077,10 @@
     "tier": 2,
     "homepage": "https://expresso.pt",
     "feed": "https://feeds.feedburner.com/expresso-geral",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "jornaldenoticias",
@@ -1039,9 +1096,10 @@
     "tier": 2,
     "homepage": "https://www.jn.pt",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "diaridandorra",
@@ -1057,9 +1115,10 @@
     "tier": 3,
     "homepage": "https://www.diariandorra.ad",
     "feed": "https://www.diariandorra.ad/rss/home.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "corrieredellasera",
@@ -1075,9 +1134,10 @@
     "tier": 1,
     "homepage": "https://www.corriere.it",
     "feed": "https://xml2.corriereobjects.it/feed-hp/homepage-restyle-2025.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "larepubblica",
@@ -1093,9 +1153,10 @@
     "tier": 1,
     "homepage": "https://www.repubblica.it",
     "feed": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "lastampa",
@@ -1111,9 +1172,10 @@
     "tier": 1,
     "homepage": "https://www.lastampa.it",
     "feed": "https://www.lastampa.it/rss/copertina.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "ilsole24ore",
@@ -1129,9 +1191,10 @@
     "tier": 2,
     "homepage": "https://www.ilsole24ore.com",
     "feed": "https://www.ilsole24ore.com/rss/italia.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "ilmessaggero",
@@ -1147,9 +1210,10 @@
     "tier": 2,
     "homepage": "https://www.ilmessaggero.it",
     "feed": "https://www.ilmessaggero.it/rss/home.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "ilfattoquotidiano",
@@ -1165,9 +1229,10 @@
     "tier": 2,
     "homepage": "https://www.ilfattoquotidiano.it",
     "feed": "https://www.ilfattoquotidiano.it/feed/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "ilmattino",
@@ -1183,9 +1248,10 @@
     "tier": 3,
     "homepage": "https://www.ilmattino.it",
     "feed": "https://www.ilmattino.it/rss/home.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "timesofmalta",
@@ -1201,9 +1267,10 @@
     "tier": 2,
     "homepage": "https://timesofmalta.com",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "sanmarinortv",
@@ -1219,9 +1286,10 @@
     "tier": 3,
     "homepage": "https://www.sanmarinortv.sm",
     "feed": "https://www.sanmarinortv.sm/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "devolkskrant",
@@ -1237,9 +1305,10 @@
     "tier": 1,
     "homepage": "https://www.volkskrant.nl",
     "feed": "https://www.volkskrant.nl/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "nrc",
@@ -1255,9 +1324,10 @@
     "tier": 1,
     "homepage": "https://www.nrc.nl",
     "feed": "https://www.nrc.nl/rss/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "detelegraaf",
@@ -1273,9 +1343,10 @@
     "tier": 1,
     "homepage": "https://www.telegraaf.nl",
     "feed": "https://www.telegraaf.nl/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "trouw",
@@ -1291,9 +1362,10 @@
     "tier": 2,
     "homepage": "https://www.trouw.nl",
     "feed": "https://www.trouw.nl/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "ad",
@@ -1309,9 +1381,10 @@
     "tier": 2,
     "homepage": "https://www.ad.nl",
     "feed": "https://www.ad.nl/home/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "lesoir",
@@ -1327,9 +1400,10 @@
     "tier": 1,
     "homepage": "https://www.lesoir.be",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "lalibrebelgique",
@@ -1345,9 +1419,10 @@
     "tier": 2,
     "homepage": "https://www.lalibre.be",
     "feed": "https://www.lalibre.be/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "destandaard",
@@ -1363,9 +1438,10 @@
     "tier": 1,
     "homepage": "https://www.standaard.be",
     "feed": "https://www.standaard.be/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "hetlaatstenieuws",
@@ -1381,9 +1457,10 @@
     "tier": 2,
     "homepage": "https://www.hln.be",
     "feed": "https://www.hln.be/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "luxemburgerwort",
@@ -1399,9 +1476,10 @@
     "tier": 1,
     "homepage": "https://www.wort.lu",
     "feed": "https://www.wort.lu/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "politiken",
@@ -1417,9 +1495,10 @@
     "tier": 1,
     "homepage": "https://politiken.dk",
     "feed": "https://politiken.dk/rss/senestenyt.rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "berlingske",
@@ -1435,9 +1514,10 @@
     "tier": 1,
     "homepage": "https://www.berlingske.dk",
     "feed": "https://www.berlingske.dk/content/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "jyllandsposten",
@@ -1453,9 +1533,10 @@
     "tier": 2,
     "homepage": "https://jyllands-posten.dk",
     "feed": "https://feeds.jp.dk/jp/topnyheder",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "dagensnyheter",
@@ -1471,9 +1552,10 @@
     "tier": 1,
     "homepage": "https://www.dn.se",
     "feed": "https://www.dn.se/rss/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "svenskadagbladet",
@@ -1489,9 +1571,10 @@
     "tier": 1,
     "homepage": "https://www.svd.se",
     "feed": "https://www.svd.se/feed/articles.rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "aftonbladet",
@@ -1507,9 +1590,10 @@
     "tier": 2,
     "homepage": "https://www.aftonbladet.se",
     "feed": "https://www.aftonbladet.se/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "goteborgsposten",
@@ -1525,9 +1609,10 @@
     "tier": 2,
     "homepage": "https://www.gp.se",
     "feed": "https://feeds.acast.com/public/shows/6437b7ae6a454e0011a47678",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "sydsvenskan",
@@ -1543,9 +1628,10 @@
     "tier": 3,
     "homepage": "https://www.sydsvenskan.se",
     "feed": "https://www.sydsvenskan.se/feeds/feed.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "aftenposten",
@@ -1561,9 +1647,10 @@
     "tier": 1,
     "homepage": "https://www.aftenposten.no",
     "feed": "https://www.aftenposten.no/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "vg",
@@ -1579,9 +1666,10 @@
     "tier": 1,
     "homepage": "https://www.vg.no",
     "feed": "https://www.vg.no/rss/feed/?format=rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "dagbladet",
@@ -1597,9 +1685,10 @@
     "tier": 2,
     "homepage": "https://www.dagbladet.no",
     "feed": "https://www.dagbladet.no/?lab_viewport=rss",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "bergenstidende",
@@ -1615,9 +1704,10 @@
     "tier": 3,
     "homepage": "https://www.bt.no",
     "feed": "https://www.bt.no/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "helsinginsanomat",
@@ -1633,9 +1723,10 @@
     "tier": 1,
     "homepage": "https://www.hs.fi",
     "feed": "http://www.hs.fi/rss/teasers/etusivu.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "iltasanomat",
@@ -1651,9 +1742,10 @@
     "tier": 2,
     "homepage": "https://www.is.fi",
     "feed": "https://www.is.fi/rss/tuoreimmat.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "hufvudstadsbladet",
@@ -1669,9 +1761,10 @@
     "tier": 3,
     "homepage": "https://www.hbl.fi",
     "feed": "https://www.hbl.fi/feeds/feed.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "aamulehti",
@@ -1687,9 +1780,10 @@
     "tier": 3,
     "homepage": "https://www.aamulehti.fi",
     "feed": "https://www.aamulehti.fi/rss/uutiset.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "morgunbladid",
@@ -1705,9 +1799,10 @@
     "tier": 1,
     "homepage": "https://www.mbl.is",
     "feed": "https://www.mbl.is/feeds/fp/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "postimees",
@@ -1723,9 +1818,10 @@
     "tier": 1,
     "homepage": "https://www.postimees.ee",
     "feed": "https://www.postimees.ee/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "diena",
@@ -1741,9 +1837,10 @@
     "tier": 1,
     "homepage": "https://www.diena.lv",
     "feed": "https://diena.lv/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "lietuvosrytas",
@@ -1759,9 +1856,10 @@
     "tier": 1,
     "homepage": "https://www.lrytas.lt",
     "feed": "https://www.lrytas.lt/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "gazetawyborcza",
@@ -1777,9 +1875,10 @@
     "tier": 1,
     "homepage": "https://wyborcza.pl",
     "feed": "https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "rzeczpospolita",
@@ -1795,9 +1894,10 @@
     "tier": 1,
     "homepage": "https://www.rp.pl",
     "feed": "https://www.rp.pl/rss_main",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "fakt",
@@ -1813,9 +1913,10 @@
     "tier": 2,
     "homepage": "https://www.fakt.pl",
     "feed": "https://www.fakt.pl/rss-articles.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "dziennikpolski",
@@ -1831,9 +1932,10 @@
     "tier": 3,
     "homepage": "https://dziennikpolski24.pl",
     "feed": "https://dziennikpolski24.pl/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "mladafrontadnes",
@@ -1849,9 +1951,10 @@
     "tier": 1,
     "homepage": "https://www.idnes.cz",
     "feed": "https://servis.idnes.cz/rss.aspx",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "hospodarskenoviny",
@@ -1867,9 +1970,10 @@
     "tier": 2,
     "homepage": "https://hn.cz",
     "feed": "https://hn.cz/?m=rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "denikn",
@@ -1885,9 +1989,10 @@
     "tier": 2,
     "homepage": "https://denikn.cz",
     "feed": "https://denikn.cz/feed/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "lidovenoviny",
@@ -1903,9 +2008,10 @@
     "tier": 2,
     "homepage": "https://www.lidovky.cz",
     "feed": "https://servis.idnes.cz/rss.aspx",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "sme",
@@ -1921,9 +2027,10 @@
     "tier": 1,
     "homepage": "https://www.sme.sk",
     "feed": "https://www.sme.sk/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "dennikn",
@@ -1939,9 +2046,10 @@
     "tier": 2,
     "homepage": "https://dennikn.sk",
     "feed": "https://dennikn.sk/feed/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "pravda",
@@ -1957,9 +2065,10 @@
     "tier": 2,
     "homepage": "https://www.pravda.sk",
     "feed": "https://spravy.pravda.sk/rss/xml/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "nepszava",
@@ -1975,9 +2084,10 @@
     "tier": 1,
     "homepage": "https://nepszava.hu",
     "feed": "https://nepszava.hu/feed",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "magyarnemzet",
@@ -1993,9 +2103,10 @@
     "tier": 1,
     "homepage": "https://magyarnemzet.hu",
     "feed": "https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "telex",
@@ -2011,9 +2122,10 @@
     "tier": 2,
     "homepage": "https://telex.hu",
     "feed": "https://telex.hu/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "hvg",
@@ -2029,9 +2141,10 @@
     "tier": 2,
     "homepage": "https://hvg.hu",
     "feed": "https://hvg.hu/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "delo",
@@ -2047,9 +2160,10 @@
     "tier": 1,
     "homepage": "https://www.delo.si",
     "feed": "https://www.delo.si/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "vecer",
@@ -2065,9 +2179,10 @@
     "tier": 3,
     "homepage": "https://vecer.com",
     "feed": "https://vecer.com/sitemaps/articles.xml",
+    "feed_format": "news_sitemap",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "news_sitemap"
+    "note_source": ""
   },
   {
     "id": "jutarnjilist",
@@ -2083,9 +2198,10 @@
     "tier": 1,
     "homepage": "https://www.jutarnji.hr",
     "feed": "https://www.jutarnji.hr/feed",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "vecernjilist",
@@ -2101,9 +2217,10 @@
     "tier": 2,
     "homepage": "https://www.vecernji.hr",
     "feed": "https://www.vecernji.hr/feeds/latest",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "slobodnadalmacija",
@@ -2119,9 +2236,10 @@
     "tier": 3,
     "homepage": "https://slobodnadalmacija.hr",
     "feed": "https://slobodnadalmacija.hr/feed",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "oslobodjenje",
@@ -2137,9 +2255,10 @@
     "tier": 1,
     "homepage": "https://www.oslobodjenje.ba",
     "feed": "https://www.oslobodjenje.ba/rss.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "dnevniavaz",
@@ -2155,9 +2274,10 @@
     "tier": 2,
     "homepage": "https://avaz.ba",
     "feed": "https://avaz.ba/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "politika",
@@ -2173,9 +2293,10 @@
     "tier": 1,
     "homepage": "https://www.politika.rs",
     "feed": "https://www.politika.rs/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "danas",
@@ -2191,9 +2312,10 @@
     "tier": 2,
     "homepage": "https://www.danas.rs",
     "feed": "https://www.danas.rs/feed/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "blic",
@@ -2209,9 +2331,10 @@
     "tier": 2,
     "homepage": "https://www.blic.rs",
     "feed": "https://www.blic.rs/rss/danasnje-vesti",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "vijesti",
@@ -2227,9 +2350,10 @@
     "tier": 1,
     "homepage": "https://www.vijesti.me",
     "feed": "https://www.vijesti.me/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "kohaditore",
@@ -2245,9 +2369,10 @@
     "tier": 1,
     "homepage": "https://www.koha.net",
     "feed": "https://www.koha.net/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "panorama",
@@ -2263,9 +2388,10 @@
     "tier": 1,
     "homepage": "https://www.panorama.com.al",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "novamakedonija",
@@ -2281,9 +2407,10 @@
     "tier": 1,
     "homepage": "https://www.novamakedonija.com.mk",
     "feed": "https://novamakedonija.com.mk/feed/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "kathimerini",
@@ -2299,9 +2426,10 @@
     "tier": 1,
     "homepage": "https://www.kathimerini.gr",
     "feed": "https://www.kathimerini.gr/infeeds/rss/nx-rss-feed.xml",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "tanea",
@@ -2317,9 +2445,10 @@
     "tier": 2,
     "homepage": "https://www.tanea.gr",
     "feed": "https://www.tanea.gr/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "tovima",
@@ -2335,9 +2464,10 @@
     "tier": 2,
     "homepage": "https://www.tovima.gr",
     "feed": "https://www.tovima.gr/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "phileleftheros",
@@ -2353,9 +2483,10 @@
     "tier": 1,
     "homepage": "https://www.philenews.com",
     "feed": "https://www.philenews.com/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "cyprusmail",
@@ -2371,9 +2502,10 @@
     "tier": 2,
     "homepage": "https://cyprus-mail.com",
     "feed": "https://cyprus-mail.com/feed",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "dnevnik",
@@ -2389,9 +2521,10 @@
     "tier": 1,
     "homepage": "https://www.dnevnik.bg",
     "feed": "https://www.dnevnik.bg/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "24chasa",
@@ -2407,9 +2540,10 @@
     "tier": 2,
     "homepage": "https://www.24chasa.bg",
     "feed": "https://www.24chasa.bg/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "trud",
@@ -2425,9 +2559,10 @@
     "tier": 2,
     "homepage": "https://trud.bg",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "",
-    "feed_format": ""
+    "note_source": ""
   },
   {
     "id": "adevarul",
@@ -2443,9 +2578,10 @@
     "tier": 1,
     "homepage": "https://adevarul.ro",
     "feed": "https://adevarul.ro/rss/index",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "libertatea",
@@ -2461,9 +2597,10 @@
     "tier": 2,
     "homepage": "https://www.libertatea.ro",
     "feed": "https://www.libertatea.ro/feed",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "gandul",
@@ -2479,9 +2616,10 @@
     "tier": 2,
     "homepage": "https://www.gandul.ro",
     "feed": "https://www.gandul.ro/feed",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "ziaruldegarda",
@@ -2497,9 +2635,10 @@
     "tier": 2,
     "homepage": "https://www.zdg.md",
     "feed": "https://www.zdg.md/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "ukrainskapravda",
@@ -2515,9 +2654,10 @@
     "tier": 1,
     "homepage": "https://www.pravda.com.ua",
     "feed": "https://www.pravda.com.ua/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "thekyivindependent",
@@ -2533,9 +2673,10 @@
     "tier": 1,
     "homepage": "https://kyivindependent.com",
     "feed": "https://kyivindependent.com/news-archive/rss/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "dzerkalotyzhnia",
@@ -2551,9 +2692,10 @@
     "tier": 2,
     "homepage": "https://zn.ua",
     "feed": "https://zn.ua/ukr/rss/full/",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "vysokyizamok",
@@ -2569,9 +2711,10 @@
     "tier": 3,
     "homepage": "https://wz.lviv.ua",
     "feed": "https://wz.lviv.ua/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "hurriyet",
@@ -2587,9 +2730,10 @@
     "tier": 1,
     "homepage": "https://www.hurriyet.com.tr",
     "feed": "https://www.hurriyet.com.tr/rss/anasayfa",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "sabah",
@@ -2605,9 +2749,10 @@
     "tier": 1,
     "homepage": "https://www.sabah.com.tr",
     "feed": "https://www.sabah.com.tr/rss/anasayfa.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "sozcu",
@@ -2623,9 +2768,10 @@
     "tier": 2,
     "homepage": "https://www.sozcu.com.tr",
     "feed": "https://www.sozcu.com.tr/feeds/rsssubpub",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "cumhuriyet",
@@ -2641,9 +2787,10 @@
     "tier": 2,
     "homepage": "https://www.cumhuriyet.com.tr",
     "feed": "https://www.cumhuriyet.com.tr/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "kommersant",
@@ -2659,9 +2806,10 @@
     "tier": 1,
     "homepage": "https://www.kommersant.ru",
     "feed": "https://www.kommersant.ru/RSS/main.xml",
+    "feed_format": "rss",
     "feed_kind": "top",
     "note": "",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "rossiyskayagazeta",
@@ -2677,9 +2825,10 @@
     "tier": 2,
     "homepage": "https://rg.ru",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
-    "note": "",
-    "feed_format": ""
+    "note": "state",
+    "note_source": "https://www.wikidata.org/wiki/Q1853433"
   },
   {
     "id": "meduza",
@@ -2695,9 +2844,10 @@
     "tier": 1,
     "homepage": "https://meduza.io",
     "feed": "https://meduza.io/rss/all",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "exile",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "novayagazetaeurope",
@@ -2713,9 +2863,10 @@
     "tier": 2,
     "homepage": "https://novayagazeta.eu",
     "feed": "https://novayagazeta.eu/feed/rss",
+    "feed_format": "rss",
     "feed_kind": "latest",
     "note": "exile",
-    "feed_format": "rss"
+    "note_source": ""
   },
   {
     "id": "nashaniva",
@@ -2731,8 +2882,9 @@
     "tier": 1,
     "homepage": "https://nashaniva.com",
     "feed": "",
+    "feed_format": "",
     "feed_kind": "none",
     "note": "exile",
-    "feed_format": ""
+    "note_source": ""
   }
 ]

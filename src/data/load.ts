@@ -16,7 +16,10 @@ export interface Source {
   tier: Tier;
   homepage: string;
   feed_kind: FeedKind;
+  /** 'exile' | 'state' | '' – see CLAUDE.md, data model. */
   note: string;
+  /** Evidence for the note (URL), e.g. Wikidata ownership for 'state'. */
+  note_source?: string;
 }
 
 export interface Headline {

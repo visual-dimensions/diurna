@@ -837,6 +837,16 @@ body[data-view='list'] .topbar::before {
   color: var(--glow-mid);
 }
 
+.card__note--state {
+  color: var(--paper-2);
+}
+
+.card__notesource {
+  color: inherit;
+  text-underline-offset: 3px;
+  text-decoration-color: rgb(154 162 178 / 0.5);
+}
+
 .card__meta {
   display: flex;
   gap: 6px;
