@@ -27,7 +27,7 @@ function markSeen() {
 }
 
 /**
- * Fly from space to Europe while the newsrooms light up east → west.
+ * Fly from space to the visitor's region while the newsrooms light up east → west.
  * Any pointer, wheel or key input skips straight to the end state.
  * Total < 3 s.
  */

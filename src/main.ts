@@ -74,7 +74,19 @@ const ambientButton = app.querySelector<HTMLButtonElement>('.ambient-toggle')!;
 
 // ---------- Map ----------
 
-const HOME = { center: [15, 49] as [number, number], zoom: narrowQuery.matches ? 1.9 : 2.6 };
+/**
+ * Start over the visitor's own region – guessed from the browser's time zone only
+ * (no geolocation, nothing leaves the browser). Unknown zones start over Europe.
+ */
+function homeCenter(): [number, number] {
+  const tz = Intl.DateTimeFormat().resolvedOptions().timeZone ?? '';
+  if (/^(America|US|Canada)\//.test(tz)) return [-95, 42];
+  if (/^Australia\//.test(tz)) return [137, -28];
+  if (/^Pacific\/(Auckland|Chatham)/.test(tz)) return [172, -41];
+  if (/^Pacific\//.test(tz)) return [170, -15];
+  return [15, 49];
+}
+const HOME = { center: homeCenter(), zoom: narrowQuery.matches ? 1.9 : 2.6 };
 const withIntro = introWanted(reducedMotion, initialHash.length > 1);
 
 const map = new maplibregl.Map({
@@ -93,7 +105,7 @@ map.touchZoomRotate.disableRotation();
 if (import.meta.env.DEV) Object.assign(window, { __map: map });
 map
   .getCanvas()
-  .setAttribute('aria-label', 'Globe showing newsrooms across Europe. Use the search, or switch to the list view for every outlet and headline.');
+  .setAttribute('aria-label', 'Globe showing newsrooms around the world. Use the search, or switch to the list view for every outlet and headline.');
 
 const ambient = new Ambient(map, reducedMotion, () => (narrowQuery.matches ? 1.5 : 1.8));
 

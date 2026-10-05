@@ -358,6 +358,12 @@ Ziel: von ~150 Medien in Europa zu einigen Tausend weltweit – ohne die Prinzip
 - Gilt rückwirkend auch für Europa (z. B. Rossijskaja Gaseta, das offizielle Regierungsblatt Russlands).
 
 ### Schritt C – Regionale Wellen
+**Welle 1 (Nordamerika & Ozeanien) – übernommen 2026-10-05:** 265 Medien (US 169, CA 51, AU 30, NZ 12, PG 2, FJ 1), davon 212 mit Feed. Erkenntnisse:
+- US-Presse ist deutlich schwerer erreichbar als die europäische: Gannett hat RSS abgeschaltet, Tribune/News Corp AU blockieren (403), McClatchy läuft in Timeouts, einige Lokalblätter sperren Europa (451). Von 41 wichtigen Medien ohne Feed waren nur 3 von Hand zu retten.
+- Regel seitdem: Tier 1/2 ohne Feed bleiben (ausgegraut, Prinzip 4); **Tier 3 ohne Feed wird durch den nächsten Kandidaten ersetzt** (Feed als Auswahlkriterium für austauschbare Regionalblätter). Ausgeschiedene stehen mit Grund in `decisions.csv`.
+- Auch Nachrücker brauchen einen Blick: Diaspora-, Kirchen-, Uni- und Alternativblätter, und Hearst-Lokalblätter, deren Feed Agentur-Sportmeldungen statt Lokalnachrichten liefert.
+- Samoa/Tonga: keine Wikidata-Einträge – nur per Handrecherche.
+- Startansicht folgt der Zeitzone des Browsers (America/… → Nordamerika, Australia/… → Australien), ohne Standortabfrage.
 Jede Welle mit derselben Abnahme wie Phase 1/2 (Report geprüft, eine Woche Laufbetrieb) plus Schrift- und Übersetzungstest:
 1. Nordamerika & Ozeanien (Englisch, viele Feeds)
 2. Lateinamerika (Spanisch/Portugiesisch)

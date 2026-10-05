@@ -151,37 +151,37 @@ no,US,Under the Radar,,,http://www.undertheradarmag.com/,en,daily,2,,,Q7883372,6
 no,US,The Gateway Pundit,,,https://www.thegatewaypundit.com,en,online,2,,,Q30589935,6,political blog; fake news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,US,Accuracy in Media,,,http://www.aim.org/,en,online,2,,,Q4167245,6,nonprofit organization; news website; watchdog journalism,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 no,US,404 Media,,,https://www.404media.co/,en,online,2,,,Q123137716,6,media company; website; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
-yes,US,El Paso Times,El Paso,,http://elpasotimes.com/,en,daily,3,,,Q3720972,5,newspaper; website,31.7592,-106.4886,
+no,US,El Paso Times,El Paso,,http://elpasotimes.com/,en,daily,3,,,Q3720972,5,newspaper; website,31.7592,-106.4886,reviewed: regional outlet without a reachable feed – replaced
 yes,US,Las Vegas Sun,Las Vegas,,http://www.lasvegassun.com/,en,daily,3,,,Q4260860,5,newspaper,36.1672,-115.1486,
-yes,US,Akron Beacon Journal,Akron,,https://eu.beaconjournal.com/,en,daily,3,,,Q4701671,5,newspaper; website,41.0731,-81.5178,
-yes,US,Dayton Daily News,Dayton,,http://www.daytondailynews.com/,en,daily,3,,,Q5243517,5,newspaper; website,39.7667,-84.2000,
-yes,US,El Nuevo Herald,Miami,,http://www.elNuevoHerald.com/,es,daily,3,,,Q1324423,5,daily newspaper; newspaper,25.7742,-80.1936,
+no,US,Akron Beacon Journal,Akron,,https://eu.beaconjournal.com/,en,daily,3,,,Q4701671,5,newspaper; website,41.0731,-81.5178,reviewed: regional outlet without a reachable feed – replaced
+no,US,Dayton Daily News,Dayton,,http://www.daytondailynews.com/,en,daily,3,,,Q5243517,5,newspaper; website,39.7667,-84.2000,reviewed: regional outlet without a reachable feed – replaced
+no,US,El Nuevo Herald,Miami,,http://www.elNuevoHerald.com/,es,daily,3,,,Q1324423,5,daily newspaper; newspaper,25.7742,-80.1936,reviewed: regional outlet without a reachable feed – replaced
 no,US,New Yorker Staats-Zeitung,Sarasota,,http://www.germancorner.com/NYStaatsZ/,en,daily,3,,,Q1711033,5,newspaper,27.3372,-82.5353,not pre-selected: homepage is an archive
-yes,US,The Fresno Bee,Fresno,,https://www.fresnobee.com/,en,daily,3,,,Q7735278,5,newspaper,36.7817,-119.7922,
+no,US,The Fresno Bee,Fresno,,https://www.fresnobee.com/,en,daily,3,,,Q7735278,5,newspaper,36.7817,-119.7922,reviewed: regional outlet without a reachable feed – replaced
 yes,US,Baltimore Afro-American,Baltimore,,http://www.afro.com/,en,daily,3,,,Q2826234,5,newspaper,39.2864,-76.6150,
 no,US,Haïti Progrès,Port-au-Prince,HT,http://www.haitiprogres.com/,fr,daily,3,exile,,Q3128933,5,newspaper,18.5469,-72.3403,newsroom abroad (HT) – exile?; not pre-selected: newsroom abroad
 no,US,Houston Press,Houston,,http://www.houstonpress.com/,en,daily,3,,,Q3141398,5,newspaper,29.7628,-95.3831,reviewed: alternative weekly
-yes,US,The Modesto Bee,Modesto,,http://www.modbee.com/,en,daily,3,,,Q7751895,5,newspaper,37.6614,-120.9944,
-yes,US,Omaha World-Herald,Omaha,,https://omaha.com/,en,daily,3,,,Q7089470,5,newspaper; daily newspaper,41.2586,-95.9375,
+no,US,The Modesto Bee,Modesto,,http://www.modbee.com/,en,daily,3,,,Q7751895,5,newspaper,37.6614,-120.9944,reviewed: regional outlet without a reachable feed – replaced
+no,US,Omaha World-Herald,Omaha,,https://omaha.com/,en,daily,3,,,Q7089470,5,newspaper; daily newspaper,41.2586,-95.9375,reviewed: regional outlet without a reachable feed – replaced
 yes,US,Portland Press Herald,Portland,,http://pressherald.com,en,daily,3,,,Q7232009,5,newspaper,43.6600,-70.2550,
-yes,US,The Record,Hackensack,,http://northjersey.com/,en,daily,3,,,Q7759803,5,newspaper; website,40.8878,-74.0481,
-yes,US,Montgomery Advertiser,Montgomery,,http://www.montgomeryadvertiser.com/,en,daily,3,,,Q6905642,5,daily newspaper; newspaper; website,32.3675,-86.3000,
-yes,US,Richmond Times-Dispatch,Richmond,,http://www.richmond.com/,en,daily,3,,,Q7331013,5,newspaper; website,37.5408,-77.4367,
+no,US,The Record,Hackensack,,http://northjersey.com/,en,daily,3,,,Q7759803,5,newspaper; website,40.8878,-74.0481,reviewed: regional outlet without a reachable feed – replaced
+no,US,Montgomery Advertiser,Montgomery,,http://www.montgomeryadvertiser.com/,en,daily,3,,,Q6905642,5,daily newspaper; newspaper; website,32.3675,-86.3000,reviewed: regional outlet without a reachable feed – replaced
+no,US,Richmond Times-Dispatch,Richmond,,http://www.richmond.com/,en,daily,3,,,Q7331013,5,newspaper; website,37.5408,-77.4367,reviewed: regional outlet without a reachable feed – replaced
 yes,US,Washington City Paper,"Washington, D.C.",,http://washingtoncitypaper.com,en,daily,3,,,Q7971727,5,newspaper,38.8950,-77.0367,
-yes,US,Telegram & Gazette,Worcester,,https://www.telegram.com/,en,daily,3,,,Q7696200,5,newspaper; website,42.2714,-71.7989,
+no,US,Telegram & Gazette,Worcester,,https://www.telegram.com/,en,daily,3,,,Q7696200,5,newspaper; website,42.2714,-71.7989,reviewed: regional outlet without a reachable feed – replaced
 yes,US,The Birmingham News,Birmingham,,http://www.al.com/birmingham/,en,daily,3,,,Q7718111,5,daily newspaper; newspaper,33.5175,-86.8094,
 yes,US,New Pittsburgh Courier,Pittsburgh,,http://www.newpittsburghcourieronline.com/,en,daily,3,,,Q17071505,5,newspaper,40.4417,-80.0000,
 no,US,The Daily Signal,"Washington, D.C.",,http://www.dailysignal.com,en,online,3,,,Q19876693,5,newspaper; news website,38.8950,-77.0367,"types: daily, online; not pre-selected: magazine/online below tier 1"
-yes,US,The Commercial Appeal,Memphis,,http://www.commercialappeal.com/,en,daily,3,,,Q7726978,5,daily newspaper; website,35.1461,-90.0519,
-yes,US,Evansville Courier & Press,Evansville,,https://www.courierpress.com/,en,daily,3,,,Q5416030,5,daily newspaper; website,37.9747,-87.5558,
+no,US,The Commercial Appeal,Memphis,,http://www.commercialappeal.com/,en,daily,3,,,Q7726978,5,daily newspaper; website,35.1461,-90.0519,reviewed: regional outlet without a reachable feed – replaced
+no,US,Evansville Courier & Press,Evansville,,https://www.courierpress.com/,en,daily,3,,,Q5416030,5,daily newspaper; website,37.9747,-87.5558,reviewed: regional outlet without a reachable feed – replaced
 no,US,Compact,,,https://compactmag.com/,en,online,3,,,Q111937653,5,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,US,The Free Press,,,https://www.thefp.com/,en,online,3,,,Q116769322,5,media company; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 no,US,WorldNetDaily,,,https://www.wnd.com,en,online,3,,,Q3569943,5,online newspaper; news aggregation website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 yes,US,The Jewish Journal of Greater Los Angeles,Los Angeles,,http://www.jewishjournal.com,en,weekly,3,,,Q7743221,5,weekly newspaper,34.0522,-118.2437,
 no,US,Honolulu Star-Bulletin,Honolulu County,,http://starbulletin.com/,en,daily,3,,,Q3625579,5,newspaper,21.4667,-157.9667,reviewed: ceased 2010 (merged into Star-Advertiser)
-yes,US,The Morning Call,Allentown,,http://mcall.com/,en,daily,3,,,Q3910677,5,newspaper; website,40.6000,-75.4833,
-yes,US,Daily Herald,Arlington Heights,,https://dailyherald.com/,en,daily,3,,,Q5209265,5,newspaper; business,42.0950,-87.9808,language from country default
-yes,US,Reading Eagle,Reading,,http://www.readingeagle.com/,en,daily,3,,,Q7300500,5,newspaper; website,40.3417,-75.9261,
+no,US,The Morning Call,Allentown,,http://mcall.com/,en,daily,3,,,Q3910677,5,newspaper; website,40.6000,-75.4833,reviewed: regional outlet without a reachable feed – replaced
+no,US,Daily Herald,Arlington Heights,,https://dailyherald.com/,en,daily,3,,,Q5209265,5,newspaper; business,42.0950,-87.9808,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Reading Eagle,Reading,,http://www.readingeagle.com/,en,daily,3,,,Q7300500,5,newspaper; website,40.3417,-75.9261,reviewed: regional outlet without a reachable feed – replaced
 no,US,The Ukrainian Weekly,,,http://www.ukrweekly.com/,en,daily,3,,,Q12072719,5,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,US,The Chronicle of Philanthropy,,,https://www.philanthropy.com/,en,daily,3,,,Q7722802,5,newspaper; magazine,,,no place of publication/headquarters in Wikidata – fill in city
 no,US,The Evening World,New York City,,http://www.loc.gov/chroniclingamerica/lccn/sn83030193/issues,en,daily,3,,,Q7732652,5,newspaper,40.7128,-74.0061,not pre-selected: homepage is an archive
@@ -191,181 +191,181 @@ no,US,Elite Daily,,,http://www.elitedaily.com/,en,online,3,,,Q21189375,5,website
 no,US,MMA Fighting,,,https://www.mmafighting.com/,en,online,3,,,Q55621575,5,podcast show; database; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,US,Seattle Weekly,Seattle,,https://www.seattleweekly.com/,en,daily,3,,,Q861430,4,newspaper,47.6050,-122.3300,reviewed: ceased 2020
 no,US,דער איד,ניו יארק,,http://www.deryid.org/,yi,daily,3,,,Q3569515,4,newspaper,40.7128,-74.0061,reviewed: community paper (Yiddish)
-yes,US,The Jackson Sun,Jackson,,http://Jacksonsun.com,en,daily,3,,,Q4051135,4,newspaper,35.6144,-88.8178,language from country default
+no,US,The Jackson Sun,Jackson,,http://Jacksonsun.com,en,daily,3,,,Q4051135,4,newspaper,35.6144,-88.8178,reviewed: regional outlet without a reachable feed – replaced; language from country default
 no,US,City Pages,Minneapolis,,https://citypages.com/,en,daily,3,,,Q5123343,4,newspaper,44.9819,-93.2692,reviewed: ceased 2020
-yes,US,The Courier-News,Bridgewater Township,,http://MyCentralJersey.com/,en,daily,3,,,Q5178140,4,newspaper; serial; website,40.5931,-74.6047,
+no,US,The Courier-News,Bridgewater Township,,http://MyCentralJersey.com/,en,daily,3,,,Q5178140,4,newspaper; serial; website,40.5931,-74.6047,reviewed: regional outlet without a reachable feed – replaced
 no,US,Arizona Silver Belt,Globe,,https://silverbelt.com/,en,weekly,3,,,Q4791398,4,weekly newspaper; newspaper,33.3997,-110.7817,"reviewed: very small weekly; types: daily, weekly"
-yes,US,Asbury Park Press,Neptune City,,https://app.com/,en,daily,3,,,Q4803751,4,newspaper; website,40.2002,-74.0336,
+no,US,Asbury Park Press,Neptune City,,https://app.com/,en,daily,3,,,Q4803751,4,newspaper; website,40.2002,-74.0336,reviewed: regional outlet without a reachable feed – replaced
 no,US,Dallas Observer,Dallas,,http://www.dallasobserver.com/,en,daily,3,,,Q5211375,4,newspaper,32.7792,-96.8089,reviewed: alternative weekly
 no,US,Draugas (laikraštis),Čikaga,,http://www.draugas.org,lt,daily,3,,,Q5305930,4,newspaper,41.8819,-87.6278,reviewed: diaspora paper (Lithuanian)
 no,US,El Mundo,San Juan,,http://ufdc.ufl.edu/CA03599022/00478,es,daily,3,,,Q5351656,4,newspaper,18.4653,-66.1167,not pre-selected: homepage is an archive
-yes,US,Winston-Salem Journal,Winston-Salem,,http://www.journalnow.com/,en,daily,3,,,Q962388,4,daily newspaper; newspaper,36.1025,-80.2606,
+no,US,Winston-Salem Journal,Winston-Salem,,http://www.journalnow.com/,en,daily,3,,,Q962388,4,daily newspaper; newspaper,36.1025,-80.2606,reviewed: regional outlet without a reachable feed – replaced
 no,US,The Recycler,,,https://recycler.com/,en,daily,3,,,Q1091594,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-yes,US,Corpus Christi Caller-Times,Corpus Christi,,http://www.caller.com/,en,daily,3,,,Q1135130,4,daily newspaper; newspaper; website,27.7428,-97.4019,
+no,US,Corpus Christi Caller-Times,Corpus Christi,,http://www.caller.com/,en,daily,3,,,Q1135130,4,daily newspaper; newspaper; website,27.7428,-97.4019,reviewed: regional outlet without a reachable feed – replaced
 no,US,Las Vegas Weekly,Las Vegas,,http://lasvegasweekly.com/,en,daily,3,,,Q1270762,4,newspaper,36.1672,-115.1486,reviewed: alternative weekly; language from country default
 no,US,Gazette of the United States,Philadelphia,,http://infoweb.newsbank.com/?db=EANX&s_browseRef=decades/109216BF6CAD39B0/all.xml,en,daily,3,,,Q1496634,4,newspaper,39.9528,-75.1636,not pre-selected: homepage is an archive
 yes,US,Pasadena Star-News,Pasadena,,http://pasadenastarnews.com,en,daily,3,,,Q3235218,4,newspaper,34.1475,-118.1439,
-yes,US,The Burlington Free Press,Burlington,,http://www.burlingtonfreepress.com/,en,daily,3,,,Q3520162,4,daily newspaper; newspaper; website,44.4761,-73.2131,
-yes,US,The Columbus Dispatch,Columbus,,http://dispatch.com,en,daily,3,,,Q3520347,4,daily newspaper; newspaper; website,39.9622,-83.0006,
-yes,US,Florida Times-Union,Jacksonville,,http://jacksonville.com/,en,daily,3,,,Q3520924,4,daily newspaper; newspaper; website,30.3167,-81.6500,
+no,US,The Burlington Free Press,Burlington,,http://www.burlingtonfreepress.com/,en,daily,3,,,Q3520162,4,daily newspaper; newspaper; website,44.4761,-73.2131,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Columbus Dispatch,Columbus,,http://dispatch.com,en,daily,3,,,Q3520347,4,daily newspaper; newspaper; website,39.9622,-83.0006,reviewed: regional outlet without a reachable feed – replaced
+no,US,Florida Times-Union,Jacksonville,,http://jacksonville.com/,en,daily,3,,,Q3520924,4,daily newspaper; newspaper; website,30.3167,-81.6500,reviewed: regional outlet without a reachable feed – replaced
 no,US,Socialist Worker,London,GB,https://socialistworker.co.uk/,en,daily,3,exile,,Q4049684,4,socialist newspaper,51.5072,-0.1275,newsroom abroad (GB) – exile?; not pre-selected: newsroom abroad
 no,US,Washington Hispanic,Silver Spring,,http://www.washingtonhispanic.com/,es,daily,3,,,Q6166493,4,newspaper,39.0024,-77.0208,reviewed: small community paper
-yes,US,The Desert Sun,Palm Springs,,http://desertsun.com,en,daily,3,,,Q7729814,4,newspaper; website,33.8239,-116.5303,language from country default
-yes,US,The Gazette,Colorado Springs,,http://gazette.com/,en,daily,3,,,Q7736011,4,daily newspaper; newspaper; website,38.8633,-104.7919,
-yes,US,The Augusta Chronicle,Augusta,,http://chronicle.augusta.com/,en,daily,3,,,Q2065751,4,newspaper; website,33.4700,-81.9750,
+no,US,The Desert Sun,Palm Springs,,http://desertsun.com,en,daily,3,,,Q7729814,4,newspaper; website,33.8239,-116.5303,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,The Gazette,Colorado Springs,,http://gazette.com/,en,daily,3,,,Q7736011,4,daily newspaper; newspaper; website,38.8633,-104.7919,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Augusta Chronicle,Augusta,,http://chronicle.augusta.com/,en,daily,3,,,Q2065751,4,newspaper; website,33.4700,-81.9750,reviewed: regional outlet without a reachable feed – replaced
 no,US,Defense News,Tysons,,http://www.defensenews.com/,en,daily,3,,,Q3021206,4,newspaper; magazine,38.9186,-77.2297,reviewed: defence trade publication
-yes,US,Knoxville News Sentinel,Knoxville,,http://www.knoxnews.com/,en,daily,3,,,Q3198071,4,daily newspaper; newspaper; website,35.9617,-83.9233,
-yes,US,The Press-Enterprise,Riverside,,http://www.pe.com/,en,daily,3,,,Q7758089,4,daily newspaper; newspaper,33.9822,-117.3725,
-yes,US,The Press of Atlantic City,Pleasantville,,http://www.pressofatlanticcity.com,en,daily,3,,,Q7758096,4,newspaper,39.3888,-74.5143,
+no,US,Knoxville News Sentinel,Knoxville,,http://www.knoxnews.com/,en,daily,3,,,Q3198071,4,daily newspaper; newspaper; website,35.9617,-83.9233,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Press-Enterprise,Riverside,,http://www.pe.com/,en,daily,3,,,Q7758089,4,daily newspaper; newspaper,33.9822,-117.3725,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Press of Atlantic City,Pleasantville,,http://www.pressofatlanticcity.com,en,daily,3,,,Q7758096,4,newspaper,39.3888,-74.5143,reviewed: regional outlet without a reachable feed – replaced
 no,US,OC Weekly,Fountain Valley,,http://ocweekly.com/,en,daily,3,,,Q7072409,4,newspaper,33.7086,-117.9563,reviewed: ceased 2019
 no,US,The Washington Informer,"Washington, D.C.",,https://www.washingtoninformer.com/,en,daily,3,,,Q7773641,4,newspaper,38.8950,-77.0367,
-yes,US,The Sheboygan Press,Sheboygan,,http://www.sheboyganpress.com,en,daily,3,,,Q7763735,4,newspaper; website,43.7500,-87.7250,
+no,US,The Sheboygan Press,Sheboygan,,http://www.sheboyganpress.com,en,daily,3,,,Q7763735,4,newspaper; website,43.7500,-87.7250,reviewed: regional outlet without a reachable feed – replaced
 yes,US,The Spokesman-Review,Spokane,,http://spokesman.com/,en,daily,3,,,Q7765988,4,newspaper,47.6928,-116.7800,reviewed: city: newsroom is in Spokane
-yes,US,The Times,Shreveport,,https://www.shreveporttimes.com/,en,daily,3,,,Q7769391,4,newspaper; website,32.5081,-93.7628,
+no,US,The Times,Shreveport,,https://www.shreveporttimes.com/,en,daily,3,,,Q7769391,4,newspaper; website,32.5081,-93.7628,reviewed: regional outlet without a reachable feed – replaced
 no,US,Navy Times,Springfield,,http://www.navytimes.com/,en,daily,3,,,Q6982690,4,newspaper,38.7886,-77.1794,reviewed: military paper
-yes,US,Lincoln Journal Star,Lincoln,,https://journalstar.com/,en,daily,3,,,Q6550788,4,newspaper,40.8092,-96.6781,
-yes,US,Mail Tribune,Medford,,https://mailtribune.com/,en,daily,3,,,Q6735705,4,newspaper,42.3319,-122.8617,
+no,US,Lincoln Journal Star,Lincoln,,https://journalstar.com/,en,daily,3,,,Q6550788,4,newspaper,40.8092,-96.6781,reviewed: regional outlet without a reachable feed – replaced
+no,US,Mail Tribune,Medford,,https://mailtribune.com/,en,daily,3,,,Q6735705,4,newspaper,42.3319,-122.8617,reviewed: regional outlet without a reachable feed – replaced
 no,US,Massis,Pasadena,,http://massisweekly.com/,en,daily,3,,,Q6784787,4,newspaper,34.1475,-118.1439,reviewed: diaspora paper (Armenian)
-yes,US,Reno Gazette-Journal,Reno,,http://www.rgj.com/,en,daily,3,,,Q7313391,4,newspaper; website,39.5261,-119.8125,
-yes,US,Star-Gazette,Elmira,,http://www.stargazette.com,en,daily,3,,,Q7600511,4,newspaper,42.0853,-76.8092,language from country default
+no,US,Reno Gazette-Journal,Reno,,http://www.rgj.com/,en,daily,3,,,Q7313391,4,newspaper; website,39.5261,-119.8125,reviewed: regional outlet without a reachable feed – replaced
+no,US,Star-Gazette,Elmira,,http://www.stargazette.com,en,daily,3,,,Q7600511,4,newspaper,42.0853,-76.8092,reviewed: regional outlet without a reachable feed – replaced; language from country default
 no,US,Street Roots,Portland,,http://www.streetroots.org/,en,daily,3,,,Q7622911,4,newspaper; periodical,45.5150,-122.6792,reviewed: street paper; language from country default
-yes,US,The Wichita Eagle,Wichita,,http://www.kansas.com/,en,daily,3,,,Q7774724,4,newspaper,37.6889,-97.3361,
-yes,US,The World,Coos Bay,,http://theworldlink.com/,en,daily,3,,,Q7775915,4,newspaper; periodical,43.3672,-124.2133,
-yes,US,Ventura County Star,Ventura,,http://www.vcstar.com/,en,daily,3,,,Q7920380,4,newspaper; website,34.2678,-119.2542,
-yes,US,Wisconsin State Journal,Madison,,https://madison.com,en,daily,3,,,Q8027325,4,daily newspaper; newspaper,43.0747,-89.3842,
+no,US,The Wichita Eagle,Wichita,,http://www.kansas.com/,en,daily,3,,,Q7774724,4,newspaper,37.6889,-97.3361,reviewed: regional outlet without a reachable feed – replaced
+no,US,The World,Coos Bay,,http://theworldlink.com/,en,daily,3,,,Q7775915,4,newspaper; periodical,43.3672,-124.2133,reviewed: regional outlet without a reachable feed – replaced
+no,US,Ventura County Star,Ventura,,http://www.vcstar.com/,en,daily,3,,,Q7920380,4,newspaper; website,34.2678,-119.2542,reviewed: regional outlet without a reachable feed – replaced
+no,US,Wisconsin State Journal,Madison,,https://madison.com,en,daily,3,,,Q8027325,4,daily newspaper; newspaper,43.0747,-89.3842,reviewed: regional outlet without a reachable feed – replaced
 no,US,Street Sense,"Washington, D.C.",,http://www.streetsense.org,en,daily,3,,,Q7622919,4,newspaper,38.8950,-77.0367,language from country default
 yes,US,The Albany Herald,Albany,,http://www.albanyherald.com/,en,daily,3,,,Q7712999,4,newspaper,31.5822,-84.1656,language from country default
 no,US,Իրատես,Երևան,AM,https://www.irates.am,hy,daily,3,exile,,Q11123578,4,newspaper,40.1814,44.5144,newsroom abroad (AM) – exile?; not pre-selected: newsroom abroad
 yes,US,Hawaii Tribune-Herald,Hilo,,https://www.hawaiitribune-herald.com/,en,daily,3,,,Q13447569,4,daily newspaper; newspaper,19.7056,-155.0858,
-yes,US,The Journal News,White Plains,,http://www.lohud.com/,en,daily,3,,,Q15059324,4,daily newspaper; newspaper,41.0325,-73.7667,
+no,US,The Journal News,White Plains,,http://www.lohud.com/,en,daily,3,,,Q15059324,4,daily newspaper; newspaper,41.0325,-73.7667,reviewed: regional outlet without a reachable feed – replaced
 yes,US,Albuquerque Journal,Albuquerque,,http://www.abqjournal.com/,en,daily,3,,,Q4712813,4,daily newspaper; local newspaper; website,35.0844,-106.6503,
 no,US,Semafor,,,https://www.semafor.com/,en,online,3,,,Q112966863,4,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,US,SFGATE,,,https://www.sfgate.com/,en,online,3,,,Q113022507,4,news website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 no,US,Hawaii News Now,,,http://www.hawaiinewsnow.com,en,online,3,,,Q16842281,4,online newspaper; news agency,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 no,US,Automotive News,,,http://www.autonews.com,en,daily,3,,,Q787918,4,newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city
-yes,US,Argus Leader,Sioux Falls,,http://argusleader.com,en,daily,3,,,Q4789787,4,newspaper; website,43.5461,-96.7314,
+no,US,Argus Leader,Sioux Falls,,http://argusleader.com,en,daily,3,,,Q4789787,4,newspaper; website,43.5461,-96.7314,reviewed: regional outlet without a reachable feed – replaced
 no,US,The Villager,New York City,,http://www.thevillager.com/,en,daily,3,,,Q3431433,4,newspaper,40.7128,-74.0061,
-yes,US,The Sun,Lowell,,http://lowellsun.com/,en,daily,3,,,Q2077538,4,newspaper; website,42.6394,-71.3147,language from country default
+no,US,The Sun,Lowell,,http://lowellsun.com/,en,daily,3,,,Q2077538,4,newspaper; website,42.6394,-71.3147,reviewed: regional outlet without a reachable feed – replaced; language from country default
 no,US,The New Hampshire Gazette,Portsmouth,,http://nhgazette.com/,en,daily,3,,,Q4051209,4,newspaper,43.0757,-70.7608,reviewed: satirical/historical title
 no,US,Real Change,Seattle,,http://www.realchangenews.org/,en,daily,3,,,Q7300864,4,newspaper,47.6050,-122.3300,reviewed: street paper; language from country default
-yes,US,Lexington Herald-Leader,Lexington,,https://www.kentucky.com/,en,daily,3,,,Q6537812,4,newspaper,38.0497,-84.4586,
+no,US,Lexington Herald-Leader,Lexington,,https://www.kentucky.com/,en,daily,3,,,Q6537812,4,newspaper,38.0497,-84.4586,reviewed: regional outlet without a reachable feed – replaced
 yes,US,New Hampshire Union Leader,Manchester,,http://unionleader.com/,en,daily,3,,,Q7008331,4,newspaper,42.9908,-71.4636,
 no,US,The New York Age,New York City,,https://thenewyorkage.com,en,daily,3,,,Q7013005,4,newspaper,40.7128,-74.0061,
 no,US,The Washington Herald,"Washington, D.C.",,https://newscomwc.newspapers.com/title_1374/The_Washington_Herald,en,daily,3,,,Q7971912,4,newspaper,38.8950,-77.0367,not pre-selected: homepage is an archive
 yes,US,The Grand Rapids Press,Grand Rapids,,http://www.mlive.com/grpress/,en,daily,3,,,Q3521103,4,daily newspaper,42.9633,-85.6678,
 no,US,Drop Site News,"Washington, D.C.",,https://www.dropsitenews.com/,en,online,3,,,Q127429085,4,news website; nonprofit organization,38.8950,-77.0367,not pre-selected: magazine/online below tier 1
 no,US,The Information,San Francisco,,https://www.theinformation.com/,en,online,3,,,Q30609005,4,company; news website,37.7750,-122.4194,language from country default; not pre-selected: magazine/online below tier 1
-yes,US,Asheville Citizen-Times,Asheville,,http://www.citizen-times.com/,en,daily,3,,,Q725212,3,newspaper; website,35.5956,-82.5519,
+no,US,Asheville Citizen-Times,Asheville,,http://www.citizen-times.com/,en,daily,3,,,Q725212,3,newspaper; website,35.5956,-82.5519,reviewed: regional outlet without a reachable feed – replaced
 yes,US,Staten Island Advance,Staten Island,,https://www.silive.com/,en,daily,3,,,Q737529,3,newspaper,40.5719,-74.1469,language from country default
 yes,US,Bay Area Reporter,San Francisco,,https://ebar.com,en,daily,3,,,Q812061,3,newspaper,37.7750,-122.4194,
-yes,US,Tuscaloosa News,Tuscaloosa,,https://www.tuscaloosanews.com/,en,daily,3,,,Q3989726,3,daily newspaper; newspaper,33.2067,-87.5347,
-yes,US,Columbia Daily Tribune,Columbia,,http://www.columbiatribune.com/,en,daily,3,,,Q5149683,3,newspaper,38.9517,-92.3341,
+no,US,Tuscaloosa News,Tuscaloosa,,https://www.tuscaloosanews.com/,en,daily,3,,,Q3989726,3,daily newspaper; newspaper,33.2067,-87.5347,reviewed: regional outlet without a reachable feed – replaced
+no,US,Columbia Daily Tribune,Columbia,,http://www.columbiatribune.com/,en,daily,3,,,Q5149683,3,newspaper,38.9517,-92.3341,reviewed: regional outlet without a reachable feed – replaced
 yes,US,Alaska Star,Eagle River,,https://www.alaskastar.com/,en,daily,3,,,Q4708607,3,newspaper,61.3214,-149.5680,language from country default
 no,US,American Banker,New York City,,https://www.americanbanker.com/,en,online,3,,,Q4743130,3,newspaper; online newspaper,40.7128,-74.0061,"types: daily, online; not pre-selected: magazine/online below tier 1"
 yes,US,Baltimore Jewish Times,Baltimore,,http://www.jewishtimes.com/,en,daily,3,,,Q4852884,3,newspaper,39.2864,-76.6150,
 yes,US,Daily Racing Form,Chicago,,http://www.drf.com,en,daily,3,,,Q5209350,3,newspaper,41.8819,-87.6278,
 yes,US,Daily Sitka Sentinel,Sitka,,http://sitkasentinel.com/,en,daily,3,,,Q5209365,3,daily newspaper; newspaper,57.0533,-135.3347,language from country default
-yes,US,Delaware County Daily Times,Upper Darby Township,,https://www.delcotimes.com/,en,daily,3,,,Q5253265,3,newspaper; website,39.9583,-75.3081,
-yes,US,Democrat and Chronicle,Rochester,,http://www.democratandchronicle.com/,en,daily,3,,,Q5255534,3,daily newspaper; newspaper; website,43.1656,-77.6114,
+no,US,Delaware County Daily Times,Upper Darby Township,,https://www.delcotimes.com/,en,daily,3,,,Q5253265,3,newspaper; website,39.9583,-75.3081,reviewed: regional outlet without a reachable feed – replaced
+no,US,Democrat and Chronicle,Rochester,,http://www.democratandchronicle.com/,en,daily,3,,,Q5255534,3,daily newspaper; newspaper; website,43.1656,-77.6114,reviewed: regional outlet without a reachable feed – replaced
 yes,US,East Oregonian,Pendleton,,http://www.eastoregonian.com,en,daily,3,,,Q5329086,3,newspaper; periodical,45.6697,-118.7914,
-yes,US,El Imparcial,San Juan,,http://www.imparcial.pr,es,daily,3,,,Q5351421,3,newspaper,18.4653,-66.1167,
-yes,US,The Courier-Journal,Louisville,,http://www.courier-journal.com/,en,daily,3,,,Q1567585,3,newspaper,38.2561,-85.7514,
+no,US,El Imparcial,San Juan,,http://www.imparcial.pr,es,daily,3,,,Q5351421,3,newspaper,18.4653,-66.1167,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Courier-Journal,Louisville,,http://www.courier-journal.com/,en,daily,3,,,Q1567585,3,newspaper,38.2561,-85.7514,reviewed: regional outlet without a reachable feed – replaced
 no,US,Willamette Week,Portland,,http://www.wweek.com/,en,daily,3,,,Q1750565,3,newspaper; periodical,45.5150,-122.6792,reviewed: alternative weekly
-yes,US,The Philadelphia Tribune,Philadelphia,,http://www.phillytrib.com/,en,daily,3,,,Q7182836,3,newspaper; African American newspaper; website,39.9528,-75.1636,
-yes,US,Great Falls Tribune,Great Falls,,http://www.greatfallstribune.com/,en,daily,3,,,Q5599170,3,newspaper; website,47.5036,-111.2864,
+no,US,The Philadelphia Tribune,Philadelphia,,http://www.phillytrib.com/,en,daily,3,,,Q7182836,3,newspaper; African American newspaper; website,39.9528,-75.1636,reviewed: regional outlet without a reachable feed – replaced
+no,US,Great Falls Tribune,Great Falls,,http://www.greatfallstribune.com/,en,daily,3,,,Q5599170,3,newspaper; website,47.5036,-111.2864,reviewed: regional outlet without a reachable feed – replaced
 no,US,Territorial Enterprise,Virginia City,,http://www.territorial-enterprise.com,en,daily,3,,,Q3518832,3,newspaper,39.3103,-119.6494,reviewed: historic title (19th century); language from country default
-yes,US,The Columbian,Vancouver,,https://www.columbian.com/,en,daily,3,,,Q3520345,3,newspaper,45.6311,-122.6717,
+no,US,The Columbian,Vancouver,,https://www.columbian.com/,en,daily,3,,,Q3520345,3,newspaper,45.6311,-122.6717,reviewed: regional outlet without a reachable feed – replaced
 no,US,The Stranger,Seattle,,https://www.thestranger.com/,en,daily,3,,,Q3522886,3,alternative newspaper; newspaper,47.6050,-122.3300,not pre-selected: alternative/religious paper
-yes,US,Ledger-Enquirer,Columbus,,http://www.ledger-enquirer.com/,en,daily,3,,,Q6512650,3,newspaper,32.4922,-84.9403,
+no,US,Ledger-Enquirer,Columbus,,http://www.ledger-enquirer.com/,en,daily,3,,,Q6512650,3,newspaper,32.4922,-84.9403,reviewed: regional outlet without a reachable feed – replaced
 no,US,Investor's Business Daily,Los Angeles,,http://www.investors.com/,en,online,3,,,Q6060911,3,newspaper; news website; website,34.0522,-118.2437,"types: daily, online; not pre-selected: magazine/online below tier 1"
-yes,US,Iowa City Press-Citizen,Iowa City,,http://www.press-citizen.com,en,daily,3,,,Q6064309,3,newspaper,41.6558,-91.5250,
+no,US,Iowa City Press-Citizen,Iowa City,,http://www.press-citizen.com,en,daily,3,,,Q6064309,3,newspaper,41.6558,-91.5250,reviewed: regional outlet without a reachable feed – replaced
 yes,US,Juneau Empire,Juneau,,http://juneauempire.com/,en,daily,3,,,Q6312479,3,daily newspaper; newspaper,58.3019,-134.4197,
 yes,US,Kennebec Journal,Augusta,,https://www.centralmaine.com/,en,daily,3,,,Q6389544,3,newspaper,44.3106,-69.7794,
-yes,US,Kokomo Tribune,Kokomo,,https://www.kokomotribune.com/,en,daily,3,,,Q6426766,3,newspaper,40.4822,-86.1317,language from country default
-yes,US,Lansing State Journal,Lansing,,http://www.lsj.com/,en,daily,3,,,Q6487485,3,newspaper; website,42.7335,-84.5467,language from country default
-yes,US,The Fayetteville Observer,Fayetteville,,http://www.fayobserver.com,en,daily,3,,,Q7733570,3,newspaper; website,35.0667,-78.9175,
+no,US,Kokomo Tribune,Kokomo,,https://www.kokomotribune.com/,en,daily,3,,,Q6426766,3,newspaper,40.4822,-86.1317,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Lansing State Journal,Lansing,,http://www.lsj.com/,en,daily,3,,,Q6487485,3,newspaper; website,42.7335,-84.5467,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,The Fayetteville Observer,Fayetteville,,http://www.fayobserver.com,en,daily,3,,,Q7733570,3,newspaper; website,35.0667,-78.9175,reviewed: regional outlet without a reachable feed – replaced
 yes,US,The Garden Island,Līhuʻe,,http://thegardenisland.com/,en,daily,3,,,Q7735822,3,newspaper,21.9747,-159.3656,
-yes,US,The Gettysburg Times,Gettysburg,,https://www.gettysburgtimes.com/,en,daily,3,,,Q7736245,3,daily newspaper; newspaper,39.8283,-77.2322,language from country default
-yes,US,Sarasota Herald-Tribune,Sarasota,,http://heraldtribune.com/,en,daily,3,,,Q2843705,3,daily newspaper; newspaper; website,27.3372,-82.5353,
-yes,US,Green Bay Press-Gazette,Green Bay,,http://greenbaypressgazette.com/,en,daily,3,,,Q3116075,3,daily newspaper; newspaper; website,44.5133,-88.0133,
+no,US,The Gettysburg Times,Gettysburg,,https://www.gettysburgtimes.com/,en,daily,3,,,Q7736245,3,daily newspaper; newspaper,39.8283,-77.2322,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Sarasota Herald-Tribune,Sarasota,,http://heraldtribune.com/,en,daily,3,,,Q2843705,3,daily newspaper; newspaper; website,27.3372,-82.5353,reviewed: regional outlet without a reachable feed – replaced
+no,US,Green Bay Press-Gazette,Green Bay,,http://greenbaypressgazette.com/,en,daily,3,,,Q3116075,3,daily newspaper; newspaper; website,44.5133,-88.0133,reviewed: regional outlet without a reachable feed – replaced
 no,US,Pacific Daily News,Hagåtña,,https://www.guampdn.com/,en,online,3,,,Q7122425,3,newspaper; tabloid; online newspaper,13.4833,144.7500,"types: daily, online; not pre-selected: magazine/online below tier 1"
 yes,US,The Call,Kansas City,,https://www.kccallnews.net/,en,daily,3,,,Q7720998,3,periodical; newspaper; African American newspaper,39.0500,-94.5833,
 yes,US,The Maui News,Wailuku,,http://www.mauinews.com/,en,daily,3,,,Q7750696,3,newspaper,20.8917,-156.5019,
 no,US,The New Northwest,Portland,,https://oregonnews.uoregon.edu/lccn/sn84022673/1871-05-05/ed-1/seq-1/,en,daily,3,,,Q7753694,3,newspaper,45.5150,-122.6792,reviewed: historic – homepage is an archive
-yes,US,The News & Observer,Raleigh,,https://www.newsobserver.com/,en,daily,3,,,Q7753904,3,newspaper; daily newspaper,35.7800,-78.6400,
+no,US,The News & Observer,Raleigh,,https://www.newsobserver.com/,en,daily,3,,,Q7753904,3,newspaper; daily newspaper,35.7800,-78.6400,reviewed: regional outlet without a reachable feed – replaced
 yes,US,Nome Nugget,Nome,,http://nomenugget.net/,en,daily,3,,,Q7754288,3,newspaper,64.5000,-165.4000,
 no,US,The Oregon Journal,Portland,,https://www.theoregonjournal.com,en,daily,3,,,Q7755324,3,newspaper,45.5150,-122.6792,reviewed: ceased 1982
 no,US,The Portland Mercury,Portland,,https://www.portlandmercury.com/,en,daily,3,,,Q7757816,3,newspaper; periodical,45.5150,-122.6792,reviewed: alternative weekly; language from country default
 yes,US,The Mining Journal,Marquette,,https://www.miningjournal.net/,en,daily,3,,,Q12005851,3,newspaper,46.5436,-87.3956,
-yes,US,Post and Courier,Charleston,,http://www.postandcourier.com/,en,daily,3,,,Q7757866,3,newspaper,32.7833,-79.9319,
+no,US,Post and Courier,Charleston,,http://www.postandcourier.com/,en,daily,3,,,Q7757866,3,newspaper,32.7833,-79.9319,reviewed: regional outlet without a reachable feed – replaced
 yes,US,News-Journal,Wilmington,,http://www.wnewsj.com/,en,daily,3,,,Q7019405,3,newspaper,39.4458,-83.8292,
-yes,US,Niagara Gazette,Niagara Falls,,http://www.niagara-gazette.com,en,daily,3,,,Q7023710,3,newspaper,43.0939,-79.0169,language from country default
+no,US,Niagara Gazette,Niagara Falls,,http://www.niagara-gazette.com,en,daily,3,,,Q7023710,3,newspaper,43.0939,-79.0169,reviewed: regional outlet without a reachable feed – replaced; language from country default
 no,US,Nowy Dziennik (Polish Daily News),Garfield,,https://dziennik.com/,pl,daily,3,,,Q7067036,3,daily newspaper; newspaper,40.8798,-74.1083,reviewed: diaspora paper (Polish)
 yes,US,Peninsula Clarion,Kenai,,https://www.peninsulaclarion.com/,en,daily,3,,,Q7162921,3,daily newspaper; newspaper,60.5544,-151.2583,language from country default
 no,US,Philadelphia Weekly,Philadelphia,,https://philadelphiaweekly.com/,en,daily,3,,,Q7182847,3,newspaper,39.9528,-75.1636,reviewed: alternative weekly
-yes,US,The Virginia Gazette,Williamsburg,,http://vagazette.com,en,daily,3,,,Q7772819,3,newspaper,37.2708,-76.7069,language from country default
-yes,US,The Register-Guard,Eugene,,https://www.registerguard.com/,en,daily,3,,,Q7760062,3,newspaper; periodical; website,44.0522,-123.0925,
-yes,US,The Republic,Columbus,,https://www.therepublic.com/,en,daily,3,,,Q7760230,3,newspaper,39.2140,-85.9111,
-yes,US,The Santa Fe New Mexican,Santa Fe,,https://www.santafenewmexican.com/,en,daily,3,,,Q7762258,3,newspaper; serial; newspaper building; combined facility,35.6667,-105.9667,
-no,US,The State,Columbia,,http://www.thestate.com/,en,daily,3,,,Q7766365,3,newspaper,34.0006,-81.0442,
-no,US,Marion County Record,Marion,,http://marionrecord.com,en,daily,3,,,Q6765146,3,newspaper,38.3489,-97.0158,
-no,US,Napa Valley Register,Napa,,https://napavalleyregister.com/,en,daily,3,,,Q6964800,3,daily newspaper; newspaper,38.3000,-122.3000,
-no,US,Record-Journal,Meriden,,http://www.myrecordjournal.com/,en,daily,3,,,Q7302815,3,newspaper,41.5367,-72.7947,language from country default
-no,US,Redlands Daily Facts,Redlands,,http://www.redlandsdailyfacts.com,en,daily,3,,,Q7306032,3,daily newspaper; newspaper,34.0547,-117.1825,
-no,US,Sioux City Journal,Sioux City,,http://siouxcityjournal.com,en,daily,3,,,Q7525449,3,newspaper,42.4981,-96.3956,
-no,US,Somerville Journal,Somerville,,https://wickedlocal.com/somerville,en,daily,3,,,Q7559976,3,newspaper; website,42.3875,-71.1000,language from country default
-no,US,St. Paul Pioneer Press,Saint Paul,,https://www.twincities.com/,en,daily,3,,,Q7591263,3,newspaper; website,44.9442,-93.0936,
-no,US,Statesman Journal,Salem,,http://statesmanjournal.com/,en,daily,3,,,Q7604055,3,newspaper; periodical; website,44.9400,-123.0389,
-no,US,Times Herald-Record,Middletown,,http://www.recordonline.com/,en,daily,3,,,Q7806534,3,newspaper; website,41.4503,-74.4175,
-no,US,Vaba Eesti Sõna,New York,,http://www.vabaeestisona.com/,et,daily,3,,,Q7907850,3,newspaper,40.7128,-74.0061,
-no,US,Washington Missourian,Washington,,http://emissourian.com,en,daily,3,,,Q7972060,3,newspaper,38.5519,-91.0133,language from country default
-no,US,Whittier Daily News,Whittier,,https://www.whittierdailynews.com/,en,daily,3,,,Q7996870,3,newspaper,33.9656,-118.0244,
-no,US,北美世界日報,北美地區,,http://www.worldjournal.com/,zh,daily,3,,,Q8035879,3,newspaper,,,
-no,US,The California Courier,Los Angeles,,https://thecaliforniacourier.com,en,daily,3,,,Q7720973,3,newspaper,34.0522,-118.2437,
+no,US,The Virginia Gazette,Williamsburg,,http://vagazette.com,en,daily,3,,,Q7772819,3,newspaper,37.2708,-76.7069,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,The Register-Guard,Eugene,,https://www.registerguard.com/,en,daily,3,,,Q7760062,3,newspaper; periodical; website,44.0522,-123.0925,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Republic,Columbus,,https://www.therepublic.com/,en,daily,3,,,Q7760230,3,newspaper,39.2140,-85.9111,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Santa Fe New Mexican,Santa Fe,,https://www.santafenewmexican.com/,en,daily,3,,,Q7762258,3,newspaper; serial; newspaper building; combined facility,35.6667,-105.9667,reviewed: regional outlet without a reachable feed – replaced
+no,US,The State,Columbia,,http://www.thestate.com/,en,daily,3,,,Q7766365,3,newspaper,34.0006,-81.0442,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Marion County Record,Marion,,http://marionrecord.com,en,daily,3,,,Q6765146,3,newspaper,38.3489,-97.0158,
+no,US,Napa Valley Register,Napa,,https://napavalleyregister.com/,en,daily,3,,,Q6964800,3,daily newspaper; newspaper,38.3000,-122.3000,reviewed: regional outlet without a reachable feed – replaced
+no,US,Record-Journal,Meriden,,http://www.myrecordjournal.com/,en,daily,3,,,Q7302815,3,newspaper,41.5367,-72.7947,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Redlands Daily Facts,Redlands,,http://www.redlandsdailyfacts.com,en,daily,3,,,Q7306032,3,daily newspaper; newspaper,34.0547,-117.1825,reviewed: regional outlet without a reachable feed – replaced
+no,US,Sioux City Journal,Sioux City,,http://siouxcityjournal.com,en,daily,3,,,Q7525449,3,newspaper,42.4981,-96.3956,reviewed: regional outlet without a reachable feed – replaced
+no,US,Somerville Journal,Somerville,,https://wickedlocal.com/somerville,en,daily,3,,,Q7559976,3,newspaper; website,42.3875,-71.1000,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,St. Paul Pioneer Press,Saint Paul,,https://www.twincities.com/,en,daily,3,,,Q7591263,3,newspaper; website,44.9442,-93.0936,reviewed: regional outlet without a reachable feed – replaced
+no,US,Statesman Journal,Salem,,http://statesmanjournal.com/,en,daily,3,,,Q7604055,3,newspaper; periodical; website,44.9400,-123.0389,reviewed: regional outlet without a reachable feed – replaced
+no,US,Times Herald-Record,Middletown,,http://www.recordonline.com/,en,daily,3,,,Q7806534,3,newspaper; website,41.4503,-74.4175,reviewed: regional outlet without a reachable feed – replaced
+no,US,Vaba Eesti Sõna,New York,,http://www.vabaeestisona.com/,et,daily,3,,,Q7907850,3,newspaper,40.7128,-74.0061,reviewed: diaspora paper (Estonian)
+yes,US,Washington Missourian,Washington,,http://emissourian.com,en,daily,3,,,Q7972060,3,newspaper,38.5519,-91.0133,language from country default
+yes,US,Whittier Daily News,Whittier,,https://www.whittierdailynews.com/,en,daily,3,,,Q7996870,3,newspaper,33.9656,-118.0244,
+yes,US,北美世界日報,北美地區,,http://www.worldjournal.com/,zh,daily,3,,,Q8035879,3,newspaper,,,
+no,US,The California Courier,Los Angeles,,https://thecaliforniacourier.com,en,daily,3,,,Q7720973,3,newspaper,34.0522,-118.2437,reviewed: diaspora paper (Armenian)
 no,US,The Christian Post,,,http://christianpost.com/,en,daily,3,,,Q7722722,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-no,US,The Citizens' Voice,Wilkes-Barre,,http://citizensvoice.com/,en,daily,3,,,Q7723138,3,newspaper; website,41.2444,-75.8781,
-no,US,News Journal,Pensacola,,http://www.pnj.com/,en,daily,3,,,Q10623215,3,newspaper; website,30.4214,-87.2172,
-no,US,Florida Today,Melbourne,,http://www.floridatoday.com/,en,daily,3,,,Q10912356,3,newspaper; website,28.0836,-80.6081,
-no,US,北米報知,シアトル,,http://www.napost.com/,ja,daily,3,,,Q11403930,3,newspaper,47.6050,-122.3300,
-no,US,Ludington Daily News,Ludington,,https://www.ludingtondailynews.com/,en,daily,3,,,Q17067906,3,newspaper,43.9553,-86.4525,language from country default
-no,US,The Pueblo Chieftain,Pueblo,,http://chieftain.com,en,daily,3,,,Q17076852,3,newspaper; website,38.2669,-104.6203,language from country default
-no,US,Telegraph Herald,Dubuque,,http://www.thonline.com,en,daily,3,,,Q17084869,3,newspaper,42.5043,-90.6869,
-no,US,Albert Lea Tribune,Albert Lea,,https://www.albertleatribune.com/,en,daily,3,,,Q16245582,3,newspaper,43.6479,-93.3688,
-no,US,Claremont Courier,Claremont,,https://www.claremont-courier.com/,en,daily,3,,,Q55665490,3,newspaper,34.1100,-117.7197,
-no,US,Loudoun Times-Mirror,Leesburg,,https://www.loudountimes.com/,en,daily,3,,,Q55671308,3,newspaper,39.1156,-77.5644,language from country default
-no,US,Oshkosh Northwestern,Oshkosh,,http://www.thenorthwestern.com/,en,daily,3,,,Q47260240,3,daily newspaper; business; newspaper; website,44.0242,-88.5611,
-no,US,Người Việt,Westminster,,http://nguoi-viet.com/,vi,daily,3,,,Q7022716,3,daily newspaper,33.7514,-117.9939,
-no,US,Saipan Tribune,Saipan,,https://www.saipantribune.com,en,daily,3,,,Q7402482,3,daily newspaper,15.1833,145.7500,language from country default
-no,US,News-Journal,Daytona Beach,,https://news-journalonline.com,en,daily,3,,,Q7729260,3,daily newspaper; website,29.2108,-81.0228,
-no,US,Nhật báo Viễn Đông,Westminster,,https://vien-dong.com/,vi,daily,3,,,Q7928280,3,daily newspaper,33.7514,-117.9939,
+no,US,The Citizens' Voice,Wilkes-Barre,,http://citizensvoice.com/,en,daily,3,,,Q7723138,3,newspaper; website,41.2444,-75.8781,reviewed: regional outlet without a reachable feed – replaced
+no,US,News Journal,Pensacola,,http://www.pnj.com/,en,daily,3,,,Q10623215,3,newspaper; website,30.4214,-87.2172,reviewed: regional outlet without a reachable feed – replaced
+no,US,Florida Today,Melbourne,,http://www.floridatoday.com/,en,daily,3,,,Q10912356,3,newspaper; website,28.0836,-80.6081,reviewed: regional outlet without a reachable feed – replaced
+no,US,北米報知,シアトル,,http://www.napost.com/,ja,daily,3,,,Q11403930,3,newspaper,47.6050,-122.3300,reviewed: regional outlet without a reachable feed – replaced
+no,US,Ludington Daily News,Ludington,,https://www.ludingtondailynews.com/,en,daily,3,,,Q17067906,3,newspaper,43.9553,-86.4525,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,The Pueblo Chieftain,Pueblo,,http://chieftain.com,en,daily,3,,,Q17076852,3,newspaper; website,38.2669,-104.6203,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Telegraph Herald,Dubuque,,http://www.thonline.com,en,daily,3,,,Q17084869,3,newspaper,42.5043,-90.6869,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Albert Lea Tribune,Albert Lea,,https://www.albertleatribune.com/,en,daily,3,,,Q16245582,3,newspaper,43.6479,-93.3688,
+yes,US,Claremont Courier,Claremont,,https://www.claremont-courier.com/,en,daily,3,,,Q55665490,3,newspaper,34.1100,-117.7197,
+no,US,Loudoun Times-Mirror,Leesburg,,https://www.loudountimes.com/,en,daily,3,,,Q55671308,3,newspaper,39.1156,-77.5644,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Oshkosh Northwestern,Oshkosh,,http://www.thenorthwestern.com/,en,daily,3,,,Q47260240,3,daily newspaper; business; newspaper; website,44.0242,-88.5611,reviewed: regional outlet without a reachable feed – replaced
+no,US,Người Việt,Westminster,,http://nguoi-viet.com/,vi,daily,3,,,Q7022716,3,daily newspaper,33.7514,-117.9939,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Saipan Tribune,Saipan,,https://www.saipantribune.com,en,daily,3,,,Q7402482,3,daily newspaper,15.1833,145.7500,language from country default
+no,US,News-Journal,Daytona Beach,,https://news-journalonline.com,en,daily,3,,,Q7729260,3,daily newspaper; website,29.2108,-81.0228,reviewed: regional outlet without a reachable feed – replaced
+no,US,Nhật báo Viễn Đông,Westminster,,https://vien-dong.com/,vi,daily,3,,,Q7928280,3,daily newspaper,33.7514,-117.9939,reviewed: diaspora paper (Vietnamese)
 no,US,China Digital Times,California,,https://chinadigitaltimes.net/,en,online,3,,,Q2526385,3,online newspaper; nonprofit organization,37.0000,-120.0000,not pre-selected: magazine/online below tier 1
 no,US,The Markup,New York City,,http://themarkup.org,en,online,3,,,Q57415575,3,nonprofit organization; online newspaper,40.7128,-74.0061,language from country default; not pre-selected: magazine/online below tier 1
 no,US,ClickHole,,,http://www.clickhole.com/,en,daily,3,,,Q18148919,3,website; satirical newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
 no,US,Dallas Voice,,,http://www.dallasvoice.com,en,daily,3,,,Q3012456,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,US,COINage,,,http://www.coinagemag.com/,en,daily,3,,,Q5013308,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-no,US,Call and Post,Cleveland,,http://www.callandpost.com,en,daily,3,,,Q5021600,3,newspaper,41.4992,-81.6947,
-no,US,Chattanooga Times Free Press,Chattanooga,,http://www.timesfreepress.com/,en,daily,3,,,Q5087898,3,newspaper; website,35.0456,-85.2672,
+yes,US,Call and Post,Cleveland,,http://www.callandpost.com,en,daily,3,,,Q5021600,3,newspaper,41.4992,-81.6947,
+no,US,Chattanooga Times Free Press,Chattanooga,,http://www.timesfreepress.com/,en,daily,3,,,Q5087898,3,newspaper; website,35.0456,-85.2672,reviewed: regional outlet without a reachable feed – replaced
 no,US,Coin World,,,http://www.coinworld.com/,en,daily,3,,,Q5141538,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-no,US,Globe,Boca Raton,,http://globemagazine.com,en,daily,3,,,Q5570970,3,newspaper,26.3686,-80.1000,
+no,US,Globe,Boca Raton,,http://globemagazine.com,en,daily,3,,,Q5570970,3,newspaper,26.3686,-80.1000,reviewed: regional outlet without a reachable feed – replaced
 no,US,Cleveland Jewish News,,,http://cjn.org/,en,daily,3,,,Q5132176,3,Jewish newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: alternative/religious paper
-no,US,The Journal Gazette,Fort Wayne,,http://www.journalgazette.net/,en,daily,3,,,Q7743551,3,newspaper; website,41.0804,-85.1392,
-no,US,The Korea Times,로스앤젤레스,,http://www.koreatimes.com/,ko,daily,3,,,Q7744926,3,newspaper,34.0522,-118.2437,
-no,US,The Mercury,Pottstown,,http://www.pottstownmercury.com/,en,daily,3,,,Q7751056,3,periodical; newspaper; website,40.2497,-75.6403,
-no,US,The Post-Standard,Syracuse,,http://www.syracuse.com/poststandard/,en,daily,3,,,Q7757854,3,newspaper,43.0469,-76.1444,language from country default
-no,US,The Ridgefield Press,Ridgefield,,http://theridgefieldpress.com,en,daily,3,,,Q7760717,3,newspaper,41.3053,-73.5014,
-no,US,Riverfront Times,St. Louis,,https://www.riverfronttimes.com/,en,weekly,3,,,Q7761036,3,newspaper; weekly newspaper,38.6264,-90.1994,"types: daily, weekly"
-no,US,Savannah Morning News,Savannah,,http://www.savannahnow.com/,en,daily,3,,,Q7427865,3,newspaper; website,32.0508,-81.1039,language from country default
+no,US,The Journal Gazette,Fort Wayne,,http://www.journalgazette.net/,en,daily,3,,,Q7743551,3,newspaper; website,41.0804,-85.1392,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Korea Times,로스앤젤레스,,http://www.koreatimes.com/,ko,daily,3,,,Q7744926,3,newspaper,34.0522,-118.2437,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Mercury,Pottstown,,http://www.pottstownmercury.com/,en,daily,3,,,Q7751056,3,periodical; newspaper; website,40.2497,-75.6403,reviewed: regional outlet without a reachable feed – replaced
+yes,US,The Post-Standard,Syracuse,,http://www.syracuse.com/poststandard/,en,daily,3,,,Q7757854,3,newspaper,43.0469,-76.1444,language from country default
+no,US,The Ridgefield Press,Ridgefield,,http://theridgefieldpress.com,en,daily,3,,,Q7760717,3,newspaper,41.3053,-73.5014,reviewed: feed carries agency sports wire instead of local news
+no,US,Riverfront Times,St. Louis,,https://www.riverfronttimes.com/,en,weekly,3,,,Q7761036,3,newspaper; weekly newspaper,38.6264,-90.1994,"reviewed: alternative weekly; types: daily, weekly"
+no,US,Savannah Morning News,Savannah,,http://www.savannahnow.com/,en,daily,3,,,Q7427865,3,newspaper; website,32.0508,-81.1039,reviewed: regional outlet without a reachable feed – replaced; language from country default
 no,US,The Texas Tribune,Austin,,https://www.texastribune.org/,en,online,3,,,Q7768599,3,newspaper; news website,30.3000,-97.7333,"types: daily, online; not pre-selected: magazine/online below tier 1"
-no,US,The Trentonian,Trenton,,http://www.trentonian.com/,en,daily,3,,,Q7770122,3,newspaper; website,40.2203,-74.7658,language from country default
-no,US,The Daily Item,Sunbury,,http://www.dailyitem.com/,en,daily,3,,,Q7728666,3,newspaper,40.8639,-76.7892,
-no,US,The Gazette,Cedar Rapids,,https://www.thegazette.com/,en,daily,3,,,Q7736007,3,newspaper,41.9833,-91.6686,
-no,US,The Herald-Mail,Hagerstown,,http://www.herald-mail.com/,en,daily,3,,,Q7739393,3,newspaper,39.6428,-77.7200,language from country default
-no,US,Nevada Appeal,Carson City,,https://www.nevadaappeal.com/,en,daily,3,,,Q7003349,3,newspaper,39.1608,-119.7539,
-no,US,Palm Beach Daily News,Palm Beach,,http://www.palmbeachdailynews.com,en,daily,3,,,Q7127989,3,newspaper,26.7056,-80.0364,language from country default
+no,US,The Trentonian,Trenton,,http://www.trentonian.com/,en,daily,3,,,Q7770122,3,newspaper; website,40.2203,-74.7658,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,The Daily Item,Sunbury,,http://www.dailyitem.com/,en,daily,3,,,Q7728666,3,newspaper,40.8639,-76.7892,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Gazette,Cedar Rapids,,https://www.thegazette.com/,en,daily,3,,,Q7736007,3,newspaper,41.9833,-91.6686,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Herald-Mail,Hagerstown,,http://www.herald-mail.com/,en,daily,3,,,Q7739393,3,newspaper,39.6428,-77.7200,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Nevada Appeal,Carson City,,https://www.nevadaappeal.com/,en,daily,3,,,Q7003349,3,newspaper,39.1608,-119.7539,reviewed: regional outlet without a reachable feed – replaced
+no,US,Palm Beach Daily News,Palm Beach,,http://www.palmbeachdailynews.com,en,daily,3,,,Q7127989,3,newspaper,26.7056,-80.0364,reviewed: regional outlet without a reachable feed – replaced; language from country default
 no,US,Current,,,http://www.current.org/,en,daily,3,,,Q16953299,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-no,US,Fremont Tribune,Fremont,,https://fremonttribune.com/,en,daily,3,,,Q25025301,3,newspaper,41.4397,-96.4900,
+no,US,Fremont Tribune,Fremont,,https://fremonttribune.com/,en,daily,3,,,Q25025301,3,newspaper,41.4397,-96.4900,reviewed: regional outlet without a reachable feed – replaced
 no,US,Glasgow Times,,,http://www.eveningtimes.co.uk,en,daily,3,,,Q5416645,3,daily newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city
-no,US,The Daily Courier,Prescott,,http://www.dcourier.com/,en,daily,3,,,Q7728640,3,daily newspaper; business,34.5400,-112.4685,
+no,US,The Daily Courier,Prescott,,http://www.dcourier.com/,en,daily,3,,,Q7728640,3,daily newspaper; business,34.5400,-112.4685,reviewed: regional outlet without a reachable feed – replaced
 no,US,The Tennessee Star,,,https://tennesseestar.com/,en,online,3,,,Q105753020,3,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,US,MIT News,Cambridge,,https://news.mit.edu/,en,online,3,,,Q109297304,3,news media; news website,42.3750,-71.1061,language from country default; not pre-selected: magazine/online below tier 1
 no,US,Outsports,,,https://www.outsports.com/,en,online,3,,,Q7113031,3,organization; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
@@ -375,164 +375,164 @@ no,US,The Marshall Project,,,https://www.themarshallproject.org/,en,online,3,,,Q
 no,US,Occupy Democrats,,,http://occupydemocrats.com,en,online,3,,,Q39058907,3,brand; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 no,US,Indian Country Today,"Washington, D.C.",,https://ictnews.org/,en,online,3,,,Q3150076,3,publishing house; news website,38.8950,-77.0367,language from country default; not pre-selected: magazine/online below tier 1
 no,US,Grist,Seattle,,https://grist.org/,en,magazine,3,,,Q5609664,3,website; magazine; nonprofit organization; news magazine,47.6050,-122.3300,language from country default; not pre-selected: magazine/online below tier 1
-no,US,The Everett Herald,Everett,,http://www.heraldnet.com/,en,daily,3,,,Q26877,2,newspaper,47.9633,-122.2006,language from country default
-no,US,Windy City Times,Chicago,,http://www.wctimes.com/,en,daily,3,,,Q3569310,2,newspaper,41.8819,-87.6278,
-no,US,Curry Coastal Pilot,Brookings,,http://www.currypilot.com/,en,daily,3,,,Q5195203,2,newspaper; periodical,42.0575,-124.2864,language from country default
-no,US,Daily Breeze,Torrance,,http://www.dailybreeze.com/,en,daily,3,,,Q5209227,2,daily newspaper; newspaper,33.8358,-118.3406,
-no,US,Canyon Courier,Evergreen,,https://www.canyoncourier.com/,en,daily,3,,,Q5034182,2,newspaper,39.6389,-105.3360,language from country default
-no,US,Capital City Weekly,Juneau,,http://www.capitalcityweekly.com/,en,daily,3,,,Q5035526,2,newspaper,58.3019,-134.4197,
-no,US,Casper Star-Tribune,Casper,,https://trib.com/,en,daily,3,,,Q5049095,2,newspaper,42.8347,-106.3250,
-no,US,Cecil Whig,Elkton,,https://www.cecildaily.com/,en,daily,3,,,Q5056353,2,newspaper,39.6078,-75.8297,
-no,US,Centre Daily Times,State College,,http://www.centredaily.com/,en,daily,3,,,Q5062255,2,newspaper,40.7914,-77.8586,
-no,US,Chico Enterprise-Record,Chico,,http://www.chicoer.com,en,daily,3,,,Q5096417,2,newspaper,39.7400,-121.8356,
-no,US,Chino Champion,Chino,,http://www.ChampionNewspapers.com,en,daily,3,,,Q5101205,2,newspaper,34.0178,-117.6900,language from country default
-no,US,Claremore Daily Progress,Claremore,,http://www.claremoreprogress.com,en,daily,3,,,Q5126348,2,newspaper,36.3153,-95.6128,
-no,US,Coeur d'Alene Press,Coeur d'Alene,,http://www.cdapress.com,en,daily,3,,,Q5140852,2,daily newspaper; newspaper,47.6928,-116.7800,
-no,US,Commonwealth Journal,Somerset,,http://www.somerset-kentucky.com/,en,daily,3,,,Q5153792,2,newspaper,37.0831,-84.6094,
-no,US,Concord Monitor,Concord,,https://www.concordmonitor.com/,en,daily,3,,,Q5158825,2,newspaper,43.2067,-71.5381,language from country default
-no,US,Connecticut Post,Bridgeport,,https://www.ctpost.com/,en,daily,3,,,Q5161578,2,newspaper; website,41.1833,-73.2000,
-no,US,Cornell Chronicle,Ithaca,,https://news.cornell.edu/,en,daily,3,,,Q5171513,2,newspaper,42.4433,-76.5000,
-no,US,Coshocton Tribune,Coshocton,,http://www.coshoctontribune.com/,en,daily,3,,,Q5173916,2,newspaper,40.2678,-81.8567,
-no,US,Primera Hora,Guaynabo,,http://www.primerahora.com,es,daily,3,,,Q4609158,2,newspaper; website,18.3667,-66.1000,
-no,US,Abilene Reporter-News,Abilene,,http://reporternews.com/,en,daily,3,,,Q4667773,2,daily newspaper; newspaper,32.4464,-99.7456,
-no,US,Air Force Times,Springfield,,https://www.airforcetimes.com/,en,daily,3,,,Q4697970,2,newspaper,38.7886,-77.1794,
-no,US,সাপ্তাহিক এখন সময়,নিউ ইয়র্ক সিটি,,http://www.akhonsamoy.com,bn,daily,3,,,Q4700780,2,newspaper,40.7128,-74.0061,
-no,US,Al-Sahafa,Cleveland,,http://www.al-sahafa.us/,en,daily,3,,,Q4703159,2,newspaper,41.4992,-81.6947,
-no,US,Al Día,Dallas,,http://aldiadallas.com,es,daily,3,,,Q4703764,2,newspaper,32.7792,-96.8089,
-no,US,Alamogordo Daily News,Alamogordo,,https://www.alamogordonews.com/,en,daily,3,,,Q4705983,2,newspaper,32.9046,-105.9418,
-no,US,Alaska Journal of Commerce,Anchorage,,http://www.alaskajournal.com,en,daily,3,,,Q4708555,2,newspaper,61.2167,-149.8936,
+yes,US,The Everett Herald,Everett,,http://www.heraldnet.com/,en,daily,3,,,Q26877,2,newspaper,47.9633,-122.2006,language from country default
+no,US,Windy City Times,Chicago,,http://www.wctimes.com/,en,daily,3,,,Q3569310,2,newspaper,41.8819,-87.6278,reviewed: special-interest paper (LGBT)
+no,US,Curry Coastal Pilot,Brookings,,http://www.currypilot.com/,en,daily,3,,,Q5195203,2,newspaper; periodical,42.0575,-124.2864,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Daily Breeze,Torrance,,http://www.dailybreeze.com/,en,daily,3,,,Q5209227,2,daily newspaper; newspaper,33.8358,-118.3406,reviewed: regional outlet without a reachable feed – replaced
+no,US,Canyon Courier,Evergreen,,https://www.canyoncourier.com/,en,daily,3,,,Q5034182,2,newspaper,39.6389,-105.3360,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,US,Capital City Weekly,Juneau,,http://www.capitalcityweekly.com/,en,daily,3,,,Q5035526,2,newspaper,58.3019,-134.4197,
+no,US,Casper Star-Tribune,Casper,,https://trib.com/,en,daily,3,,,Q5049095,2,newspaper,42.8347,-106.3250,reviewed: regional outlet without a reachable feed – replaced
+no,US,Cecil Whig,Elkton,,https://www.cecildaily.com/,en,daily,3,,,Q5056353,2,newspaper,39.6078,-75.8297,reviewed: regional outlet without a reachable feed – replaced
+no,US,Centre Daily Times,State College,,http://www.centredaily.com/,en,daily,3,,,Q5062255,2,newspaper,40.7914,-77.8586,reviewed: regional outlet without a reachable feed – replaced
+no,US,Chico Enterprise-Record,Chico,,http://www.chicoer.com,en,daily,3,,,Q5096417,2,newspaper,39.7400,-121.8356,reviewed: regional outlet without a reachable feed – replaced
+no,US,Chino Champion,Chino,,http://www.ChampionNewspapers.com,en,daily,3,,,Q5101205,2,newspaper,34.0178,-117.6900,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Claremore Daily Progress,Claremore,,http://www.claremoreprogress.com,en,daily,3,,,Q5126348,2,newspaper,36.3153,-95.6128,reviewed: regional outlet without a reachable feed – replaced
+no,US,Coeur d'Alene Press,Coeur d'Alene,,http://www.cdapress.com,en,daily,3,,,Q5140852,2,daily newspaper; newspaper,47.6928,-116.7800,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Commonwealth Journal,Somerset,,http://www.somerset-kentucky.com/,en,daily,3,,,Q5153792,2,newspaper,37.0831,-84.6094,
+yes,US,Concord Monitor,Concord,,https://www.concordmonitor.com/,en,daily,3,,,Q5158825,2,newspaper,43.2067,-71.5381,language from country default
+yes,US,Connecticut Post,Bridgeport,,https://www.ctpost.com/,en,daily,3,,,Q5161578,2,newspaper; website,41.1833,-73.2000,
+no,US,Cornell Chronicle,Ithaca,,https://news.cornell.edu/,en,daily,3,,,Q5171513,2,newspaper,42.4433,-76.5000,reviewed: university news
+no,US,Coshocton Tribune,Coshocton,,http://www.coshoctontribune.com/,en,daily,3,,,Q5173916,2,newspaper,40.2678,-81.8567,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Primera Hora,Guaynabo,,http://www.primerahora.com,es,daily,3,,,Q4609158,2,newspaper; website,18.3667,-66.1000,
+no,US,Abilene Reporter-News,Abilene,,http://reporternews.com/,en,daily,3,,,Q4667773,2,daily newspaper; newspaper,32.4464,-99.7456,reviewed: regional outlet without a reachable feed – replaced
+no,US,Air Force Times,Springfield,,https://www.airforcetimes.com/,en,daily,3,,,Q4697970,2,newspaper,38.7886,-77.1794,reviewed: military paper
+no,US,সাপ্তাহিক এখন সময়,নিউ ইয়র্ক সিটি,,http://www.akhonsamoy.com,bn,daily,3,,,Q4700780,2,newspaper,40.7128,-74.0061,reviewed: regional outlet without a reachable feed – replaced
+no,US,Al-Sahafa,Cleveland,,http://www.al-sahafa.us/,en,daily,3,,,Q4703159,2,newspaper,41.4992,-81.6947,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Al Día,Dallas,,http://aldiadallas.com,es,daily,3,,,Q4703764,2,newspaper,32.7792,-96.8089,
+yes,US,Alamogordo Daily News,Alamogordo,,https://www.alamogordonews.com/,en,daily,3,,,Q4705983,2,newspaper,32.9046,-105.9418,
+yes,US,Alaska Journal of Commerce,Anchorage,,http://www.alaskajournal.com,en,daily,3,,,Q4708555,2,newspaper,61.2167,-149.8936,
 no,US,Albany Democrat-Herald,Albany,,https://democratherald.com/,en,online,3,,,Q4709310,2,newspaper; periodical; online newspaper,44.6303,-123.0961,"types: daily, online; not pre-selected: magazine/online below tier 1"
-no,US,Alpine Avalanche,Alpine,,http://www.alpineavalanche.com,en,daily,3,,,Q4735472,2,newspaper,30.3608,-103.6656,
-no,US,Altoona Mirror,Altoona,,http://www.altoonamirror.com/,en,daily,3,,,Q4736950,2,newspaper,40.5107,-78.3997,
-no,US,Amarillo Globe-News,Amarillo,,http://www.amarillo.com/,en,daily,3,,,Q4740266,2,daily newspaper; newspaper,35.1992,-101.8453,
-no,US,Apache Junction News,Apache Junction,,http://www.ajnews.com/,en,daily,3,,,Q4778922,2,newspaper,33.4150,-111.5461,language from country default
-no,US,Appeal-Democrat,Marysville,,https://www.appeal-democrat.com/,en,daily,3,,,Q4780957,2,newspaper,39.1458,-121.5914,
-no,US,Arizona Daily Sun,Flagstaff,,https://azdailysun.com/,en,daily,3,,,Q4791285,2,daily newspaper; newspaper,35.1992,-111.6311,
-no,US,Arkansas Democrat-Gazette,Little Rock,,https://www.arkansasonline.com/,en,daily,3,,,Q4791763,2,daily newspaper; newspaper; website,34.7444,-92.2881,
-no,US,Arkansas Times,Little Rock,,https://arktimes.com/,en,daily,3,,,Q4791888,2,newspaper,34.7444,-92.2881,
-no,US,The Aspen Times,Aspen,,http://www.aspentimes.com/,en,daily,3,,,Q4807850,2,daily newspaper; newspaper,39.1922,-106.8244,
-no,US,Atlanta Daily World,Atlanta,,http://www.atlantadailyworld.com,en,daily,3,,,Q4816055,2,newspaper; African American newspaper,33.7544,-84.3897,
-no,US,Belgrade News,Belgrade,,https://www.belgrade-news.com/,en,daily,3,,,Q4882642,2,newspaper,45.7750,-111.1750,language from country default
-no,US,Bennington Banner,Bennington,,https://www.benningtonbanner.com/,en,daily,3,,,Q4889872,2,newspaper,42.8852,-73.2132,
-no,US,Boston Business Journal,Boston,,http://www.amcity.com/boston/,en,daily,3,,,Q4947790,2,newspaper; website,42.3603,-71.0578,
-no,US,Daily Hampshire Gazette,Northampton,,http://www.gazettenet.com/,en,daily,3,,,Q5209263,2,newspaper,42.3181,-72.6319,
-no,US,Daily Herald,Provo,,http://www.heraldextra.com/,en,daily,3,,,Q5209268,2,newspaper,40.2339,-111.6586,
-no,US,Daily Journal of Commerce,Portland,,https://djcoregon.com/,en,daily,3,,,Q5209287,2,newspaper; periodical,45.5150,-122.6792,
-no,US,Daily Mountain Eagle,Jasper,,https://mountaineagle.com/,en,daily,3,,,Q5209310,2,daily newspaper; newspaper,33.8423,-87.2772,
-no,US,Daily Nexus,Storke Tower,,https://DailyNexus.com,en,daily,3,,,Q5209328,2,newspaper,34.4126,-119.8480,
-no,US,Daily Pilot,Costa Mesa,,http://www.dailypilot.com/,en,daily,3,,,Q5209332,2,periodical; newspaper,33.6700,-117.9100,language from country default
-no,US,Victorville Daily Press,Victorville,,http://www.vvdailypress.com/,en,daily,3,,,Q5209344,2,newspaper; website,34.5361,-117.2883,
-no,US,The Daily Record,Baltimore,,http://www.thedailyrecord.com,en,daily,3,,,Q5209352,2,newspaper,39.2864,-76.6150,
-no,US,Daily Record,Parsippany-Troy Hills,,http://dailyrecord.com,en,daily,3,,,Q5209353,2,newspaper; website,40.8596,-74.4233,
-no,US,Denton Record-Chronicle,Denton,,http://www.dentonrc.com/,en,daily,3,,,Q5259622,2,newspaper,33.2167,-97.1333,language from country default
-no,US,Desert Dispatch,Barstow,,http://www.desertdispatch.com,en,daily,3,,,Q5263910,2,newspaper,34.8933,-117.0189,language from country default
-no,US,Duncan Banner,Duncan,,http://www.duncanbanner.com,en,daily,3,,,Q5314263,2,newspaper,34.5167,-97.9494,language from country default
-no,US,East Bay Express,Oakland,,https://www.eastbayexpress.com/,en,daily,3,,,Q5327815,2,newspaper,37.8000,-122.2500,
-no,US,East Valley Tribune,Phoenix,,http://www.eastvalleytribune.com/,en,daily,3,,,Q5329600,2,newspaper,33.4483,-112.0739,language from country default
-no,US,Emporia Gazette,Emporia,,http://www.emporiagazette.com/,en,daily,3,,,Q5374401,2,newspaper,38.4081,-96.1869,language from country default
-no,US,Fairbanks Daily News-Miner,Fairbanks,,http://www.newsminer.com/,en,daily,3,,,Q5430011,2,daily newspaper; newspaper,64.8436,-147.7231,
-no,US,Farmington Daily Times,Farmington,,https://www.daily-times.com/,en,daily,3,,,Q5435891,2,periodical; newspaper; digital newspaper,36.7291,-108.2054,language from country default
-no,US,Finance & Commerce,Minneapolis,,http://www.finance-commerce.com,en,daily,3,,,Q5449518,2,periodical; newspaper,44.9819,-93.2692,language from country default
-no,US,Financial News & Daily Record,Jacksonville,,https://www.jaxdailyrecord.com/,en,daily,3,,,Q5449625,2,newspaper,30.3167,-81.6500,
-no,US,Florida Sentinel Bulletin,Tampa,,https://flsentinel.com/,en,daily,3,,,Q5461590,2,newspaper,27.9475,-82.4586,language from country default
-no,US,Fort Morgan Times,Fort Morgan,,https://www.fortmorgantimes.com/,en,daily,3,,,Q5471712,2,daily newspaper; newspaper,40.2533,-103.7990,language from country default
-no,US,Foster's Daily Democrat,Dover,,http://fosters.com,en,daily,3,,,Q5473558,2,newspaper,43.1953,-70.8750,
-no,US,Fountain Hills Times,Fountain Hills,,http://www.fhtimes.com/,en,daily,3,,,Q5474733,2,newspaper,33.6047,-111.7286,language from country default
-no,US,Gainesville Daily Register,Gainesville,,http://www.gainesvilleregister.com,en,daily,3,,,Q5517248,2,newspaper,33.6303,-97.1403,language from country default
-no,US,Genius,Brooklyn,,http://www.genius.com,hu,daily,3,,,Q1009217,2,newspaper,40.6508,-73.9497,
-no,US,The Final Call,Chicago,,http://www.finalcall.com/,en,daily,3,,,Q2030493,2,African American newspaper,41.8819,-87.6278,
-no,US,African-American News and Issues,Houston,,http://aframnews.com,en,daily,3,,,Q4689634,2,periodical; African American newspaper; website,29.7628,-95.3831,language from country default
-no,US,Seattle Medium,Seattle,,https://seattlemedium.com/,en,daily,3,,,Q7442135,2,periodical; African American newspaper,47.6050,-122.3300,language from country default
-no,US,Grants Pass Daily Courier,Grants Pass,,http://www.kbdn.com/,en,daily,3,,,Q5596679,2,newspaper; periodical,42.4389,-123.3283,
-no,US,Greenbelt News Review,Greenbelt,,https://www.greenbeltnewsreview.com/,en,daily,3,,,Q5603700,2,newspaper,38.9947,-76.8854,
-no,US,Greenwich Time,Greenwich,,http://www.greenwichtime.com,en,daily,3,,,Q5604879,2,newspaper; website,41.0265,-73.6285,
+no,US,Alpine Avalanche,Alpine,,http://www.alpineavalanche.com,en,daily,3,,,Q4735472,2,newspaper,30.3608,-103.6656,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Altoona Mirror,Altoona,,http://www.altoonamirror.com/,en,daily,3,,,Q4736950,2,newspaper,40.5107,-78.3997,
+no,US,Amarillo Globe-News,Amarillo,,http://www.amarillo.com/,en,daily,3,,,Q4740266,2,daily newspaper; newspaper,35.1992,-101.8453,reviewed: regional outlet without a reachable feed – replaced
+no,US,Apache Junction News,Apache Junction,,http://www.ajnews.com/,en,daily,3,,,Q4778922,2,newspaper,33.4150,-111.5461,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,US,Appeal-Democrat,Marysville,,https://www.appeal-democrat.com/,en,daily,3,,,Q4780957,2,newspaper,39.1458,-121.5914,
+no,US,Arizona Daily Sun,Flagstaff,,https://azdailysun.com/,en,daily,3,,,Q4791285,2,daily newspaper; newspaper,35.1992,-111.6311,reviewed: regional outlet without a reachable feed – replaced
+no,US,Arkansas Democrat-Gazette,Little Rock,,https://www.arkansasonline.com/,en,daily,3,,,Q4791763,2,daily newspaper; newspaper; website,34.7444,-92.2881,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Arkansas Times,Little Rock,,https://arktimes.com/,en,daily,3,,,Q4791888,2,newspaper,34.7444,-92.2881,
+yes,US,The Aspen Times,Aspen,,http://www.aspentimes.com/,en,daily,3,,,Q4807850,2,daily newspaper; newspaper,39.1922,-106.8244,
+yes,US,Atlanta Daily World,Atlanta,,http://www.atlantadailyworld.com,en,daily,3,,,Q4816055,2,newspaper; African American newspaper,33.7544,-84.3897,
+no,US,Belgrade News,Belgrade,,https://www.belgrade-news.com/,en,daily,3,,,Q4882642,2,newspaper,45.7750,-111.1750,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,US,Bennington Banner,Bennington,,https://www.benningtonbanner.com/,en,daily,3,,,Q4889872,2,newspaper,42.8852,-73.2132,
+no,US,Boston Business Journal,Boston,,http://www.amcity.com/boston/,en,daily,3,,,Q4947790,2,newspaper; website,42.3603,-71.0578,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Daily Hampshire Gazette,Northampton,,http://www.gazettenet.com/,en,daily,3,,,Q5209263,2,newspaper,42.3181,-72.6319,
+no,US,Daily Herald,Provo,,http://www.heraldextra.com/,en,daily,3,,,Q5209268,2,newspaper,40.2339,-111.6586,reviewed: regional outlet without a reachable feed – replaced
+no,US,Daily Journal of Commerce,Portland,,https://djcoregon.com/,en,daily,3,,,Q5209287,2,newspaper; periodical,45.5150,-122.6792,reviewed: regional outlet without a reachable feed – replaced
+no,US,Daily Mountain Eagle,Jasper,,https://mountaineagle.com/,en,daily,3,,,Q5209310,2,daily newspaper; newspaper,33.8423,-87.2772,reviewed: regional outlet without a reachable feed – replaced
+no,US,Daily Nexus,Storke Tower,,https://DailyNexus.com,en,daily,3,,,Q5209328,2,newspaper,34.4126,-119.8480,reviewed: student paper
+yes,US,Daily Pilot,Costa Mesa,,http://www.dailypilot.com/,en,daily,3,,,Q5209332,2,periodical; newspaper,33.6700,-117.9100,language from country default
+no,US,Victorville Daily Press,Victorville,,http://www.vvdailypress.com/,en,daily,3,,,Q5209344,2,newspaper; website,34.5361,-117.2883,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Daily Record,Baltimore,,http://www.thedailyrecord.com,en,daily,3,,,Q5209352,2,newspaper,39.2864,-76.6150,reviewed: regional outlet without a reachable feed – replaced
+no,US,Daily Record,Parsippany-Troy Hills,,http://dailyrecord.com,en,daily,3,,,Q5209353,2,newspaper; website,40.8596,-74.4233,reviewed: regional outlet without a reachable feed – replaced
+no,US,Denton Record-Chronicle,Denton,,http://www.dentonrc.com/,en,daily,3,,,Q5259622,2,newspaper,33.2167,-97.1333,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Desert Dispatch,Barstow,,http://www.desertdispatch.com,en,daily,3,,,Q5263910,2,newspaper,34.8933,-117.0189,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Duncan Banner,Duncan,,http://www.duncanbanner.com,en,daily,3,,,Q5314263,2,newspaper,34.5167,-97.9494,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,East Bay Express,Oakland,,https://www.eastbayexpress.com/,en,daily,3,,,Q5327815,2,newspaper,37.8000,-122.2500,reviewed: alternative weekly
+no,US,East Valley Tribune,Phoenix,,http://www.eastvalleytribune.com/,en,daily,3,,,Q5329600,2,newspaper,33.4483,-112.0739,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Emporia Gazette,Emporia,,http://www.emporiagazette.com/,en,daily,3,,,Q5374401,2,newspaper,38.4081,-96.1869,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Fairbanks Daily News-Miner,Fairbanks,,http://www.newsminer.com/,en,daily,3,,,Q5430011,2,daily newspaper; newspaper,64.8436,-147.7231,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Farmington Daily Times,Farmington,,https://www.daily-times.com/,en,daily,3,,,Q5435891,2,periodical; newspaper; digital newspaper,36.7291,-108.2054,language from country default
+no,US,Finance & Commerce,Minneapolis,,http://www.finance-commerce.com,en,daily,3,,,Q5449518,2,periodical; newspaper,44.9819,-93.2692,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Financial News & Daily Record,Jacksonville,,https://www.jaxdailyrecord.com/,en,daily,3,,,Q5449625,2,newspaper,30.3167,-81.6500,reviewed: regional outlet without a reachable feed – replaced
+no,US,Florida Sentinel Bulletin,Tampa,,https://flsentinel.com/,en,daily,3,,,Q5461590,2,newspaper,27.9475,-82.4586,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Fort Morgan Times,Fort Morgan,,https://www.fortmorgantimes.com/,en,daily,3,,,Q5471712,2,daily newspaper; newspaper,40.2533,-103.7990,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Foster's Daily Democrat,Dover,,http://fosters.com,en,daily,3,,,Q5473558,2,newspaper,43.1953,-70.8750,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Fountain Hills Times,Fountain Hills,,http://www.fhtimes.com/,en,daily,3,,,Q5474733,2,newspaper,33.6047,-111.7286,language from country default
+no,US,Gainesville Daily Register,Gainesville,,http://www.gainesvilleregister.com,en,daily,3,,,Q5517248,2,newspaper,33.6303,-97.1403,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Genius,Brooklyn,,http://www.genius.com,hu,daily,3,,,Q1009217,2,newspaper,40.6508,-73.9497,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Final Call,Chicago,,http://www.finalcall.com/,en,daily,3,,,Q2030493,2,African American newspaper,41.8819,-87.6278,reviewed: religious paper
+yes,US,African-American News and Issues,Houston,,http://aframnews.com,en,daily,3,,,Q4689634,2,periodical; African American newspaper; website,29.7628,-95.3831,language from country default
+yes,US,Seattle Medium,Seattle,,https://seattlemedium.com/,en,daily,3,,,Q7442135,2,periodical; African American newspaper,47.6050,-122.3300,language from country default
+no,US,Grants Pass Daily Courier,Grants Pass,,http://www.kbdn.com/,en,daily,3,,,Q5596679,2,newspaper; periodical,42.4389,-123.3283,reviewed: regional outlet without a reachable feed – replaced
+yes,US,Greenbelt News Review,Greenbelt,,https://www.greenbeltnewsreview.com/,en,daily,3,,,Q5603700,2,newspaper,38.9947,-76.8854,
+no,US,Greenwich Time,Greenwich,,http://www.greenwichtime.com,en,daily,3,,,Q5604879,2,newspaper; website,41.0265,-73.6285,reviewed: feed carries agency sports wire instead of local news
 no,US,National Guardian,New York City,,http://voices.revealdigital.com/cgi-bin/independentvoices?a=cl&cl=CL1&sp=CCEDDCD&ai=1,en,daily,3,,,Q5614020,2,newspaper,40.7128,-74.0061,
-no,US,Half Moon Bay Review,Half Moon Bay,,http://www.hmbreview.com,en,daily,3,,,Q5641708,2,newspaper,37.4589,-122.4369,language from country default
-no,US,Headlight-Herald,Tillamook,,http://www.tillamookheadlightherald.com/,en,daily,3,,,Q5689730,2,newspaper; periodical,45.4553,-123.8425,language from country default
-no,US,Herald & Review,Decatur,,https://herald-review.com/,en,daily,3,,,Q5732600,2,periodical; daily newspaper; newspaper,39.8517,-88.9442,
-no,US,Pittsburgh Business Times,Pittsburgh,,http://www.pittsburgh.bizjournals.com/,en,daily,3,,,Q3389424,2,newspaper; website,40.4417,-80.0000,
-no,US,Press-Republican,Plattsburgh,,http://www.pressrepublican.com/,en,daily,3,,,Q3402472,2,daily newspaper; newspaper,44.6953,-73.4583,language from country default
-no,US,Rutland Herald,Rutland,,http://rutlandherald.com/,en,daily,3,,,Q3453667,2,daily newspaper; newspaper,43.6089,-72.9797,
-no,US,The Advocate,Stamford,,https://www.stamfordadvocate.com/,en,daily,3,,,Q3519722,2,newspaper; website,41.0967,-73.5522,
-no,US,The Reporter,Fond du Lac,,http://fdlreporter.com/,en,daily,3,,,Q3522482,2,daily newspaper; newspaper; website,43.7751,-88.4449,
-no,US,Saugus Advertiser,Saugus,,http://www.saugusadvertiser.com/,en,daily,3,,,Q3522603,2,newspaper; website,42.4647,-71.0106,language from country default
-no,US,The Asian Reporter,Portland,,http://www.asianreporter.com/,en,daily,3,,,Q7714675,2,Asian American newspaper,45.5150,-122.6792,language from country default
+no,US,Half Moon Bay Review,Half Moon Bay,,http://www.hmbreview.com,en,daily,3,,,Q5641708,2,newspaper,37.4589,-122.4369,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Headlight-Herald,Tillamook,,http://www.tillamookheadlightherald.com/,en,daily,3,,,Q5689730,2,newspaper; periodical,45.4553,-123.8425,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Herald & Review,Decatur,,https://herald-review.com/,en,daily,3,,,Q5732600,2,periodical; daily newspaper; newspaper,39.8517,-88.9442,reviewed: regional outlet without a reachable feed – replaced
+no,US,Pittsburgh Business Times,Pittsburgh,,http://www.pittsburgh.bizjournals.com/,en,daily,3,,,Q3389424,2,newspaper; website,40.4417,-80.0000,reviewed: regional outlet without a reachable feed – replaced
+no,US,Press-Republican,Plattsburgh,,http://www.pressrepublican.com/,en,daily,3,,,Q3402472,2,daily newspaper; newspaper,44.6953,-73.4583,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Rutland Herald,Rutland,,http://rutlandherald.com/,en,daily,3,,,Q3453667,2,daily newspaper; newspaper,43.6089,-72.9797,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Advocate,Stamford,,https://www.stamfordadvocate.com/,en,daily,3,,,Q3519722,2,newspaper; website,41.0967,-73.5522,reviewed: feed carries agency sports wire instead of local news
+no,US,The Reporter,Fond du Lac,,http://fdlreporter.com/,en,daily,3,,,Q3522482,2,daily newspaper; newspaper; website,43.7751,-88.4449,reviewed: regional outlet without a reachable feed – replaced
+no,US,Saugus Advertiser,Saugus,,http://www.saugusadvertiser.com/,en,daily,3,,,Q3522603,2,newspaper; website,42.4647,-71.0106,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,The Asian Reporter,Portland,,http://www.asianreporter.com/,en,daily,3,,,Q7714675,2,Asian American newspaper,45.5150,-122.6792,reviewed: regional outlet without a reachable feed – replaced; language from country default
 no,US,Pittsburgh Jewish Chronicle,Pittsburgh metropolitan area,,https://jewishchronicle.timesofisrael.com/,en,weekly,3,,,Q7743218,2,weekly newspaper; Jewish newspaper,40.4375,-79.9950,"types: daily, weekly; not pre-selected: alternative/religious paper"
-no,US,Latin Opinion,Baltimore,,http://latinopinionbaltimore.com/,en,daily,3,,,Q6496449,2,newspaper,39.2864,-76.6150,language from country default
-no,US,Lawrence Journal-World,Lawrence,,https://www.ljworld.com/,en,daily,3,,,Q6504247,2,newspaper,38.9717,-95.2353,
-no,US,El Imparcial,Chicago,,http://www.elimparcial.us/index.php,es,daily,3,,,Q5822157,2,newspaper,41.8819,-87.6278,
-no,US,El Observador (San José),Área de la Bahía de San Francisco,,https://el-observador.com/,es,daily,3,,,Q5822657,2,newspaper,37.8100,-122.3700,
-no,US,北米毎日新聞,サンフランシスコ,,http://www.hokubei.com/,ja,daily,3,,,Q5878255,2,newspaper,37.7750,-122.4194,
-no,US,Homer Tribune,Homer,,http://homertribune.com/,en,daily,3,,,Q5890289,2,newspaper,59.6431,-151.5260,
-no,US,Huron Daily Tribune,Bad Axe,,http://www.michigansthumb.com/,en,daily,3,,,Q5946865,2,newspaper,43.8019,-83.0008,language from country default
-no,US,Inland Valley Daily Bulletin,Ontario,,https://www.dailybulletin.com/,en,daily,3,,,Q6034827,2,newspaper,34.0528,-117.6278,
-no,US,Inside Tucson Business,Tucson,,http://www.insidetucsonbusiness.com,en,daily,3,,,Q6037857,2,newspaper,32.2217,-110.9264,
-no,US,Ironwood Daily Globe,Ironwood,,http://www.yourdailyglobe.com,en,daily,3,,,Q6073344,2,newspaper,46.4547,-90.1711,language from country default
-no,US,Jamestown News,Jamestown,,http://www.jamestownnews.com,en,daily,3,,,Q6146255,2,newspaper,35.9983,-79.9358,
-no,US,Jamestown Sun,Jamestown,,http://www.jamestownsun.com,en,daily,3,,,Q6146264,2,newspaper,46.9106,-98.7084,language from country default
-no,US,Jewish News of Greater Phoenix,Phoenix,,http://www.jewishaz.com/,en,daily,3,,,Q6189902,2,newspaper,33.4483,-112.0739,
-no,US,Jewish Review,Portland,,http://www.jewishreview.org/,en,daily,3,,,Q6189926,2,newspaper; periodical,45.5150,-122.6792,language from country default
-no,US,Journal Star,Peoria,,https://www.pjstar.com/,en,daily,3,,,Q6294681,2,newspaper; website,40.6925,-89.5900,language from country default
-no,US,Keizertimes,Keizer,,http://keizertimes.com,en,daily,3,,,Q6385306,2,newspaper; periodical,45.0006,-123.0219,
-no,US,Kenosha News,Kenosha,,https://www.kenoshanews.com/,en,daily,3,,,Q6391314,2,newspaper,42.5822,-87.8456,
-no,US,Key West Citizen,Key West,,http://www.keysnews.com,en,daily,3,,,Q6398112,2,newspaper; website,24.5597,-81.7836,
+no,US,Latin Opinion,Baltimore,,http://latinopinionbaltimore.com/,en,daily,3,,,Q6496449,2,newspaper,39.2864,-76.6150,reviewed: small community paper; language from country default
+no,US,Lawrence Journal-World,Lawrence,,https://www.ljworld.com/,en,daily,3,,,Q6504247,2,newspaper,38.9717,-95.2353,reviewed: regional outlet without a reachable feed – replaced
+no,US,El Imparcial,Chicago,,http://www.elimparcial.us/index.php,es,daily,3,,,Q5822157,2,newspaper,41.8819,-87.6278,reviewed: regional outlet without a reachable feed – replaced
+no,US,El Observador (San José),Área de la Bahía de San Francisco,,https://el-observador.com/,es,daily,3,,,Q5822657,2,newspaper,37.8100,-122.3700,reviewed: small community paper
+no,US,北米毎日新聞,サンフランシスコ,,http://www.hokubei.com/,ja,daily,3,,,Q5878255,2,newspaper,37.7750,-122.4194,reviewed: regional outlet without a reachable feed – replaced
+no,US,Homer Tribune,Homer,,http://homertribune.com/,en,daily,3,,,Q5890289,2,newspaper,59.6431,-151.5260,reviewed: regional outlet without a reachable feed – replaced
+no,US,Huron Daily Tribune,Bad Axe,,http://www.michigansthumb.com/,en,daily,3,,,Q5946865,2,newspaper,43.8019,-83.0008,reviewed: feed carries agency sports wire instead of local news; language from country default
+no,US,Inland Valley Daily Bulletin,Ontario,,https://www.dailybulletin.com/,en,daily,3,,,Q6034827,2,newspaper,34.0528,-117.6278,reviewed: regional outlet without a reachable feed – replaced
+no,US,Inside Tucson Business,Tucson,,http://www.insidetucsonbusiness.com,en,daily,3,,,Q6037857,2,newspaper,32.2217,-110.9264,reviewed: regional outlet without a reachable feed – replaced
+no,US,Ironwood Daily Globe,Ironwood,,http://www.yourdailyglobe.com,en,daily,3,,,Q6073344,2,newspaper,46.4547,-90.1711,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,US,Jamestown News,Jamestown,,http://www.jamestownnews.com,en,daily,3,,,Q6146255,2,newspaper,35.9983,-79.9358,
+yes,US,Jamestown Sun,Jamestown,,http://www.jamestownsun.com,en,daily,3,,,Q6146264,2,newspaper,46.9106,-98.7084,language from country default
+no,US,Jewish News of Greater Phoenix,Phoenix,,http://www.jewishaz.com/,en,daily,3,,,Q6189902,2,newspaper,33.4483,-112.0739,reviewed: regional outlet without a reachable feed – replaced
+no,US,Jewish Review,Portland,,http://www.jewishreview.org/,en,daily,3,,,Q6189926,2,newspaper; periodical,45.5150,-122.6792,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Journal Star,Peoria,,https://www.pjstar.com/,en,daily,3,,,Q6294681,2,newspaper; website,40.6925,-89.5900,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,US,Keizertimes,Keizer,,http://keizertimes.com,en,daily,3,,,Q6385306,2,newspaper; periodical,45.0006,-123.0219,
+no,US,Kenosha News,Kenosha,,https://www.kenoshanews.com/,en,daily,3,,,Q6391314,2,newspaper,42.5822,-87.8456,reviewed: regional outlet without a reachable feed – replaced
+no,US,Key West Citizen,Key West,,http://www.keysnews.com,en,daily,3,,,Q6398112,2,newspaper; website,24.5597,-81.7836,reviewed: regional outlet without a reachable feed – replaced
 no,US,Kilgore News Herald,Kilgore,,http://www.kilgorenewsherald.com,en,online,3,,,Q6406872,2,newspaper; online newspaper; media company; online service,32.3856,-94.8686,"types: daily, online; not pre-selected: magazine/online below tier 1"
-no,US,Kingman Daily Miner,Kingman,,https://kdminer.com/,en,daily,3,,,Q6412812,2,daily newspaper; newspaper,35.2083,-114.0250,
-no,US,Kodiak Daily Mirror,Kodiak,,https://www.kodiakdailymirror.com/,en,daily,3,,,Q6425295,2,daily newspaper; newspaper,57.7931,-152.3942,language from country default
-no,US,Lake Powell Chronicle,Page,,https://lakepowellchronicle.com/,en,daily,3,,,Q6477428,2,newspaper,36.9142,-111.4600,language from country default
-no,US,Lamar Ledger,Lamar,,http://lamarledger.com/,en,daily,3,,,Q6480882,2,newspaper,38.0861,-102.6190,language from country default
-no,US,Laredo Morning Times,Laredo,,http://www.lmtonline.com/,en,daily,3,,,Q6488896,2,newspaper; website,27.5061,-99.5072,language from country default
-no,US,The Hutchinson News,Hutchinson,,https://www.hutchnews.com/,en,daily,3,,,Q7741174,2,periodical; newspaper,38.0656,-97.9236,
+no,US,Kingman Daily Miner,Kingman,,https://kdminer.com/,en,daily,3,,,Q6412812,2,daily newspaper; newspaper,35.2083,-114.0250,reviewed: regional outlet without a reachable feed – replaced
+no,US,Kodiak Daily Mirror,Kodiak,,https://www.kodiakdailymirror.com/,en,daily,3,,,Q6425295,2,daily newspaper; newspaper,57.7931,-152.3942,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Lake Powell Chronicle,Page,,https://lakepowellchronicle.com/,en,daily,3,,,Q6477428,2,newspaper,36.9142,-111.4600,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Lamar Ledger,Lamar,,http://lamarledger.com/,en,daily,3,,,Q6480882,2,newspaper,38.0861,-102.6190,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,Laredo Morning Times,Laredo,,http://www.lmtonline.com/,en,daily,3,,,Q6488896,2,newspaper; website,27.5061,-99.5072,reviewed: feed carries agency sports wire instead of local news; language from country default
+no,US,The Hutchinson News,Hutchinson,,https://www.hutchnews.com/,en,daily,3,,,Q7741174,2,periodical; newspaper,38.0656,-97.9236,reviewed: regional outlet without a reachable feed – replaced
 no,US,The Independent,Lafayette,,http://theind.com/,en,online,3,,,Q7741793,2,newspaper; news website,30.2431,-92.0126,"language from country default; types: daily, online; not pre-selected: magazine/online below tier 1"
-no,US,The Jewish Exponent,Philadelphia,,http://www.jewishexponent.com/,en,daily,3,,,Q7743213,2,newspaper,39.9528,-75.1636,
+no,US,The Jewish Exponent,Philadelphia,,http://www.jewishexponent.com/,en,daily,3,,,Q7743213,2,newspaper,39.9528,-75.1636,reviewed: community paper (Jewish)
 no,US,The Daily News Tribune,,,http://www.dailynewstribune.com/,en,daily,3,,,Q7728692,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,US,The Daily Voice,,,https://dailyvoice.com/,en,daily,3,,,Q7728736,2,dot-com company; newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-no,US,The Dalles Chronicle,The Dalles,,http://www.gorgenews.com/,en,daily,3,,,Q7728758,2,newspaper; periodical,45.6011,-121.1828,
-no,US,The Express-Times,Easton,,http://www.lehighvalleylive.com,en,daily,3,,,Q7732864,2,newspaper,40.6883,-75.2164,
-no,US,The Free Lance–Star,Fredericksburg,,https://fredericksburg.com/,en,daily,3,,,Q7735200,2,newspaper,38.3018,-77.4708,
-no,US,The Gadsden Times,Gadsden,,https://www.gadsdentimes.com/,en,daily,3,,,Q7735596,2,daily newspaper; newspaper,34.0101,-86.0104,language from country default
-no,US,The Herald-Times,Bloomington,,http://www.heraldtimesonline.com/,en,daily,3,,,Q7739398,2,newspaper,39.1667,-86.5347,
+no,US,The Dalles Chronicle,The Dalles,,http://www.gorgenews.com/,en,daily,3,,,Q7728758,2,newspaper; periodical,45.6011,-121.1828,reviewed: regional outlet without a reachable feed – replaced
+yes,US,The Express-Times,Easton,,http://www.lehighvalleylive.com,en,daily,3,,,Q7732864,2,newspaper,40.6883,-75.2164,
+no,US,The Free Lance–Star,Fredericksburg,,https://fredericksburg.com/,en,daily,3,,,Q7735200,2,newspaper,38.3018,-77.4708,reviewed: regional outlet without a reachable feed – replaced
+no,US,The Gadsden Times,Gadsden,,https://www.gadsdentimes.com/,en,daily,3,,,Q7735596,2,daily newspaper; newspaper,34.0101,-86.0104,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,US,The Herald-Times,Bloomington,,http://www.heraldtimesonline.com/,en,daily,3,,,Q7739398,2,newspaper,39.1667,-86.5347,reviewed: regional outlet without a reachable feed – replaced
 no,US,The Herald Mexico,Mexico City,MX,http://www.mexiconews.com.mx/,en,daily,3,exile,,Q7739408,2,newspaper,19.3538,-99.1359,newsroom abroad (MX) – exile?; not pre-selected: newsroom abroad
 no,US,AM New York,New York City,,http://www.amny.com/,en,daily,3,,,Q2819281,2,daily newspaper; free newspaper; newspaper,40.7128,-74.0061,
 no,US,American Free Press,"Washington, D.C.",,http://americanfreepress.net/,en,daily,3,,,Q2842936,2,newspaper,38.8950,-77.0367,
-no,US,Florida Keys Keynoter,Marathon,,http://www.keysnet.com,en,daily,3,,,Q3074268,2,newspaper,24.7264,-81.0403,
-no,US,La Crosse Tribune,La Crosse,,http://www.lacrossetribune.com/,en,daily,3,,,Q3207983,2,daily newspaper; newspaper,43.8133,-91.2331,
+no,US,Florida Keys Keynoter,Marathon,,http://www.keysnet.com,en,daily,3,,,Q3074268,2,newspaper,24.7264,-81.0403,reviewed: regional outlet without a reachable feed – replaced
+no,US,La Crosse Tribune,La Crosse,,http://www.lacrossetribune.com/,en,daily,3,,,Q3207983,2,daily newspaper; newspaper,43.8133,-91.2331,reviewed: regional outlet without a reachable feed – replaced
 no,US,Atlanta Black Star,Atlanta,,https://atlantablackstar.com/,en,online,3,,,Q90055382,2,news website; African American newspaper,33.7544,-84.3897,"language from country default; types: daily, online; not pre-selected: magazine/online below tier 1"
-no,US,The Christian Recorder,Nashville,,https://www.thechristianrecorder.com/,en,daily,3,,,Q104843053,2,African American newspaper,36.1622,-86.7744,
-no,US,The Oakland Post,Oakland,,http://postnewsgroup.com/,en,daily,3,,,Q16873216,2,newspaper; African American newspaper,37.8000,-122.2500,
-no,US,Portland Observer,Portland,,https://www.portlandobserver.com/,en,daily,3,,,Q28232782,2,newspaper; African American newspaper,45.5150,-122.6792,language from country default
-no,US,The Lufkin Daily News,Lufkin,,http://www.lufkindailynews.com/,en,daily,3,,,Q7749170,2,newspaper,31.3369,-94.7303,
-no,US,The Macomb Daily,Mount Clemens,,http://macombdaily.com,en,daily,3,,,Q7749297,2,newspaper; website,42.5972,-82.8781,language from country default
-no,US,The Madras Pioneer,Madras,,http://www.madraspioneer.com/,en,daily,3,,,Q7749356,2,newspaper; periodical,44.6306,-121.1292,
-no,US,The Marion Star,Marion,,http://marionstar.com/,en,daily,3,,,Q7750327,2,newspaper,40.5886,-83.1289,
-no,US,The McDowell News,Marion,,https://mcdowellnews.com/,en,daily,3,,,Q7750763,2,newspaper,35.6831,-82.0058,
-no,US,The Meridian Star,Meridian,,http://www.meridianstar.com,en,daily,3,,,Q7751076,2,newspaper,32.3643,-88.7037,language from country default
-no,US,The News-Sentinel,Fort Wayne,,http://www.fortwayne.com/mld/newssentinel/,en,daily,3,,,Q7753898,2,newspaper,41.0804,-85.1392,
-no,US,The News Leader,Staunton,,http://newsleader.com,en,daily,3,,,Q7753918,2,newspaper,38.1581,-79.0764,
-no,US,The Observer,La Grande,,http://www.lagrandeobserver.com/,en,daily,3,,,Q7754644,2,newspaper; periodical,45.3272,-118.0933,language from country default
-no,US,The Outlook,Gresham,,https://www.theoutlookonline.com/,en,daily,3,,,Q7755679,2,newspaper; periodical,45.5036,-122.4394,language from country default
-no,US,Point Reyes Light,Point Reyes Station,,http://ptreyeslight.com/,en,daily,3,,,Q7757601,2,newspaper,38.0733,-122.8058,
-no,US,Tribuna Portuguesa,Modesto,,http://www.portuguesetribune.com,pt,daily,3,,,Q7757827,2,newspaper,37.6614,-120.9944,
-no,US,Hyde Park Herald,Chicago,,https://www.hpherald.com/,en,daily,3,,,Q11976288,2,newspaper,41.8819,-87.6278,language from country default
-no,US,News & Review,Chico,,http://www.newsreview.com/,en,daily,3,,,Q7019295,2,newspaper,39.7400,-121.8356,language from country default
-no,US,Northwest Herald,Crystal Lake,,http://www.nwherald.com/,en,daily,3,,,Q7060059,2,newspaper; website,42.2264,-88.3356,language from country default
-no,US,Pampa News,Pampa,,http://thepampanews.com/pages/,en,daily,3,,,Q7129382,2,newspaper,35.5431,-100.9650,language from country default
-no,US,Peninsula Daily News,Port Angeles,,http://www.peninsuladailynews.com,en,daily,3,,,Q7162926,2,newspaper; daily newspaper,48.1131,-123.4410,
-no,US,Pharos-Tribune,Logansport,,http://www.pharostribune.com/,en,daily,3,,,Q7180847,2,newspaper,40.7536,-86.3606,language from country default
-no,US,Philadelphia Bulletin,Philadelphia,,https://thephiladelphiabulletin.com,en,daily,3,,,Q7182639,2,newspaper,39.9528,-75.1636,
-no,US,Piqua Daily Call,Piqua,,http://www.dailycall.com,en,daily,3,,,Q7197526,2,newspaper,40.1475,-84.2481,
-no,US,Post-Bulletin,Rochester,,https://www.postbulletin.com/,en,daily,3,,,Q7233471,2,newspaper,44.0234,-92.4630,language from country default
-no,US,Press-Telegram,Long Beach,,http://www.presstelegram.com/,en,daily,3,,,Q7241597,2,daily newspaper; newspaper,33.7681,-118.1956,
-no,US,Press & Sun-Bulletin,Binghamton,,http://pressconnects.com/,en,daily,3,,,Q7241600,2,newspaper; website,42.0989,-75.9108,
-no,US,The Repository,Canton,,http://www.cantonrep.com/,en,daily,3,,,Q7760219,2,newspaper; website,40.7986,-81.3750,
-no,US,Bainbridge Island Review,Bainbridge Island,,https://www.bainbridgereview.com/,en,daily,3,,,Q7760528,2,periodical; newspaper,47.6553,-122.5350,
-no,US,The San Bernardino Sun,San Bernardino,,https://sbsun.com,en,daily,3,,,Q7762191,2,daily newspaper; newspaper,34.1042,-117.2922,
-no,US,Skagway News,Skagway,,http://www.skagwaynews.com/,en,daily,3,,,Q7764591,2,newspaper,59.4686,-135.3058,
-no,US,The Star Press,Muncie,,http://www.thestarpress.com,en,daily,3,,,Q7766280,2,newspaper; website,40.1933,-85.3881,language from country default
-no,US,The Tablet,Brooklyn,,http://thetablet.org/,en,daily,3,,,Q7767878,2,newspaper,40.6508,-73.9497,
-no,US,The Macon Telegraph,Macon,,http://macon.com/,en,daily,3,,,Q7768282,2,newspaper,32.8407,-83.6324,
-no,US,The Telegraph,Alton,,https://www.thetelegraph.com/,en,daily,3,,,Q7768281,2,newspaper,38.9003,-90.1597,
-no,US,Times Leader,Wilkes-Barre,,http://www.timesleader.com,en,daily,3,,,Q7769401,2,newspaper,41.2444,-75.8781,
+no,US,The Christian Recorder,Nashville,,https://www.thechristianrecorder.com/,en,daily,3,,,Q104843053,2,African American newspaper,36.1622,-86.7744,reviewed: religious paper
+yes,US,The Oakland Post,Oakland,,http://postnewsgroup.com/,en,daily,3,,,Q16873216,2,newspaper; African American newspaper,37.8000,-122.2500,
+yes,US,Portland Observer,Portland,,https://www.portlandobserver.com/,en,daily,3,,,Q28232782,2,newspaper; African American newspaper,45.5150,-122.6792,language from country default
+yes,US,The Lufkin Daily News,Lufkin,,http://www.lufkindailynews.com/,en,daily,3,,,Q7749170,2,newspaper,31.3369,-94.7303,
+yes,US,The Macomb Daily,Mount Clemens,,http://macombdaily.com,en,daily,3,,,Q7749297,2,newspaper; website,42.5972,-82.8781,language from country default
+yes,US,The Madras Pioneer,Madras,,http://www.madraspioneer.com/,en,daily,3,,,Q7749356,2,newspaper; periodical,44.6306,-121.1292,
+yes,US,The Marion Star,Marion,,http://marionstar.com/,en,daily,3,,,Q7750327,2,newspaper,40.5886,-83.1289,
+yes,US,The McDowell News,Marion,,https://mcdowellnews.com/,en,daily,3,,,Q7750763,2,newspaper,35.6831,-82.0058,
+yes,US,The Meridian Star,Meridian,,http://www.meridianstar.com,en,daily,3,,,Q7751076,2,newspaper,32.3643,-88.7037,language from country default
+yes,US,The News-Sentinel,Fort Wayne,,http://www.fortwayne.com/mld/newssentinel/,en,daily,3,,,Q7753898,2,newspaper,41.0804,-85.1392,
+yes,US,The News Leader,Staunton,,http://newsleader.com,en,daily,3,,,Q7753918,2,newspaper,38.1581,-79.0764,
+yes,US,The Observer,La Grande,,http://www.lagrandeobserver.com/,en,daily,3,,,Q7754644,2,newspaper; periodical,45.3272,-118.0933,language from country default
+yes,US,The Outlook,Gresham,,https://www.theoutlookonline.com/,en,daily,3,,,Q7755679,2,newspaper; periodical,45.5036,-122.4394,language from country default
+yes,US,Point Reyes Light,Point Reyes Station,,http://ptreyeslight.com/,en,daily,3,,,Q7757601,2,newspaper,38.0733,-122.8058,
+yes,US,Tribuna Portuguesa,Modesto,,http://www.portuguesetribune.com,pt,daily,3,,,Q7757827,2,newspaper,37.6614,-120.9944,
+yes,US,Hyde Park Herald,Chicago,,https://www.hpherald.com/,en,daily,3,,,Q11976288,2,newspaper,41.8819,-87.6278,language from country default
+yes,US,News & Review,Chico,,http://www.newsreview.com/,en,daily,3,,,Q7019295,2,newspaper,39.7400,-121.8356,language from country default
+yes,US,Northwest Herald,Crystal Lake,,http://www.nwherald.com/,en,daily,3,,,Q7060059,2,newspaper; website,42.2264,-88.3356,language from country default
+yes,US,Pampa News,Pampa,,http://thepampanews.com/pages/,en,daily,3,,,Q7129382,2,newspaper,35.5431,-100.9650,language from country default
+yes,US,Peninsula Daily News,Port Angeles,,http://www.peninsuladailynews.com,en,daily,3,,,Q7162926,2,newspaper; daily newspaper,48.1131,-123.4410,
+yes,US,Pharos-Tribune,Logansport,,http://www.pharostribune.com/,en,daily,3,,,Q7180847,2,newspaper,40.7536,-86.3606,language from country default
+yes,US,Philadelphia Bulletin,Philadelphia,,https://thephiladelphiabulletin.com,en,daily,3,,,Q7182639,2,newspaper,39.9528,-75.1636,
+yes,US,Piqua Daily Call,Piqua,,http://www.dailycall.com,en,daily,3,,,Q7197526,2,newspaper,40.1475,-84.2481,
+yes,US,Post-Bulletin,Rochester,,https://www.postbulletin.com/,en,daily,3,,,Q7233471,2,newspaper,44.0234,-92.4630,language from country default
+yes,US,Press-Telegram,Long Beach,,http://www.presstelegram.com/,en,daily,3,,,Q7241597,2,daily newspaper; newspaper,33.7681,-118.1956,
+yes,US,Press & Sun-Bulletin,Binghamton,,http://pressconnects.com/,en,daily,3,,,Q7241600,2,newspaper; website,42.0989,-75.9108,
+yes,US,The Repository,Canton,,http://www.cantonrep.com/,en,daily,3,,,Q7760219,2,newspaper; website,40.7986,-81.3750,
+yes,US,Bainbridge Island Review,Bainbridge Island,,https://www.bainbridgereview.com/,en,daily,3,,,Q7760528,2,periodical; newspaper,47.6553,-122.5350,
+yes,US,The San Bernardino Sun,San Bernardino,,https://sbsun.com,en,daily,3,,,Q7762191,2,daily newspaper; newspaper,34.1042,-117.2922,
+yes,US,Skagway News,Skagway,,http://www.skagwaynews.com/,en,daily,3,,,Q7764591,2,newspaper,59.4686,-135.3058,
+yes,US,The Star Press,Muncie,,http://www.thestarpress.com,en,daily,3,,,Q7766280,2,newspaper; website,40.1933,-85.3881,language from country default
+yes,US,The Tablet,Brooklyn,,http://thetablet.org/,en,daily,3,,,Q7767878,2,newspaper,40.6508,-73.9497,
+yes,US,The Macon Telegraph,Macon,,http://macon.com/,en,daily,3,,,Q7768282,2,newspaper,32.8407,-83.6324,
+yes,US,The Telegraph,Alton,,https://www.thetelegraph.com/,en,daily,3,,,Q7768281,2,newspaper,38.9003,-90.1597,
+yes,US,Times Leader,Wilkes-Barre,,http://www.timesleader.com,en,daily,3,,,Q7769401,2,newspaper,41.2444,-75.8781,
 no,US,New Haven Register,New Haven,,http://www.nhregister.com/,en,daily,3,,,Q7008550,2,newspaper; website,41.3083,-72.9250,
 no,US,New Times LA,Los Angeles,,https://lanewtimes.com,en,daily,3,,,Q7012109,2,newspaper,34.0522,-118.2437,language from country default
 no,US,Lodi News-Sentinel,Lodi,,http://lodinews.com,en,daily,3,,,Q6666427,2,newspaper,38.1289,-121.2808,

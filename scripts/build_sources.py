@@ -177,7 +177,8 @@ def main() -> int:
     for row in seed:
         sid = row.get("id") or known_ids.get((row["name"], row["country"]))
         if not sid:
-            sid = slugify(row["name"])
+            # Names in non-Latin scripts may slug to nothing – then the homepage domain names the outlet.
+            sid = slugify(row["name"]) or slugify(re.sub(r"^www\d?\.", "", row["homepage"].split("//")[-1].split("/")[0]).rsplit(".", 1)[0])
             if sid in used:
                 sid = f"{sid}-{row['country'].lower()}"
             base, n = sid, 2
