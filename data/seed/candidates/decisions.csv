@@ -1,0 +1,89 @@
+country,qid,include,city,lang,tier,type,note,note_source,reason
+US,Q9684,yes,New York City,,,,,,city: group with the other New York outlets
+US,Q6510653,yes,New York City,,,,,,city: group with the other New York outlets
+US,Q25161472,no,,,,,,,business/lifestyle magazine
+US,Q61503,no,,,,,,,entertainment trade publication
+US,Q520154,no,,,,,,,technology magazine
+US,Q3233970,no,,,,,,,pop-culture site
+US,Q752361,no,,,,,,,special-interest magazine (LGBT)
+US,Q3986493,no,,,,,,,internet-culture site
+US,Q742091,no,,,,,,,special-interest weekly (LGBT)
+US,Q1961754,no,,,,,,,community paper (Jewish)
+US,Q4783261,no,,,,,,,small community paper
+US,Q1336674,no,,,,,,,historic (abolitionist paper 1831–1865)
+US,Q952554,no,,,,,,,alternative weekly
+US,Q1266813,no,,,,,,,religious paper
+US,Q2076422,no,,,,,,,alternative weekly
+US,Q3497081,no,,,,,,,diaspora paper (Belarusian)
+US,Q3235454,no,,,,,,,diaspora paper (Armenian)
+US,Q6827370,no,,,,,,,alternative weekly
+US,Q7652765,no,,,,,,,diaspora paper (Ukrainian)
+US,Q574474,no,,,,,,,dialect publication with German domain
+US,Q689778,no,,,,,,,military paper
+US,Q4793242,no,,,,,,,diaspora paper (Armenian)
+US,Q3234627,no,,,,,,,ceased 2016 (merged into East Bay Times)
+US,Q3481254,no,,,,,,,alternative weekly
+US,Q7282746,no,,,,,,,diaspora paper (Japanese-American)
+US,Q3521433,no,,,,,,,community paper (Jewish)
+US,Q7740166,no,,,,,,,ceased 2010 (merged into Star-Advertiser)
+US,Q3141398,no,,,,,,,alternative weekly
+US,Q3625579,no,,,,,,,ceased 2010 (merged into Star-Advertiser)
+US,Q861430,no,,,,,,,ceased 2020
+US,Q3569515,no,,,,,,,community paper (Yiddish)
+US,Q5123343,no,,,,,,,ceased 2020
+US,Q4791398,no,,,,,,,very small weekly
+US,Q5211375,no,,,,,,,alternative weekly
+US,Q5305930,no,,,,,,,diaspora paper (Lithuanian)
+US,Q1270762,no,,,,,,,alternative weekly
+US,Q6166493,no,,,,,,,small community paper
+US,Q3021206,no,,,,,,,defence trade publication
+US,Q7072409,no,,,,,,,ceased 2019
+US,Q6982690,no,,,,,,,military paper
+US,Q6784787,no,,,,,,,diaspora paper (Armenian)
+US,Q7622911,no,,,,,,,street paper
+US,Q7300864,no,,,,,,,street paper
+US,Q4051209,no,,,,,,,satirical/historical title
+US,Q7765988,yes,Spokane,,,,,,city: newsroom is in Spokane
+US,Q28230873,yes,Arlington,,,,,,city: Arlington (Virginia)
+CA,Q1067299,yes,Toronto,,,,,,city missing in Wikidata
+CA,Q1026672,yes,Calgary,,,,,,city missing in Wikidata
+CA,Q2931014,no,,,,,,,broadcaster (CBC)
+CA,Q7487459,no,,,,,,,religious magazine
+CA,Q3141327,no,,,,,,,ceased 2012
+CA,Q3987193,no,,,,,,,student paper
+CA,Q5226393,no,,,,,,,small diaspora monthly
+CA,Q7109280,no,,,,,,,ceased 2012
+CA,Q7826515,no,,,,,,,ceased
+CA,Q7197528,no,,,,,,,lifestyle magazine (Whistler)
+AU,Q631893,yes,,,,daily,,,type: daily newspaper
+AU,Q1634594,yes,,,,daily,,,type: daily newspaper
+AU,Q3338230,no,,,,,,,diaspora paper (Greek)
+AU,Q1023859,no,,,,,,,special-interest paper (LGBT)
+AU,Q7722242,no,,,,,,,satire
+AU,Q48997609,no,,,,,,,historic – homepage is an archive
+AU,Q4697874,no,,,,,,,military paper
+AU,Q4928693,no,,,,,,,music magazine
+AU,Q4930968,no,,,,,,,music magazine
+AU,Q7753408,no,,,,,,,historic – homepage is a library catalogue
+AU,Q17009440,no,,,,,,,agricultural paper
+AU,Q17014978,no,,,,,,,city missing
+AU,Q16960724,no,,,,,,,city is a shire – not a town
+NZ,Q56278256,no,,,,,,,historic – homepage is an archive
+NZ,Q123143542,no,,,,,,,city is a region – not a town
+NZ,Q141145741,yes,,zh,,,,,language: Chinese
+FJ,Q5448121,no,,,,,,,government newsletter
+PG,Q1645307,yes,Port Moresby,,,,,,city: Konedobu is a suburb of Port Moresby
+US,Q3518832,no,,,,,,,historic title (19th century)
+US,Q7753694,no,,,,,,,historic – homepage is an archive
+US,Q7755324,no,,,,,,,ceased 1982
+US,Q1750565,no,,,,,,,alternative weekly
+US,Q7757816,no,,,,,,,alternative weekly
+CA,Q138845330,no,,,,,,,city is a province – not a town
+CA,Q138845407,no,,,,,,,technology newsletter
+AU,Q125029767,yes,Perth,,,,,,city: The Nightly is published in Perth
+AU,Q123359103,no,,,,,,,essay magazine
+US,Q7067036,no,,,,,,,diaspora paper (Polish)
+US,Q7182847,no,,,,,,,alternative weekly
+CA,Q138845415,no,,,,,,,city is a province – not a town
+CA,Q4663298,no,,,,,,,small community paper
+AU,Q126490545,no,,,,,,,city is a shire – not a town

@@ -1,0 +1,287 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,CA,Anime News Network,,,https://www.animenewsnetwork.com,en,online,1,,,Q220509,40,anime and manga database; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CA,Toronto Star,Toronto,,https://www.thestar.com,en,daily,1,,,Q1067299,36,daily newspaper,56.0000,-109.0000,reviewed: city missing in Wikidata
+yes,CA,The Globe and Mail,Toronto,,https://www.theglobeandmail.com/,en,daily,1,,,Q604525,31,daily newspaper; newspaper of record,43.6703,-79.3867,
+seeded,CA,Le Soir,Bruxelles,BE,http://www.lesoir.be/,fr,daily,1,exile,,Q690672,24,newspaper,50.8467,4.3517,newsroom abroad (BE) – exile?; not pre-selected: newsroom abroad
+yes,CA,National Post,Toronto,,https://nationalpost.com/,en,daily,1,,,Q1812075,23,daily newspaper; newspaper; public company,43.6703,-79.3867,
+no,CA,Naked News,,,http://www.nakednews.com,en,online,1,,,Q1241628,23,television program; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,CBC News,CBC Ottawa Production Centre,,http://www.cbc.ca/news/,en,online,1,,,Q2931014,17,news website; division; news agency,45.4212,-75.6999,reviewed: broadcaster (CBC); language from country default
+yes,CA,Vancouver Sun,Vancouver,,https://vancouversun.com/,en,daily,1,,,Q2004274,16,daily newspaper; newspaper,49.2608,-123.1139,
+no,CA,Toronto Sun,Toronto,,http://torontosun.canoe.ca/,en,daily,1,,,Q2301245,16,daily newspaper,43.6703,-79.3867,
+yes,CA,The Gazette,Montreal,,https://montrealgazette.com/,en,daily,1,,,Q1549535,15,daily newspaper; newspaper,45.5033,-73.5868,
+yes,CA,La Presse,Montréal,,http://www.lapresse.ca/,fr,daily,2,,,Q3083289,14,daily newspaper; newspaper of record,45.5033,-73.5868,
+no,CA,Winnipeg Free Press,,,http://www.winnipegfreepress.com/,en,daily,2,,,Q645573,13,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Le Devoir,Montréal,,https://www.ledevoir.com/,fr,daily,2,,,Q1504424,13,daily newspaper; newspaper of record,45.5033,-73.5868,
+yes,CA,The Province,Vancouver,,https://theprovince.com/,en,daily,2,,,Q132110,12,newspaper,49.2608,-123.1139,
+no,CA,Universe Today,,,http://www.universetoday.com/,en,online,2,,,Q7894217,12,news website; scientific website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,CA,Calgary Herald,Calgary,,http://www.calgaryherald.com,en,daily,2,,,Q1026672,11,daily newspaper; newspaper,56.0000,-109.0000,reviewed: city missing in Wikidata
+no,CA,Rebel News,Toronto,,https://www.rebelnews.com/,en,online,2,,,Q19866755,11,news website; YouTube channel; business,43.6703,-79.3867,language from country default; not pre-selected: magazine/online below tier 1
+seeded,CA,Irish Examiner,Cork,IE,http://www.irishexaminer.com,en,daily,2,exile,,Q1520619,10,daily newspaper; organization,51.9000,-8.4731,newsroom abroad (IE) – exile?; not pre-selected: newsroom abroad
+yes,CA,Ottawa Citizen,Ottawa,,http://www.ottawacitizen.com,en,daily,2,,,Q3357762,9,daily newspaper; newspaper,45.4247,-75.6950,
+yes,CA,Le Journal de Montréal,Montréal,,http://journaldemontreal.com/,fr,daily,2,,,Q3086280,9,daily newspaper,45.5033,-73.5868,
+no,CA,Le Soleil,,,https://www.lesoleil.com/,fr,daily,2,,,Q3227253,6,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Ottawa Sun,Ottawa,,http://www.ottawasun.com/,en,online,2,,,Q2453021,6,tabloid,45.4247,-75.6950,not pre-selected: magazine/online below tier 1
+no,CA,Le Journal de Québec,,,http://www.journaldequebec.com/,fr,daily,3,,,Q3223731,5,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Liberté,El Achour,DZ,http://www.liberte-algerie.com/,fr,daily,3,exile,,Q3237831,5,daily newspaper; newspaper,36.7339,2.9919,newsroom abroad (DZ) – exile?; not pre-selected: newsroom abroad
+no,CA,Xtra!,Toronto,,http://dailyxtra.com/,en,daily,3,,,Q920043,4,newspaper,43.6703,-79.3867,
+yes,CA,Edmonton Journal,Edmonton,,https://edmontonjournal.com/,en,daily,3,,,Q2396619,4,daily newspaper; newspaper,53.5333,-113.5000,
+yes,CA,Times Colonist,Victoria,,https://www.timescolonist.com/,en,daily,3,,,Q970454,4,periodical; newspaper,48.4222,-123.3657,
+yes,CA,The StarPhoenix,Saskatoon,,http://www.thestarphoenix.com,en,daily,3,,,Q3522837,4,periodical; newspaper,52.1333,-106.6833,
+no,CA,The Northern Miner,,,http://www.northernminer.com/,en,daily,3,,,Q7754373,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,24 Hours,,,http://24hrs.ca/,en,daily,3,,,Q217289,4,daily newspaper; periodical,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Calgary Sun,Calgary,,https://www.calgarysun.com/,en,daily,3,,,Q2933917,4,daily newspaper,51.0475,-114.0625,
+no,CA,The Chronicle Herald,,,http://www.thechronicleherald.ca/,en,daily,3,,,Q3520275,4,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Brantford Expositor,,,http://www.brantfordexpositor.ca/,en,daily,3,,,Q3643782,4,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Hamilton Spectator,,,https://www.thespec.com,en,daily,3,,,Q7738681,4,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,LifeSiteNews,,,https://www.lifesitenews.com/,en,online,3,,,Q62713193,4,online newspaper; website; advocacy group,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CA,The Tyee,Vancouver,,https://thetyee.ca,en,online,3,,,Q7770989,4,news website; website; organization,49.2608,-123.1139,language from country default; not pre-selected: magazine/online below tier 1
+no,CA,Canadian Jewish News,,,http://www.cjnews.com/,en,daily,3,,,Q2935792,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Leader-Post,Regina,,http://www.leaderpost.com,en,daily,3,,,Q3423475,3,daily newspaper; newspaper,50.4547,-104.6067,
+no,CA,The Hill Times,Ottawa,,https://www.hilltimes.com/,en,online,3,,,Q3521254,3,newspaper; online newspaper,45.4247,-75.6950,"types: daily, online; not pre-selected: magazine/online below tier 1"
+no,CA,Quebec Chronicle-Telegraph,,,http://www.qctonline.com,en,daily,3,,,Q3522371,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Windsor Star,Windsor,,http://www.windsorstar.com/,en,daily,3,,,Q3569304,3,daily newspaper; newspaper,42.3173,-83.0353,
+no,CA,Globe,Boca Raton,US,http://globemagazine.com,en,daily,3,exile,,Q5570970,3,newspaper,26.3686,-80.1000,newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
+no,CA,Lion's Roar,Halifax,,https://www.lionsroar.com/,en,daily,3,,,Q7487459,3,newspaper,44.6478,-63.5714,reviewed: religious magazine
+no,CA,The Coast,,,http://thecoast.ca,en,daily,3,,,Q7726535,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Winnipeg Sun,Winnipeg,,http://www.winnipegsun.com,en,daily,3,,,Q531949,3,daily newspaper,49.8956,-97.1386,
+no,CA,The Record,,,https://www.sherbrookerecord.com/,en,daily,3,,,Q1546698,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Corriere Canadese,Toronto,,http://www.corriere.com/,it,daily,3,,,Q2997963,3,daily newspaper,43.6703,-79.3867,
+no,CA,Edmonton Sun,,,http://www.edmontonsun.com/,en,daily,3,,,Q3048057,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,L'Acadie nouvelle,Caraquet,,http://www.acadienouvelle.com/,fr,daily,3,,,Q3201399,3,daily newspaper,47.7853,-64.9592,
+yes,CA,Le Droit,Ottawa,,https://www.ledroit.com/,fr,daily,3,,,Q3222449,3,daily newspaper,45.4247,-75.6950,
+no,CA,The Guardian,,,https://www.saltwire.com/prince-edward-island/,en,daily,3,,,Q7738430,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Waterloo Region Record,,,http://www.therecord.com/,en,daily,3,,,Q7974268,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Kanadan Sanomat,,,http://www.finnishcanadian.com,fi,weekly,3,,,Q16988638,3,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Le Nouvelliste,,,http://www.cyberpresse.ca/le-nouvelliste,fr,daily,3,,,Q374616,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,TVA Nouvelles,,,https://www.tvanouvelles.ca/,en,online,3,,,Q3512529,3,television program; division; news program; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CA,Hour Community,Montreal,,http://hour.ca/,en,daily,3,,,Q3141327,2,newspaper,45.5033,-73.5868,reviewed: ceased 2012
+no,CA,L'Express,,,https://l-express.ca/,fr,daily,3,,,Q3203397,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Le Gaboteur,Stephenville,US,http://www.gaboteur.ca/,fr,daily,3,exile,,Q3223017,2,newspaper,32.2207,-98.2023,newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
+no,CA,Le Québécois,,,https://www.lequebecois.org/,fr,daily,3,,,Q3226220,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Le Voyageur,Grand Sudbury,,http://www.levoyageur.ca/,fr,daily,3,,,Q3228300,2,newspaper,46.4900,-81.0100,
+no,CA,Montreal Mirror,,,http://montrealmirror.com,en,daily,3,,,Q3322928,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Burnaby Now,Burnaby,,https://www.burnabynow.com/,en,daily,3,,,Q4999595,2,newspaper,49.2500,-122.9492,
+no,CA,The Suburban,,,https://www.thesuburban.com/,en,daily,3,,,Q3522909,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,UWO Gazette,London,,http://www.westerngazette.ca/,en,daily,3,,,Q3987193,2,newspaper,42.9837,-81.2497,reviewed: student paper
+no,CA,Horizon Weekly,Montreal,,https://horizonweekly.ca/,en,online,3,,,Q5903502,2,newspaper; news website,45.5033,-73.5868,"types: daily, online; not pre-selected: magazine/online below tier 1"
+yes,CA,Le Courrier du Sud,Longueuil,,http://www.hebdosregionaux.ca/monteregie/le-courrier-du-sud,fr,daily,3,,,Q6506816,2,newspaper,45.5141,-73.4380,
+no,CA,明報,,,https://www.mingpaocanada.com/,zh,daily,3,,,Q6864658,2,daily newspaper; Chinese Canadian newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Sing Tao Media Group,,,http://www.singtao.ca,zh,daily,3,,,Q7522711,2,daily newspaper; Chinese Canadian newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Jewish Tribune,,,http://jewishtribune.ca/,en,daily,3,,,Q7743245,2,newspaper; Jewish newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: alternative/religious paper
+no,CA,The Catholic Register,Toronto,,http://www.catholicregister.org,en,daily,3,,,Q7721736,2,newspaper; charitable organization,43.6703,-79.3867,
+yes,CA,Tri-City News,Port Coquitlam,,https://www.tricitynews.com/,en,daily,3,,,Q7839679,2,newspaper,49.2625,-122.7810,
+yes,CA,Yukon News,Whitehorse,,https://www.yukon-news.com/,en,daily,3,,,Q8060835,2,newspaper,60.7172,-135.0558,
+no,CA,Kingston Whig-Standard,,,http://www.thewhig.com/,en,daily,3,,,Q928635,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The London Free Press,,,http://www.lfpress.com/,en,daily,3,,,Q3258959,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Telegraph-Journal,Saint John,,http://www.telegraphjournal.com/,en,daily,3,,,Q3517296,2,daily newspaper,45.2796,-66.0628,
+yes,CA,The Daily Gleaner,Fredericton,,http://dailygleaner.canadaeast.com/,en,daily,3,,,Q3520494,2,daily newspaper,45.9500,-66.6667,
+yes,CA,Alberni Valley Times,Port Alberni,,http://www.avtimes.net,en,daily,3,,,Q4709556,2,daily newspaper,49.2339,-124.8050,
+no,CA,Brandon Sun,,,http://www.brandonsun.com/,en,daily,3,,,Q4957083,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Dawson Creek Daily News,,,http://www.dawsoncreekdailynews.ca,en,daily,3,,,Q5242652,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,North Bay Nugget,,,http://www.nugget.ca/,en,daily,3,,,Q7054099,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Peterborough Examiner,,,https://www.thepeterboroughexaminer.com/,en,daily,3,,,Q7178004,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Sault Star,,,http://www.saultstar.com/,en,daily,3,,,Q7427395,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,St. Catharines Standard,St. Catharines,,http://www.stcatharinesstandard.ca/,en,daily,3,,,Q7587417,2,daily newspaper,43.1833,-79.2333,
+no,CA,Sudbury Star,,,http://www.thesudburystar.com,en,daily,3,,,Q7633528,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Trail Daily Times,,,http://www.traildailytimes.ca/,en,daily,3,,,Q17117389,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,People's Voice,,,https://pvonline.ca/,en,daily,3,,,Q7165811,2,biweekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CA,Abbotsford News,Abbotsford,,http://www.abbynews.com/,en,daily,3,,,Q4664307,2,newspaper,49.0517,-122.3289,
+no,CA,Canadan Sanomat,,,http://www.canadansanomat.com/,fi,daily,3,,,Q5029543,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Cape Breton Post,,,http://www.capebretonpost.com,en,daily,3,,,Q2937238,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Daily Courier,,,http://www.kelownadailycourier.ca/,en,daily,3,,,Q7728639,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Post Millennial,Montreal,,https://thepostmillennial.com/,en,magazine,3,,,Q96409546,2,news website; news magazine,45.5033,-73.5868,"language from country default; types: magazine, online; not pre-selected: magazine/online below tier 1"
+no,CA,The Breach (media outlet),,,https://breachmedia.ca,en,online,3,,,Q107244758,2,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CA,rabble.ca,Toronto,,https://rabble.ca,en,online,3,,,Q3415909,2,online magazine; news website,43.6703,-79.3867,not pre-selected: magazine/online below tier 1
+yes,CA,Abbotsford Times,Abbotsford,,http://www.abbotsfordtimes.com,en,daily,3,,,Q4664314,1,newspaper,49.0517,-122.3289,
+no,CA,L'Étoile du Lac,,,http://www.letoiledulac.com/,fr,daily,3,,,Q3205485,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Amherstburg Echo,,,http://www.amherstburgecho.com,en,daily,3,,,Q4746053,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Ashcroft-Cache Creek Journal,,,http://www.ash-cache-journal.com,en,daily,3,,,Q4804752,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Bancroft This Week,,,http://www.bancroftthisweek.com/,en,daily,3,,,Q4854167,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Banff Crag & Canyon,,,http://www.banffcragandcanyon.com/,en,daily,3,,,Q4854864,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CA,Bobcaygeon Independent,Bobcaygeon,,http://www.mykawartha.com,en,daily,3,,,Q4935789,1,newspaper,44.5417,-78.5417,language from country default
+no,CA,Bradford West Gwillimbury Times,,,http://www.bradfordtimes.ca,en,daily,3,,,Q4954777,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CA,Burnaby News Leader,Burnaby,,http://www.burnabynewsleader.com,en,daily,3,,,Q4999592,1,newspaper,49.2500,-122.9492,
+no,CA,Campbell River Mirror,,,http://www.campbellrivermirror.com,en,daily,3,,,Q5028137,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Camrose Canadian,Camrose,,http://www.camrosecanadian.com/,en,daily,3,,,Q5028781,1,newspaper,53.0247,-112.8242,language from country default
+no,CA,Chatham This Week,,,http://www.chathamthisweek.ca,en,daily,3,,,Q5087696,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Clinton News-Record,Clinton,US,http://www.clintonnewsrecord.ca,en,daily,3,exile,,Q5134194,1,newspaper,35.5094,-98.9742,newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
+no,CA,Cochrane Times-Post,,,http://www.cochranetimespost.com,en,daily,3,,,Q5139447,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Coquitlam Now,Coquitlam,,http://www.thenownews.com/,en,daily,3,,,Q5169347,1,newspaper,49.2839,-122.7919,
+no,CA,Das Echo,Montreal,,http://www.dasecho.com,en,daily,3,,,Q5226393,1,newspaper,45.5033,-73.5868,reviewed: small diaspora monthly; language from country default
+no,CA,Echo Weekly,,,http://www.echoweekly.com,en,daily,3,,,Q5332754,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Edson Leader,,,http://www.edsonleader.com/,en,daily,3,,,Q5340317,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Fab,,,http://www.fabsmag.com/,en,daily,3,,,Q5427571,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Fort Saskatchewan Record,,,http://www.fortsaskatchewanrecord.com,en,daily,3,,,Q5471983,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Grand Forks Gazette,,,http://www.grandforksgazette.ca,en,daily,3,,,Q5594564,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Guelph Tribune,,,https://www.guelphmercury.com/,en,daily,3,,,Q5614799,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Haliburton Echo,,,http://www.haliburtonecho.ca,en,daily,3,,,Q5642040,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Restoration,,,http://www.madonnahouse.org/restoration/,en,daily,3,,,Q7316203,1,Catholic newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: alternative/religious paper
+no,CA,Jasper Booster,,,http://www.jasperbooster.com/,en,daily,3,,,Q6163899,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CA,Kings County Record,Sussex,,http://www.kingscorecord.canadaeast.com/,en,daily,3,,,Q6412892,1,newspaper,45.7167,-65.5167,
+no,CA,Lakeshore Advance,,,http://www.lakeshoreadvance.com,en,daily,3,,,Q6479019,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Leader Spirit,,,http://www.leaderspirit.ca,en,daily,3,,,Q6508501,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Les Presses Chinoises,,,http://www.chinesepress.com/,zh,daily,3,,,Q6529890,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Lögberg-Heimskringla,,,http://www.lh-inc.ca,en,daily,3,,,Q6711345,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Mid-North Monitor,,,http://www.midnorthmonitor.com,en,daily,3,,,Q6840765,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Minden Times,,,http://www.mindentimes.ca/,en,daily,3,,,Q6863798,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,News/North,Yellowknife,,http://www.nnsl.com,en,daily,3,,,Q7019185,1,newspaper,62.4422,-114.3975,language from country default
+yes,CA,North Thompson Star/Journal,Barriere,,http://www.starjournal.net/,en,daily,3,,,Q7056997,1,newspaper,51.1797,-120.1236,
+no,CA,Northern Journal,,,http://www.norj.ca,en,daily,3,,,Q7058594,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Northern News,,,http://www.northernnews.ca,en,daily,3,,,Q7058790,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Only,,,http://www.onlymagazine.ca,en,daily,3,,,Q7094147,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Ottawa XPress,Ottawa,,http://www.ottawaxpress.ca/,en,daily,3,,,Q7109280,1,newspaper,45.4247,-75.6950,reviewed: ceased 2012
+no,CA,Peace Arch News,,,https://www.peacearchnews.com/,en,daily,3,,,Q7157316,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Pique Newsmagazine,Vancouver,,http://www.piquenewsmagazine.com/,en,daily,3,,,Q7197528,1,newspaper,49.2608,-123.1139,reviewed: lifestyle magazine (Whistler); language from country default
+no,CA,Pulse Niagara,,,http://www.pulseniagara.com/,en,daily,3,,,Q7259664,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CA,Red Deer Advocate,Red Deer,,http://www.reddeeradvocate.com,en,daily,3,,,Q7303988,1,daily newspaper; newspaper,52.2681,-113.8111,
+no,CA,Renfrew Mercury,,,http://www.yourottawaregion.com/,en,daily,3,,,Q7313170,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CA,Rive-Sud Express,Boucherville,,http://www.rivesudexpress.ca/,fr,daily,3,,,Q7337008,1,newspaper,45.6000,-73.4500,
+no,CA,Salam Toronto,,,http://www.salamtoronto.ca,en,daily,3,,,Q7403528,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Similkameen News Leader,,,http://www.thenewsleader.net//,en,daily,3,,,Q7517826,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Socialist Voice,,,http://www.communistpartyofireland.ie/sv/index.html,en,daily,3,,,Q7551796,1,website; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Spacing,,,http://www.spacing.ca,en,daily,3,,,Q7572759,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,St. Albert Gazette,,,http://www.stalbertgazette.com,en,daily,3,,,Q7586764,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,The Brampton Guardian,,,http://www.bramptonguardian.com,en,daily,3,,,Q7719833,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,The Casket,Antigonish,,http://www.thecasket.ca/,en,daily,3,,,Q7721553,1,newspaper,45.6228,-61.9917,
+no,CA,The Dominion,,,http://www.dominionpaper.ca,en,daily,3,,,Q7730607,1,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CA,The Fitzhugh,Jasper,,http://www.fitzhugh.ca,en,daily,3,,,Q7734257,1,newspaper,52.8731,-118.0820,language from country default
+yes,CA,Valley Journal Advertiser,Windsor,,http://www.novanewsnow.com/,en,daily,3,,,Q7738773,1,newspaper,44.9803,-64.1292,
+no,CA,The Lindsay Post,,,http://www.thepost.ca,en,daily,3,,,Q7747402,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Mississauga News,,,http://www.mississauga.com,en,daily,3,,,Q7751769,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,The Morning Star,Vernon,,http://www.bclocalnews.com/okanagan_similkameen/vernonmorningstar/,en,daily,3,,,Q7752302,1,daily newspaper; newspaper,50.2670,-119.2720,
+no,CA,The Napanee Guide,,,http://www.napaneeguide.com,en,daily,3,,,Q7753085,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Surrey Now-Leader,Surrey,,https://www.surreynowleader.com/,en,daily,3,,,Q7754459,1,newspaper,49.1833,-122.8500,
+no,CA,The Prince Arthur Herald,,,http://princearthurherald.com//,en,daily,3,,,Q7758248,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Reminder,,,http://www.thereminder.ca,en,daily,3,,,Q7760145,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,The Republic,,,http://www.republic-news.org,en,daily,3,,,Q7760232,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,The Vancouver Observer,Vancouver,,https://www.vancouverobserver.com/,en,daily,3,,,Q7772013,1,newspaper,49.2608,-123.1139,
+no,CA,Today's Farmer,,,http://www.todaysfarmer.ca,en,daily,3,,,Q7812147,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Toronto Standard,Burroughes Building,,http://www.torontostandard.com,en,daily,3,,,Q7826515,1,newspaper,43.6470,-79.4037,reviewed: ceased
+no,CA,Trenton Trentonian,,,http://www.trentonian.ca/,en,daily,3,,,Q7838613,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Vancouver Courier,,,http://www.vancourier.com/,en,daily,3,,,Q7914150,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Wayves,,,http://wayves.ca/,en,daily,3,,,Q7976895,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Westmount Examiner,,,http://www.westmountexaminer.com,en,daily,3,,,Q7989325,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Whitecourt Star,,,http://www.whitecourtstar.com/,en,daily,3,,,Q7995812,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Xtra Vancouver,,,http://xtra.ca/,en,daily,3,,,Q8045051,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Amherst Citizen,,,http://www.cumberlandnewsnow.com/,en,daily,3,,,Q16827975,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Kamloops This Week,,,http://www.kamloopsthisweek.com,en,daily,3,,,Q16964441,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Kincardine News,Kincardine,,http://www.kincardinenews.com,en,daily,3,,,Q16989077,1,newspaper,44.1694,-81.6347,
+no,CA,Muskoka Magazine,,,http://www.muskokamagazine.com/,en,daily,3,,,Q17077740,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Cult MTL,,,http://cultmontreal.com,en,daily,3,,,Q17512202,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Lloydminster Meridian Booster,,,http://www.meridianbooster.com,en,daily,3,,,Q18167951,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,The Overcast,,,http://theovercast.ca,en,daily,3,,,Q19599987,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Canada’s National Observer,Vancouver,,https://www.nationalobserver.com/,en,daily,3,,,Q22907202,1,newspaper,49.2608,-123.1139,
+no,CA,Welland Tribune,,,https://www.wellandtribune.ca/,en,daily,3,,,Q55138403,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,The Bull & Bear,,,http://www.bullandbearmcgill.com/,en,daily,3,,,Q55635084,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Langley Advance Times,Langley,,https://www.langleyadvancetimes.com/,en,daily,3,,,Q130421502,1,newspaper,49.1041,-122.6580,language from country default
+yes,CA,Burnaby Beacon,Burnaby,,https://burnabybeacon.com/,en,daily,3,,,Q138844601,1,newspaper,49.2500,-122.9492,
+yes,CA,Calgary Citizen,Calgary,,https://calgarycitizen.com/,en,daily,3,,,Q138844792,1,newspaper,51.0475,-114.0625,
+no,CA,Calgary Tech Journal,Calgary,,https://calgarytechjournal.com/,en,online,3,,,Q138844803,1,newspaper; news website,51.0475,-114.0625,"types: daily, online; not pre-selected: magazine/online below tier 1"
+no,CA,Alaska Highway News,,,http://www.alaskahighwaynews.ca,en,daily,3,,,Q4708553,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Cranbrook Daily Townsman,,,http://www.dailytownsman.com/,en,daily,3,,,Q5181948,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Grande Prairie Daily Herald-Tribune,,,http://www.dailyheraldtribune.com/,en,daily,3,,,Q5595330,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Journal Pioneer,,,http://www.journalpioneer.com,en,daily,3,,,Q6294667,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Kenora Daily Miner and News,,,http://www.kenoradailyminerandnews.com,en,daily,3,,,Q6391290,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Kimberley Daily Bulletin,,,http://www.dailybulletin.ca/,en,daily,3,,,Q6409825,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Medicine Hat News,,,http://www.medicinehatnews.com/,en,daily,3,,,Q6806716,1,daily newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Moose Jaw Times-Herald,,,http://www.mjtimes.sk.ca,en,daily,3,,,Q6908600,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Osoyoos Times,Osoyoos,,http://www.osoyoostimes.com,en,daily,3,,,Q7107368,1,daily newspaper,49.0325,-119.4661,language from country default
+no,CA,Penticton Herald,,,http://pentictonherald.ca,en,daily,3,,,Q7165182,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Prince Albert Daily Herald,,,http://www.paherald.sk.ca,en,daily,3,,,Q7243775,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Sarnia Observer,Sarnia,,http://www.theobserver.ca/,en,daily,3,,,Q7424348,1,daily newspaper,42.9745,-82.4066,language from country default
+no,CA,The Beacon Herald,,,http://www.stratfordbeaconherald.com,en,daily,3,,,Q7715988,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Chronicle-Journal,,,http://www.chroniclejournal.com,en,daily,3,,,Q7722790,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,The Delhi News-Record,Delhi,,http://www.delhinewsrecord.com/,en,daily,3,,,Q7729652,1,daily newspaper,42.8525,-80.4989,language from country default
+yes,CA,The News,New Glasgow,,http://www.ngnews.ca,en,daily,3,,,Q7753906,1,daily newspaper,45.5894,-62.6447,
+no,CA,The Prince George Citizen,,,http://www.princegeorgecitizen.com,en,daily,3,,,Q7758251,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Simcoe Reformer,,,http://www.simcoereformer.ca,en,daily,3,,,Q7764327,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Western Star,,,http://www.thewesternstar.com,en,daily,3,,,Q7774317,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Woodstock Sentinel-Review,,,http://www.woodstocksentinelreview.com/,en,daily,3,,,Q8033460,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Truro Daily News,,,http://www.trurodaily.com,en,daily,3,,,Q17120737,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Nunatsiaq News,Iqaluit,,https://nunatsiaq.com/,en,online,3,,,Q7069742,1,weekly newspaper; online newspaper,63.7494,-68.5217,"types: online, weekly; not pre-selected: magazine/online below tier 1"
+no,CA,Halifax Examiner,,,https://www.halifaxexaminer.ca/,en,online,3,,,Q28233111,1,online newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CA,Daily Hive,,,https://dailyhive.com,en,online,3,,,Q39087049,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CA,The Athabasca Advocate,,,https://www.athabascaadvocate.com,en,daily,3,,,Q139488881,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Westlock News,,,https://www.westlocknews.com,en,daily,3,,,Q139488997,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Burlington Post,,,http://www.burlingtonpost.com/,en,daily,3,,,Q4999271,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,The Vach,,,https://thevach.com,en,online,3,,,Q116457040,1,business; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,CA,Le Courrier de Saint-Hyacinthe,Saint-Hyacinthe,,https://lecourrier.qc.ca/,fr,weekly,3,,,Q2367653,1,weekly newspaper; periodical; website,45.6167,-72.9500,
+no,CA,The Beaverton,Toronto,,http://www.thebeaverton.com/,en,daily,3,,,Q18162767,1,satirical newspaper,43.6703,-79.3867,language from country default
+no,CA,Le Fil,,,https://www.lefil.ulaval.ca/,fr,weekly,3,,,Q64144166,1,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CA,Lake District News,Burns Lake,,http://www.ldnews.net,en,daily,3,,,Q6475633,1,newspaper,54.2292,-125.7625,
+no,CA,Pincher Creek Echo,,,http://www.pinchercreekecho.com/,en,daily,3,,,Q16996115,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,North Shore News,,,https://www.nsnews.com/,en,daily,3,,,Q55810122,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Northumberland News,,,https://www.northumberlandnews.com,en,daily,3,,,Q60753428,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Manitoulin Expositor,,,https://www.manitoulin.com/,en,daily,3,,,Q105676730,1,newspaper; serial; website,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,24 heures,Montréal,,https://www.24heures.ca/,fr,daily,3,,,Q106678259,1,newspaper,45.5033,-73.5868,
+yes,CA,Rocky Mountain Outlook,Canmore,,https://www.rmoutlook.com/,en,daily,3,,,Q107418813,1,newspaper,51.0880,-115.3478,language from country default
+no,CA,Fraser Valley Current,British Columbia,,https://fvcurrent.com/,en,daily,3,,,Q138845330,1,newspaper,54.5000,-124.5000,reviewed: city is a province – not a town
+no,CA,Vancouver Tech Journal,Vancouver,,https://vantechjournal.com/,en,daily,3,,,Q138845380,1,newspaper,49.2608,-123.1139,
+no,CA,Victoria Tech Journal,Victoria,,https://victechjournal.com/,en,daily,3,,,Q138845407,1,newspaper,48.4222,-123.3657,reviewed: technology newsletter
+no,CA,The Westshore,British Columbia,,https://www.thewestshore.ca/,en,daily,3,,,Q138845415,1,newspaper,54.5000,-124.5000,reviewed: city is a province – not a town
+no,CA,Lethbridge Herald,,,http://lethbridgeherald.com/,en,daily,3,,,Q6533306,1,daily newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Гомін України,Торонто,,http://www.homin.ca/,uk,online,3,,,Q120176694,1,weekly newspaper; online newspaper,43.6703,-79.3867,"types: online, weekly; not pre-selected: magazine/online below tier 1"
+no,CA,Révolution communiste,,,https://www.marxist.ca/,fr,online,3,,,Q3071635,1,periodical; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CA,The Chatham Daily News,,,https://www.chathamdailynews.ca/,en,daily,3,,,Q126490070,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,The Barrhead Leader,,,http://www.barrheadleader.com,en,daily,3,,,Q139488954,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,PressProgress,,,https://pressprogress.ca/,en,online,3,,,Q126869307,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CA,338Canada,,,https://338canada.com/,en,online,3,,,Q126910579,1,poll aggregator; website; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CA,The Maple,,,https://www.readthemaple.com/,en,online,3,,,Q135841142,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CA,TownandCountryToday.com,,,https://TownandCountryToday.com,en,online,3,,,Q139488805,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CA,Briarpatch,Regina,,https://briarpatchmagazine.com/,en,magazine,3,,,Q4965804,1,magazine; news magazine,50.4547,-104.6067,not pre-selected: magazine/online below tier 1
+no,CA,Abaka,Montreal,,http://abakanews.org/,en,daily,3,,,Q4663298,0,newspaper,45.5033,-73.5868,reviewed: small community paper
+yes,CA,Cornwall Seaway News,Cornwall,,http://www.cornwallseawaynews.com,en,daily,3,,,Q5172009,0,newspaper,45.0275,-74.7400,
+yes,CA,Беседа,Торонто,,https://besedanews.com/,ru,weekly,3,,,Q108935889,0,weekly newspaper; community newspaper,43.6703,-79.3867,"types: daily, weekly"
+no,CA,Canadian Courier,Toronto,,http://canadian-courier.ca/,en,weekly,3,,,Q108936107,0,weekly newspaper; community newspaper,43.6703,-79.3867,"language from country default; types: daily, weekly"
+no,CA,Русский Экспресс,Торонто,,https://www.russianexpress.net/,ru,weekly,3,,,Q109302208,0,weekly newspaper; community newspaper,43.6703,-79.3867,"types: daily, weekly"
+no,CA,Newspaper Plus,Торонто,,http://www.russianweek.ca/category/ourprojects/gazetaplus/,ru,weekly,3,,,Q109302338,0,weekly newspaper; community newspaper,43.6703,-79.3867,"types: daily, weekly"
+no,CA,Недельная Газета,Торонто,,https://therussianguide.com/category/our-products/nedelnaya-gazeta/,ru,weekly,3,,,Q109302508,0,weekly newspaper; community newspaper,43.6703,-79.3867,"types: daily, weekly"
+no,CA,Oakville Beaver,,,http://www.oakvillebeaver.com/,en,daily,3,,,Q7074248,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,Richmond News,Richmond,,https://www.richmond-news.com,en,daily,3,,,Q57525653,0,newspaper,49.1667,-123.1333,language from country default
+no,CA,Graffici,,,https://graffici.ca/,fr,daily,3,,,Q104162139,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Journal Le Saint-Armand,,,https://journalstarmand.com,fr,daily,3,,,Q104708985,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Infodimanche,,,https://www.infodimanche.com/,fr,daily,3,,,Q106860433,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,journal le soir,,,https://journallesoir.ca/,fr,daily,3,,,Q106878568,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Le placoteux,,,http://www.leplacoteux.com/,en,daily,3,,,Q123517149,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CA,The Inverness Oran,Inverness,,https://www.invernessoran.ca/,en,daily,3,,,Q136463388,0,newspaper,46.2303,-61.3064,
+no,CA,Guysborough Journal,Guysborough,,https://guysboroughjournal.ca/,en,daily,3,,,Q136463434,0,newspaper,45.3917,-61.5083,
+no,CA,Le Journal de Joliette,,,https://www.lejournaldejoliette.ca/,fr,daily,3,,,Q107501510,0,regional newspaper; daily newspaper; business,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Eye Opener,,,https://www.curling.ca/blog/tag/eye-opener/,en,daily,3,,,Q61800133,0,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Canadian Affairs,,,https://www.canadianaffairs.news,en,online,3,,,Q130428006,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CA,The Laker,Enfield,,https://thelaker.ca/,en,online,3,,,Q136148268,0,online newspaper,44.9433,-63.5361,not pre-selected: magazine/online below tier 1
+no,CA,The Macdonald Notebook,Halifax,,https://www.themacdonaldnotebook.ca/,en,online,3,,,Q136346951,0,online newspaper,44.6478,-63.5714,not pre-selected: magazine/online below tier 1
+no,CA,The Niagara Independent,,,https://niagaraindependent.ca/,en,online,3,,,Q136746421,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CA,BetaKit,Toronto,,https://betakit.com,en,online,3,,,Q140247242,0,online newspaper,43.6703,-79.3867,not pre-selected: magazine/online below tier 1
+no,CA,L'Info de la Basse-Lièvre,Gatineau,,https://infodelabasselievre.ca/,fr,weekly,3,,,Q131862555,0,weekly newspaper,45.4833,-75.6500,
+no,CA,Le Peuple Lotbinière,Lévis,,https://www.lepeuplelotbiniere.ca/,fr,weekly,3,,,Q107199360,0,weekly newspaper,46.8000,-71.1833,
+no,CA,L'Express de Drummondville,,,https://www.journalexpress.ca/,fr,daily,3,,,Q106807128,0,regional weekly,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,U of T News,Toronto,,https://www.utoronto.ca/news,en,daily,3,,,Q138452647,0,university newspaper,43.6703,-79.3867,
+no,CA,Glasilo kanadskih Slovencev,,,http://www.theslovenian.com/magazine/,sl,daily,3,,,Q81095649,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Vingt55,Internet,,https://vingt55.ca,fr,daily,3,,,Q106807396,0,newspaper,,,
+no,CA,Le Maître papetier,,,https://lemaitrepapetier.ca/,fr,daily,3,,,Q106840901,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,L'info du Nord,Mont-Tremblant,,https://infodunordvalleedelarouge.ca/,fr,daily,3,,,Q107235393,0,newspaper,46.1167,-74.6000,
+no,CA,Windspeaker,,,https://windspeaker.com/,en,online,3,,,Q108279275,0,newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online; not pre-selected: magazine/online below tier 1"
+no,CA,ATIN ITO,,,https://www.atinitonews.com,en,daily,3,,,Q111013342,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Better Dwelling,,,https://betterdwelling.com/,en,daily,3,,,Q124399411,0,website; serial; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Beach Metro community news,Toronto,,https://beachmetro.com/,en,daily,3,,,Q127424281,0,newspaper,43.6703,-79.3867,
+no,CA,7 News,Toronto,,https://www.connexions.org/SevenNews/,en,daily,3,,,Q130404954,0,newspaper,43.6703,-79.3867,
+no,CA,Miramichi Leader,Miramichi,,https://tj.news/miramichi-leader,en,daily,3,,,Q130600040,0,newspaper,47.0225,-65.5089,
+no,CA,L'Éclaireur Progrès,Saint-Georges,,https://www.leclaireurprogres.ca/,fr,daily,3,,,Q136808283,0,newspaper,46.1167,-70.6667,
+no,CA,Edmonton Examiner,Edmonton,,https://www.edmontonexaminer.com/,en,daily,3,,,Q126490342,0,local newspaper,53.5333,-113.5000,language from country default
+no,CA,Gananoque Reporter,Gananoque,,http://www.gananoquereporter.com,en,daily,3,,,Q126490484,0,local newspaper,44.3333,-76.1667,language from country default
+no,CA,Nelson Star,Nelson,,https://www.nelsonstar.com/,en,daily,3,,,Q126490729,0,local newspaper,49.5000,-117.2833,
+no,CA,Norfolk & Tillsonburg News,Tillsonburg,,https://www.norfolkandtillsonburgnews.com/,en,daily,3,,,Q126490850,0,local newspaper,42.8681,-80.7308,language from country default
+no,CA,Peninsula News Review,,,https://www.peninsulanewsreview.com/,en,daily,3,,,Q126491130,0,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Revelstoke Review,Revelstoke,,https://www.revelstokereview.com/,en,daily,3,,,Q126492668,0,local newspaper,50.9981,-118.1960,
+no,CA,The Muskokan,Bracebridge,,https://www.muskokaregion.com/news/topics/the-muskokan/,en,weekly,3,,,Q126392862,0,weekly newspaper,45.0333,-79.3000,
+no,CA,Peace River Record-Gazette,,,https://www.prrecordgazette.com/,en,weekly,3,,,Q126491096,0,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,National Post,,,http://www.nationalpost.8m.com/,en,daily,3,,,Q127418910,0,satirical newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CA,Les cahiers de l'OMEC,Montréal,,https://omec.inrs.ca/les-cahiers-de-lomec-2/,fr,daily,3,,,Q138685101,0,digital newspaper; serial,45.5033,-73.5868,
+no,CA,North99,Toronto,,https://north99.org,en,online,3,,,Q135841153,0,news website; advocacy group,43.6703,-79.3867,language from country default; not pre-selected: magazine/online below tier 1
+no,CA,Ricochet Media,,,https://ricochet.media/,en,online,3,,,Q135841245,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CA,Pivot,,,https://pivot.quebec/,en,online,3,,,Q138011394,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CA,ehouse411.ca,多伦多,,https://www.ehouse411.ca,zh,online,3,,,Q140274716,0,news website,43.6703,-79.3867,not pre-selected: magazine/online below tier 1
+no,CA,Pinkbike,,,https://www.pinkbike.com/,en,online,3,,,Q109658377,0,online community; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CA,The Hub,,,https://thehub.ca/,en,online,3,,,Q114278066,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CA,IMTL.org,,,https://imtl.org/,en,online,3,,,Q64008576,0,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CA,EverythingGP,,,https://everythinggp.com/,en,online,3,,,Q137916973,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

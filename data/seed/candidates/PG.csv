@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,PG,Papua New Guinea Post-Courier,Port Moresby,,http://www.postcourier.com.pg/,en,daily,2,,,Q1645307,7,daily newspaper,-9.4697,147.1597,reviewed: city: Konedobu is a suburb of Port Moresby
+yes,PG,Wantok Niuspepa,Wewak,,http://wantokniuspepa.com/,en,daily,3,,,Q25703241,3,newspaper,-3.5500,143.6333,language from country default

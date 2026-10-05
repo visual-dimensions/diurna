@@ -1,0 +1,141 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,AU,The Sydney Morning Herald,Sydney,,https://www.smh.com.au,en,daily,1,,,Q390216,34,newspaper; website; newspaper of record; production company,-33.8678,151.2100,
+no,AU,The Australian,,,http://www.theaustralian.com.au/,en,daily,1,,,Q1478700,28,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AU,The Age,Melbourne,,https://www.theage.com.au/,en,daily,1,,,Q631893,26,daily newspaper; online newspaper; newspaper; newspaper of record,-37.8142,144.9631,"reviewed: type: daily newspaper; types: daily, online"
+yes,AU,Herald Sun,Melbourne,,http://www.heraldsun.com.au/,en,daily,1,,,Q1634594,21,daily newspaper; online newspaper,-37.8142,144.9631,"reviewed: type: daily newspaper; types: daily, online"
+yes,AU,The Daily Telegraph,Sydney,,http://www.dailytelegraph.news.com.au/,en,daily,1,,,Q1819581,19,daily newspaper; periodical,-33.8678,151.2100,
+yes,AU,The West Australian,Perth,,http://www.thewest.com.au/,en,daily,1,,,Q1810152,15,newspaper; periodical,-31.9558,115.8597,
+no,AU,The Diplomat,Arlington County,US,https://thediplomat.com/,en,online,2,exile,,Q7730237,14,online magazine; wide show; online newspaper,38.8803,-77.1083,"newsroom abroad (US) – exile?; not pre-selected: newsroom abroad, magazine/online below tier 1"
+yes,AU,The Courier-Mail,Brisbane,,https://www.couriermail.com.au/,en,daily,2,,,Q2095955,13,periodical; newspaper,-27.4678,153.0278,
+no,AU,The Conversation,Waltham,US,https://theconversation.com,en,online,2,exile,,Q7727516,12,dot-com company; website; communications media; nonprofit organization,42.3806,-71.2350,"newsroom abroad (US) – exile?; not pre-selected: newsroom abroad, magazine/online below tier 1"
+yes,AU,The Canberra Times,Canberra,,https://www.canberratimes.com.au/,en,daily,2,,,Q495267,12,daily newspaper,-35.2931,149.1269,
+yes,AU,The Australian Financial Review,Sydney,,http://www.afr.com/,en,daily,2,,,Q1809545,10,daily newspaper,-33.8678,151.2100,
+yes,AU,The Advertiser,Adelaide,,http://www.news.com.au/adelaidenow/,en,daily,2,,,Q1519246,8,daily newspaper,-34.9275,138.6000,
+no,AU,Colac Herald,,,http://www.colacherald.com.au//,en,daily,3,,,Q18164130,5,newspaper; periodical,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AU,The Mercury,Hobart,,http://www.themercury.com.au/,en,daily,3,,,Q3521843,5,daily newspaper,-42.8833,147.3167,
+yes,AU,The Sunday Times,Perth,,http://www.perthnow.com.au,en,daily,3,,,Q2414495,5,newspaper; periodical,-31.9558,115.8597,
+no,AU,The Advocate,,,http://www.theadvocate.com.au/,en,daily,3,,,Q7712721,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Ninemsn,,,http://ninemsn.com.au,en,online,3,,,Q7038497,4,business; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,AU,Fremantle Herald,Fremantle,,http://www.fremantleherald.com/,en,daily,3,,,Q5501489,3,newspaper,-32.0542,115.7475,language from country default
+no,AU,Gold Coast Bulletin,,,http://www.goldcoastbulletin.com.au/,en,daily,3,,,Q5578626,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Neos Kosmos,Melbourne,,http://www.neoskosmos.com/,en,daily,3,,,Q3338230,3,newspaper,-37.8142,144.9631,reviewed: diaspora paper (Greek)
+no,AU,The Sun-Herald,Sydney,,http://www.sunherald.com.au/,en,daily,3,,,Q7767308,3,newspaper,-33.8678,151.2100,
+yes,AU,mX,Melbourne,,http://www.mx.net.au/,en,daily,3,,,Q309964,3,daily newspaper,-37.8142,144.9631,language from country default
+yes,AU,The Cairns Post,Cairns,,http://www.cairns.com.au/,en,daily,3,,,Q3520178,3,daily newspaper,-16.9256,145.7753,
+no,AU,Brisbane Times,Brisbane,,https://www.brisbanetimes.com.au/,en,online,3,,,Q3307775,3,online newspaper,-27.4678,153.0278,language from country default; not pre-selected: magazine/online below tier 1
+no,AU,Star Observer,Australia,,http://www.starobserver.com.au,en,daily,3,,,Q1023859,3,gay newspaper,-25.0000,133.0000,reviewed: special-interest paper (LGBT)
+no,AU,The Examiner,,,https://www.examiner.com.au/,en,daily,3,,,Q7732737,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,Barrier Daily Truth,Broken Hill,,http://www.bdtruth.com.au,en,daily,3,,,Q4863584,2,newspaper; periodical,-31.9650,141.4511,
+no,AU,Geelong Advertiser,,,http://www.geelongadvertiser.com.au/,en,daily,3,,,Q5529826,2,newspaper; periodical,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Lloyd's List Australia,,,http://www.lloydslistdcn.com.au/,en,daily,3,,,Q6662220,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,The Border Mail,,,https://bordermail.com.au/,en,daily,3,,,Q7719396,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,The Chaser,Surry Hills,,http://www.chaser.com.au,en,daily,3,,,Q7722242,2,newspaper; news satire,-33.8861,151.2111,reviewed: satire
+yes,AU,The Daily Advertiser,Wagga Wagga,,https://www.dailyadvertiser.com.au/,en,daily,3,,,Q7728614,2,newspaper,-35.1194,147.3667,
+no,AU,The Daily Examiner,,,http://www.dailyexaminer.com.au/,en,daily,3,,,Q7728647,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,The Evening News,Sydney,,http://nla.gov.au/nla.news-title508,en,daily,3,,,Q17050905,2,evening newspaper; periodical,-33.8678,151.2100,
+no,AU,The Newcastle Herald,,,https://www.newcastleherald.com.au/,en,daily,3,,,Q7753866,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,The Northern Star,Lismore,,http://www.northernstar.com.au,en,daily,3,,,Q7754381,2,newspaper,-28.8067,153.2858,
+no,AU,The Queensland Times,,,http://www.qt.com.au,en,daily,3,,,Q7759033,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,The Sunday Telegraph,,,http://www.thetelegraph.com.au,en,daily,3,,,Q7767390,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Green Left Weekly,,,http://www.greenleft.org.au/,en,daily,3,,,Q3116101,2,socialist newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,"Alexandra, Eildon, Marysville Standard",Shire of Alexandra,,https://www.alexandranewspapers.com.au/,en,daily,3,,,Q16960724,2,newspaper,-37.2000,145.7170,reviewed: city is a shire – not a town
+no,AU,Maitland Mercury,,,https://www.maitlandmercury.com.au/,en,daily,3,,,Q17011793,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,The Young Witness,Young,,https://www.youngwitness.com.au/,en,daily,3,,,Q17056653,2,newspaper; periodical,-34.3000,148.3000,language from country default
+no,AU,Bombala Times,,,http://www.bombalatimes.com.au/,en,daily,3,,,Q18358958,2,newspaper; periodical,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Redland City Bulletin,,,http://www.redlandcitybulletin.com.au/,en,daily,3,,,Q24189267,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Adelaide Chronicle and South Australian Literary Record,Adelaide,,https://trove.nla.gov.au/newspaper/title/986,en,daily,3,,,Q48997609,2,newspaper; digital library,-34.9275,138.6000,reviewed: historic – homepage is an archive
+yes,AU,Central Western Daily,Orange,,http://www.centralwesterndaily.com.au,en,daily,3,,,Q5062031,2,daily newspaper,-33.2817,149.1011,language from country default
+no,AU,The New Daily,Melbourne,,https://thenewdaily.com.au/,en,online,3,,,Q20098978,2,online newspaper,-37.8142,144.9631,not pre-selected: magazine/online below tier 1
+no,AU,Crikey,,,http://crikey.com.au,en,online,3,,,Q5185137,2,periodical; digital newspaper; news website; website,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online; not pre-selected: magazine/online below tier 1"
+no,AU,Air Force,Russell Offices,,http://www.defence.gov.au/news/raafnews/,en,daily,3,,,Q4697874,2,newspaper,-35.2975,149.1520,reviewed: military paper
+yes,AU,Daily Mercury,Mackay,,http://www.dailymercury.com.au/,en,daily,3,,,Q5209307,2,newspaper; periodical,-21.1411,149.1861,
+no,AU,Sunshine Coast Daily,,,https://www.sunshinecoastdaily.com.au/,en,daily,3,,,Q7641449,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AU,The Courier,Ballarat,,https://www.thecourier.com.au/,en,daily,3,,,Q7727834,2,newspaper,-37.5608,143.8475,language from country default
+yes,AU,The North Queensland Register,Charters Towers,,https://www.northqueenslandregister.com.au/,en,daily,3,,,Q16926417,2,newspaper,-20.0731,146.2603,
+no,AU,Ο Ελληνικός Κήρυκας,,,http://greekherald.com.au,el,daily,3,,,Q98935343,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Indus Age,,,http://indusage.com.au,en,daily,3,,,Q610616,1,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,AFL Record,Melbourne,,http://www.aflrecord.com.au/,en,daily,3,,,Q4651549,1,newspaper,-37.8142,144.9631,
+no,AU,Blue's Country Magazine,Brisbane,,http://www.bluescountry.com.au/,en,daily,3,,,Q4928693,1,newspaper,-27.4678,153.0278,reviewed: music magazine; language from country default
+no,AU,Bma magazine,Canberra,,http://www.bmamag.com/,en,daily,3,,,Q4930968,1,newspaper,-35.2931,149.1269,reviewed: music magazine
+no,AU,Byron Shire Echo,,,http://www.echo.net.au/,en,daily,3,,,Q5004471,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,City Messenger,Adelaide,,http://www.citymessenger.com.au,en,daily,3,,,Q5123302,1,newspaper,,,language from country default
+no,AU,Daily Liberal,,,https://www.dailyliberal.com.au/,en,daily,3,,,Q5209290,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Fraser Coast Chronicle,,,http://www.frasercoastchronicle.com.au,en,daily,3,,,Q5493581,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Geelong Independent,,,https://geelongindy.com.au/,en,daily,3,,,Q5529845,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AU,Illawarra Mercury,Wollongong,,http://www.illawarramercury.com.au/,en,daily,3,,,Q5998827,1,newspaper,-34.4331,150.8831,
+yes,AU,Koori Mail,Lismore,,http://www.koorimail.com,en,daily,3,,,Q6430760,1,newspaper,-28.8067,153.2858,
+no,AU,Leader Messenger,,,http://www.leadermessenger.com.au,en,daily,3,,,Q6508496,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Sydney Observer Magazine,,,http://www.sydneyobserver.com,en,daily,3,,,Q7660066,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AU,The Coffs Coast Advocate,Coffs Harbour,,http://www.coffscoastadvocate.com.au,en,daily,3,,,Q7726617,1,newspaper,-30.3023,153.1189,
+no,AU,The Nepean Times,Penrith,,http://opac.penrithcity.nsw.gov.au,en,daily,3,,,Q7753408,1,newspaper,-33.7511,150.6942,reviewed: historic – homepage is a library catalogue
+no,AU,The Queanbeyan Age,,,http://queanbeyanagechronicle.com.au,en,daily,3,,,Q7758913,1,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Tweed Daily News,,,http://www.tweednews.com.au,en,daily,3,,,Q7857470,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,WAtoday,East Perth,,http://watoday.com.au/,en,daily,3,,,Q7946950,1,newspaper,-31.9540,115.8760,language from country default
+no,AU,Western Weekender,,,https://www.westernweekender.com.au/,en,daily,3,,,Q7988441,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,North Shore Times,,,http://www.northshoretimes.com.au,en,daily,3,,,Q7056721,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,Northern Daily Leader,Tamworth,,https://www.northerndailyleader.com.au/,en,daily,3,,,Q7058299,1,newspaper,-31.0906,150.9317,
+no,AU,Northern District Times,,,http://www.northerndistricttimes.com.au,en,daily,3,,,Q7058310,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,Riverine Herald,Echuca,,http://riverineherald.com.au,en,daily,3,,,Q7338237,1,newspaper,-36.1333,144.7500,
+no,AU,SX News,,,http://www.gaynewsnetwork.com.au/,en,daily,3,,,Q7395240,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Tong lu ren,,,http://www.sameway.com.au,zh,daily,3,,,Q7409307,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Post Newspapers,Perth,,http://www.postnewspapers.com.au/,en,daily,3,,,Q17023122,1,community newspaper,-31.9558,115.8597,language from country default
+no,AU,Central Queensland News,,,http://www.cqnews.com.au/,en,daily,3,,,Q16925004,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Gold Coast Sun,,,http://www.goldcoast.com.au,en,daily,3,,,Q16943550,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,The Land,Australia,,http://www.theland.com.au/,en,daily,3,,,Q17009440,1,newspaper,-25.0000,133.0000,reviewed: agricultural paper
+no,AU,Narromine News,Australia,,http://narrominenewsonline.com.au,en,daily,3,,,Q17014978,1,newspaper,-25.0000,133.0000,reviewed: city missing; language from country default
+no,AU,Port Stephens Examiner,,,http://www.portstephensexaminer.com.au,en,daily,3,,,Q17023107,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,The Saturday Paper,Carlton,,http://www.thesaturdaypaper.com.au,en,daily,3,,,Q17028097,1,newspaper,-37.8001,144.9670,
+no,AU,The Scone Advocate,,,http://www.scone.yourguide.com.au/,en,daily,3,,,Q17028126,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,The Southern Argus,,,http://www.sacountrypress.com.au/newspaper-lists/the-southern-argus,en,daily,3,,,Q17028795,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AU,The Newcastle Chronicle and Hunter River District News,Newcastle,,http://www.theherald.com.au/,en,daily,3,,,Q17053418,1,newspaper; periodical,-32.9167,151.7500,language from country default
+no,AU,Queensland Country Life,,,http://www.queenslandcountrylife.com.au/,en,daily,3,,,Q17054203,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,The Islander,,,https://www.theislanderonline.com.au/,en,daily,3,,,Q55635319,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,The Betoota Advocate,Sydney,,http://www.betootaadvocate.com/,en,daily,3,,,Q22906727,1,newspaper,-33.8678,151.2100,language from country default
+no,AU,The Courier,,,https://www.courier.net.au/wp,en,daily,3,,,Q19571352,1,newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Cowra Guardian,,,http://cowraguardian.com.au,en,daily,3,,,Q19872593,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Guyra Argus,,,http://www.guyraargus.com.au/,en,daily,3,,,Q19874049,1,newspaper; periodical,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Inverell Times,,,http://www.inverelltimes.com.au/,en,daily,3,,,Q19874622,1,newspaper; periodical,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Milton Ulladulla Times,,,http://www.ulladullatimes.com.au/,en,daily,3,,,Q19875658,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Mudgee Guardian and Gulgong Advertiser,,,http://www.mudgeeguardian.com.au/,en,daily,3,,,Q19875858,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,The Macleay Argus,Kempsey,,http://macleayargus.com.au,en,daily,3,,,Q19879921,1,newspaper; periodical,-31.0819,152.8350,language from country default
+no,AU,Goondiwindi Argus,,,https://www.goondiwindiargus.com.au,en,daily,3,,,Q48773427,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Chinchilla News and Murilla Advertiser,,,https://www.chinchillanews.com.au,en,daily,3,,,Q48780997,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,Yass Tribune,Yass,,https://www.yasstribune.com.au/,en,daily,3,,,Q90048447,1,newspaper,-34.8203,148.9136,language from country default
+yes,AU,The Nightly,Perth,,https://thenightly.com.au/,en,daily,3,,,Q125029767,1,newspaper,-25.0000,133.0000,reviewed: city: The Nightly is published in Perth; language from country default
+no,AU,Party Builder,Sydney,,https://www.granblue.party/builder,en,daily,3,,,Q24190951,1,party newspaper; communist newspaper,-33.8678,151.2100,
+yes,AU,Tablelands Advertiser,Mareeba,,http://www.newsspace.com.au/tablelands_advertiser,en,weekly,3,,,Q7673438,1,weekly newspaper,-16.9833,145.4170,language from country default
+yes,AU,The Hamilton Spectator,Hamilton,,http://www.spec.com.au/,en,daily,3,,,Q5645155,1,newspaper; periodical,-37.7333,142.0170,
+no,AU,Sunraysia Daily,,,https://www.sunraysiadaily.com.au/,en,daily,3,,,Q7640995,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AU,The Gympie Times,Gympie,,http://www.gympietimes.com.au,en,daily,3,,,Q7738573,1,newspaper,-26.1833,152.6667,
+yes,AU,InDaily,Adelaide,,http://www.indaily.com.au/,en,daily,3,,,Q7741824,1,newspaper,-34.9275,138.6000,
+yes,AU,The Sunday Mail,Bowen Hills,,http://www.thesundaymail.com.au,en,daily,3,,,Q7767380,1,newspaper,-27.4432,153.0380,
+yes,AU,The Toowoomba Chronicle,Toowoomba,,http://www.thechronicle.com.au,en,daily,3,,,Q7769589,1,newspaper,-27.5500,151.9500,
+yes,AU,Warwick Daily News,Warwick,,http://www.warwickdailynews.com.au,en,daily,3,,,Q7971123,1,newspaper; periodical,-28.2172,152.0347,
+no,AU,澳大利亚时报,,,https://www.actimes.com.au,zh,daily,3,,,Q15941509,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,The Recorder,,,http://www.portpirierecorder.com.au,en,daily,3,,,Q17027760,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AU,Centralian Advocate,Alice Springs,,http://www.alicenow.com.au/,en,daily,3,,,Q19872070,1,newspaper; periodical,-23.7000,133.8667,language from country default
+no,AU,Red Flag,,,https://redflag.org.au/,en,daily,3,,,Q88319158,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AU,Shepparton News,,,https://www.sheppnews.com.au/,en,daily,3,,,Q65060717,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,The Leader,Angaston,,http://barossaleader.com,en,weekly,3,,,Q28219615,1,weekly newspaper,-34.5000,139.0500,
+no,AU,The Klaxon,,,https://theklaxon.com.au/,en,online,3,,,Q122734743,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,AU,Capital Brief,Sydney,,https://www.capitalbrief.com/,en,online,3,,,Q124295746,1,news website,-33.8678,151.2100,language from country default; not pre-selected: magazine/online below tier 1
+no,AU,Women's Agenda,,,https://womensagenda.com.au/,en,online,3,,,Q126684085,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AU,Daily Review,,,https://dailyreview.com.au/,en,online,3,,,Q48817300,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,AU,newmatilda.com,,,http://www.newmatilda.com/,en,online,3,,,Q7018604,1,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,AU,The Standard,Warrnambool,,https://www.standard.net.au/,en,daily,3,,,Q56054886,0,newspaper,-38.3825,142.4814,language from country default
+yes,AU,Lismore Echo,Lismore,,https://www.echonews.com.au/,en,daily,3,,,Q68939712,0,newspaper,-28.8067,153.2858,language from country default
+yes,AU,Western Advocate,Bathurst,,https://www.westernadvocate.com.au/,en,daily,3,,,Q79532494,0,newspaper,-33.4200,149.5778,
+no,AU,The Issue,De Witt,US,http://issueapp.com,en,daily,3,exile,,Q100301064,0,newspaper,40.3950,-96.9208,language from country default; newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
+no,AU,South Coast Register,,,https://www.southcoastregister.com.au,en,daily,3,,,Q128861995,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AU,The valley and East Coast voice,St Marys,,https://www.valleyvoice.com.au/,en,daily,3,,,Q115122462,0,newspaper; website; local news,-41.5811,148.1844,
+no,AU,Hawkesbury Gazette,,,https://www.hawkesburygazette.com.au,en,daily,3,,,Q106606678,0,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,AU,Bunbury Mail,Bunbury,,https://www.bunburymail.com.au/,en,daily,3,,,Q106702101,0,local newspaper,-33.3272,115.6369,language from country default
+no,AU,So Perth,Perth,,https://soperth.com.au,en,online,3,,,Q138657805,0,online newspaper,-31.9558,115.8597,not pre-selected: magazine/online below tier 1
+no,AU,21 Mediavision,,,https://www.21mediavision.com/,en,online,3,,,Q105055468,0,online newspaper; blog; business; brand,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AU,iTnews,,,https://www.itnews.com.au,en,online,3,,,Q122931491,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AU,The Eastern Herald,,,https://easternherald.com,en,daily,3,,,Q57678967,0,online newspaper; digital newspaper; news website; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AU,Inside Story,Hawthorn,,https://insidestory.org.au/,en,daily,3,,,Q123359103,0,newspaper,-37.8260,145.0340,reviewed: essay magazine
+no,AU,The Hepburn Advocate,Shire of Hepburn,,https://www.hepburnadvocate.com.au,en,weekly,3,,,Q126490545,0,local newspaper; weekly newspaper,-37.3171,144.0335,"reviewed: city is a shire – not a town; language from country default; types: daily, weekly"
+yes,AU,Bayside Leader,Southbank,,http://www.baysideleader.com.au/,en,weekly,3,,,Q126489668,0,weekly newspaper,-37.8290,144.9570,
+no,AU,Pursuit,,,https://pursuit.unimelb.edu.au/,en,online,3,,,Q107353794,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,AU,The Driven,New South Wales,,https://thedriven.io/,en,online,3,,,Q136359634,0,news website,-32.0000,147.0000,language from country default; not pre-selected: magazine/online below tier 1

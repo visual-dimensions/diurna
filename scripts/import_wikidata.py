@@ -33,6 +33,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SEED_DIR = ROOT / "data" / "seed"
 CANDIDATES_DIR = SEED_DIR / "candidates"
+# Manual review decisions by Wikidata ID – survive re-imports (data, not code):
+# country,qid,include,city,tier,type,note,note_source,reason   (empty fields = keep)
+DECISIONS_FILE = CANDIDATES_DIR / "decisions.csv"
+DECISION_FIELDS = ["country", "qid", "include", "city", "lang", "tier", "type", "note", "note_source", "reason"]
 
 USER_AGENT = "Diurna/0.1 (+https://github.com/visual-dimensions/diurna; candidate import)"
 SPARQL = "https://query.wikidata.org/sparql"
@@ -50,11 +54,27 @@ TYPE_OVERRIDES = {"Q1110794": "daily", "Q2305295": "weekly"}  # daily / weekly n
 # An item is kept if it also has another, regular class (Rossiyskaya Gazeta is also a daily newspaper).
 # government gazette, social news website, news aggregator, news aggregation website (Reddit)
 EXCLUDED_ROOTS = ["Q2065227", "Q3963243", "Q498267", "Q28933155"]
+# Disqualifying, even if the item is also typed as a newspaper: not general-interest news by
+# a newsroom of its own, or a broadcaster (Diurna shows the press, not TV/radio – as in Europe).
+DISQUALIFYING_ROOTS = [
+    "Q738377", "Q20850562", "Q4468966",  # student / school newspaper
+    "Q685935", "Q4737473", "Q11313190",  # trade, alumni, sports publication
+    "Q15265344", "Q1254874", "Q141683", "Q2001305", "Q14350", "Q7892363",  # broadcasters, channels, stations
+    "Q72398691", "Q106652786", "Q106668646",  # video game news, entertainment, military newspaper
+    "Q2006125", "Q122754119",  # street newspaper, satirical website
+]
+# Kept in the list, but never pre-selected: the reviewer decides case by case.
+NO_PRESELECT_ROOTS = ["Q4736543", "Q106678098", "Q131785467"]  # alternative, Catholic, religious newspaper
+# Homepages that are archives, not the outlet's own site (historic papers without a dissolution date).
+ARCHIVE_DOMAINS = (
+    "newsbank.com", "ufdc.ufl.edu", "archive.org", "loc.gov", "newspapers.com", "germancorner.com",
+    "trove.nla.gov.au", "paperspast.natlib.govt.nz", "natlib.govt.nz",
+)
 STATE_OWNER_CLASSES = {"Q7188", "Q327333", "Q2659904", "Q270791"}  # government, agency, organization, state-owned enterprise
 TIER_BY_SITELINKS = ((15, 1), (6, 2), (0, 3))
 
 SEED_FIELDS = ["country", "name", "city", "city_country", "homepage", "lang", "type", "tier", "note", "note_source"]
-REVIEW_FIELDS = ["include", *SEED_FIELDS, "qid", "sitelinks", "wd_lat", "wd_lon", "remark"]
+REVIEW_FIELDS = ["include", *SEED_FIELDS, "qid", "sitelinks", "classes", "wd_lat", "wd_lon", "remark"]
 
 
 def http_json(url: str, params: dict, retries: int = 3) -> dict:
@@ -116,7 +136,17 @@ def quota(population: float) -> int:
     return max(3, min(300, round(10 * math.sqrt(population / 1e6))))
 
 
-def candidates(country_qid: str, closure: dict[str, str]) -> list[dict]:
+def per_city_cap(limit: int) -> int:
+    """Regional spread in pre-selection: at most this many outlets per city (US 7, AU/CA 3)."""
+    return max(3, limit // 25)
+
+
+def subclass_closure(roots: list[str]) -> set[str]:
+    values = " ".join(f"wd:{q}" for q in roots)
+    return {qid(r["c"]) for r in sparql(f"SELECT ?c WHERE {{ VALUES ?root {{ {values} }} ?c wdt:P279* ?root . }}")}
+
+
+def candidates(country_qid: str, closure: dict[str, str], disqualifying: set[str], no_preselect: set[str]) -> list[dict]:
     """Outlets of a country: SPARQL only finds the IDs (fast); details come from the API."""
     # Resolving the subclasses inside the query is fast; a VALUES list of ~250 classes times out.
     # Large countries (thousands of local papers) need small queries: one per root class and
@@ -153,12 +183,17 @@ def candidates(country_qid: str, closure: dict[str, str]) -> list[dict]:
         sites = _string_claims(ent, "P856")
         if not sites:
             continue  # no homepage → nothing to fetch
+        classes = claim_ids(ent, "P31")
+        if set(classes) & disqualifying:
+            continue
         place = (claim_ids(ent, "P291") or claim_ids(ent, "P159") or [None])[0]
         it.update({
             "sites": sites,
             "langs": [c for c in (lang_codes.get(l) for l in claim_ids(ent, "P407")) if c],
             "owners": set(claim_ids(ent, "P127")),
             "place": place,
+            "classes": classes,
+            "no_preselect": bool(set(classes) & no_preselect),
         })
         items.append(it)
     return items
@@ -219,16 +254,17 @@ def seeded_domains() -> set[str]:
     return found
 
 
-def build(cc: str, closure: dict[str, str]) -> Path:
+def build(cc: str, closure: dict[str, str], disqualifying: set[str], no_preselect: set[str]) -> Path:
     info = country_info(cc)
     limit = quota(info["population"])
-    items = candidates(info["qid"], closure)
+    items = candidates(info["qid"], closure, disqualifying, no_preselect)
     print(f"{cc}: {len(items)} candidates, population {info['population'] / 1e6:.1f} M → quota {limit}")
 
     # Labels for outlets, places and owners; countries of the places (exile / foreign newsrooms).
     places = sorted({it["place"] for it in items if it.get("place")})
     owners = sorted({o for it in items for o in it["owners"]})
-    ents = entities(sorted({it["qid"] for it in items} | set(places) | set(owners)))
+    classes = sorted({c for it in items for c in it["classes"]})
+    ents = entities(sorted({it["qid"] for it in items} | set(places) | set(owners) | set(classes)))
     place_countries = {p: claim_ids(ents.get(p), "P17") for p in places}
     country_ids = sorted({c for cs in place_countries.values() for c in cs})
     iso = {}
@@ -275,6 +311,17 @@ def build(cc: str, closure: dict[str, str]) -> Path:
             remarks.append(f"newsroom abroad ({city_cc}) – exile?")
         tier = next(t for threshold, t in TIER_BY_SITELINKS if it["sitelinks"] >= threshold)
         types = it["types"] - {"daily"} or {"daily"}
+        hold = []  # reasons not to pre-select (the row stays in the list)
+        if city_cc != cc:
+            hold.append("newsroom abroad")
+        if any(dom == a or dom.endswith("." + a) for a in ARCHIVE_DOMAINS):
+            hold.append("homepage is an archive")
+        if it["no_preselect"]:
+            hold.append("alternative/religious paper")
+        if types & {"magazine", "online"} and tier > 1:
+            hold.append("magazine/online below tier 1")
+        if hold:
+            remarks.append("not pre-selected: " + ", ".join(hold))
         rows.append({
             "include": "seeded" if dom in seeded else "",
             "country": cc,
@@ -289,29 +336,78 @@ def build(cc: str, closure: dict[str, str]) -> Path:
             "note_source": f"https://www.wikidata.org/wiki/{it['qid']}" if state_owners else "",
             "qid": it["qid"],
             "sitelinks": it["sitelinks"],
+            "classes": "; ".join(label(ents.get(c), ["en"]) for c in it["classes"][:4]),
             "wd_lat": lat,
             "wd_lon": lon,
             "remark": "; ".join(remarks),
+            "_hold": bool(hold),
         })
 
-    # Pre-select the best-known outlets up to the quota (already seeded ones count towards it).
-    taken = sum(r["include"] == "seeded" for r in rows)
-    for r in rows:
-        if r["include"] == "" and taken < limit and r["city"]:
-            r["include"] = "yes"
-            taken += 1
-        elif r["include"] == "":
-            r["include"] = "no"
+    select(cc, rows, limit)
 
     CANDIDATES_DIR.mkdir(parents=True, exist_ok=True)
     path = CANDIDATES_DIR / f"{cc}.csv"
     with path.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=REVIEW_FIELDS, lineterminator="\n")
+        writer = csv.DictWriter(f, fieldnames=REVIEW_FIELDS, lineterminator="\n", extrasaction="ignore")
         writer.writeheader()
         writer.writerows(rows)
     counts = {k: sum(r["include"] == k for r in rows) for k in ("yes", "no", "seeded")}
     print(f"  → {path.relative_to(ROOT)}: {counts}")
     return path
+
+
+def select(cc: str, rows: list[dict], limit: int) -> None:
+    """Apply manual decisions, then pre-select up to the quota (in place)."""
+    # Manual decisions first: they can fix fields and settle include either way.
+    decisions = load_decisions(cc)
+    for r in rows:
+        d = decisions.get(r["qid"])
+        if not d or r["include"] == "seeded":
+            continue
+        for field in ("city", "lang", "tier", "type", "note", "note_source"):
+            if d.get(field):
+                r[field] = d[field]
+        if d.get("include") in ("yes", "no"):
+            r["include"] = d["include"]
+        r["remark"] = "; ".join(x for x in (f"reviewed: {d.get('reason', '')}".strip(), r["remark"]) if x)
+
+    # Pre-select the best-known outlets up to the quota (seeded and manual yes count towards it),
+    # with at most per_city_cap() per city for regional spread.
+    taken = sum(r["include"] in ("seeded", "yes") for r in rows)
+    per_city = Counter(r["city"] for r in rows if r["include"] in ("seeded", "yes"))
+    cap = per_city_cap(limit)
+    for r in rows:
+        if r["include"] == "" and taken < limit and r["city"] and "not pre-selected" not in r["remark"] and per_city[r["city"]] < cap:
+            r["include"] = "yes"
+            taken += 1
+            per_city[r["city"]] += 1
+        elif r["include"] == "":
+            r["include"] = "no"
+
+
+def load_decisions(cc: str) -> dict[str, dict]:
+    if not DECISIONS_FILE.exists():
+        return {}
+    with DECISIONS_FILE.open(encoding="utf-8", newline="") as f:
+        return {r["qid"]: r for r in csv.DictReader(f) if r["country"].upper() == cc}
+
+
+def reselect(cc: str) -> int:
+    path = CANDIDATES_DIR / f"{cc}.csv"
+    with path.open(encoding="utf-8", newline="") as f:
+        rows = list(csv.DictReader(f))
+    for r in rows:
+        if r["include"] != "seeded":
+            r["include"] = ""
+        r["remark"] = "; ".join(x for x in r["remark"].split("; ") if not x.startswith("reviewed:"))
+    select(cc, rows, quota(country_info(cc)["population"]))
+    with path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=REVIEW_FIELDS, lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(rows)
+    counts = {k: sum(r["include"] == k for r in rows) for k in ("yes", "no", "seeded")}
+    print(f"{cc}: reselected → {counts}")
+    return 0
 
 
 def accept(cc: str) -> int:
@@ -340,16 +436,21 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("countries", nargs="+", help="ISO 3166-1 alpha-2 codes, e.g. AT US NZ")
     parser.add_argument("--accept", action="store_true", help="copy include=yes rows into data/seed/<cc>.csv")
+    parser.add_argument("--reselect", action="store_true", help="re-apply decisions.csv and the pre-selection to existing candidate files (no Wikidata queries for the outlets)")
     args = parser.parse_args()
     codes = [c.upper() for c in args.countries]
     if args.accept:
         return max(accept(cc) for cc in codes)
+    if args.reselect:
+        return max(reselect(cc) for cc in codes)
     closure = class_closure()
-    print(f"{len(closure)} Wikidata classes count as news media")
+    disqualifying = subclass_closure(DISQUALIFYING_ROOTS)
+    no_preselect = subclass_closure(NO_PRESELECT_ROOTS)
+    print(f"{len(closure)} Wikidata classes count as news media, {len(disqualifying)} disqualify")
     failed = []
     for cc in codes:
         try:
-            build(cc, closure)
+            build(cc, closure, disqualifying, no_preselect)
         except Exception as exc:  # one country failing (endpoint timeout) should not stop the others
             print(f"{cc}: failed ({type(exc).__name__}: {exc}) – try again later", file=sys.stderr)
             failed.append(cc)

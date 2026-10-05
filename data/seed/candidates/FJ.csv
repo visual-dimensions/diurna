@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,FJ,Fiji Times,Suva,,http://www.fijitimes.com,en,daily,2,,,Q3071731,10,newspaper,-18.1333,178.4333,
+no,FJ,Fiji Sun,,,https://fijisun.com.fj,en,daily,3,,,Q5448141,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,FJ,Fiji Focus,Suva,,http://www.fiji.gov.fj/index.php?option=com_docman&task=cat_view&gid=63&Itemid=158&limitstart=55,en,daily,3,,,Q5448121,1,newspaper,-18.1333,178.4333,reviewed: government newsletter
