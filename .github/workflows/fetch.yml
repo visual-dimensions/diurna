@@ -1,7 +1,16 @@
 name: Fetch headlines
 
+# Every 30 minutes: restore the pipeline state from the `data` branch, fetch,
+# translate, build the frontend data files, and publish them to `data` again
+# as a single commit without history (keeps the repository small). Then deploy.
+
 on:
   workflow_dispatch:
+    inputs:
+      fetch_all:
+        description: Fetch every source, ignoring the per-tier cadence
+        type: boolean
+        default: false
   schedule:
     - cron: '7,37 * * * *' # every 30 min, off the busy :00/:30 slots
 
@@ -16,8 +25,6 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     timeout-minutes: 30 # the first run converts the translation model (~10 min), later runs take ~2 min
-    outputs:
-      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -25,10 +32,13 @@ jobs:
         with:
           python-version: '3.12'
           cache: pip
-          cache-dependency-path: scripts/requirements.txt
+          cache-dependency-path: scripts/requirements*.txt
 
       - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r scripts/requirements.txt -r scripts/requirements-translate.txt
+
+      - name: Restore state from the data branch
+        run: bash scripts/pull_data.sh
 
       - name: Restore translation model
         id: model-cache
@@ -41,35 +51,36 @@ jobs:
         if: steps.model-cache.outputs.cache-hit != 'true'
         run: bash scripts/prepare_translation_model.sh
 
-      - name: Install translation runtime
-        run: pip install -r scripts/requirements-translate.txt
-
       - name: Fetch headlines
+        env:
+          FETCH_ALL: ${{ inputs.fetch_all && '1' || '0' }}
         run: python scripts/fetch_headlines.py
 
       - name: Translate new headlines
         continue-on-error: true # without translations the site still works
         run: python scripts/translate_headlines.py
 
-      - name: Commit changes
-        id: commit
+      - name: Build frontend data
+        run: python scripts/build_frontend_data.py
+
+      - name: Publish to the data branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          out="$(mktemp -d)"
+          mkdir -p "$out/public" "$out/data"
+          cp -r public/data "$out/public/"
+          cp data/http_cache.json "$out/data/" 2>/dev/null || true
+          cd "$out"
+          git init -q -b data
           git config user.name "diurna-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/headlines.json public/data/status.json data/http_cache.json
-          if git diff --cached --quiet; then
-            echo "No changes."
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "data: update headlines"
-            git pull --rebase
-            git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
+          git add -A
+          git commit -q -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data
 
   # Pushes made with GITHUB_TOKEN do not trigger other workflows, so deploy from here.
   deploy:
     needs: fetch
-    if: needs.fetch.outputs.changed == 'true'
     uses: ./.github/workflows/deploy.yml
     secrets: inherit

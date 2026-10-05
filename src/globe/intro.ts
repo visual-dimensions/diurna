@@ -1,6 +1,6 @@
 import type { Map as MapLibreMap } from 'maplibre-gl';
 import type { City } from '../data/load';
-import { lightsOff, lightsOn, lightsOnNow } from './markers';
+import { lightsOff, lightsOn, lightsOnNow, showClusters } from './markers';
 
 const SESSION_KEY = 'diurna:intro-seen';
 const FLIGHT_MS = 2600;
@@ -34,11 +34,13 @@ function markSeen() {
 export function playIntro(map: MapLibreMap, cities: City[], target: { center: [number, number]; zoom: number }) {
   markSeen();
   lightsOff(map, cities);
+  showClusters(map, false); // the lights come on per city; clusters join at the end
   const canvas = map.getCanvasContainer();
   let finished = false;
   let stopLights = () => {};
 
   const cleanup = () => {
+    showClusters(map, true);
     canvas.removeEventListener('pointerdown', skip);
     canvas.removeEventListener('wheel', skip);
     window.removeEventListener('keydown', skip);

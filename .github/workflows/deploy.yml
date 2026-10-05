@@ -25,8 +25,9 @@ jobs:
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main # after a fetch, deploy the commit that contains the new data
+
+      - name: Get the current data from the data branch
+        run: bash scripts/pull_data.sh
 
       - uses: actions/setup-node@v4
         with:

@@ -837,6 +837,19 @@ body[data-view='list'] .topbar::before {
   color: var(--glow-mid);
 }
 
+.card--loading {
+  padding: 18px 0 20px;
+  opacity: 0.55;
+}
+
+.card--loading::after {
+  content: 'Loading headline…';
+  display: block;
+  margin-top: 8px;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
 .card__note--state {
   color: var(--paper-2);
 }

@@ -42,7 +42,6 @@ from feeds import clean_title, parse
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "data" / "sources.json"
-PUBLIC_SOURCES_FILE = ROOT / "public" / "data" / "sources.json"
 REPORT_FILE = ROOT / "data" / "discovery_report.csv"
 OVERRIDES_FILE = ROOT / "data" / "feed_overrides.csv"
 
@@ -399,8 +398,7 @@ def apply_report(sources: list[dict]) -> int:
             s["feed"], s["feed_kind"], s["feed_format"] = feed, kind, fmt
             changed += 1
     payload = json.dumps(sources, ensure_ascii=False, indent=2) + "\n"
-    for path in (SOURCES_FILE, PUBLIC_SOURCES_FILE):
-        path.write_text(payload, encoding="utf-8")
+    SOURCES_FILE.write_text(payload, encoding="utf-8")
     print(f"{changed} source(s) updated in {SOURCES_FILE.relative_to(ROOT)}")
     return 0
 

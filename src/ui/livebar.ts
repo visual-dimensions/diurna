@@ -4,9 +4,9 @@ import { escapeHtml, relativeAge } from './format';
 const ROTATE_MS = 6500;
 const MAX_ITEMS = 15;
 
-/** Recency of a headline in ms (published, else first_seen). */
+/** Recency of a headline in ms (published, else first_seen – computed by the pipeline). */
 export function headlineTime(m: Medium): number {
-  return m.headline ? Date.parse(m.headline.published ?? m.headline.first_seen) : 0;
+  return m.headlineAt ?? 0;
 }
 
 /**

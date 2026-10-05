@@ -40,10 +40,17 @@ data/sources.json             Stammdaten aller Medien (ändert sich selten)
         │  scripts/discover_feeds.py  (findet Feed-URLs, einmalig/bei Bedarf)
         ▼
 data/sources.json             + feed, feed_kind
-        │  scripts/fetch_headlines.py (GitHub Action, alle 30 Min.)
+        │  scripts/fetch_headlines.py (GitHub Action, alle 30 Min., Takt nach Tier)
+        │  scripts/translate_headlines.py (neue Headlines → Englisch, offenes Modell)
         ▼
-public/data/headlines.json    aktuelle Schlagzeilen
-public/data/status.json       Feed-Gesundheit pro Quelle
+public/data/headlines.json    aktuelle Schlagzeilen   ┐ Pipeline-Zustand,
+public/data/status.json       Feed-Gesundheit         │ liegt auf dem Branch `data`
+data/http_cache.json          ETag/Last-Modified      ┘ (ein Commit, ohne Historie)
+        │  scripts/build_frontend_data.py
+        ▼
+public/data/index.json        alles für Globus/Suche/Filter, ohne Titel (kompakt)
+public/data/countries/XX.json Titel, Links, Übersetzungen pro Redaktionsland (bei Bedarf geladen)
+public/data/latest.json       neueste Headlines für Live-Leiste und Ambient-Modus
         │
         ▼
 Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler aus der Action)
@@ -71,17 +78,15 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler au
 ├─ data/
 │  ├─ seed/europe.csv
 │  ├─ sources.json
-│  └─ discovery_report.csv      (Ergebnis der Feed-Suche, zur manuellen Prüfung)
+│  ├─ discovery_report.csv      (Ergebnis der Feed-Suche, zur manuellen Prüfung)
+│  └─ feed_overrides.csv        (von Hand recherchierte Feeds)
 ├─ scripts/
 │  ├─ build_sources.py
 │  ├─ discover_feeds.py
 │  ├─ fetch_headlines.py
 │  └─ requirements.txt
 ├─ public/
-│  └─ data/
-│     ├─ sources.json           (Kopie/Build-Output für das Frontend)
-│     ├─ headlines.json
-│     └─ status.json
+│  └─ data/                     generiert, nicht in `main` – kommt vom Branch `data` (`npm run data`)
 ├─ src/                          Frontend
 │  ├─ main.ts
 │  ├─ globe/                     MapLibre-Setup, Layer, Style, Terminator
@@ -95,7 +100,7 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler au
 ```
 
 ### Entwicklung
-- Frontend: `npm install`, `npm run dev`, `npm run build`
+- Frontend: `npm install`, `npm run data` (aktuelle Daten vom Branch `data` holen), `npm run dev`, `npm run build`
 - Python (3.12, via uv): `uv venv --python 3.12 .venv && uv pip install --python .venv -r scripts/requirements.txt`, dann `.venv/bin/python scripts/<skript>.py`
 
 ---
@@ -188,7 +193,8 @@ Zusätzlich `runs` / `successes` (Erfolgsquote) und `error` bei Fehlschlag.
    - Korrekturen direkt im Report (`chosen_feed`, `feed_kind`), dann `discover_feeds.py --apply` → schreibt `data/sources.json` + `public/data/sources.json`. `--only id1,id2` für Teil-Läufe.
 
 ### fetch_headlines.py
-- Async, max. 10 parallele Requests, Timeout 10 s, 1 Retry.
+- Async, max. 24 parallele Requests, höchstens 2 pro Host, Timeout 10 s, 1 Retry.
+- Takt nach Tier: Tier 1 alle 30 Min., Tier 2 stündlich, Tier 3 alle 150 Min. (`INTERVAL_BY_TIER`); pro Medium überschreibbar mit `interval` (Minuten) in `sources.json`. `FETCH_ALL=1` bzw. Workflow-Eingabe `fetch_all` holt alles.
 - **Conditional GET** (ETag / Last-Modified merken, im Repo in `data/http_cache.json`).
 - Erstes Item = Headline. HTML-Tags und Entities aus dem Titel entfernen, Whitespace normalisieren. Titel nicht kürzen (Kürzen ist Sache des UI).
 - Items, deren Titel offensichtlich Ticker/Service sind, optional überspringen (Muster in `sources.json` als `skip_pattern`, nicht im Code).
@@ -198,7 +204,7 @@ Zusätzlich `runs` / `successes` (Erfolgsquote) und `error` bei Fehlschlag.
 
 ### GitHub Action (`fetch.yml`)
 - `schedule: cron: '7,37 * * * *'` (alle 30 Min., bewusst nicht zu :00/:30 – dort lässt GitHub Läufe oft ausfallen) + `workflow_dispatch` für manuelle Läufe.
-- Python installieren, `fetch_headlines.py` ausführen, bei Änderungen committen (Daten bleiben versioniert, `http_cache.json`/`status.json` überleben so zwischen Läufen).
+- Zustand vom Branch `data` holen (`scripts/pull_data.sh`), `fetch_headlines.py` → `translate_headlines.py` → `build_frontend_data.py`, Ergebnis als **ein Commit ohne Historie** per force-push auf `data` (hält das Repo klein).
 - Danach ruft `fetch.yml` `deploy.yml` auf: `npm run build` + `wrangler pages deploy dist` (Direct Upload, keine Git-Integration → zählt nicht gegen das Pages-Build-Limit). `deploy.yml` läuft außerdem bei jedem Code-Push.
 - Secrets: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` (ohne sie wird nur gebaut). Pages-Projektname: `diurna`.
 - Hinweis: GitHub-Cron kann sich 5–30 Min. verspäten – akzeptabel.
@@ -232,7 +238,7 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
    - Bei mehreren Medien: horizontal durchwischen (Mobile) bzw. Liste (Desktop).
 3. **Live-Leiste:** Unten eine schmale, ruhige Leiste mit den zuletzt hereingekommenen Schlagzeilen („Gerade eben in Lissabon: …“). Antippen → Globus fliegt hin. Pausiert bei Hover/Fokus, bei `prefers-reduced-motion` statisch. Eigener Pause-Knopf (WCAG 2.2.2).
 4. **Ambient-Modus (optional, Umschalter):** Globus dreht langsam; neue Schlagzeilen erscheinen kurz als schwebende Label an ihrem Punkt. Gedacht als „Bildschirmschoner der Weltnachrichten“ – das ist der Screenshot-/Demo-Moment.
-   - Umsetzung, solange nur Europa erfasst ist: langsames Pendeln über Europa statt voller Rotation (sonst wäre die meiste Zeit kein Medium sichtbar). Bei weiteren Kontinenten → echte Rotation. Beenden per Escape, Ziehen oder Zoomen.
+   - Echte Rotation (eine Umdrehung in 4 Min., ostwärts wie die Erde); Labels erscheinen nur, wenn ihre Redaktion zum Betrachter zeigt. Beenden per Escape, Ziehen oder Zoomen.
 5. **Suche & Filter:** schwebende Pill oben; Suche nach Medium, Stadt, Land; Filter Sprache, Land, Tier, „nur mit Headline“.
 6. **Listenansicht:** Umschalter Globus ↔ Liste (Land → Stadt → Medium). Vollständig per Tastatur und Screenreader nutzbar, gleiche Daten.
 
@@ -312,10 +318,11 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
 
 Ziel: von ~150 Medien in Europa zu einigen Tausend weltweit – ohne die Prinzipien aus Abschnitt 2 aufzugeben. Reihenfolge: erst Fundament, dann Import-Pipeline, dann regionale Wellen.
 
-### Schritt A – Fundament (ohne neue Medien; sinnvoll schon für Europa)
+### Schritt A – Fundament (ohne neue Medien; sinnvoll schon für Europa) – ✅ umgesetzt 2026-10-05
 - **Daten aufteilen:** kleiner Index für den Globus (`id`, Position, Frische-Stufe, Anzahl je Stadt) + Detaildateien **pro Land**, nachgeladen beim Antippen/in der Liste. Budget „Daten-JSON < 100 KB gzip“ gilt für den Index.
+  - Stand: Index ~6 KB gzip für 152 Medien (~40 B/Medium). Bei ~10.000 Medien wären es ~400 KB → dann weiter aufteilen: reiner Städte-Index für den Globus, Medien-Summaries pro Region, Suchindex separat.
 - **Daten-Branch ohne Historie:** `headlines.json`/`status.json`/`http_cache.json` auf einen eigenen `data`-Branch, bei jedem Lauf überschrieben (force-push). Heute wächst `main` um ~1 GB/Jahr, weltweit um ein Vielfaches.
-- **Karte:** echtes Clustering beim Herauszoomen; auf Weltebene nur Tier 1, Tier 2/3 ab bestimmten Zoomstufen.
+- **Karte:** echtes Clustering beim Herauszoomen (MapLibre-Cluster, Radius 14 px, bis Zoom 4; Cluster tragen hellste Frische, Summe der Medien, besten Tier); auf Weltebene nur Tier 1, Tier 2 ab Zoom 2,0–2,5, Tier 3 ab 2,6–3,2 (eingeblendet). Klick auf Cluster zoomt hinein.
 - **Abruf-Takt nach Tier** (Datenfeld, kein Code pro Medium): Tier 1 alle 30 Min., Tier 2 stündlich, Tier 3 alle 2–3 h. Höhere Parallelität mit Limit pro Domain.
 - **Ambient-Modus:** echte Rotation statt Pendeln über Europa.
 

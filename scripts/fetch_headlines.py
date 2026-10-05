@@ -4,7 +4,11 @@ Writes public/data/headlines.json and public/data/status.json (only if their
 content changed) and remembers ETag/Last-Modified in data/http_cache.json.
 
 Rules (CLAUDE.md, section 6):
-- async, max. 10 parallel requests, timeout 10 s, 1 retry (network errors, 429, 5xx)
+- async, max. 24 parallel requests (at most 2 per host), timeout 10 s,
+  1 retry (network errors, 429, 5xx)
+- fetch cadence by tier (CLAUDE.md, section 10): a source is only fetched when
+  its interval has passed – `interval` (minutes) in sources.json, else the tier
+  default. FETCH_ALL=1 fetches everything (manual runs).
 - conditional GET; 304 counts as success and keeps the previous headline
 - headline = first item (news sitemaps: newest item, see feeds.py), skipping
   items whose title matches the source's optional `skip_pattern`
@@ -24,13 +28,15 @@ from __future__ import annotations
 
 import asyncio
 import json
+import os
 import re
 import sys
 import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
+from collections import defaultdict
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit
 
 import httpx
 
@@ -43,8 +49,11 @@ HEADLINES_FILE = ROOT / "public" / "data" / "headlines.json"
 STATUS_FILE = ROOT / "public" / "data" / "status.json"
 
 USER_AGENT = "Diurna/0.1 (+https://github.com/visual-dimensions/diurna; headline fetcher)"
-CONCURRENCY = 10
+CONCURRENCY = 24
+PER_HOST = 2
 TIMEOUT = 10.0
+INTERVAL_BY_TIER = {1: 30, 2: 60, 3: 150}  # minutes
+SCHEDULE_TOLERANCE = timedelta(minutes=10)  # GitHub cron runs drift; don't skip a source by a few minutes
 RETRY_DELAY = 2.0
 STALE_AFTER = timedelta(hours=48)
 FAILING_AFTER = 3
@@ -109,7 +118,7 @@ def pick_headline(items: list[Item], skip_pattern: str, base_url: str) -> Item |
     return None
 
 
-async def fetch_one(client: httpx.AsyncClient, sem: asyncio.Semaphore, source: dict, cache: dict) -> Outcome:
+async def fetch_one(client: httpx.AsyncClient, sem: asyncio.Semaphore, host_sem: asyncio.Semaphore, source: dict, cache: dict) -> Outcome:
     url = source["feed"]
     headers = {}
     cached = cache.get(url, {})
@@ -119,7 +128,7 @@ async def fetch_one(client: httpx.AsyncClient, sem: asyncio.Semaphore, source: d
         headers["If-Modified-Since"] = cached["last_modified"]
 
     out = Outcome()
-    async with sem:
+    async with host_sem, sem:
         for attempt in range(2):
             out = Outcome()
             try:
@@ -151,6 +160,25 @@ async def fetch_one(client: httpx.AsyncClient, sem: asyncio.Semaphore, source: d
     return out
 
 
+def is_due(source: dict, prev_status: dict, now: datetime) -> bool:
+    if os.environ.get("FETCH_ALL") == "1":
+        return True
+    last = parse_iso(prev_status.get("last_attempt"))
+    interval = timedelta(minutes=source.get("interval") or INTERVAL_BY_TIER.get(source.get("tier", 1), 30))
+    return last is None or now - last >= interval - SCHEDULE_TOLERANCE
+
+
+def state_for(fail_streak: int, entry: dict | None, now: datetime) -> str:
+    ref = staleness_reference(entry) if entry else None
+    if fail_streak >= DEAD_AFTER:
+        return "dead"
+    if fail_streak >= FAILING_AFTER:
+        return "failing"
+    if ref is None or now - ref > STALE_AFTER:
+        return "stale"
+    return "ok"
+
+
 def staleness_reference(entry: dict) -> datetime | None:
     return parse_iso(entry.get("feed_updated")) or parse_iso(entry.get("published")) or parse_iso(entry.get("first_seen"))
 
@@ -162,18 +190,23 @@ async def run() -> int:
     old_headlines = load_json(HEADLINES_FILE, {"generated_at": None, "items": {}})
     old_status = load_json(STATUS_FILE, {})
 
+    now = now_utc()
     with_feed = [s for s in sources if s.get("feed") and s.get("feed_kind") != "none"]
+    due = [s for s in with_feed if is_due(s, old_status.get(s["id"], {}), now)]
+    not_due = {s["id"] for s in with_feed} - {s["id"] for s in due}
     sem = asyncio.Semaphore(CONCURRENCY)
+    host_sems: dict[str, asyncio.Semaphore] = defaultdict(lambda: asyncio.Semaphore(PER_HOST))
     async with httpx.AsyncClient(
         timeout=TIMEOUT,
         follow_redirects=True,
         headers={"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8"},
         limits=httpx.Limits(max_connections=CONCURRENCY * 2),
     ) as client:
-        outcomes = await asyncio.gather(*(fetch_one(client, sem, s, cache) for s in with_feed))
-    results = {s["id"]: o for s, o in zip(with_feed, outcomes)}
+        outcomes = await asyncio.gather(
+            *(fetch_one(client, sem, host_sems[urlsplit(s["feed"]).hostname or ""], s, cache) for s in due)
+        )
+    results = {s["id"]: o for s, o in zip(due, outcomes)}
 
-    now = now_utc()
     items: dict[str, dict] = {}
     status: dict[str, dict] = {}
     new_cache: dict[str, dict] = {}
@@ -184,6 +217,15 @@ async def run() -> int:
         prev = old_status.get(sid, {})
         runs, successes = prev.get("runs", 0), prev.get("successes", 0)
         entry = old_item
+
+        if sid in not_due:
+            # Not this run's turn: keep everything, but let time pass for the staleness check.
+            if old_item:
+                items[sid] = old_item
+            if source["feed"] in cache:
+                new_cache[source["feed"]] = cache[source["feed"]]
+            status[sid] = {**prev, "state": state_for(prev.get("fail_streak", 0), old_item, now)}
+            continue
 
         if sid not in results:
             status[sid] = {"state": "no_feed", "last_success": None, "fail_streak": 0, "http": None}
@@ -219,18 +261,9 @@ async def run() -> int:
         if entry is not None:
             items[sid] = entry
 
-        ref = staleness_reference(entry) if entry else None
-        if fail_streak >= DEAD_AFTER:
-            state = "dead"
-        elif fail_streak >= FAILING_AFTER:
-            state = "failing"
-        elif ref is None or now - ref > STALE_AFTER:
-            state = "stale"
-        else:
-            state = "ok"
-
         status[sid] = {
-            "state": state,
+            "state": state_for(fail_streak, entry, now),
+            "last_attempt": iso(now),
             "last_success": last_success,
             "fail_streak": fail_streak,
             "http": out.http,
@@ -254,7 +287,10 @@ async def run() -> int:
         1 for sid, e in items.items()
         if (old_headlines["items"].get(sid) or {}).get("url") != e["url"]
     )
-    print(f"{len(sources)} sources in {time.monotonic() - started:.1f}s: {counts}; {changed} new headline(s)")
+    print(
+        f"{len(sources)} sources, {len(due)} fetched, {len(not_due)} not due, {time.monotonic() - started:.1f}s: "
+        f"{counts}; {changed} new headline(s)"
+    )
     for sid, o in results.items():
         if not o.ok:
             print(f"  FAIL {sid:<28} {o.error}", file=sys.stderr)

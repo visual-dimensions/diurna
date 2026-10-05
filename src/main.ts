@@ -7,10 +7,10 @@ import './styles/app.css';
 
 import maplibregl, { type GeoJSONSource, type MapLayerMouseEvent } from 'maplibre-gl';
 import { activeFilterCount, defaultFilters, filterCities, type Filters } from './data/filter';
-import { groupByCity, loadData, type City, type Dataset, type Medium } from './data/load';
+import { cityKey, DataStore, groupByCity, type City } from './data/load';
 import { Ambient } from './globe/ambient';
 import { INTRO_START, introWanted, playIntro } from './globe/intro';
-import { addMarkerLayers, citiesToGeoJSON, HIT_LAYERS, pulse, updateMarkers } from './globe/markers';
+import { addMarkerLayers, citiesToGeoJSON, clusterExpansionZoom, HIT_LAYERS, pulse, updateMarkers } from './globe/markers';
 import { globeStyle, NIGHT_BANDS, upgradeGeometry } from './globe/style';
 import { nightBands, sunLightPosition } from './globe/terminator';
 import { FilterControl } from './ui/filters';
@@ -95,11 +95,12 @@ map
   .getCanvas()
   .setAttribute('aria-label', 'Globe showing newsrooms across Europe. Use the search, or switch to the list view for every outlet and headline.');
 
-const ambient = new Ambient(map, reducedMotion, () => (narrowQuery.matches ? 1.9 : 2.3));
+const ambient = new Ambient(map, reducedMotion, () => (narrowQuery.matches ? 1.5 : 1.8));
 
 // ---------- State ----------
 
-let data: Dataset | null = null;
+const store = new DataStore();
+let loaded = false;
 let allCities: City[] = [];
 let cities: City[] = []; // filtered
 let filters: Filters = defaultFilters();
@@ -132,15 +133,16 @@ function flyToCountry(code: string) {
   map.fitBounds(bounds, { padding: narrowQuery.matches ? 70 : 140, maxZoom: 5.5, ...camera(1200) });
 }
 
-function openCity(key: string, mediumId?: string) {
+async function openCity(key: string, mediumId?: string) {
   // From the search, an outlet may be hidden by filters – then show its whole city.
   const city = cityByKey(key) ?? cityByKey(key, allCities);
   if (!city) return;
   ambient.stop();
   if (view !== 'globe') setView('globe', false);
-  panel.open(city, mediumId);
   flyToCity(city);
   history.replaceState(null, '', `#city=${encodeURIComponent(key)}`);
+  await store.ensureCountries([city.country]); // headlines live in per-country files
+  panel.open(city, mediumId);
 }
 
 function setView(next: View, moveFocus = true) {
@@ -160,11 +162,11 @@ function setView(next: View, moveFocus = true) {
 }
 
 function updateStatus() {
-  if (!data) return;
-  const total = data.media.length;
+  if (!loaded) return;
+  const total = store.media.length;
   const shown = cities.reduce((n, c) => n + c.media.length, 0);
-  const withHeadline = cities.reduce((n, c) => n + c.media.filter((m) => m.headline).length, 0);
-  const updated = data.generatedAt ? `<span class="statusline__stand"> · Updated ${clockTime(data.generatedAt)}</span>` : '';
+  const withHeadline = cities.reduce((n, c) => n + c.media.filter((m) => m.headlineAt !== null).length, 0);
+  const updated = store.generatedAt ? `<span class="statusline__stand"> · Updated ${clockTime(store.generatedAt)}</span>` : '';
   const about = ` · <a class="statusline__about" href="/about/">About</a>`;
   app.querySelector('.statusline')!.innerHTML =
     (activeFilterCount(filters)
@@ -173,35 +175,34 @@ function updateStatus() {
 }
 
 function applyFilters() {
-  if (!data) return;
-  cities = filterCities(data.media, filters);
+  if (!loaded) return;
+  cities = filterCities(store.media, filters);
   updateMarkers(map, cities);
   listView.render(cities, activeFilterCount(filters) > 0);
-  if (panel.currentKey) panel.refresh(cityByKey(panel.currentKey));
+  const open = panel.currentKey ? cityByKey(panel.currentKey) : undefined;
+  if (open) store.ensureCountries([open.country]).then(() => panel.refresh(cityByKey(open.key)));
+  else if (panel.currentKey) panel.refresh(undefined);
   updateStatus();
 }
 
-/** Media whose headline changed since the previous dataset (empty on the first load). */
-function newHeadlines(prev: Dataset | null, next: Dataset): Medium[] {
-  if (!prev) return [];
-  const before = new Map(prev.media.map((m) => [m.id, m.headline?.url]));
-  return next.media.filter((m) => m.headline && before.get(m.id) !== m.headline.url);
-}
-
-function setData(next: Dataset) {
-  const fresh = newHeadlines(data, next);
-  data = next;
-  allCities = groupByCity([...next.media]);
-  search.setData(next.media, allCities);
-  filterControl.setOptions(next.media);
+/** Load the index (first time or refresh) and everything derived from it. */
+async function loadData() {
+  const fresh = await store.loadIndex();
+  loaded = true;
+  allCities = groupByCity([...store.media]);
+  search.setData(store.media, allCities);
+  filterControl.setOptions(store.media);
   applyFilters();
-  liveBar.setMedia(next.media, fresh.length > 0);
-  ambient.setMedia(next.media);
+
+  const latest = await store.latest().catch(() => []);
+  liveBar.setMedia(latest, fresh.length > 0);
+  ambient.setMedia(latest);
   if (fresh.length) {
     // New headlines "ignite": a pulse at their cities, and they float up first in ambient mode.
-    const keys = new Set(fresh.map((m) => `${m.city}|${m.city_country}`));
+    const keys = new Set(fresh.map(cityKey));
     pulse(map, cities.filter((c) => keys.has(c.key)), reducedMotion);
-    ambient.enqueue(fresh);
+    const freshIds = new Set(fresh.map((m) => m.id));
+    ambient.enqueue(latest.filter((m) => freshIds.has(m.id)));
   }
 }
 
@@ -218,7 +219,7 @@ function setAmbient(on: boolean) {
 }
 
 function onSearch(r: SearchResult) {
-  if (r.kind === 'medium') openCity(`${r.medium.city}|${r.medium.city_country}`, r.medium.id);
+  if (r.kind === 'medium') openCity(cityKey(r.medium), r.medium.id);
   else if (r.kind === 'city') openCity(r.cityKey);
   else {
     if (view !== 'globe') setView('globe', false);
@@ -227,7 +228,14 @@ function onSearch(r: SearchResult) {
   }
 }
 
-function onMarkerClick(e: MapLayerMouseEvent) {
+async function onMarkerClick(e: MapLayerMouseEvent) {
+  // A cluster of nearby cities: zoom in until it falls apart.
+  const cluster = e.features?.find((f) => f.properties?.cluster);
+  if (cluster) {
+    const zoom = await clusterExpansionZoom(map, cluster.properties!.cluster_id as number);
+    map.easeTo({ center: (cluster.geometry as GeoJSON.Point).coordinates as [number, number], zoom: zoom + 0.2, ...camera(800) });
+    return;
+  }
   // Hit areas (44 px) overlap for nearby cities – take the one closest to the tap.
   const distance = (c: City) => {
     const p = map.project([c.lon, c.lat]);
@@ -251,7 +259,8 @@ filterControl.onChange = (f) => {
   applyFilters();
 };
 listView.onShowCity = (key) => openCity(key);
-liveBar.onSelect = (m) => openCity(`${m.city}|${m.city_country}`, m.id);
+liveBar.onSelect = (m) => openCity(cityKey(m), m.id);
+listView.loadCountry = (code) => store.ensureCountries([code]);
 ambient.onStop = () => {
   document.body.dataset.ambient = 'false';
   ambientButton.setAttribute('aria-pressed', 'false');
@@ -271,8 +280,7 @@ app.querySelector('.skip-link')!.addEventListener('click', (e) => {
 document.body.dataset.view = 'globe';
 
 // Data loads in parallel with the map; search and list view work as soon as it arrives.
-const firstData = loadData().then((d) => {
-  setData(d);
+const firstData = loadData().then(() => {
   if (initialHash === '#list') setView('list');
 }, (err) => {
   console.error(err);
@@ -307,11 +315,5 @@ map.on('load', async () => {
   if (!panel.isOpen && view === 'globe' && initialHash.startsWith('#city=')) followHash(initialHash);
   window.addEventListener('hashchange', () => followHash(decodeURIComponent(location.hash)));
 
-  window.setInterval(async () => {
-    try {
-      setData(await loadData());
-    } catch {
-      /* keep showing the last data */
-    }
-  }, REFRESH_MS);
+  window.setInterval(() => loadData().catch(() => {} /* keep showing the last data */), REFRESH_MS);
 });

@@ -4,16 +4,13 @@ import { escapeHtml } from '../ui/format';
 import { headlineTime } from '../ui/livebar';
 
 const LABEL_MS = 7000;
-const SWEEP_LNG = { mid: 13, amp: 20, period: 160_000 };
-const SWEEP_LAT = { mid: 48, amp: 4, period: 97_000 };
+const TURN_MS = 240_000; // one full rotation in four minutes
+const LAT = 30;
 
 /**
- * "Screensaver of the world's news": the globe drifts slowly and the latest
- * headlines float up at their newsrooms, one after another.
- *
- * Data covers Europe only, so the camera sweeps back and forth over Europe
- * instead of turning the whole globe (most of a full turn would be empty).
- * Reduced motion: no drift, labels appear and disappear without animation.
+ * "Screensaver of the world's news": the globe turns slowly and the latest
+ * headlines float up at their newsrooms whenever these face the viewer.
+ * Reduced motion: no rotation, labels appear and disappear without animation.
  */
 export class Ambient {
   active = false;
@@ -24,6 +21,7 @@ export class Ambient {
   private queue: Medium[] = [];
   private cursor = 0;
   private t0 = 0;
+  private lng0 = 0;
 
   onStop: () => void = () => {};
 
@@ -55,6 +53,7 @@ export class Ambient {
     if (this.active) return;
     this.active = true;
     this.cursor = 0;
+    this.lng0 = this.map.getCenter().lng;
     this.map.once('moveend', () => this.active && this.resume());
     this.map.easeTo({ ...this.position(0), duration: this.reducedMotion ? 0 : 1600 });
   }
@@ -68,12 +67,14 @@ export class Ambient {
     this.onStop();
   }
 
+  /** The Earth turns eastwards, so the view drifts westwards over time. */
   private position(t: number) {
-    const s = (p: { mid: number; amp: number; period: number }) => p.mid + p.amp * Math.sin((2 * Math.PI * t) / p.period);
-    return { center: [s(SWEEP_LNG), s(SWEEP_LAT)] as [number, number], zoom: this.zoom() };
+    const lng = ((((this.lng0 - (360 * t) / TURN_MS + 180) % 360) + 360) % 360) - 180;
+    return { center: [lng, LAT] as [number, number], zoom: this.zoom() };
   }
 
   private resume() {
+    this.lng0 = this.map.getCenter().lng; // continue from wherever the globe is now
     this.t0 = performance.now();
     if (!this.reducedMotion) {
       const frame = (now: number) => {

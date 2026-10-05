@@ -18,7 +18,7 @@ export function matches(m: Medium, f: Filters): boolean {
     (!f.lang || m.lang === f.lang) &&
     (!f.country || m.country === f.country) &&
     f.tiers.has(m.tier) &&
-    (!f.onlyWithHeadline || m.headline !== null)
+    (!f.onlyWithHeadline || m.headlineAt !== null)
   );
 }
 

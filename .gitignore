@@ -7,3 +7,6 @@ __pycache__/
 # GeoNames dump (downloaded by build_sources.py, not committed)
 data/geonames/
 .models/
+# Pipeline data lives on the `data` branch (npm run data)
+public/data/
+data/http_cache.json

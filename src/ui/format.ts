@@ -42,6 +42,7 @@ export const TIER_LABEL: Record<Tier, string> = { 1: 'Leading', 2: 'Major', 3: '
 
 /** Why a medium has no headline – shown instead of it. */
 export function missingReason(m: Medium): string {
+  if (m.headlineAt !== null) return 'Headline could not be loaded right now';
   if (m.state === 'no_feed') return 'No feed available';
   if (m.state === 'dead') return 'Feed currently unreachable';
   return 'No new headline in the last 48 hours';

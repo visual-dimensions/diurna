@@ -29,7 +29,6 @@ SEED_DIR = ROOT / "data" / "seed"
 GEONAMES_DIR = ROOT / "data" / "geonames"
 GEONAMES_DATASETS = ("cities15000", "cities500")  # lookup order
 SOURCES_FILE = ROOT / "data" / "sources.json"
-PUBLIC_SOURCES_FILE = ROOT / "public" / "data" / "sources.json"
 REPORT_FILE = ROOT / "data" / "geocode_report.csv"
 
 TYPES = {"daily", "weekly", "online", "magazine"}
@@ -183,9 +182,8 @@ def main() -> int:
         return 1
 
     payload = json.dumps(sources, ensure_ascii=False, indent=2) + "\n"
-    for path in (SOURCES_FILE, PUBLIC_SOURCES_FILE):
-        path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(payload, encoding="utf-8")
+    SOURCES_FILE.parent.mkdir(parents=True, exist_ok=True)
+    SOURCES_FILE.write_text(payload, encoding="utf-8")
 
     with REPORT_FILE.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=list(report[0].keys()))
