@@ -1,230 +1,230 @@
 {
  "http://www.bild.de/rss-feeds/rss-16725492,feed=home.bild.html": {
-  "etag": "W/\"04eff07e3bc9ebbe6f52ebedda397d2f8\""
+  "etag": "W/\"03d61ae16fab80a9e32c239ec9722f526\""
  },
  "https://cyprus-mail.com/feed": {
-  "etag": "W/\"49d5626679d87d4a4d9d9ea68ea01c56\"",
-  "last_modified": "Sun, 04 Oct 2026 15:57:18 GMT"
+  "etag": "W/\"ff00ef9087deca9b3fef8dbac540e1c5\"",
+  "last_modified": "Mon, 05 Oct 2026 07:27:14 GMT"
  },
  "https://denikn.cz/feed/": {
-  "etag": "W/\"885942994d54b01356dce31f43550ba6-gzip\"",
-  "last_modified": "Sun, 04 Oct 2026 22:22:01 GMT"
+  "etag": "W/\"8468e9484b9a5d7de81d1532f0b15fa5-gzip\"",
+  "last_modified": "Mon, 05 Oct 2026 07:33:15 GMT"
  },
  "https://dennikn.sk/feed/": {
-  "etag": "W/\"dae47795a43eadc5f574bde2dc8786df-gzip\"",
-  "last_modified": "Sun, 04 Oct 2026 23:06:32 GMT"
+  "etag": "W/\"c4710b77fd81127ad9d3c86be2b5fdd7-gzip\"",
+  "last_modified": "Mon, 05 Oct 2026 07:30:13 GMT"
  },
  "https://feeds.acast.com/public/shows/6437b7ae6a454e0011a47678": {
   "etag": "W/\"djEuMi4wOjE3OTEwMDAwMzkzNTU=\""
  },
  "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": {
-  "etag": "W/\"281b2-Lie0btkzSz2XBcZ4lZ6ag6+YITE\""
+  "etag": "W/\"2b176-BuEJdj2U4kLr+bav7uKFqZOkpNU\""
  },
  "https://feeds.feedburner.com/PublicoRSS": {
-  "last_modified": "Mon, 5 Oct 2026 00:17:47 GMT"
+  "last_modified": "Mon, 5 Oct 2026 07:34:17 GMT"
  },
  "https://feeds.feedburner.com/expresso-geral": {
-  "last_modified": "Mon, 5 Oct 2026 00:23:17 GMT"
+  "last_modified": "Mon, 5 Oct 2026 05:41:10 GMT"
  },
  "https://feeds.leparisien.fr/leparisien/rss": {
-  "etag": "W/\"87f4-/a7mLtJMaq3oIW3SeCzmkm8LJwg\"",
-  "last_modified": "Mon, 05 Oct 2026 01:06:51 GMT"
+  "etag": "W/\"870e-KP0Yy/9rw/FeI9FkbFhsFP8FkdI\"",
+  "last_modified": "Mon, 05 Oct 2026 07:37:46 GMT"
  },
  "https://hn.cz/?m=rss": {
-  "last_modified": "Mon, 05 Oct 2026 01:13:16 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:38:13 GMT"
  },
  "https://hvg.hu/rss": {
-  "last_modified": "Mon, 05 Oct 2026 01:13:02 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:37:48 GMT"
  },
  "https://kurier.at/xml/rss": {
-  "last_modified": "Mon, 05 Oct 2026 01:07:10 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:35:01 GMT"
  },
  "https://kyivindependent.com/news-archive/rss/": {
-  "etag": "W/\"451c-cqfelUl6seHvLRIlEy3Vsr9r4nM\""
+  "etag": "W/\"4501-fjfQ9OCEu81bAYw2QoXZTsITekk\""
  },
  "https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles": {
-  "last_modified": "Mon, 05 Oct 2026 01:11:40 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:36:22 GMT"
  },
  "https://meduza.io/rss/all": {
-  "last_modified": "Mon, 05 Oct 2026 01:12:40 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:38:16 GMT"
  },
  "https://newsfeed.zeit.de/index": {
-  "last_modified": "Mon, 05 Oct 2026 01:07:22 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:29:14 GMT"
  },
  "https://novamakedonija.com.mk/feed/": {
-  "etag": "W/\"7fc7d159efa6896844055747ac234d62\"",
-  "last_modified": "Sun, 04 Oct 2026 18:38:43 GMT"
+  "etag": "W/\"d567bb503792fc6c5b6d8af4839bc27f\"",
+  "last_modified": "Mon, 05 Oct 2026 07:28:49 GMT"
  },
  "https://novayagazeta.eu/feed/rss": {
-  "last_modified": "Sun, 04 Oct 2026 15:47:18 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:27:58 GMT"
  },
  "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/front": {
-  "etag": "W/\"d58c-ZbxinvKxWLSr51GBcxulBOXwGwY\""
+  "etag": "W/\"cc49-WFZ7teYjXbqtdS1txy5pf6rsf/8\""
  },
  "https://taz.de/rss.xml": {
-  "etag": "\"677dd-65d0afb9dafc2\"",
-  "last_modified": "Sun, 04 Oct 2026 22:06:52 GMT"
+  "etag": "\"67c4c-65d12cb52463d\"",
+  "last_modified": "Mon, 05 Oct 2026 07:26:02 GMT"
  },
  "https://telex.hu/rss": {
   "last_modified": "Sun, 04 Oct 2026 21:59:51 GMT"
  },
  "https://vecer.com/sitemaps/articles.xml": {
-  "last_modified": "Mon, 05 Oct 2026 01:13:16 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:38:11 GMT"
  },
  "https://www.ad.nl/home/rss.xml": {
-  "etag": "W/\"0a14c6eeb09b99005df86d75f2cd7ad09\""
+  "etag": "W/\"036c9222f2821e12adcac42cbfb07115f\""
  },
  "https://www.berlingske.dk/content/rss": {
-  "etag": "\"bzqr5xj20u76p\""
+  "etag": "\"vbj8yic50x72m\""
  },
  "https://www.blic.rs/rss/danasnje-vesti": {
-  "etag": "\"24644-32134b004ebcf6fd\""
+  "etag": "\"24450-1b5fe49550c98739\""
  },
  "https://www.blick.ch/rss": {
-  "etag": "\"8df44d7fda58e5302be406c3727666ce\"",
-  "last_modified": "Mon, 05 Oct 2026 01:00:54 GMT"
+  "etag": "\"c727eda8d5f0b14aa8552f784945ff6c\"",
+  "last_modified": "Mon, 05 Oct 2026 07:31:03 GMT"
  },
  "https://www.danas.rs/feed/": {
-  "etag": "W/\"ff879531663745ec526b43a90e6c9dfb\"",
-  "last_modified": "Sun, 04 Oct 2026 21:37:06 GMT"
+  "etag": "W/\"780f372d439ec487b434dd86b483d757\"",
+  "last_modified": "Mon, 05 Oct 2026 07:34:48 GMT"
  },
  "https://www.delo.si/rss": {
-  "last_modified": "Sun, 04 Oct 2026 21:31:00 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:29:06 GMT"
  },
  "https://www.dn.pt/feed": {
-  "last_modified": "Mon, 05 Oct 2026 01:11:06 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:18:39 GMT"
  },
  "https://www.fakt.pl/rss-articles.xml": {
-  "etag": "\"9141-268fd3f91333d41b\""
+  "etag": "\"10211-29c22883a4601a86\""
  },
  "https://www.ft.com/rss/home/international": {
-  "etag": "W/\"1c23-I99hejLdar8gywHM1d30aOnv7HI\""
+  "etag": "W/\"1be4-o8dT/Ts9WGsVCD6uJQ3X7XACY8g\""
  },
  "https://www.gandul.ro/feed": {
-  "etag": "W/\"b561b4143953174a26c90c9cdcb285bb\"",
-  "last_modified": "Sun, 04 Oct 2026 23:21:42 GMT"
+  "etag": "W/\"7bb552ebc152568a88e6de1dafee6f66\"",
+  "last_modified": "Mon, 05 Oct 2026 07:36:10 GMT"
  },
  "https://www.hbl.fi/feeds/feed.xml": {
-  "etag": "W/\"139e1-bUUt3fvRDpi4OCyeM4i6sP3scMg\""
+  "etag": "W/\"13d34-bmDGuY21FkZflHLOjkj9wgVijiU\""
  },
  "https://www.hln.be/rss.xml": {
-  "etag": "W/\"0290654cc4bd473060b580caedb2c1b9b\""
+  "etag": "W/\"0bee09f5b0d6a8defbe7d6b21c4301a64\""
  },
  "https://www.ilfattoquotidiano.it/feed/": {
-  "etag": "W/\"4dbd083d9f64bce079ce70720376d2e7\"",
-  "last_modified": "Sun, 04 Oct 2026 23:01:00 GMT"
+  "etag": "W/\"24569c6b7c2b6643a6d1cad54602f9a3\"",
+  "last_modified": "Mon, 05 Oct 2026 07:37:47 GMT"
  },
  "https://www.ilsole24ore.com/rss/italia.xml": {
-  "etag": "W/\"6ac2b6b8-3680\"",
-  "last_modified": "Sun, 04 Oct 2026 20:27:36 GMT"
+  "etag": "W/\"6ac3428e-3635\"",
+  "last_modified": "Mon, 05 Oct 2026 06:24:14 GMT"
  },
  "https://www.independent.co.uk/rss": {
   "etag": "W/\"1cfdd-ZxE3g2a5ldhK3cOtcIvvKJYqKl8-gzip\""
  },
  "https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml": {
-  "etag": "W/\"d221c-Muzd6gRYkB9pYr0tqbORu3+29NA\"",
-  "last_modified": "Mon, 05 Oct 2026 01:11:34 GMT"
+  "etag": "W/\"c21bd-5G+NkQ2fSiAWi5bEUABXUx6v2ZU\"",
+  "last_modified": "Mon, 05 Oct 2026 07:37:22 GMT"
  },
  "https://www.kathimerini.gr/infeeds/rss/nx-rss-feed.xml": {
-  "etag": "W/\"6ac2be98-236e1\"",
-  "last_modified": "Sun, 04 Oct 2026 21:01:12 GMT"
+  "etag": "W/\"6ac35150-23532\"",
+  "last_modified": "Mon, 05 Oct 2026 07:27:12 GMT"
  },
  "https://www.kommersant.ru/RSS/main.xml": {
-  "etag": "\"d8d732296554dd1:0\"",
-  "last_modified": "Mon, 05 Oct 2026 01:02:15 GMT"
+  "etag": "\"e932bfa49b54dd1:0\"",
+  "last_modified": "Mon, 05 Oct 2026 07:32:15 GMT"
  },
  "https://www.lalibre.be/rss": {
-  "etag": "W/\"1f9c1-FsDMVLl8LtVuRlubsEaRawE0HRI\"",
-  "last_modified": "Mon, 05 Oct 2026 01:11:35 GMT"
+  "etag": "W/\"1fd4f-Y84LRKg/9v3T6kVDTz2Uzu05OIU\"",
+  "last_modified": "Mon, 05 Oct 2026 07:36:11 GMT"
  },
  "https://www.lastampa.it/rss/copertina.xml": {
-  "last_modified": "Sun, 04 Oct 2026 21:00:00 GMT"
+  "last_modified": "Mon, 05 Oct 2026 05:15:00 GMT"
  },
  "https://www.lavanguardia.com/rss/home.xml": {
-  "etag": "W/\"e751b8f2a8e1bc4831f1e988a8e5442c\"",
-  "last_modified": "Mon, 05 Oct 2026 00:08:34 GMT"
+  "etag": "W/\"70491d68bcf502dff95a2c9fd59fab81\"",
+  "last_modified": "Mon, 05 Oct 2026 07:22:55 GMT"
  },
  "https://www.letemps.ch/feed": {
-  "etag": "W/\"c8f06880d8bfa959a4ea50807360a817\""
+  "etag": "W/\"f5f33915215d263fbb83bb6e0caa4375\""
  },
  "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml": {
-  "etag": "W/\"b98f-Z1EyzapZQH6qDtvDBTksRphRIzg\"",
-  "last_modified": "Mon, 05 Oct 2026 01:12:01 GMT"
+  "etag": "W/\"b9dc-m9sVACFVdu8+UJj138oLHX59cCI\"",
+  "last_modified": "Mon, 05 Oct 2026 07:37:55 GMT"
  },
  "https://www.lrytas.lt/rss": {
-  "etag": "W/\"dcfd-65d0d8aa007c3\"",
-  "last_modified": "Mon, 05 Oct 2026 01:10:01 GMT"
+  "etag": "W/\"cd60-65d12d996221f\"",
+  "last_modified": "Mon, 05 Oct 2026 07:30:01 GMT"
  },
  "https://www.mbl.is/feeds/fp/": {
-  "etag": "\"7e902993fd765087e1eae11d59538ec8-gzip\"",
-  "last_modified": "Sun, 04 Oct 2026 23:29:00 GMT"
+  "etag": "\"d9c66ac641cac6de98bc8585544d4775-gzip\"",
+  "last_modified": "Mon, 05 Oct 2026 07:34:19 GMT"
  },
  "https://www.nachrichten.at/storage/rss/rss/nachrichten.xml": {
-  "last_modified": "Mon, 05 Oct 2026 01:10:09 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:25:21 GMT"
  },
  "https://www.nzz.ch/startseite.rss": {
-  "last_modified": "Mon, 05 Oct 2026 01:11:10 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:36:28 GMT"
  },
  "https://www.oslobodjenje.ba/rss.xml": {
-  "last_modified": "Mon, 05 Oct 2026 01:13:17 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:38:15 GMT"
  },
  "https://www.philenews.com/rss": {
-  "etag": "\"1808535edc17bc3b78212fd03cdc2b3b\"",
-  "last_modified": "Sun, 04 Oct 2026 19:33:09 GMT"
+  "etag": "\"7384d00bd80d96427a8b5991becb0e45\"",
+  "last_modified": "Mon, 05 Oct 2026 07:28:38 GMT"
  },
  "https://www.pravda.com.ua/rss": {
-  "last_modified": "Mon, 05 Oct 2026 01:12:37 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:38:16 GMT"
  },
  "https://www.rp.pl/rss_main": {
-  "last_modified": "Mon, 05 Oct 2026 01:13:15 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:38:13 GMT"
  },
  "https://www.sabah.com.tr/rss/anasayfa.xml": {
-  "last_modified": "Mon, 05 Oct 2026 01:07:45 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:31:41 GMT"
  },
  "https://www.scotsman.com/rss": {
-  "etag": "W/\"b57b-DFBOyYGc4oAOkqItnfxKOFJ6I94-gzip\""
+  "etag": "W/\"a2d9-9typtKvlmavrt97kBtXeMxU/G8U-gzip\""
  },
  "https://www.sydsvenskan.se/feeds/feed.xml": {
-  "etag": "W/\"bff8-+Bu4ZjYItRNS5zv7BiEGSf8Csb0\""
+  "etag": "W/\"bb1e-CUSks233dDuOKvQFYI682Vu8cI0\""
  },
  "https://www.tagesspiegel.de/contentexport/feed/home": {
-  "last_modified": "Mon, 05 Oct 2026 01:13:06 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:37:40 GMT"
  },
  "https://www.tanea.gr/rss": {
-  "last_modified": "Sun, 04 Oct 2026 22:01:22 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:37:40 GMT"
  },
  "https://www.telegraph.co.uk/rss": {
   "etag": "\"e243c59acc5910d8b907ede84745e438\"",
   "last_modified": "Sun, 04 Oct 2026 19:09:44 GMT"
  },
  "https://www.theguardian.com/europe/rss": {
-  "etag": "W/\"hash4110772718228315661\""
+  "etag": "W/\"hash-3776200346212371534\""
  },
  "https://www.thetimes.com/sitemaps/news": {
-  "etag": "\"21680-TdUGb9SG/5M+GMO/4qfLdchGfQY\""
+  "etag": "\"22eda-lgspSk3RcXeUMUc3tQNG4GdhMWE\""
  },
  "https://www.tovima.gr/rss": {
-  "last_modified": "Sun, 04 Oct 2026 21:42:00 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:34:04 GMT"
  },
  "https://www.tt.com/rss/news.xml": {
-  "etag": "W/\"11b2c-aiC3M7JiwTAGRXAR/HB5ALmM0bw\""
+  "etag": "W/\"11f25-c9w8ocwHZ1xrTcMMAda5ugntI2I\""
  },
  "https://www.vecernji.hr/feeds/latest": {
-  "last_modified": "Sun, 04 Oct 2026 21:46:00 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:36:00 GMT"
  },
  "https://www.vg.no/rss/feed/?format=rss": {
-  "last_modified": "Mon, 05 Oct 2026 01:12:01 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:31:28 GMT"
  },
  "https://www.zdg.md/rss": {
-  "last_modified": "Sun, 04 Oct 2026 19:49:53 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:30:14 GMT"
  },
  "https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml": {
-  "last_modified": "Sun, 04 Oct 2026 23:07:14 GMT"
+  "last_modified": "Mon, 05 Oct 2026 06:29:31 GMT"
  },
  "https://xml2.corriereobjects.it/feed-hp/homepage-restyle-2025.xml": {
-  "last_modified": "Mon, 05 Oct 2026 00:25:58 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:29:49 GMT"
  },
  "https://zn.ua/ukr/rss/full/": {
-  "last_modified": "Mon, 05 Oct 2026 01:13:18 GMT"
+  "last_modified": "Mon, 05 Oct 2026 07:38:16 GMT"
  }
 }

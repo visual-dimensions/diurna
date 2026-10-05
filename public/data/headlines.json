@@ -1,263 +1,263 @@
 {
- "generated_at": "2026-10-05T01:13:20Z",
+ "generated_at": "2026-10-05T07:38:19Z",
  "items": {
   "derstandard": {
-   "title": "Babler weicht Anfang 2027 zurück, Marterbauer wird Vizekanzler",
-   "url": "https://www.derstandard.at/story/3000000342573/spoe-entscheidet-ueber-weiteren-weg?ref=rss",
-   "published": "2026-10-04T07:16:32Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T22:01:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Fünf rote Baustellen: Woran die SPÖ laboriert",
+   "url": "https://www.derstandard.at/story/3000000342291/fuenf-rote-baustellen-woran-die-spoe-laboriert?ref=rss",
+   "published": "2026-10-05T06:20:32Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:12:32Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Babler resigns in early 2027, Marterbauer becomes deputy chancellor"
+    "en": "Five red construction sites: what the SPÖ laboratory is doing"
    }
   },
   "diepresse": {
-   "title": "Montenegros EU-Beitritt in Gefahr: Kroatien fordert im Streit um jugoslawisches Militärvermögen Milliarden",
-   "url": "https://www.diepresse.com/41324196/montenegros-eu-beitritt-in-gefahr-kroatien-fordert-im-streit-um-jugoslawisches-militaervermoegen-milliarden",
-   "published": "2026-10-04T17:51:43Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:58:18Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Sanchez kündigt Neuwahlen in Spanien an",
+   "url": "https://www.diepresse.com/41325298/sanchez-kuendigt-neuwahlen-in-spanien-an",
+   "published": "2026-10-05T07:20:15Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:29:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Montenegro's EU accession in danger: Croatia demands billions in the dispute for Yugoslav military assets"
+    "en": "Sanchez announces new elections in Spain"
    }
   },
   "kronenzeitung": {
-   "title": "Partei im Umbruch - Babler tritt 2027 ab: Das ist die neue SPÖ-Spitze",
-   "url": "https://www.krone.at/4319997",
-   "published": "2026-10-04T22:53:54Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T23:12:23Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Viele Fragezeichen - Rückzug auf Raten – wie es mit der SPÖ weitergeht",
+   "url": "https://www.krone.at/4321047",
+   "published": "2026-10-05T07:36:03Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:36:03Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Party in change - Babler resigns in 2027: this is the new SPÖ leader"
+    "en": "Many question marks - withdrawal on rates - how to continue with the SPÖ"
    }
   },
   "kurier": {
-   "title": "Kindern klassische Musik vermitteln: So geht’s spielerisch einfach!",
-   "url": "https://kurier.at/cm/klassische-musik-kindern-spielerisch-vermitteln-tipps/403194342",
-   "published": "2026-10-04T22:00:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T22:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Riesenflop für Tom Cruise: „Digger“ startet weit unter Erwartungen",
+   "url": "https://kurier.at/kultur/kino-film-digger-riesenflop-fuer-tom-cruise-usa/403195932",
+   "published": "2026-10-05T07:17:53Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:17:53Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Teach kids classical music: this is how it is easy to play!"
+    "en": "Tom Cruise’s ‘Digger’ starts well below expectations"
    }
   },
   "kleinezeitung": {
-   "title": "Flydubai - Augenzeuge: Im Cockpit war niemand",
-   "url": "https://www.kleinezeitung.at/artikel/41324484/flydubai-augenzeuge-im-cockpit-war-niemand",
-   "published": "2026-10-05T00:05:22Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:05:22Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Im Alpenraum wird nach Bartgeiern Ausschau gehalten",
+   "url": "https://www.kleinezeitung.at/artikel/41325388/im-alpenraum-wird-nach-bartgeiern-ausschau-gehalten",
+   "published": "2026-10-05T07:36:05Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:36:05Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Flydubai: No one was in the cockpit"
+    "en": "In the Alpine area is being looked for Bartgeier"
    }
   },
   "salzburgernachrichten": {
-   "title": "Präsidentschaftswahl in Brasilien - Stichwahl wahrscheinlich",
-   "url": "https://www.sn.at/politik/weltpolitik/praesidentschaftswahl-in-brasilien-stichwahl-wahrscheinlich-art-676523",
-   "published": "2026-10-05T00:06:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:06:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Spaniens Premier Sánchez kündigt Neuwahlen an",
+   "url": "https://www.sn.at/politik/weltpolitik/spaniens-premier-sanchez-kuendigt-neuwahlen-an-art-676548",
+   "published": "2026-10-05T07:32:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:32:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Brazilian Presidential Elections – Possible"
+    "en": "Spain’s Prime Minister Sanchez announces new elections"
    }
   },
   "oberosterreichischenachrichten": {
-   "title": "Nationalisten führen bei Wahlen in Bosnien-Herzegowina",
-   "url": "https://www.nachrichten.at/politik/aussenpolitik/nationalisten-fuehren-bei-wahlen-in-bosnien-herzegowina;art391,4218734#ref=rss",
-   "published": "2026-10-04T19:56:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:56:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Wenn der Bürgermeister beim Gegner auf der Trainerbank sitzt",
+   "url": "https://www.nachrichten.at/sport/fussball/unterhaus/wenn-der-buergermeister-beim-gegner-auf-der-trainerbank-sitzt;art103,4218726#ref=rss",
+   "published": "2026-10-05T07:04:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:04:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Nationalists lead elections in Bosnia and Herzegovina"
+    "en": "When the Mayor sits with the opponent on the coach’s bench"
    }
   },
   "tirolertageszeitung": {
-   "title": "Präsidentschaftswahl in Brasilien - Stichwahl wahrscheinlich",
-   "url": "https://www.tt.com/artikel/30943801/praesidentschaftswahl-in-brasilien-stichwahl-wahrscheinlich",
-   "published": "2026-10-05T00:03:09Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:03:09Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Trauerzeit oder gestaffelter Mutterschutz: Was hilft Frauen nach Fehlgeburten?",
+   "url": "https://www.tt.com/artikel/30943823/trauerzeit-oder-gestaffelter-mutterschutz-was-hilft-frauen-nach-fehlgeburten",
+   "published": "2026-10-05T07:30:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:30:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Brazilian Presidential Elections – Possible"
+    "en": "Grief period or stacked maternal protection: What helps women after miscarriages?"
    }
   },
   "suddeutschezeitung": {
-   "title": "Deutschland in der Einzelkritik: Derry Scherhant arbeitet an seinem Aufstieg",
-   "url": "https://www.sueddeutsche.de/sport/nations-league-deutschland-griechenland-einzelkritik-li.3558326",
-   "published": "2026-10-04T21:31:02Z",
-   "first_seen": "2026-10-04T21:35:10Z",
-   "feed_updated": "2026-10-04T21:31:02Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Spanien: Regierungschef Sánchez kündigt vorgezogene Neuwahlen an",
+   "url": "https://www.sueddeutsche.de/politik/spanien-regierung-pedro-sanchez-erklaerung-li.3558493",
+   "published": "2026-10-05T07:13:45Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:13:45Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Germany in individual criticism: Derry Scherhant works on his rise"
+    "en": "Spain: Prime Minister Sánchez announces early elections"
    }
   },
   "frankfurterallgemeinezeitung": {
-   "title": "Bildungsfabrik: Ein Jahresgehalt, um sich auf eine Prüfung vorzubereiten",
-   "url": "https://www.faz.net/aktuell/politik/ausland/kota-lernen-bis-zur-erschoepfung-in-indiens-coachinghauptstadt-201230877.html",
-   "published": "2026-10-04T20:20:30Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-05T00:39:25Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Krise in Spanien: Pedro Sánchez kündigt Neuwahlen an",
+   "url": "https://www.faz.net/aktuell/politik/ausland/spanien-pedro-sanchez-kuendigt-neuwahlen-an-accg-201288451.html",
+   "published": "2026-10-05T07:11:21Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:18:03Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Educational Factory: An Annual Salary to Prepare for Exam"
+    "en": "Spain: Pedro Sánchez announces new elections"
    }
   },
   "diewelt": {
-   "title": "Hardliner Dodik erklärt sich zum Wahlsieger und dankt Trump und Putin",
-   "url": "https://www.welt.de/politik/ausland/article6ac2e9b7b0ca83ad0a1d9382/bosnien-herzegowina-hardliner-dodik-erklaert-sich-zum-wahlsieger-und-dankt-trump-und-putin.html",
-   "published": "2026-10-05T00:42:15Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:42:15Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "„Bester Zeitpunkt, seine Feinde zu erkennen“ – Spuckvorwürfe gegen Israels Spieler",
+   "url": "https://www.welt.de/sport/fussball/article6ac3464ed649c17058597d33/irland-israel-spuckvorwuerfe-bester-zeitpunkt-seine-feinde-zu-erkennen.html",
+   "published": "2026-10-05T07:31:26Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:31:26Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Hardliner Dodik declares himself the winner of the election and thanks Trump and Putin"
+    "en": "“Best Time to Recognize Your Enemies” – Spy charges against Israeli players"
    }
   },
   "bild": {
-   "title": "Forscherin (28) starb an Seuche - Pest-Todesfall alarmiert das Weiße Haus",
-   "url": "https://www.bild.de/politik/ausland-und-internationales/pest-todesfall-in-russland-usa-soll-situation-genau-beobachten-6ac2df2ab0ca83ad0a1d9355",
+   "title": "Erklärung aus Madrid - Spaniens Ministerpräsident kündigt Neuwahlen an",
+   "url": "https://www.bild.de/politik/erklaerung-aus-madrid-spaniens-ministerpraesident-kuendigt-neuwahlen-an-6ac34d35fde19fde7c1c4d71",
    "published": null,
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:39:38Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:47:52Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "28-year-old scientist dies of plague - plague death alarms the White House"
+    "en": "Spanish Prime Minister announces new elections in Madrid"
    }
   },
   "taz": {
-   "title": "Windexpertin kritisiert Reiches Reform: „Der erfolgreiche Windenergieausbau wird bestraft“",
-   "url": "https://taz.de/Windexpertin-kritisiert-Reiches-Reform/!6218402/",
-   "published": "2026-10-04T18:14:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:21:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Vulkanismus in der Eifel: Da brodelt doch was",
+   "url": "https://taz.de/Vulkanismus-in-der-Eifel/!6210893/",
+   "published": "2026-10-05T05:09:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:25:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Windexpertin criticizes Reich's reform: \"The successful expansion of wind energy will be punished\""
+    "en": "Volcanism in the Eifel: There is something brooding"
    }
   },
   "dertagesspiegel": {
-   "title": "Anschlagsgefahr bei Militärbasis: USA ziehen alle Langstreckenbomber aus Großbritannien ab",
-   "url": "https://www.tagesspiegel.de/internationales/dpa-stutzpunkt-raf-fairford-nach-vorfall-bei-us-militarbasis-us-bomber-zuruckbeordert-16124212.html",
-   "published": "2026-10-04T21:15:29Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:03:12Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Nach öffentlichem Druck: Samoas Regierungschef bedauert Hitlergruß in altem Video",
+   "url": "https://www.tagesspiegel.de/internationales/nach-offentlichem-druck-samoas-regierungschef-bedauert-hitlergruss-in-altem-video-16124655.html",
+   "published": "2026-10-05T07:31:48Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:31:48Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Risk of attack on military base: U.S. withdraws all long-range bombers from Britain"
+    "en": "After public pressure: Samoa Prime Minister regrets Hitler's greeting in old video"
    }
   },
   "handelsblatt": {
-   "title": "Deep Read: Wie SAP trotz KI-Rückstand wieder gewinnen will",
-   "url": "https://www.handelsblatt.com/technik/it-internet/software-wie-sap-trotz-ki-rueckstand-wieder-gewinnen-will/100258469.html",
-   "published": "2026-10-04T16:39:36Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-05T00:22:34Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "EU: China am „verwundbarsten Punkt“ treffen können: Merz und Macron wollen „Kill-Switch“ im Handelsstreit",
+   "url": "https://www.handelsblatt.com/politik/international/eu-deutschland-und-frankreich-wollen-kill-switch-fuer-china-handel/100259009.html",
+   "published": "2026-10-05T02:03:31Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:29:47Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Deep Read: How SAP wants to win back despite AI lag"
+    "en": "EU: China can meet at the “most vulnerable point”: Merz and Macron want “kill-switch” in trade dispute"
    }
   },
   "derspiegel": {
-   "title": "Deutschland unter Jürgen Klopp: Das Vorspiel ist vorbei. Es war so lala",
-   "url": "https://www.spiegel.de/sport/fussball/deutschland-unter-juergen-klopp-das-vorspiel-ist-vorbei-es-war-so-lala-a-a63cd344-fb2e-423d-8879-535c363b648a#ref=rss",
-   "published": "2026-10-04T21:33:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-05T00:52:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Energiepreise: Rechner zeigt, wie teuer der Winter für Sie wird",
+   "url": "https://www.spiegel.de/wirtschaft/service/energiepreise-rechner-zeigt-wie-teuer-der-winter-fuer-sie-wird-a-e34814a0-0f22-42d7-ad36-148a9b206647#ref=rss",
+   "published": "2026-10-05T07:13:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:16:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Germany under Jürgen Klopp: The pre-game is over."
+    "en": "Energy prices: Calculator shows how expensive the winter will be for you"
    }
   },
   "diezeit": {
-   "title": "Erzgebirgskreis: Einfamilienhaus in Tannenberg brennt",
-   "url": "https://www.zeit.de/news/2026-10/05/einfamilienhaus-in-tannenberg-brennt",
-   "published": "2026-10-05T01:00:40Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T01:00:40Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Ukrainekarte aktuell: Ukrainische Armee erobert mehrere Dörfer in Region Charkiw zurück",
+   "url": "https://www.zeit.de/politik/ausland/ukraine-russland-frontverlauf-krieg-karte-aktuell",
+   "published": "2026-10-05T07:28:33Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:28:33Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "A family house in Tannenberg is burning"
+    "en": "Ukrainian army recovers several villages in Kharkiv region"
    }
   },
   "kolnerstadtanzeiger": {
-   "title": "Am Rheinufer in Neuss: Brennende Weltkriegs-Bombe gefunden – eindringliche Warnung",
-   "url": "https://www.ksta.de/region/grusel-fund-am-rhein-in-nrw-brennende-bombe-am-ufer-1388564",
-   "published": "2026-10-04T19:14:34Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T19:14:34Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Royaler Gegenschlag: Ex-Prinz Andrew klagt gegen Polizei",
+   "url": "https://www.ksta.de/panorama/promis/ex-prinz-andrew-klagt-gegen-polizei-1388765",
+   "published": "2026-10-05T07:29:32Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:29:32Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "On the Rhine Coast in Neuss: Burning World War Bomb Found – Strong Warning"
+    "en": "Royal counterattack: Ex-Prince Andrew sues police"
    }
   },
   "neuezurcherzeitung": {
-   "title": "Die endlose Suche nach einer bezahlbaren Wohnung nährt einen neuen Klassenkampf",
-   "url": "https://www.nzz.ch/international/in-der-endlosen-suche-nach-einer-bezahlbaren-wohnung-naehrt-sich-ein-neuer-klassenkampf-ld.10026323",
-   "published": "2026-10-04T03:30:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T23:14:47Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "INTERVIEW - «Iran steht nicht kurz vor der Kapitulation», sagt ein führender Experte für die iranische Wirtschaft",
+   "url": "https://www.nzz.ch/international/iran-experte-haelt-trumps-wirtschaftskrieg-nicht-fuer-zielfuehrend-ld.10025884",
+   "published": "2026-10-05T03:30:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:18:08Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "The endless search for affordable housing feeds a new class struggle"
+    "en": "“Iran is not close to surrender,” says a leading Iranian economic expert"
    }
   },
   "tagesanzeiger": {
-   "title": "Moncler-Modeschau in Bergdorf: «Was bitteschön hat eine Luxusmarke mit Guarda zu tun?»",
-   "url": "https://www.tagesanzeiger.ch/moncler-modeschau-in-guarda-so-reagiert-das-buendner-dorf-623572021732",
-   "published": "2026-10-04T19:46:49Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-05T00:56:29Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Bauzoff in Gstaad: Spanischer Milliardär kämpft an teuerster Wohnlage der Schweiz gegen seine Nachbarn",
+   "url": "https://www.tagesanzeiger.ch/gstaad-stahlkoenig-aristrain-darf-luxuschalets-bauen-691415881843",
+   "published": "2026-10-05T04:04:10Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:24:41Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Moncler Fashion Show in Bergdorf: “What does a luxury brand have to do with Guarda?”"
+    "en": "Bauzoff in Gstaad: Spanish billionaire fights his neighbors at the most expensive residential area in Switzerland"
    }
   },
   "blick": {
-   "title": "Co-Pilot soll Absturz auf Flughafen Ben Gurion geplant haben",
-   "url": "https://www.blick.ch/ausland/flydubai-plante-co-pilot-absturz-auf-flughafen-ben-gurion/wnertn0",
-   "published": "2026-10-04T23:35:21Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:35:21Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Supermarkt-Knigge: Mit diesen Regeln wird der Einkauf im Laden für alle entspannter",
+   "url": "https://www.blick.ch/life/wissen/menschen/einkaufen-im-supermarkt-diese-knigge-regeln-solltest-du-kennen/13e2p9k",
+   "published": "2026-10-05T07:27:33Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:27:33Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Co-pilot Planned to Crash at Ben Gurion Airport"
+    "en": "Supermarket Knigge: These rules make shopping in the store for everyone more relaxed"
    }
   },
   "letemps": {
-   "title": "Au Brésil, Flavio Bolsonaro devance Lula et devra l’affronter dans un second tour",
-   "url": "https://www.letemps.ch/articles/au-bresil-flavio-bolsonaro-devance-lula-et-devra-l-affronter-dans-un-second-tour",
-   "published": "2026-10-05T00:08:13Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:08:13Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Bill Meury, directeur général d’Incyte: «Nos projets d’expansion incluent la Suisse»",
+   "url": "https://www.letemps.ch/articles/bill-meury-directeur-general-d-incyte-nos-projets-d-expansion-incluent-la-suisse",
+   "published": "2026-10-05T07:35:01Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:35:01Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "In Brazil, Flavio Bolsonaro surpasses Lula and will have to face him in a second round"
+    "en": "Incyte CEO Bill Meury: “Our expansion plans include Switzerland”"
    }
   },
   "theguardian": {
-   "title": "A cargo ship, 20 crew, and a huge stash of cocaine: the seafarer imprisoned for smuggling – on no evidence",
-   "url": "https://www.theguardian.com/business/2026/oct/04/a-cargo-ship-20-crew-and-a-huge-stash-of-cocaine-the-seafarer-imprisoned-for-smuggling-on-no-evidence",
-   "published": "2026-10-04T11:00:26Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-05T00:38:54Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "My sister Nicole married OJ Simpson. This is what I wish I had known",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/oct/05/denise-brown-sister-nicole-brown-simpson-murder-oj-simpson",
+   "published": "2026-10-05T04:00:46Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:23:26Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "thetimes": {
-   "title": "Andrew takes Thames Valley police to court over Jeffrey Epstein arrest",
-   "url": "https://www.thetimes.com/uk/royal-family/article/prince-andrew-thames-valley-police-epstein-cpbc5p3tx",
-   "published": "2026-10-04T23:01:06Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:01:06Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "Lidl’s UK profits jump as shoppers seek out cheaper deals",
+   "url": "https://www.thetimes.com/business/companies-markets/article/lidl-sstd9xv0j",
+   "published": "2026-10-05T07:33:57Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:33:57Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "thetelegraph": {
    "title": "Jibulu emerges as England World Cup bolter in Sale defeat of Saracens",
@@ -265,23 +265,23 @@
    "published": "2026-10-04T19:07:17Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-04T19:07:17Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "financialtimes": {
-   "title": "US recalls B-1 bombers from UK air base following alleged terror plot",
-   "url": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
-   "published": "2026-10-04T22:24:04Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:22:46Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "Flávio Bolsonaro takes lead in first round of Brazil election",
+   "url": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+   "published": "2026-10-05T02:25:45Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:09:19Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "dailymail": {
-   "title": "Chaotic footage of William Shatner, 95, driving erratically... as alarmed eyewitness says actor sped through stop signs and made dramatic maneuver that nearly caused crash",
-   "url": "https://www.dailymail.com/tvshowbiz/article-16173747/william-shatner-los-angeles-driving-footage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "published": "2026-10-05T01:10:32Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T01:10:32Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "Former-Prince Andrew is bringing legal challenge against courts and police over his Epstein files arrest",
+   "url": "https://www.dailymail.com/news/article-16182699/Andrew-legal-challenge-police-Epstein-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-10-05T07:32:47Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:32:47Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "theindependent": {
    "title": "Ireland v Israel LIVE: Ireland held to draw as controversial Nations League fixture played behind closed doors",
@@ -292,513 +292,510 @@
    "fetched_at": "2026-10-04T21:35:10Z"
   },
   "thescotsman": {
-   "title": "'Hurt' Celtic have the final laugh as they respond to Rangers mauling to claim Tennent's Sixes title",
-   "url": "https://www.scotsman.com/sport/football/scottish-premiership/latest-premiership-news/hurt-celtic-have-the-final-laugh-as-they-respond-to-rangers-mauling-to-claim-tennents-sixes-title-9264457",
-   "published": "2026-10-04T19:42:36Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:42:36Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "David Scott leads GB&I to thumping win in 32nd PGA Cup in Ireland",
+   "url": "https://www.scotsman.com/sport/david-scott-leads-gbi-to-thumping-win-in-32nd-pga-cup-in-ireland-9266378",
+   "published": "2026-10-05T07:24:54Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:24:54Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "belfasttelegraph": {
-   "title": "Donaldson still in Maghaberry hospital as old home goes up for sale",
-   "url": "https://www.belfasttelegraph.co.uk/podcasts/donaldson-still-in-maghaberry-hospital-as-old-home-goes-up-for-sale/a/162512869.html",
-   "published": "2026-10-04T23:05:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:05:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "Chief rabbi condemns Green anti-Zionist motion as ‘poisonous antisemitism’",
+   "url": "https://www.belfasttelegraph.co.uk/news/uk/chief-rabbi-condemns-green-anti-zionist-motion-as-poisonous-antisemitism/a/162580951.html",
+   "published": "2026-10-05T07:24:07Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:24:07Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "manchestereveningnews": {
-   "title": "Man City charges LIVE: Premier League expulsion update, Pep Guardiola 'U-turn', appeal blow",
+   "title": "Man City charges LIVE: Premier League relegation verdict, appeal latest and new expulsion update",
    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-city-charges-live-updates-34705003",
-   "published": "2026-10-04T21:59:27Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T21:59:27Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "published": "2026-10-05T07:30:04Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:30:04Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "theirishtimes": {
-   "title": "In a Word... Curse",
-   "url": "https://www.irishtimes.com/culture/2026/10/05/in-a-word-curse/",
-   "published": "2026-10-04T23:30:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:30:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "Spain’s prime minister calls snap election after protests over housing crisis",
+   "url": "https://www.irishtimes.com/world/europe/2026/10/05/spains-prime-minister-calls-snap-election-after-protests-over-housing-crisis/",
+   "published": "2026-10-05T07:18:39Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:23:04Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "irishindependent": {
-   "title": "Tempers flare amidst spitting allegation as tumultuous window ends | Ireland 1-1 Israel | Post-match reaction",
-   "url": "https://www.independent.ie/podcasts/tempers-flare-amidst-spitting-allegation-as-tumultuous-window-ends-ireland-1-1-israel-post-match-reaction/a/162577194.html",
-   "published": "2026-10-04T23:53:55Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:53:55Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "‘Cristiano Ronaldo will decide his Portugal future’ — Jorge Jesus",
+   "url": "https://www.independent.ie/sport/soccer/international-soccer/cristiano-ronaldo-will-decide-his-portugal-future-jorge-jesus/a/162580774.html",
+   "published": "2026-10-05T07:23:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:23:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "irishexaminer": {
-   "title": "Budget 2027: Proposed childcare package could save some parents €1,000 a year",
-   "url": "https://www.irishexaminer.com/news/politics/arid-41919670.html",
-   "published": "2026-10-04T19:29:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T21:28:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "Budget 2027: College fees to be cut by €1,500 for parents with two children in college",
+   "url": "https://www.irishexaminer.com/news/politics/arid-41919754.html",
+   "published": "2026-10-05T06:46:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:46:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "lemonde": {
-   "title": "Blocage des lycées : Sébastien Lecornu demande que les cours reprennent dès lundi « partout » où la sécurité le permet",
-   "url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
-   "published": "2026-10-04T19:03:33Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:25:29Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "« Lula a payé le prix du mécontentement des électeurs » : au Brésil, Flavio Bolsonaro en tête au premier tour de l’élection présidentielle",
+   "url": "https://www.lemonde.fr/international/article/2026/10/05/lula-a-paye-le-prix-du-mecontentement-des-electeurs-au-bresil-flavio-bolsonaro-devance-lula-au-premier-tour-de-l-election-presidentielle_6788483_3210.html",
+   "published": "2026-10-05T04:48:35Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:23:27Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Lectures blocked: Sébastien Lecornu calls for classes to resume from Monday \"everywhere\" where safety allows"
+    "en": "“Lula paid the price of voter dissatisfaction”: in Brazil, Flavio Bolsonaro leads in the first round of the presidential election"
    }
   },
   "lefigaro": {
-   "title": "Rapport à LFI, école publique, «révolution fiscale»… Ce qu’il faut retenir du dernier débat télévisé de la primaire socialiste",
-   "url": "https://www.lefigaro.fr/elections/presidentielles/rapport-a-lfi-ecole-publique-revolution-fiscale-ce-qu-il-faut-retenir-du-dernier-debat-televise-de-la-primaire-socialiste-20261004",
-   "published": "2026-10-04T21:49:43Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T21:49:43Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Les internautes sont unanimes : découvrez ces 5 essentiels de cuisine Tefal à prix bradés",
+   "url": "https://www.lefigaro.fr/bons-plans/maison/les-internautes-sont-unanimes-decouvrez-ces-5-essentiels-de-cuisine-tefal-a-prix-brades-20261005",
+   "published": "2026-10-05T06:45:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:51:24Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Report to LFI, public school, \"tax revolution\"... What to remember from the last television debate of the socialist primary"
+    "en": "Internet users are unanimous: Discover these 5 Essentials of Tefal Cuisine at priced prices"
    }
   },
   "liberation": {
-   "title": "La Palestine, un an après le «cessez-le-feu» : pourquoi aucune action de l’UE ? par 500 anciens ministres, ambassadeurs et hauts fonctionnaires européens",
-   "url": "https://www.liberation.fr/idees-et-debats/tribunes/la-palestine-un-an-apres-le-cessez-le-feu-pourquoi-aucune-action-de-lue-par-500-anciens-ministres-ambassadeurs-et-hauts-fonctionnaires-europeens-20261005_3OOT4YIHB5F5HMYKYQYH52TJLM/",
-   "published": "2026-10-04T23:00:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "EN DIRECT – Blocus des lycées : le ministre de l’Enseignement supérieur «craint» un embrasement national",
+   "url": "https://www.liberation.fr/societe/education/en-direct-mobilisation-lyceenne-des-centaines-detablissements-toujours-perturbes-avant-un-acte-iii-mardi-20261005_UCT3KCFHSNDBVPWTZSC5YOKCPQ/",
+   "published": "2026-10-05T07:34:42Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:34:42Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Palestine, a year after the “fire-fire”: why no EU action? by 500 former ministers, ambassadors and senior European officials"
+    "en": "Blockade of high schools: the Minister of Higher Education “craint” a national burn"
    }
   },
   "leparisien": {
-   "title": "« Nous suivons la situation de près » : les États-Unis vigilants après des soupçons d’un cas de peste en Russie",
-   "url": "https://www.leparisien.fr/international/nous-suivons-la-situation-de-pres-les-etats-unis-vigilants-apres-des-soupcons-dun-cas-de-peste-en-russie-05-10-2026-WDA7Q3DUPRC4FOMOMUWRKD2ZX4.php",
+   "title": "Un immeuble prend feu dans la nuit dans le Haut-Rhin, au moins un mort",
+   "url": "https://www.leparisien.fr/haut-rhin-68/un-immeuble-prend-feu-dans-la-nuit-dans-le-haut-rhin-au-moins-un-mort-05-10-2026-LWAFTZPQPVAGJE6BBKB6VFPGNU.php",
    "published": null,
-   "first_seen": "2026-10-05T01:13:20Z",
+   "first_seen": "2026-10-05T07:38:19Z",
    "feed_updated": null,
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "\"We are following the situation closely\": U.S. alert after suspicion of a plague case in Russia"
+    "en": "A building burns in the Haute-Rhin, at least one dead"
    }
   },
   "ouestfrance": {
-   "title": "Blocage des lycées : Sébastien Lecornu veut répondre à la colère, les manifestations du 6 octobre dans tous les esprits",
-   "url": "https://www.ouest-france.fr/education/blocage-des-lycees-sebastien-lecornu-veut-repondre-a-la-colere-les-manifestations-du-6-octobre-dans-tous-les-esprits-36224472-c010-11f1-b7db-555e86a524f6?utm_source=fluxpublicfrance&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-   "published": "2026-10-04T18:08:57Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:08:57Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Dette : la France est-elle à la veille d’une crise financière ?",
+   "url": "https://www.ouest-france.fr/economie/dette-la-france-est-elle-a-la-veille-dune-crise-financiere-b477a3e6-bfd2-11f1-b7db-555e86a524f6?utm_source=fluxpublicfrance&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+   "published": "2026-10-05T05:00:34Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T05:00:34Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Blocking of high schools: Sébastien Lecornu wants to respond to the anger, the October 6 demonstrations in all minds"
+    "en": "Is France on the verge of a financial crisis?"
    }
   },
   "sudouest": {
-   "title": "Blocage des lycées : la famille de l’adolescent éborgné à Tours a porté plainte pour « violences par personne dépositaire de l’autorité publique »",
-   "url": "https://www.sudouest.fr/faits-divers/blocage-des-lycees-la-famille-de-l-adolescent-eborgne-a-tours-a-porte-plainte-pour-violences-par-personne-depositaire-de-l-autorite-publique-30919232.php",
-   "published": "2026-10-04T19:08:59Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:08:59Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Sommet de l’élevage : entre sécheresse et défilé de candidats à la présidentielle, le gouvernement va tenter de désamorcer la colère des agriculteurs",
+   "url": "https://www.sudouest.fr/economie/agriculture/colere-des-agriculteurs/sommet-de-l-elevage-entre-secheresse-et-defile-de-candidats-a-la-presidentielle-le-gouvernement-va-tenter-de-desamorcer-la-colere-des-agriculteurs-30922133.php",
+   "published": "2026-10-05T07:22:10Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:22:10Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Blockage of high schools: the family of the teenager abolished in Tours filed a complaint for \"violence by person depositary of the public authority\""
+    "en": "Cattle Summit: Between drought and presidential candidate parade, the government will try to defuse the anger of farmers"
    }
   },
   "ladepechedumidi": {
-   "title": "REPLAY. Primaire de la gauche : \"Un discours sirupeux\"... le tacle de Jérôme Guedj à Ségolène Royal au sujet de sa position sur l'Ukraine",
-   "url": "https://www.ladepeche.fr/2026/10/04/direct-primaire-de-la-gauche-apres-la-divulgation-denregistrements-de-raphael-glucksmann-le-troisieme-et-dernier-debat-sannonce-explosif-suivez-notre-13583443.php",
-   "published": "2026-10-04T23:04:41Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-05T00:44:45Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "DIRECT. Blocage des lycéens : dix-huit lycées fermés dans l'académie de Toulouse, Edouard Geffray dans un lycée d'Île-de-France ce lundi",
+   "url": "https://www.ladepeche.fr/2026/10/05/direct-blocage-des-lyceens-sebastien-lecornu-appelle-a-reprendre-les-cours-dix-huit-lycees-fermes-ce-lundi-dans-lacademie-de-toulouse-13583283.php",
+   "published": "2026-10-05T07:32:39Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:32:39Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Primary of the Left: “A Sirupous Discourse”... Jérôme Guedj’s talk to Ségolène Royal about her position on Ukraine"
+    "en": "Blockage of high school students: eighteen high schools closed in the academy of Toulouse, Edouard Geffray in a high school of Île-de-France on Monday"
    }
   },
   "leprogres": {
-   "title": "Rhône. Snapchat, Instagram et Bourse du travail : comment les lycéens s’organisent pour les manifestations et les blocages ?",
-   "url": "https://www.leprogres.fr/education/2026/10/04/snapchat-instagram-et-bourse-du-travail-comment-les-lyceens-s-organisent-pour-les-manifestations-et-les-blocages",
-   "published": "2026-10-04T17:00:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T22:37:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Rhône. Blocage des lycées : la mobilisation reprend, une vingtaine d'établissements toujours fermés",
+   "url": "https://www.leprogres.fr/education/2026/10/05/blocage-des-lycees-la-mobilisation-reprend-une-vingtaine-d-etablissements-toujours-fermes",
+   "published": "2026-10-05T06:00:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:31:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Snapchat, Instagram and Job Exchange: How do high school students organize themselves for protests and blockages?"
+    "en": "Rhone. blockade of high schools: mobilization resumes, about 20 establishments still closed"
    }
   },
   "monacomatin": {
-   "title": "La victoire de l’AS Monaco Volley contre Bordeaux pose la première pierre d’un projet ambitieux",
-   "url": "https://www.nicematin.com/sports/volley/la-victoire-de-l-as-monaco-volley-contre-bordeaux-pose-la-premiere-pierre-d-un-projet-ambitieux-10734421",
-   "published": "2026-10-04T15:35:02Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T15:35:02Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Tuiga, le vaisseau amiral du Yacht-club de Monaco, remporte les Voiles de Saint-Tropez",
+   "url": "https://www.nicematin.com/sports/tuiga-le-vaisseau-amiral-du-yacht-club-de-monaco-remporte-les-voiles-de-saint-tropez-10734552",
+   "published": "2026-10-05T06:15:03Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:15:03Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "AS Monaco Volley’s victory over Bordeaux is the first stone of an ambitious project"
+    "en": "Tuiga, the admiral ship of the Yacht Club of Monaco, wins the Saint-Tropez Sailing"
    }
   },
   "elpais": {
-   "title": "Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso",
-   "url": "https://elpais.com/espana/2026-10-04/todo-listo-en-el-psoe-y-el-gobierno-para-un-adelanto-electoral-tras-la-derrota-de-los-decretos-en-el-congreso.html",
-   "published": "2026-10-04T19:22:32Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-05T01:08:59Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Adelanto de las elecciones generales, en directo | Sánchez anuncia que la cita electoral será al 29 noviembre",
+   "url": "https://elpais.com/espana/2026-10-05/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
+   "published": "2026-10-05T07:34:10Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:34:10Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "All ready in the PSOE and the Government for an election advance after the defeat of the decrees in Congress"
+    "en": "Following the general elections, Sánchez announces that the election will be held on November 29."
    }
   },
   "elmundo": {
-   "title": "Blackstone arranca un 'súpercontrato' estatal de gestión de vivienda mientras el Gobierno lo sitúa entre los \"fondos buitre\"",
-   "url": "https://www.elmundo.es/economia/2026/10/05/6ac2307be85ecee2298b457d.html",
-   "published": "2026-10-05T00:11:24Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:11:24Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Comparecencia de urgencia de Feijóo a las 10h. en Génova",
+   "url": "https://www.elmundo.es/espana/2026/10/05/6ac3348cea01db2214ea4e26-directo.html",
+   "published": "2026-10-05T07:36:05Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:36:05Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Blackstone launches state-owned housing management ‘supercontract’ while the government places it among the ‘butter funds’"
+    "en": "Emergency Meeting of Feijóo at 10h. in Génova"
    }
   },
   "abc": {
-   "title": "Lula y Bolsonaro van a la segunda vuelta con un Congreso bolsonarista",
-   "url": "https://www.abc.es/internacional/flavio-bolsonaro-aventaja-lula-silva-elecciones-brasilenas-20261005003351-nt.html",
-   "published": "2026-10-05T00:58:47Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:58:47Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Iñaqui Carnicero, el intocable enchufe de Sánchez",
+   "url": "https://www.abc.es/espana/inaqui-carnicero-intocable-enchufe-sanchez-20261005012611-nt.html",
+   "published": "2026-10-05T07:31:36Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:31:36Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Bolsonaro and Lula go to second round with Bolsonarist Congress"
+    "en": "Iñaqui Carnicero, the untouchable enchufe of Sánchez"
    }
   },
   "eldiarioes": {
-   "title": "Moncloa prepara el adelanto electoral y el rescate de los decretos de vivienda que tumbó la derecha",
-   "url": "https://www.eldiario.es/politica/moncloa-prepara-adelanto-electoral-rescate-decretos-vivienda-tumbo-derecha_1_13561276.html",
-   "published": "2026-10-04T19:36:10Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T21:24:11Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Sánchez convoca elecciones anticipadas el 29 de noviembre",
+   "url": "https://www.eldiario.es/politica/sanchez-convoca-elecciones-anticipadas-29-noviembre_1_13555649.html",
+   "published": "2026-10-05T07:08:51Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:30:52Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Moncloa prepares the electoral advance and the rescue of the housing decrees that tumbled the right"
+    "en": "Sánchez calls for early elections on November 29"
    }
   },
   "lavanguardia": {
-   "title": "Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha",
-   "url": "https://www.lavanguardia.com/politica/20261004/11650799/sanchez-inclina-adelantar-elecciones-pendiente-fijar-fecha.html",
-   "published": "2026-10-04T20:06:45Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T23:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Pedro Sánchez adelanta las elecciones generales al 29 de noviembre",
+   "url": "https://www.lavanguardia.com/politica/20261005/11651065/pedro-sanchez-adelanta-elecciones-generales-29-noviembre.html",
+   "published": "2026-10-05T07:09:37Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:09:37Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Sanchez is inclined to advance the elections, pending to fix the date"
+    "en": "Pedro Sánchez to hold general elections on November 29"
    }
   },
   "elcorreo": {
-   "title": "Bolsonaro y Lula se disputarán el 25 de octubre en segunda ronda la presidencia de Brasil",
-   "url": "https://www.elcorreo.com/internacional/america-latina/brasil-cierra-urnas-dispone-medir-polarizacion-pais-20261004223320-ntrc.html",
-   "published": "2026-10-04T23:56:32Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:56:32Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "El colectivo antiesclavista planta a la Diputación de Álava en la presentación de una placa en el Bellas Artes",
+   "url": "https://www.elcorreo.com/alava/araba/colectivo-antiesclavista-planta-diputacion-alava-presentacion-placa-20261004093010-nt.html",
+   "published": "2026-10-05T07:30:10Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:30:10Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Bolsonaro and Lula will compete in the second round of the Brazilian presidency on October 25"
+    "en": "The anti-slave collective plants the Diputación de Álava in the presentation of a plate at the Bellas Artes"
    }
   },
   "publico": {
-   "title": "O altruísmo eficaz e as contas do fim do mundo",
-   "url": "https://www.publico.pt/2026/10/05/opiniao/opiniao/altruismo-eficaz-contas-fim-mundo-2190247",
-   "published": "2026-10-04T23:30:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:30:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Após chumbo de medidas para habitação, Sánchez anuncia eleições antecipadas em Espanha",
+   "url": "https://www.publico.pt/2026/10/05/mundo/noticia/apos-chumbo-medidas-habitacao-sanchez-anuncia-eleicoes-antecipadas-espanha-2190295",
+   "published": "2026-10-05T07:15:45Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:15:45Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Effective Altruism and the End of the World"
+    "en": "After housing measures, Sánchez announces early elections in Spain"
    }
   },
   "diariodenoticias": {
-   "title": "Argélia no centro, porque entalada entre Marrocos e Tunísia!",
-   "url": "https://www.dn.pt/opiniao-dn/arglia-no-centro-porque-entalada-entre-marrocos-e-tunsia",
-   "published": "2026-10-04T23:01:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:01:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Veja todos os números da eleição brasileira em Portugal",
+   "url": "https://dnbrasil.dn.pt/eleicoes-brasil/veja-todos-os-nmeros-da-eleio-brasileira-em-portugal",
+   "published": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:00:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Algeria in the center, because clogged between Morocco and Tunisia!"
+    "en": "See all figures from the Brazilian election in Portugal"
    }
   },
   "expresso": {
-   "title": "TSE confirma: Flávio Bolsonaro e Lula disputam a segunda volta a 25 de outubro",
-   "url": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-05-tse-confirma-flavio-bolsonaro-e-lula-disputam-a-segunda-volta-a-25-de-outubro-10b5cea6",
-   "published": "2026-10-05T00:03:35Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:03:35Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Flávio Bolsonaro vence a Lula na primeira volta, mas falha a maioria: Brasil volta às urnas a 25 de outubro",
+   "url": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-05-flavio-bolsonaro-vence-a-lula-na-primeira-volta-mas-falha-a-maioria-brasil-volta-as-urnas-a-25-de-outubro-be8ecbe4",
+   "published": "2026-10-05T02:09:42Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T02:09:42Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "TSE confirms: Flávio Bolsonaro and Lula play the second round on October 25"
+    "en": "Flavio Bolsonaro wins Lula in first round, but fails the majority: Brazil returns to the polls on October 25"
    }
   },
   "diaridandorra": {
-   "title": "Els mossos avisen Andorra per un home fugit a la Seu després d’agredir l'exparella",
-   "url": "https://www.diariandorra.ad/nacional/261004/els-mossos-avisen-andorra-per-home-fugit-seu-despres-d-agredir-l-exparella_205757.html",
-   "published": "2026-10-04T18:09:48Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T21:39:59Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Montaner: populisme al poder",
+   "url": "https://www.diariandorra.ad/nacional/261005/montaner-populisme_205748.html",
+   "published": "2026-10-05T03:20:59Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T05:19:05Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Mossos warn Andorra for a man who fled to La Seu after attacking his ex-husband"
+    "en": "Populism: Populism in power"
    }
   },
   "corrieredellasera": {
-   "title": "Elezioni in Brasile, dopo il primo turno in vantaggio Bolsonaro jr, ballottaggio con Lula il 25 ottobre",
-   "url": "https://www.corriere.it/esteri/26_ottobre_04/elezioni-brasile-presidente-bolsonaro-jr-lula-493f94ce-8b16-476a-bca4-213ab89f7xlk.shtml",
-   "published": "2026-10-05T00:00:07Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:00:07Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Spagna, Sanchez dà il via alla crisi di governo: «Elezioni anticipate, si voterà il 29 novembre»",
+   "url": "https://www.corriere.it/esteri/26_ottobre_05/sanchez-annuncio-dimissioni-spagna-210db0af-f297-44eb-9ad7-a0886cbe2xlk.shtml",
+   "published": "2026-10-05T07:27:11Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:27:11Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Brazil: Bolsonaro Jr. votes in first round with Lula on October 25"
+    "en": "Sanchez says early elections will be held on November 29"
    }
   },
   "larepubblica": {
-   "title": "L’emergenza casa investe tutta Europa. In Italia 3 milioni in crisi",
-   "url": "https://www.repubblica.it/economia/2026/10/05/news/emergenza_casa_italia_europa_prezzi-425625809/",
-   "published": "2026-10-04T23:00:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
-   "translations": {
-    "en": "In Italy, 3 million people are in crisis."
-   }
+   "title": "Boxer Clemente Russo returns to the ring at 44: “I don’t want a retired athlete’s belly”",
+   "url": "https://europe.repubblica.it/en/sport/2026/10/05/news/clemente_russo_boxing_comeback_retired_athlete_s_belly-425625264/",
+   "published": null,
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:15:27Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "lastampa": {
    "title": "Proteggere i cittadini dalla paura, la ricetta che manca alla sinistra",
    "url": "https://www.lastampa.it/editoriali/lettere-e-idee/2026/10/05/news/proteggere_i_cittadini_dalla_paura_la_ricetta_che_manca_alla_sinistra-15757258/",
    "published": "2026-10-04T21:00:00Z",
    "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T21:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "feed_updated": "2026-10-05T05:15:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
     "en": "Protecting citizens from fear, the missing recipe on the left"
    }
   },
   "ilsole24ore": {
-   "title": "Mps, Delfin schierata con Intesa Sanpaolo",
-   "url": "https://www.ilsole24ore.com/art/delfin-l-appoggio-intesa-sanpaolo-AJnnqzYB",
-   "published": "2026-10-04T17:52:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T17:52:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Sfratti, oltre 40mila provvedimenti in un anno: tre su quattro per morosità",
+   "url": "https://www.ilsole24ore.com/art/sfratti-oltre-40mila-provvedimenti-un-anno-tre-quattro-morosita-AJgDayYB",
+   "published": "2026-10-05T06:23:59Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:23:59Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Mps, Delfin stationed with Intesa Sanpaolo"
+    "en": "This is the first time in the world, and it’s the first time in the world, and it’s the first time in the world."
    }
   },
   "ilmessaggero": {
-   "title": "Garlasco, i genitori di Chiara Poggi: «Se ci sarà un altro colpevole lo accetteremo. Ora per noi è Stasi, non è facile cambiare idea»",
-   "url": "https://www.ilmessaggero.it/italia/garlasco_stasi_colpevole_genitori_chiara_poggi_cosa_hanno_detto-9803981.html",
+   "title": "Da Madrid a Parigi, da Berlino a Londra: la mappa di un continente in subbuglio. E più debole",
+   "url": "https://www.ilmessaggero.it/mondo/spagna_crisi_governo_elezioni_anticipate_europa_rivolte_proteste_elezioni-9803969.html",
    "published": null,
-   "first_seen": "2026-10-05T01:13:20Z",
+   "first_seen": "2026-10-05T07:38:19Z",
    "feed_updated": null,
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "“I’m not going to be able to do anything, I’m not going to do anything, I’m not going to be able to do anything.”"
+    "en": "From Madrid to Paris, from Berlin to London: the map of a continent in trouble."
    }
   },
   "ilfattoquotidiano": {
-   "title": "Mancini cambia ancora l’Italia: “Al talento va concessa fiducia”. Giovani, 4-3-3 e più difesa: contro la Turchia la prova del nove dopo Parigi",
-   "url": "https://www.ilfattoquotidiano.it/2026/10/04/mancini-cambia-ancora-italia-al-talento-va-concessa-fiducia-contro-la-turchia-nations-league/8527410/",
-   "published": "2026-10-04T19:03:48Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:03:48Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Laura Pausini guerriera a Milano per il concerto più rock, poi accade l’imprevisto (“si è rotto tutto”) e si trasforma in una (bravissima) stand-up comedian. Ecco cos’è successo",
+   "url": "https://www.ilfattoquotidiano.it/2026/10/05/laura-pausini-guerriera-a-milano-per-il-concerto-piu-rock-poi-accade-limprevisto-si-e-rotto-tutto-e-si-trasforma-in-una-bravissima-stand-up-comedian/8527534/",
+   "published": "2026-10-05T07:37:47Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:37:47Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "In addition to this, it is important to note that this is the most important part of your life."
+    "en": "In addition to this, it is important to note that this is the most important part of the life of a human being."
    }
   },
   "ilmattino": {
-   "title": "Caivano, operaio morto e lasciato in strada: c?è il giallo dell?assunzione beffa",
-   "url": "https://www.ilmattino.it/schede/caivano_operaio_morto_e_lasciato_in_strada_c_e_il_giallo_dell_assunzione_beffa-9803979.html",
+   "title": "Elezioni Brasile, Bolsonaro batte Lula 47% a 45%: va da favorito per il ballottaggio del 25 ottobre",
+   "url": "https://www.ilmattino.it/primopiano/esteri/elezioni_presidenziali_brasile_bolsonaro_lula_risultati_ballottaggio-9804978.html",
    "published": null,
-   "first_seen": "2026-10-04T22:31:16Z",
+   "first_seen": "2026-10-05T07:38:19Z",
    "feed_updated": null,
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "In addition, it is important to remember that this is the most important part of your life."
+    "en": "Bolsonaro defeats Lula by 47% to 45% for the October 25 ballot"
    }
   },
   "sanmarinortv": {
-   "title": "Volley U20, l'Islanda batte 3-2 San Marino e va all'Europeo",
-   "url": "https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/volley-u20-l-islanda-batte-3-2-san-marino-e-va-all-europeo-a296801",
-   "published": "2026-10-04T08:49:00Z",
-   "first_seen": "2026-10-04T21:35:10Z",
-   "feed_updated": "2026-10-04T08:49:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "5 ottobre, Giornata mondiale degli insegnanti: San Marino ribadisce la centralità del ruolo dei docenti",
+   "url": "https://www.sanmarinortv.sm/news/attualita-c4/5-ottobre-giornata-mondiale-degli-insegnanti-san-marino-ribadisce-la-centralita-del-ruolo-dei-docenti-a296808",
+   "published": "2026-10-05T06:18:57Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:18:57Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Volley U20, Iceland beat San Marino 3-2 and goes to the European"
+    "en": "5 October, World Teachers’ Day: San Marino reaffirms the central role of teachers"
    }
   },
   "devolkskrant": {
-   "title": "Bestsellerfilosoof: ‘We kunnen straks alles doen wat we willen: een opgeloste wereld, waarin geen problemen meer bestaan’",
-   "url": "https://www.volkskrant.nl/tech/bestsellerfilosoof-we-kunnen-straks-alles-doen-wat-we-willen-een-opgeloste-wereld-waarin-geen-problemen-meer-bestaan~b35877c6/",
-   "published": "2026-10-01T16:00:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:17:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Nog nooit liepen de wereldwijde schulden en rentes zo snel op – hoe kan dat?",
+   "url": "https://www.volkskrant.nl/economie/nog-nooit-liepen-de-wereldwijde-schulden-en-rentes-zo-snel-op-hoe-kan-dat~ba169a44/",
+   "published": "2026-10-05T03:00:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T04:00:36Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "The best-selling philosopher: “We can do whatever we want: a solved world where there are no problems anymore.”"
+    "en": "Never before have global debt and interest rates risen so fast – how can that be?"
    }
   },
   "nrc": {
-   "title": "Briljant",
-   "url": "https://www.nrc.nl/puzzels/briljant/2026/10/05/",
-   "published": "2026-10-05T00:00:04Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:00:04Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Nepal, El Niño: wie gaat de klimaatrekening betalen?",
+   "url": "https://www.nrc.nl/nieuws/2026/10/05/nepal-el-nino-wie-gaat-de-klimaatrekening-betalen-a4938197",
+   "published": "2026-10-05T06:42:01Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:42:01Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Brilliantly"
+    "en": "Nepal, El Niño: who will pay the climate bill?"
    }
   },
   "detelegraaf": {
-   "title": "Job schrijft over zijn werk met demente ouderen: ’De broeder weet het ook niet altijd ’",
-   "url": "https://www.telegraaf.nl/lifestyle/gezondheid/job-schrijft-over-zijn-werk-met-demente-ouderen-de-broeder-weet-het-ook-niet-altijd/161754863.html",
-   "published": "2026-10-05T00:00:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Psychiater Esther van Fenema over dalende homoacceptatie: ’We moeten vooral begrijpen waarom oude, simplistische antwoorden opnieuw aantrekkelijk worden’",
+   "url": "https://www.telegraaf.nl/vrouw/psyche/psychiater-esther-van-fenema-over-dalende-homoacceptatie-we-moeten-vooral-begrijpen-waarom-oude-simplistische-antwoorden-opnieuw-aantrekkelijk-worden/162489437.html",
+   "published": "2026-10-05T07:30:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:30:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Job writes about his work with dementia elders: ‘The brother doesn’t always know’"
+    "en": "Psychiatrist Esther van Fenema on declining homosexual acceptance: ‘We must especially understand why old, simplistic answers become attractive again’"
    }
   },
   "trouw": {
-   "title": "Kyiv onder vuur van drones tijdens bezoek Merz",
-   "url": "https://www.trouw.nl/buitenland/kyiv-onder-vuur-van-drones-tijdens-bezoek-merz~bdb2b6ef/",
-   "published": "2026-10-04T19:02:30Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T23:15:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Corruptiezaken die al onder Orbán speelden, worden sinds zijn vertrek ineens wel opgepakt",
+   "url": "https://www.trouw.nl/buitenland/corruptiezaken-die-al-onder-orban-speelden-worden-sinds-zijn-vertrek-ineens-wel-opgepakt~bc672978/",
+   "published": "2026-10-04T20:00:10Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:31:45Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Kiev under fire of drones during visit Merz"
+    "en": "Corruption cases that already played under Orbán, are suddenly arrested since his departure"
    }
   },
   "ad": {
-   "title": "Winnaar Flávio Bolsonaro en Lula da Silva naar beslissende tweede stemronde bij Braziliaanse verkiezingen",
-   "url": "https://www.ad.nl/buitenland/winnaar-flavio-bolsonaro-en-lula-da-silva-naar-beslissende-tweede-stemronde-bij-braziliaanse-verkiezingen~a7e24f3a/",
-   "published": "2026-10-05T00:25:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:25:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Omstreden rapper Gims blaast concert in Afas Live op laatste moment af wegens ‘privéredenen’",
+   "url": "https://www.ad.nl/show/omstreden-rapper-gims-blaast-concert-in-afas-live-op-laatste-moment-af-wegens-priveredenen~abee1907/",
+   "published": "2026-10-05T07:21:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:21:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Flávio Bolsonaro and Lula da Silva win decisive second round of voting in Brazilian elections"
+    "en": "Controversial rapper Gims blasts concert in Afas Live at last minute due to ‘private reasons’"
    }
   },
   "lalibrebelgique": {
-   "title": "Hausse du ticket Stib, prêt rénovation à 0%: le gouvernement bruxellois tient son accord budgétaire",
-   "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/04/on-patine-a-cause-de-lintransigeance-delke-van-den-brandt-le-gouvernement-bruxellois-se-fracture-sur-son-budget-OPIMYIQVJJA2ZO4ICI77D3TC3E/",
-   "published": "2026-10-04T18:46:12Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T21:33:49Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Un Belge sur trois pourrait quitter son employeur: voici pourquoi",
+   "url": "https://www.lalibre.be/economie/entreprises-startup/2026/10/05/un-belge-sur-trois-pourrait-quitter-son-employeur-si-son-salaire-est-trop-bas-5OWMLAROVRBEDN4DBWLXDXNQ5Y/",
+   "published": "2026-10-05T07:24:55Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:24:55Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Raise the ticket Stib, renovation loan to 0%: the Brussels government holds its budget agreement"
+    "en": "One in three Belgians could leave their employer: here’s why"
    }
   },
   "destandaard": {
-   "title": "VS halen uit veiligheidsoverwegingen bommenwerpers weg van Britse basis",
-   "url": "https://www.standaard.be/buitenland/vs-halen-uit-veiligheidsoverwegingen-bommenwerpers-weg-van-britse-basis/35131945.html",
-   "published": "2026-10-05T00:01:06Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:01:06Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Spaanse premier Sánchez schrijft vervroegde verkiezingen uit na impasse rond wooncrisis",
+   "url": "https://www.standaard.be/buitenland/spaanse-premier-sanchez-schrijft-vervroegde-verkiezingen-uit-na-impasse-rond-wooncrisis/162580395.html",
+   "published": "2026-10-05T07:24:55Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:24:55Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "U.S. removes bombers from British base for security reasons"
+    "en": "Spanish Prime Minister Sanchez announces early elections after housing crisis"
    }
   },
   "hetlaatstenieuws": {
-   "title": "Tweede stemronde nodig bij Braziliaanse presidentsverkiezingen",
-   "url": "https://www.hln.be/buitenland/tweede-stemronde-nodig-bij-braziliaanse-presidentsverkiezingen~a01888bf/",
-   "published": "2026-10-05T00:30:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:30:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Voetganger (28) sterft bij ongeval met bestelwagen in Balen: 47-jarige bestuurder legt positieve ademtest af",
+   "url": "https://www.hln.be/balen/voetganger-28-sterft-bij-ongeval-met-bestelwagen-in-balen-47-jarige-bestuurder-legt-positieve-ademtest-af~ad169637/",
+   "published": "2026-10-05T07:30:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:30:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Second round of voting in Brazilian presidential elections"
+    "en": "Pedestrian (28) dies in a truck accident in Balen: 47-year-old driver passes positive breath test"
    }
   },
   "luxemburgerwort": {
-   "title": "Dylan Pereira kehrt an den Ort seines schlimmsten Unfalls zurück und gewinnt",
-   "url": "https://www.wort.lu/sport/dylan-pereira-kehrt-an-den-ort-seines-schlimmsten-unfalls-zurueck-und-gewinnt/8414287.html",
-   "published": "2026-10-04T18:40:00Z",
-   "first_seen": "2026-10-04T21:35:10Z",
-   "feed_updated": "2026-10-04T18:40:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Index: Verursacher oder Schutzmechanismus?",
+   "url": "https://www.wort.lu/meinung/leserbriefe/index-verursacher-oder-schutzmechanismus/162270041.html",
+   "published": "2026-10-05T07:18:54Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:18:54Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Dylan Pereira returns to the place of his worst accident and wins"
+    "en": "Index: causative or protective mechanism?"
    }
   },
   "politiken": {
-   "title": "Karakterbogen: Tre spillere – plus Riemer – skiller sig ud med flotte 10-taller",
-   "url": "https://politiken.dk/sport/fodbold/art11001368/Tre-spillere-%E2%80%93-plus-Riemer-%E2%80%93-skiller-sig-ud-med-flotte-10-taller",
-   "published": "2026-10-04T21:30:39Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T21:30:39Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Spansk regeringsleder udskriver valg efter bolignederlag",
+   "url": "https://politiken.dk/internationalt/art11008877/Spansk-regeringsleder-udskriver-valg-efter-bolignederlag",
+   "published": "2026-10-05T07:20:31Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:20:31Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Character book: Three players – plus Riemer – stand out with beautiful 10 numbers"
+    "en": "Spanish government chief calls election after housing defeat"
    }
   },
   "berlingske": {
-   "title": "Advokat: Kvinde fra Cornell-sag er blevet udsat for adskillige trusler",
-   "url": "https://www.berlingske.dk/internationalt/advokat-kvinde-fra-cornell-sag-er-blevet-udsat-for-adskillige-trusler?referrer=RSS",
-   "published": "2026-10-05T01:01:45Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T01:01:45Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Regeringen vil forkorte tilladelsesprocesser til elnet landet over",
+   "url": "https://www.berlingske.dk/politik/regeringen-vil-forkorte-tilladelsesprocesser-til-elnet-landet-over?referrer=RSS",
+   "published": "2026-10-05T07:34:44Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:34:44Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Lawyer: Woman from Cornell case has been subjected to several threats"
+    "en": "The government will shorten the licensing processes for electricity over the country"
    }
   },
   "jyllandsposten": {
-   "title": "Pludselig talte Mette Frederiksen om en navngiven borger: »Jamen, det tror jeg slet ikke, at de får noget ordentligt ud af«",
-   "url": "https://jyllands-posten.dk/politik/ECE19681305/millionaeren-martin-faar-mere-ud-af-momsplanen-end-pensionisten-erna-det-er-aandssvagt/",
-   "published": "2026-10-04T17:00:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:54:53Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Uvedkommende fik adgang til navne, adresser og cpr-numre på 8,8 mio. borgere",
+   "url": "https://jyllands-posten.dk/indland/ECE19705174/nyhedsoverblik/",
+   "published": "2026-10-05T05:40:27Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:32:16Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Suddenly, Mette Frederiksen spoke about a named citizen: “Yes, I don’t think they get anything out of it at all.”"
+    "en": "Access to names, addresses and cpr numbers of 8.8 million citizens"
    }
   },
   "dagensnyheter": {
-   "title": "Thand Ringqvist: Röda linjerna bleknar inte",
-   "url": "https://www.dn.se/sverige/thand-ringqvist-roda-linjerna-bleknar-inte/",
-   "published": "2026-10-04T20:04:50Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:04:50Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Fredrik Moberg: Korallreven kokar bort – men går fortfarande att rädda",
+   "url": "https://www.dn.se/kultur/fredrik-moberg-korallreven-kokar-bort-men-gar-fortfarande-att-radda/",
+   "published": "2026-10-05T07:01:51Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:01:51Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Thand Ringqvist: Red lines do not fade"
+    "en": "Fredrik Moberg: Coral reef is boiling away – but it can still be saved"
    }
   },
   "svenskadagbladet": {
-   "title": "Ställningskriget växer efter stoppad protestmarsch",
-   "url": "https://www.svd.se/a/zlGVA5/stallningskriget-vaxer-efter-stoppad-protestmarsch?utm_medium=rss",
-   "published": "2026-10-04T23:43:25Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:43:25Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Medicinska framsteg måste nå kvinnor",
+   "url": "https://www.svd.se/a/eG1AQl/darfor-nar-medicinsk-forskning-om-kvinnohalsa-inte-fram?utm_medium=rss",
+   "published": "2026-10-05T07:30:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:30:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "The War of Positions Grows After Stopped Protest March"
+    "en": "Medical advances must reach women"
    }
   },
   "aftonbladet": {
-   "title": "Ställningskriget växer efter stoppad protestmarsch",
-   "url": "https://www.aftonbladet.se/nyheter/a/JroLQP/stallningskriget-vaxer-efter-stoppad-protestmarsch?utm_medium=rss",
-   "published": "2026-10-04T23:43:25Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:43:25Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Så enkelt åker DU fast i nya radarn",
+   "url": "https://www.aftonbladet.se/nyheter/a/e7gn7O/sa-enkelt-aker-du-fast-i-polisens-nya-radar?utm_medium=rss",
+   "published": "2026-10-05T07:15:31Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:15:31Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "The War of Positions Grows After Stopped Protest March"
+    "en": "You can easily get stuck in the new radar."
    }
   },
   "goteborgsposten": {
@@ -807,295 +804,295 @@
    "published": "2026-10-03T04:00:00Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-10-03T04:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
     "en": "Culture: Conservative women who regretted"
    }
   },
   "sydsvenskan": {
-   "title": "Trump bildar sin AI-styrka",
-   "url": "https://www.sydsvenskan.se/varlden/trump-bildar-sin-ai-styrka/",
-   "published": "2026-10-04T22:30:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T22:59:53Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Utlyser nyval i Spanien efter bostadskrisen",
+   "url": "https://www.sydsvenskan.se/varlden/spaniens-premiarminister-utlyser-nyval/",
+   "published": "2026-10-05T07:33:33Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:33:33Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Trump builds his AI force"
+    "en": "New elections in Spain after housing crisis"
    }
   },
   "aftenposten": {
-   "title": "Presidentvalget i Brasil: Bolsonaro og Lula til ny valgomgang",
-   "url": "https://www.aftenposten.no/verden/i/xlP9qB/presidentvalget-i-brasil-bolsonaro-og-lula-til-ny-valgomgang?utm_medium=rss",
-   "published": "2026-10-04T21:35:22Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T21:35:22Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Her er det redusert hastighet med tog",
+   "url": "https://www.aftenposten.no/oslo/i/X9gayb/her-er-det-redusert-hastighet-med-tog?utm_medium=rss",
+   "published": "2026-10-05T07:26:56Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:26:56Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Brazil presidential elections: Bolsonaro and Lula in a new round"
+    "en": "Reduced speed by train."
    }
   },
   "vg": {
-   "title": "Se Raiders - Chiefs på 25 minutter",
-   "url": "https://www.vg.no/sport/i/GrG5Px/se-raiders-chiefs-paa-25-minutter",
-   "published": "2026-10-05T01:11:59Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T01:11:59Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Skolebuss i grøften – Alle nødetater rykket ut",
+   "url": "https://www.vg.no/nyheter/i/L3Aawp/buss-i-groefta",
+   "published": "2026-10-05T07:28:34Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:28:34Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Raiders: Chiefs in 25 minutes"
+    "en": "School bus in the hole – All emergency workers rushed out"
    }
   },
   "dagbladet": {
-   "title": "Vekker avsky",
-   "url": "https://www.dagbladet.no/sport/vekker-avsky/85242016",
-   "published": "2026-10-05T00:48:01Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:48:01Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Ronaldo-avsløring på direkten",
+   "url": "https://www.dagbladet.no/sport/avsloring-pa-direkten-oppsto-en-hendelse/85242132",
+   "published": "2026-10-05T06:46:39Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:07:14Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Wake up disgust"
+    "en": "Ronaldo's disclosure"
    }
   },
   "bergenstidende": {
-   "title": "Ville avlyse: – Ikke forsvarlig",
-   "url": "https://www.bt.no/sport/ballspark/i/mKRvb1/ville-avlyse-ikke-forsvarlig?utm_medium=rss",
-   "published": "2026-10-04T20:44:42Z",
-   "first_seen": "2026-10-04T21:35:10Z",
-   "feed_updated": "2026-10-04T20:44:42Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Er det respektløst å treffe andre når man er syk?",
+   "url": "https://www.bt.no/helse/i/MARaaJ/kan-du-be-kollegaen-som-hoster-og-snoerrer-gaa-hjem?utm_medium=rss",
+   "published": "2026-10-05T04:30:02Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T04:30:02Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Cancelled: Not justified"
+    "en": "Is it disrespectful to meet others when you are sick?"
    }
   },
   "helsinginsanomat": {
-   "title": "Junioriurheilu | Vanhemmat pakotetaan ottamaan lapsille kalliita vakuutuksia, joista ei tosipaikassa ole apua",
-   "url": "https://www.hs.fi/visio/art-2000012231655.html",
-   "published": "2026-10-04T23:00:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Asuntokriisi | Kärjistynyt asuntokriisi kaataa Espanjan hallituksen",
+   "url": "https://www.hs.fi/maailma/art-2000012320363.html",
+   "published": "2026-10-05T07:22:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:29:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Parents are forced to take expensive insurance for their children, which is not really helpful"
+    "en": "The housing crisis in Spain has shattered the government."
    }
   },
   "iltasanomat": {
-   "title": "Trumpin liittolainen voitti Brasilian presidentin­vaalien ensimmäisen kierroksen",
-   "url": "https://www.is.fi/ulkomaat/art-2000012320034.html",
-   "published": "2026-10-05T00:38:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:38:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Poliisilta varoitus autoilijoille",
+   "url": "https://www.is.fi/kotimaa/art-2000012320368.html",
+   "published": "2026-10-05T07:33:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:33:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Trump’s ally wins first round of Brazil’s presidential election"
+    "en": "Warning to Drivers"
    }
   },
   "hufvudstadsbladet": {
-   "title": "Så har Ukraina trappat upp drönarkriget mot Ryssland",
-   "url": "https://www.hbl.fi/varlden/sa-har-ukraina-trappat-upp-dronarkriget-mot-ryssland/",
-   "published": "2026-10-04T18:00:51Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:00:51Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Utlyser nyval i Spanien efter bostadskrisen",
+   "url": "https://www.hbl.fi/varlden/utlyser-nyval-i-spanien-efter-bostadskrisen/",
+   "published": "2026-10-05T07:28:15Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:28:15Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Ukraine has escalated the drone war against Russia"
+    "en": "New elections in Spain after housing crisis"
    }
   },
   "aamulehti": {
-   "title": "Myrskypuuskia ja sadetta – meteorologi kertoo, millaista säätä Pirkanmaalle on luvassa",
-   "url": "https://www.aamulehti.fi/pirkanmaa/art-2000012319961.html",
-   "published": "2026-10-04T18:49:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:49:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Pörssisähkö on tänään loppuillasta lähes ilmaista – alkutalven sähkön hintaan vaikuttaa lokakuun sää",
+   "url": "https://www.aamulehti.fi/tampere/art-2000012320361.html",
+   "published": "2026-10-05T07:24:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:24:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Storm and rain – meteorologists tell what the weather in Pirkanmaa is promised"
+    "en": "Stock market electricity is almost free from the end of the night today – the price of electricity in the early winter will be influenced by the weather in October"
    }
   },
   "morgunbladid": {
-   "title": "Dýrin sem komu vísindamönnum á óvart",
-   "url": "https://www.mbl.is/frettir/erlent/2026/10/04/dyrin_sem_komu_visindamonnum_a_ovart/",
-   "published": "2026-10-04T23:29:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:29:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Hallinn orðið meiri hefði Kristrún ráðið",
+   "url": "https://www.mbl.is/frettir/innlent/2026/10/05/hallinn_ordid_meiri_hefdi_kristrun_radid/",
+   "published": "2026-10-05T06:00:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:34:19Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "The animal that surprised scientists"
+    "en": "The room became larger if the crystal had ruled"
    }
   },
   "postimees": {
-   "title": "Ukraina töötab juba oma Starlinki analoogi kallal",
-   "url": "https://pmo.ee/8558140",
-   "published": "2026-10-05T00:46:56Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:46:56Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Sipsikuga samal aastal sündinud akadeemiku auks ilmus tüse teos",
+   "url": "https://pmo.ee/8557658",
+   "published": "2026-10-05T07:29:44Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:29:44Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Ukraine is already working on its Starlink analog."
+    "en": "In honour of the academician born in the same year, Sipsik’s work appeared"
    }
   },
   "diena": {
-   "title": "Kulbergs uzsver, ka Apvienotais saraksts neveidos koalīciju ar Šleseru un LPV",
-   "url": "https://diena.lv/raksts/latvija/zinas-71/kulbergs-uzsver-ka-_apvienotais-saraksts_-neveidos-koaliciju-ar-sleseru-un-lpv?utm_source=rss&utm_campaign=rss&utm_medium=links",
-   "published": "2026-10-04T18:34:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:34:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Oktoberfest šogad apmeklētāju skaita rekords - 7,4 miljoni",
+   "url": "https://diena.lv/raksts/pasaule/eiropa/_oktoberfest_-sogad-apmekletaju-skaita-rekords-74-miljoni?utm_source=rss&utm_campaign=rss&utm_medium=links",
+   "published": "2026-10-05T07:30:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:30:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Kulberg stresses that the Joint List will not form a coalition with Schleser and LPV"
+    "en": "Record number of visitors to Oktoberfest this year: 7.4 million"
    }
   },
   "lietuvosrytas": {
-   "title": "Palmiros horoskopas pirmadieniui, spalio 5 d.",
-   "url": "http://www.lrytas.lt/gyvenimo-budas/horoskopai/2026/10/05/news/palmiros-horoskopas-pirmadieniui-spalio-5-d--44260285/",
-   "published": "2026-10-04T21:01:00Z",
-   "first_seen": "2026-10-04T21:35:10Z",
-   "feed_updated": "2026-10-04T21:01:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Tarp D. Trumpo administracijos ir „Lukoil“ – derybos dėl milijardinio sandorio",
+   "url": "http://www.lrytas.lt/pasaulis/ivykiai/2026/10/05/news/tarp-d-trumpo-administracijos-ir-lukoil-derybos-del-milijardinio-sandorio-44333226/",
+   "published": "2026-10-05T07:28:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:28:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Palmira Horoscope for Monday, October 5"
+    "en": "Trump administration and Lukoil negotiate billions of dollars deal"
    }
   },
   "gazetawyborcza": {
-   "title": "Nike 2026. \"Ta opowieść była nam potrzebna\". Laudacja przewodniczącego jury",
-   "url": "https://wyborcza.pl/7,75410,33059233,nike-2026-ta-opowiesc-byla-nam-potrzebna-laudacja-przewodniczacego.html",
-   "published": "2026-10-04T20:00:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Wybory w Brazylii: Bolsonaro wygrał z Lulą, ale będzie druga tura",
+   "url": "https://wyborcza.pl/7,75399,33060154,wybory-w-brazylii-bolsonaro-wygral-z-lula-ale-bedzie-druga.html",
+   "published": "2026-10-05T06:28:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:28:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Nike 2026. \"This story we needed.\" Laudation of the jury chairman"
+    "en": "Brazil elections: Bolsonaro wins against Lula, but there will be a second round"
    }
   },
   "rzeczpospolita": {
-   "title": "Pół kroku wstecz w wakacjach 2027. Biura podróży korygują ceny",
-   "url": "https://turystyka.rp.pl/biura-podrozy/art45248801-pol-kroku-wstecz-w-wakacjach-2027-biura-podrozy-koryguja-ceny",
-   "published": "2026-10-04T23:04:12Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:04:12Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Hiszpanie pójdą do urn. Premier ogłosił przedterminowe wybory",
+   "url": "https://www.rp.pl/polityka/art45249571-hiszpanie-pojda-do-urn-premier-oglosil-przedterminowe-wybory",
+   "published": "2026-10-05T07:17:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:17:08Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Half a step back in 2027. travel agencies adjust prices"
+    "en": "Spanish Prime Minister Calls for Early Elections"
    }
   },
   "fakt": {
-   "title": "Dramatyczne wieści z Łęcznej. Podpalony przez żołnierza WOT Jakub nie żyje",
-   "url": "https://www.fakt.pl/wydarzenia/polska/lublin/leczna-w-zalobie-zmarl-25-letni-jakub-podpalony-przez-bylego-zolnierza-wot/2dtrzf8",
-   "published": "2026-10-03T07:12:49Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T20:24:51Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Nawrocki dosadnie o zagrożeniu z Rosji. \"Aż cisną się na usta te słowa\"",
+   "url": "https://www.fakt.pl/polityka/karol-nawrocki-o-zagrozeniach-na-granicy-nie-zmienilo-sie-jedno/75xn27y",
+   "published": "2026-10-03T13:06:17Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:21:51Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Dramatic news from Łęczna. Burned by WOT soldier Jacob is dead"
+    "en": "Navrocki is bored about the threat from Russia: \"Until these words get stuck on your mouth\""
    }
   },
   "dziennikpolski": {
-   "title": "Tak kiedyś wyglądała codzienność uczniów i uczennic! Zobacz archiwalne szkolne zdjęcia z XX wieku",
-   "url": "https://dziennikpolski24.pl/tak-kiedys-wygladala-codziennosc-uczniow-i-uczennic-zobacz-archiwalne-szkolne-zdjecia-z-xx-wieku/ar/c11-17829519",
-   "published": "2026-10-04T10:11:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T10:11:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Ciasto dyniowe. Zobacz TOP 5 sprawdzonych przepisów na ciasta z dynią: zebrę, sernik dyniowy, jesienne ciasto z dynią i pączki",
+   "url": "https://dziennikpolski24.pl/ciasto-dyniowe-zobacz-top-5-sprawdzonych-przepisow-na-ciasta-z-dynia-zebre-sernik-dyniowy-jesienne-ciasto-z-dynia-i-paczki/ar/c17-15830603",
+   "published": "2026-10-05T06:53:59Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:53:59Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "This is how everyday life of students and schoolgirls once looked like! View archival school photos from the 20th century"
+    "en": "Dandelion Cake. See TOP 5 proven Dandelion Cake Recipes: Zebra, Dandelion Cake, Autumn Dandelion Cake and Pumpkins"
    }
   },
   "mladafrontadnes": {
-   "title": "Tohle jsem potřeboval. Humphries zvládl dramatické finále nejtěžšího turnaje světa",
-   "url": "https://www.idnes.cz/sport/ostatni/price-humphries-sipky-world-grand-prix.A261004_231452_sporty_hava#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main",
-   "published": "2026-10-04T22:05:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T22:05:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Nejlepším fotbalistou Česka je Schick, podruhé vyhrál Zlatý míč",
+   "url": "https://www.idnes.cz/fotbal/reprezentace/zlaty-mic-ceske-republiky-patrik-schick-rocnik-2025-2026.A261002_164952_fot_reprez_min#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main",
+   "published": "2026-10-05T07:34:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:34:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Humphries managed the dramatic final of the hardest tournament in the world"
+    "en": "Czech footballer Schick won the Golden Ball for the second time"
    }
   },
   "hospodarskenoviny": {
-   "title": "Zaměstnavatelé chtějí změny v penzijku: automatický vstup mladých do spoření i víc peněz na výstavbu dálnic",
-   "url": "https://archiv.hn.cz/c1-67938980-zamestnavatele-chteji-zmeny-v-penzijku-automaticky-vstup-mladych-do-sporeni-i-vic-penez-na-vystavbu-dalnic",
-   "published": "2026-10-04T22:00:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T22:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Výrobce dronů Primoco zdvojnásobil zisk. Ve hře jsou kontrakty na dodávku 200 strojů pro Evropu",
+   "url": "https://byznys.hn.cz/c1-67939380-vyrobce-dronu-primoco-zdvojnasobil-zisk-ve-hre-jsou-kontrakty-na-dodavku-200-stroju-pro-evropu",
+   "published": "2026-10-05T07:18:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:18:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Employers want changes in pensions: automatic entry of young people into savings and more money for the construction of highways"
+    "en": "Drone manufacturer Primoco doubles profits with contracts to supply 200 drones to Europe"
    }
   },
   "denikn": {
-   "title": "Útoky na mosty mají rozdělit Kyjev. Rusko přitvrdilo už před zimou, vyzývá cizince k útěku",
-   "url": "https://denikn.cz/2204517/utoky-na-mosty-maji-rozdelit-kyjev-rusko-pritvrdilo-uz-pred-zimou-vyzyva-cizince-k-uteku/",
-   "published": "2026-10-04T18:50:15Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:50:15Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Komunální volby přehledně: proč máte jeden lístek, jak změřit, kdo uspěl, a manuál taktického voliče",
+   "url": "https://denikn.cz/2200173/komunalni-volby-prehledne-proc-mate-jeden-listek-jak-zmerit-kdo-uspel-a-manual-taktickeho-volice/",
+   "published": "2026-10-05T07:13:17Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:13:17Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Attacks on bridges are to divide Kiev. Russia hardened already before winter, calls on foreigners to flee"
+    "en": "Local elections clearly: why you have one ticket, how to measure who succeeded, and a tactical voter's manual"
    }
   },
   "lidovenoviny": {
-   "title": "Tohle jsem potřeboval. Humphries zvládl dramatické finále nejtěžšího turnaje světa",
-   "url": "https://www.idnes.cz/sport/ostatni/price-humphries-sipky-world-grand-prix.A261004_231452_sporty_hava#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main",
-   "published": "2026-10-04T22:05:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T22:05:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Nejlepším fotbalistou Česka je Schick, podruhé vyhrál Zlatý míč",
+   "url": "https://www.idnes.cz/fotbal/reprezentace/zlaty-mic-ceske-republiky-patrik-schick-rocnik-2025-2026.A261002_164952_fot_reprez_min#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main",
+   "published": "2026-10-05T07:34:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:34:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Humphries managed the dramatic final of the hardest tournament in the world"
+    "en": "Czech footballer Schick won the Golden Ball for the second time"
    }
   },
   "sme": {
-   "title": "Menej byrokracie a viac partnerstva",
-   "url": "https://www.sme.sk/index/c/menej-byrokracie-a-viac-partnerstva?utm_source=rss&utm_medium=feed&utm_campaign=www-rss",
-   "published": "2026-10-04T22:00:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T22:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "V Španielsku sa uskutočnia predčasné voľby 29. novembra",
+   "url": "https://www.sme.sk/svet/c/v-spanielsku-sa-uskutocnia-predcasne-volby-29-novembra?utm_source=rss&utm_medium=feed&utm_campaign=www-rss",
+   "published": "2026-10-05T07:29:41Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:29:41Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Less Bureaucracy and More Partnership"
+    "en": "Early elections in Spain will be held on November 29"
    }
   },
   "dennikn": {
-   "title": "F1 v „Bahrajzii“: nezvyčajný koncept aj pripomienka problémov súčasnej formuly",
-   "url": "https://dennikn.sk/5602212/f1-v-bahrajzii-nezvycajny-koncept-aj-pripomienka-problemov-sucasnej-formuly/",
-   "published": "2026-10-04T18:09:34Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:09:34Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Otvoria obchvat Ružomberka. Šoférom má ušetriť 16 minút, v špičke ešte viac",
+   "url": "https://e.dennikn.sk/5599378/otvoria-obchvat-ruzomberka-soferom-ma-usetrit-16-minut-v-spicke-este-viac/",
+   "published": "2026-10-05T07:28:29Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:28:29Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "F1 in \"Bahrajzi\": an unusual concept and a reminder of the problems of the current formula"
+    "en": "They will open the runway of Ružomberka. Drivers have to save 16 minutes, in the peak even more"
    }
   },
   "pravda": {
-   "title": "Únik vody, búrky aj požiare: Aké riziká dnes ohrozujú bytové domy a ako sa pred nimi chrániť",
-   "url": "https://www.pravda.sk/spravy/inzercia/clanok/2047905-unik-vody-burky-aj-poziare-ake-rizika-dnes-ohrozuju-bytove-domy-a-ako-sa-pred-nimi-chranit?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-   "published": "2026-10-04T22:13:25Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T22:13:25Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Deep Purple v Bratislave ukázali, že sú majstrami gradácie. Zahrali aj slovenskú ľudovku",
+   "url": "https://www.pravda.sk/spravy/kultura/clanok/2052679-deep-purple-koncert-bratislava?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+   "published": "2026-10-05T07:31:09Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:31:09Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Water leakage, storms and fires: what risks houses today threaten and how to protect themselves from them"
+    "en": "Deep Purple in Bratislava showed that they are masters of graduation."
    }
   },
   "nepszava": {
-   "title": "„Milyen jó, hogy nekem semmi bajom sincsen” – Eddig 840 millió forint jött össze az eddigi legmegindítóbb és legnagyobb magyar közakadozásban Micskó Benjáminért",
-   "url": "https://nepszava.hu/3334056_gyermek-betegseg-izomsorvadas-micsko-beni-kozadakozas-egeszsegugyi-finanszirozas",
-   "published": "2026-10-04T19:50:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:50:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Hadházy Ákos: Egy tiszás képviselő is hasznot húzott a paksi földvásárlásokból",
+   "url": "https://nepszava.hu/3334180_hadhazy-akos-paks-foldmutyi-sarosi-jozsef",
+   "published": "2026-10-05T07:16:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:16:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "“How good that I have nothing wrong with me” – So far 840 million forints has been collected in the most exciting and largest Hungarian public protest for Micskó Benjamín"
+    "en": "Hadházy Ákos: An officer also benefited from the land purchases of Paksi"
    }
   },
   "magyarnemzet": {
-   "title": "Durván kiakadt Magyar Péter a sajtóra a Facebookon, hazugsággal vádolja a norvég közmédiát is",
-   "url": "https://magyarnemzet.hu/belfold/2026/10/durvan-kiakadt-magyar-peter-a-facebookon-hazugsag-norveg-kozmedia",
-   "published": "2026-10-04T18:10:29Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:10:29Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Bóka János: Ne büntesse a Tisza-kormány azokat, akik végigdolgozták az életüket!",
+   "url": "https://magyarnemzet.hu/belfold/2026/10/boka-janos-tisza-kormany-nyugdij",
+   "published": "2026-10-05T07:17:28Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:17:28Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Hungarian Peter Hungary accuses Norwegian media of lying on Facebook"
+    "en": "Jan Boka: Don’t punish the Tisa government for those who worked their lives!"
    }
   },
   "telex": {
@@ -1110,207 +1107,210 @@
    }
   },
   "hvg": {
-   "title": "Fördős Zé a kutyájával siklóernyőzött, és még le is videózta",
-   "url": "https://hvg.hu/elet/20261004_fordos-ze-kutya-sikloernyo-video",
-   "published": "2026-10-04T19:49:36Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:49:36Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Elég nagyot bukott a nyitóhétvégén Tom Cruise új filmje",
+   "url": "https://hvg.hu/kultura/20261005_digger-tom-cruise-nyitohetvege-bukas",
+   "published": "2026-10-05T07:27:57Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:27:57Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "A man with his dog shouted and even filmed it."
+    "en": "Tom Cruise's new movie was released in the opening weekend."
    }
   },
   "delo": {
-   "title": "Portugalci brez Ronalda do nove zmage, še ena ničla Srbov",
-   "url": "https://www.delo.si/sport/nogomet/portugalci-brez-ronalda-do-nove-zmage-nova-nicla-srbov",
-   "published": "2026-10-04T21:31:00Z",
-   "first_seen": "2026-10-04T21:35:10Z",
-   "feed_updated": "2026-10-04T21:31:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Čakanje na boljše čase vas lahko drago stane",
+   "url": "https://www.delo.si/gospodarstvo/novice/cakanje-na-boljse-case-vas-lahko-drago-stane",
+   "published": "2026-10-05T07:29:06Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:29:06Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Portuguese without Ronaldo to another victory, another zero of Serbs"
+    "en": "Waiting for better times can cost you a lot."
    }
   },
   "vecer": {
-   "title": "Branikovci že bili na pol poti do zmage, nato pa si s čvrsto obrambo priborili točko",
-   "url": "https://vecer.com/sport/rokomet-maribor-branik-sovic-remi-10429292",
-   "published": "2026-10-04T23:45:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T23:45:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Neznanci z eksplozivnim sredstvom poškodovali bankomat, a ostali brez denarja",
+   "url": "https://vecer.com/kronika/horjul-bankomat-razstreljen-neznanci-denar-10429303",
+   "published": null,
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:25:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "They were already halfway to victory, and then with a solid defense they earned a point."
+    "en": "Unknown man with explosives damaged a bankomat, but the rest were without money"
    }
   },
   "jutarnjilist": {
-   "title": "Srpski izbornik u neviđenom izdanju, bacio jaknu pa divljao i psovao: ‘Ovakvog ga ne znamo‘",
-   "url": "https://www.jutarnji.hr/sportske/nogomet/paunovic-ljut-poraz-u-eindhovenu-srbija-na-rubu-ispadanja-liga-nacija-15752669",
-   "published": "2026-10-04T22:06:48Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T22:06:48Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Nikolu (31) pretukli u Medulinu, umro je nakon višemjesečne borbe za život",
+   "url": "https://www.jutarnji.hr/vijesti/crna-kronika/nikolu-31-pretukli-u-medulinu-umro-je-nakon-visemjesecne-borbe-za-zivot-15752736",
+   "published": "2026-10-05T07:33:43Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:33:43Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "A Serbian voter in an unseen edition, threw a jacket, then wilded and scolded: ‘We don’t know him like this.’"
+    "en": "Nikolai (31) beaten in Medulin, died after a multi-month struggle for life"
    }
   },
   "vecernjilist": {
-   "title": "BiH ima novo Predsjedništvo: Cvijanović za Srbe, Bećirović za Bošnjake, Filipović za Hrvate",
-   "url": "https://www.vecernji.hr/vijesti/zatvorena-vecina-glasackih-mjesta-u-bih-cekaju-se-rezultati-2001232",
-   "published": "2026-10-04T21:46:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T21:46:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "WHO objavio novu kartu širenja kuge: Označena i Rusija, gdje je nakon nesreće umrla laboratorijska radnica",
+   "url": "https://www.vecernji.hr/vijesti/who-objavio-novu-kartu-sirenja-kuge-oznacena-i-rusija-gdje-je-nakon-nesrece-umrla-laboratorijska-radnica-2001362",
+   "published": "2026-10-05T07:36:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:36:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "BiH has a new Presidency: Cvijanović for Serbs, Bećirović for Bosniaks, Filipović for Croats"
+    "en": "WHO has released a new map of the spread of the plague: marked also Russia, where after the accident died a laboratory worker"
    }
   },
   "slobodnadalmacija": {
-   "title": "Strašna tragedija u susjedstvu, svi su u potpunom šoku: Mladi sudac (22) srušio se usred utakmice i preminuo u bolnici!",
-   "url": "https://slobodnadalmacija.hr/sport/ostalo/velika-tragedija-u-susjedstvu-svi-su-u-potpunom-soku-mladi-sudac-22-srusio-se-usred-utakmice-i-preminuo-u-bolnici-1582568",
-   "published": "2026-10-04T21:30:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T21:30:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Poljaci stigli u Zenicu pa ostali šokirani stadionom: ‘Ovo je pašnjak za ispašu krava‘",
+   "url": "https://slobodnadalmacija.hr/sport/strani-nogomet/poljaci-stigli-u-zenicu-pa-ostali-sokirani-stadionom-ovo-je-pasnjak-za-ispasu-krava-1582600",
+   "published": "2026-10-05T07:31:27Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:31:27Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "A terrible tragedy in the neighborhood, everyone is in complete shock: a young judge (22) crashed in the middle of the match and died in the hospital!"
+    "en": "The Poles arrived in Zenica and were shocked by the stadium: ‘This is a pasture for the pasture of cows’"
    }
   },
   "oslobodjenje": {
-   "title": "Golman koji se povezivao sa Željezničarom i Borcem izabrao novi klub",
-   "url": "https://www.oslobodjenje.ba/sport/fudbal/ino-fudbal/golman-koji-se-povezivao-sa-zeljeznicarom-i-borcem-izabrao-novi-klub/",
-   "published": "2026-10-04T21:34:03Z",
-   "first_seen": "2026-10-04T21:35:10Z",
-   "feed_updated": "2026-10-04T21:34:03Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Sánchez raspisao prijevremene izbore nakon poraza u parlamentu i protesta",
+   "url": "https://www.oslobodjenje.ba/vijesti/svijet/sanchez-raspisao-prijevremene-izbore-nakon-poraza-u-parlamentu-i-protesta/",
+   "published": "2026-10-05T07:37:12Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:37:12Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "A goalkeeper who connected with Railroad and Fighter chose a new club"
+    "en": "Sánchez launches early elections after defeat in parliament and protest"
    }
   },
   "dnevniavaz": {
-   "title": "Minić: RS će prva formirati vlast, bit ću predsjednik svima građanima RS",
-   "url": "https://avaz.ba/vijesti/bih/1077605/minic-rs-ce-prva-formirati-vlast-bit-cu-predsjednik-svima-gradjanima-rs",
-   "published": "2026-10-04T23:36:18Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:36:18Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "FBI uhapsio Kineskinju: Nadzirala porodicu sina tajvanskog predsjednika",
+   "url": "https://avaz.ba/vijesti/globus/1077638/fbi-uhapsio-kineskinju-nadzirala-porodicu-sina-tajvanskog-predsjednika",
+   "published": null,
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:49:01Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Minić: RS will first form government, I will be president of all RS citizens"
+    "en": "FBI arrested Chinese woman: Supervised family of son of Taiwan president"
    }
   },
   "politika": {
-   "title": "Сунчано и топло, са температурама до 28 степени",
-   "url": "https://www.politika.rs/scc/clanak/790821/suncano-i-toplo-sa-temperaturama-do-28-stepeni",
-   "published": "2026-10-04T23:52:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:52:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Осумњиченом за убиство мушкарца у Гајдобри одређен притвор",
+   "url": "https://www.politika.rs/scc/clanak/790851/osumnjicenom-za-ubistvo-muskarca-u-gajdobri-odreden-pritvor",
+   "published": "2026-10-05T07:27:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:27:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Sunny and warm, with temperatures up to 28 degrees"
+    "en": "Suspect for murder of a man in Gajdobra determined detention"
    }
   },
   "danas": {
-   "title": "Za koga su glasali Bosanci i Hercegovci na Opštim izborima",
-   "url": "https://www.danas.rs/bbc-news-serbian/za-koga-su-glasali-bosanci-i-hercegovci-na-opstim-izborima/",
-   "published": "2026-10-04T21:37:06Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T21:37:06Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "„Gren slem“: Ovako je Orban čestitao pobedu Dodiku",
+   "url": "https://www.danas.rs/svet/region/gren-slem-ovako-je-orban-cestitao-pobedu-dodiku/",
+   "published": "2026-10-05T07:34:48Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:34:48Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "For whom the Bosnians and Herzegovina voted in the General Elections"
+    "en": "“Gren Slam”: This is how Orban congratulated Dodik on his victory"
    }
   },
   "blic": {
-   "title": "IRAN POSLAO OŠTRU PORUKU! Ako propadnu mirovni pregovori, Teheran je spreman NA SVE SCENARIJE",
-   "url": "https://www.blic.rs/vesti/svet/iran-dobio-odgovor-sad-na-sedmodnevni-plan-teheran-razmatra-predloge-i-postavlja/1hy63xr",
-   "published": "2026-10-04T22:59:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T22:59:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "ŠPANIJA IDE NA VANREDNE IZBORE! Sančez najavio prevremeno glasanje nakon TALASA PROTESTA",
+   "url": "https://www.blic.rs/vesti/svet/spanija-ide-na-vanredne-izbore/z6wg6dz",
+   "published": "2026-10-05T07:36:07Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:36:07Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "If peace talks fail, Tehran is ready for all scenarios"
+    "en": "Sanchez announces early vote after wave of protests"
    }
   },
   "vijesti": {
-   "title": "Tužan dan za crnogorsku košarku - preminuo mladi sudija",
-   "url": "https://www.vijesti.me/sport/kosarka/829845/tuzan-dan-za-crnogorsku-kosarku-preminuo-mladi-sudija",
-   "published": "2026-10-04T21:26:00Z",
-   "first_seen": "2026-10-04T21:35:10Z",
-   "feed_updated": "2026-10-04T21:26:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "SAD: Dvije osobe ubijene, desetine povrijeđene u pucnjavi na...",
+   "url": "https://www.vijesti.me/svijet/globus/829859/sad-dvije-osobe-ubijene-desetine-povrijedjene-u-pucnjavi-na-proslavi",
+   "published": "2026-10-05T07:37:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:37:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "A sad day for black basketball: a young judge has died"
+    "en": "Two people killed, dozens injured in shooting at..."
    }
   },
   "kohaditore": {
-   "title": "Kim Kardashian shqetësohet për ndikimin e famës te fëmijët e saj",
-   "url": "https://www.koha.net/showbiz/kim-kardashian-shqetesohet-per-ndikimin-e-fames-te-femijet-e-saj",
-   "published": "2026-10-04T21:50:03Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T21:50:03Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Kalon më shumë se gjysmë ore prej kur do të duhej të niste seanca",
+   "url": "https://www.koha.net/arberi/kalon-me-shume-se-gjysme-ore-prej-kur-do-te-duhej-te-niste-seanca",
+   "published": "2026-10-05T07:32:02Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:33:41Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Kim Kardashian worries about the impact of fame on her children"
+    "en": "More than half an hour has passed since the session had to start."
    }
   },
   "novamakedonija": {
-   "title": "Денеска се регистрирани вкупно 46 пожари на отворено",
-   "url": "https://novamakedonija.com.mk/makedonija/hronika/deneska-se-registrirani-vkupno-46-pozhari-na-otvoreno/",
-   "published": "2026-10-04T18:38:43Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T18:38:43Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "Студени утра, релативно топли денови",
+   "url": "https://novamakedonija.com.mk/makedonija/studeni-utra-relativno-topli-denovi/",
+   "published": "2026-10-05T07:28:49Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:28:49Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
+   "translations": {
+    "en": "Cold mornings, relatively warm days"
+   }
   },
   "kathimerini": {
-   "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 5 Οκτωβρίου",
-   "url": "https://www.kathimerini.gr/eortologio/564479146/eortologio-poioi-giortazoyn-simera-5-oktovrioy/",
-   "published": "2026-10-04T21:00:00Z",
-   "first_seen": "2026-10-04T21:35:10Z",
-   "feed_updated": "2026-10-04T21:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Ε.Ε.: Στα χαρακώματα «φειδωλοί» και «φίλοι της Συνοχής» για τον νέο προϋπολογισμό",
+   "url": "https://www.kathimerini.gr/world/564500782/e-e-sta-charakomata-feidoloi-kai-filoi-tis-synochis-gia-ton-neo-proypologismo/",
+   "published": "2026-10-05T07:25:56Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:25:56Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Celebration Day: Who Celebrates October 5"
+    "en": "EU: “Friends of Cohesion” and “Friends of Cohesion” on the new budget"
    }
   },
   "tanea": {
-   "title": "Πύργος: Έξι συλλήψεις για παράνομη μεταφορά μεταναστών",
-   "url": "https://www.tanea.gr/2026/10/05/greece/pyrgos-eksi-syllipseis-gia-paranomi-metafora-metanaston/",
-   "published": "2026-10-04T22:00:48Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T22:00:48Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "ΗΠΑ: Σε κρίσιμη κατάσταση νοσηλεύεται η Κρίστα Πάικ μετά την αποτυχημένη απόπειρα εκτέλεσή της στο Τενεσί",
+   "url": "https://www.tanea.gr/2026/10/05/world/ipa-se-krisimi-katastasi-nosileyetai-i-krista-paik-meta-tin-apotyximeni-apopeira-ektelesi-tis-sto-tenesi/",
+   "published": "2026-10-05T07:37:24Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:37:24Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Six arrested for illegal trafficking of migrants"
+    "en": "Crista Pike hospitalized after failed execution attempt in Tennessee"
    }
   },
   "tovima": {
-   "title": "Εκλογές Βραζιλία: Προβάδισμα του Φλάβιο Μπολσονάρου",
-   "url": "https://www.tovima.gr/2026/10/05/world/ekloges-vrazilia-provadisma-tou-flavio-mpolsonarou/",
-   "published": "2026-10-04T21:42:00Z",
-   "first_seen": "2026-10-04T22:31:16Z",
-   "feed_updated": "2026-10-04T21:42:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Υπόθεση Έπστιν: Ο πρώην πρίγκιπας Άντριου προσφεύγει κατά της αστυνομίας για τη σύλληψή του",
+   "url": "https://www.tovima.gr/2026/10/05/world/ypothesi-epstin-o-proin-prigkipas-antriou-prosfeygei-kata-tis-astynomias-gia-ti-syllipsi-tou/",
+   "published": "2026-10-05T07:26:15Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:26:15Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Brazil elections: Flavio Bolsonaro"
+    "en": "Epstein Case: Former Prince Andrew appeals to police for his arrest"
    }
   },
   "phileleftheros": {
-   "title": "Νέα δεδομένα για τον θάνατο του Γιώργου Μαζωνάκη – Τι έδειξαν οι πρώτες τοξικολογικές εξετάσεις",
-   "url": "https://www.philenews.com/ellada/article/1778004/https-www-philenews-com-ellada-article-1778004-nea-dedomena-gia-ton-thanato-tou-giorgou-mazonaki-ti-edixan-i-protes-toxikologikes-exetasis/",
-   "published": "2026-10-04T19:33:09Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T19:33:09Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Νέες απίστευτες καταγγελίες για την πολυκατοικία Φιλάντα: Έκλεισαν χώρο και τον έκαναν… νηπιαγωγείο – «Σπείρα αλλοδαπών ενοικιάζει παράνομα 30 διαμερίσματα» (βίντεο)",
+   "url": "https://www.philenews.com/kipros/koinonia/article/1778089/nees-apisteftes-katangelies-gia-tin-polikatikia-filanta-eklisan-choro-ke-ton-ekanan-nipiagogio-spira-allodapon-enikiazi-paranoma-30-diamerismata-vinteo/",
+   "published": "2026-10-05T07:28:37Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:28:37Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "New data on the death of George Mazonaki – What the first toxicological tests showed"
+    "en": "New incredible complaints about the Philanda apartment: They closed space and made it... kindergarten – “Spiral of foreigners illegally rents 30 apartments” (video)"
    }
   },
   "cyprusmail": {
-   "title": "Djokovic rallies past Zverev in thriller to reach China Open semi-finals",
-   "url": "https://cyprus-mail.com/2026/10/04/djokovic-rallies-past-zverev-in-thriller-to-reach-china-open-semi-finals",
-   "published": "2026-10-04T15:39:06Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T15:39:06Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "Australia probes flydubai co-pilot’s links to the country, police say",
+   "url": "https://cyprus-mail.com/2026/10/05/australia-probes-flydubai-co-pilots-links-to-the-country-police-say",
+   "published": "2026-10-05T07:27:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:27:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "dnevnik": {
    "title": "Додик обяви пълна победа на партията си на изборите в Босна",
@@ -1324,88 +1324,88 @@
    }
   },
   "24chasa": {
-   "title": "Сменяйте кухненската гъба на всеки 24 часа - става инкубатор за бактерии",
-   "url": "https://www.24chasa.bg/zdrave/article/23665210",
-   "published": "2026-10-05T01:00:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T01:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Костите на Цар Самуил, фейсбук и манталитетът на българина",
+   "url": "https://www.24chasa.bg/mneniya/article/23676230",
+   "published": "2026-10-05T07:37:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:37:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Change the kitchen sponge every 24 hours - it becomes a bacterial incubator"
+    "en": "The bones of Tsar Samuel, Facebook and the Bulgarian mentality"
    }
   },
   "adevarul": {
-   "title": "O cameră în Aripa de Vest, doar pentru Xi și soția sa. Cererile neobișnuite ale Beijingului la summitul cu Trump",
-   "url": "https://adevarul.ro/stiri-externe/china/o-camera-in-aripa-de-vest-doar-pentru-xi-si-sotia-2561702.html",
-   "published": "2026-10-05T00:53:25Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:53:25Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Lotul de 23 de jucători pentru meciul cu Suedia a fost stabilit. Probleme pentru Gheorghe Hagi",
+   "url": "https://adevarul.ro/sport/lotul-de-23-de-jucatori-pentru-meciul-cu-suedia-a-2561814.html",
+   "published": "2026-10-05T07:33:56Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:33:56Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "A Room in the West Wing, Just for Xi and his Wife. Beijing's Unusual Applications at Trump Summit"
+    "en": "The batch of 23 players for the match against Sweden has been settled. Problems for Gheorghe Hagi"
    }
   },
   "libertatea": {
-   "title": "Ioana și Ilie Năstase, scandal în fața blocului din Mamaia: „Ăla-i amantul tău! Te-am văzut, am auzit tot!”",
-   "url": "https://www.libertatea.ro/entertainment/ioana-si-ilie-nastase-scandal-in-fata-blocului-din-mamaia-4990171",
-   "published": "2026-10-04T23:01:17Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:01:17Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Ce salarii se câștigă în mecanică în 2026. Domeniul este deficitar în România, mulți specialiști pleacă în străinătate",
+   "url": "https://www.libertatea.ro/stiri/ce-salarii-se-castiga-in-mecanica-in-romania-in-2026-dfngvhf",
+   "published": "2026-10-05T07:00:03Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:00:03Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Ioana and Ilie Năstase, scandal in front of the Mamaia block: “This is your lover! I have seen you, I have heard everything!”"
+    "en": "What salaries are earned in mechanics in 2026.The field is deficient in Romania, many specialists go abroad"
    }
   },
   "gandul": {
-   "title": "Rezultatele alegerilor prezidențiale din Brazilia. Flavio Bolsonaro, în avantaj față de Lula da Silva înaintea confruntării finale din 25 octombrie",
-   "url": "https://www.gandul.ro/international/alegeri-brazilia-flavio-bolsonaro-lula-da-silva-rezultate-21025375",
-   "published": "2026-10-04T21:40:45Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T21:40:45Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Merz anunță un nou ajutor militar de 1 miliard de euro pentru Ucraina. Companiile nemțești au semnat acorduri de 6,5 miliarde. Ce arme ar urma să primească Kievul",
+   "url": "https://www.gandul.ro/international/merz-anunta-un-nou-ajutor-militar-de-1-miliard-de-euro-pentru-ucraina-companiile-nemtesti-au-semnat-acorduri-de-65-miliarde-ce-arme-ar-urma-sa-primeasca-kievul-21025483",
+   "published": "2026-10-05T07:25:42Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:25:42Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Flavio Bolsonaro, in advantage over Lula da Silva before the final confrontation on 25 October"
+    "en": "Merz Announces New Military Aid of €1 Billion to Ukraine. German Companies Signed Agreements of €6.5 Billion. What Weapons Kiev Would Receive"
    }
   },
   "ziaruldegarda": {
-   "title": "LIVE TEXT/ Germania anunță ajutor de 1,3 miliarde de euro pentru Ucraina, inclusiv drone interceptoare. Război în Ucraina, ziua 1684",
-   "url": "https://www.zdg.md/stiri/live-text-germania-anunta-ajutor-de-13-miliarde-de-euro-pentru-ucraina-inclusiv-drone-interceptoare-razboi-in-ucraina-ziua-1684/",
-   "published": "2026-10-04T15:00:36Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T15:00:36Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "LIVE TEXT/ Dronele rusești au atacat regiunea Sumî, lovind o locuință privată. Război în Ucraina, ziua 1685",
+   "url": "https://www.zdg.md/stiri/stiri-externe/live-text-dronele-rusesti-au-atacat-regiunea-sumi-lovind-o-locuinta-privata-razboi-in-ucraina-ziua-1685/",
+   "published": "2026-10-05T07:30:10Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:30:10Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Germany Announces 1.3 Billion Euro Aid to Ukraine, Including Interceptor Drones."
+    "en": "Russian drones attacked the Sumy region, hitting a private home. War in Ukraine, day 1685"
    }
   },
   "ukrainskapravda": {
-   "title": "У Бразилії відбудеться другий тур президентських виборів",
-   "url": "https://www.pravda.com.ua/news/2026/10/05/8056472/",
-   "published": "2026-10-05T00:54:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:54:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "В Румунії знову піднімали в небо винищувачі через повітряну ціль біля кордону",
+   "url": "https://www.pravda.com.ua/news/2026/10/05/8056499/",
+   "published": "2026-10-05T07:07:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:07:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Brazil to hold second round of presidential elections"
+    "en": "In Romania again lifted into the sky fighter aircraft because of an air target near the border"
    }
   },
   "thekyivindependent": {
-   "title": "Dozens detained at authorized Communist Party rally after chants of 'Down with the Tsar'",
-   "url": "https://kyivindependent.com/dozens-detained-at-authorized-communist-party-rally-after-chants-of-down-with-the-tsar/",
-   "published": "2026-10-04T23:30:43Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T23:30:43Z",
-   "fetched_at": "2026-10-05T01:13:20Z"
+   "title": "General Staff: Russia has lost 1,542,720 troops in Ukraine since Feb. 24, 2022",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-542-720-troops-in-ukraine-since-feb-24-2022/",
+   "published": "2026-10-05T06:38:04Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:38:04Z",
+   "fetched_at": "2026-10-05T07:38:19Z"
   },
   "dzerkalotyzhnia": {
-   "title": "Модель OpenAI GPT-6 Astra змахлювала для перемоги у всесвітньо відомій грі StarCraft",
-   "url": "https://zn.ua/ukr/TECHNOLOGIES/model-openai-gpt-6-astra-sprobuvala-vikoristati-chuzhoho-bota-dlja-peremohi-u-starcraft.html",
-   "published": "2026-10-05T00:45:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T00:45:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Збірна Португалії без Роналду стала першим чвертьфіналістом Ліги націй",
+   "url": "https://zn.ua/ukr/SPORT/zbirna-portuhaliji-bez-ronaldu-stala-pershim-chvertfinalistom-lihi-natsij.html",
+   "published": "2026-10-05T07:37:59Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:37:59Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "The OpenAI GPT-6 Astra model stumbled to win the world-famous StarCraft game"
+    "en": "Portugal's team without Ronaldo became the first quarter-finalist in the League of Nations"
    }
   },
   "vysokyizamok": {
@@ -1414,53 +1414,53 @@
    "published": "2026-07-01T07:34:33Z",
    "first_seen": "2026-10-04T20:26:39Z",
    "feed_updated": "2026-07-01T07:34:33Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
     "en": "France rejects air conditioning despite heat"
    }
   },
   "hurriyet": {
-   "title": "Adana ve Osmaniye'deki depremlerin ardından uzman isimden çarpıcı uyarı: Arka arkaya gelmesi bizi tedirgin etti",
-   "url": "https://www.hurriyet.com.tr/gundem/adana-ve-osmaniyedeki-depremlerin-ardindan-uzman-isimden-carpici-uyari-43329259",
-   "published": "2026-10-04T12:07:00Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T21:15:03Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "İbrahim Hacıosmanoğlu, sessizliğini Hürriyet'e bozdu: 'Ahkâm kesenlere vaktimiz yok!'",
+   "url": "https://www.hurriyet.com.tr/sporarena/ibrahim-haciosmanoglu-sessizligini-hurriyete-bozdu-ahkam-kesenlere-vaktimiz-yok-43329697",
+   "published": "2026-10-05T04:00:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:05:18Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "After the earthquakes in Adana and Osmaniye, a striking warning from the expert name: The backward coming annoyed us"
+    "en": "Abraham, the son of Hatsumi, broke his silence to Hurriyet, saying, \"We have no time for those who have not done so.\""
    }
   },
   "sabah": {
-   "title": "Milli Teknoloji Hamlesi yer altının potansiyeliyle buluştu: Türk Altın'a TEKNOFEST'te yoğun ilgi!",
-   "url": "https://www.sabah.com.tr/yasam/milli-teknoloji-hamlesi-yer-altinin-potansiyeliyle-bulustu-turk-altina-teknofestte-yogun-ilgi-7673633",
-   "published": "2026-10-04T15:55:08Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T17:12:34Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "AK Parti’ye geçeceği konuşuluyordu! Cemil Tugay’dan dikkat çeken hamle",
+   "url": "https://www.sabah.com.tr/gundem/2026/10/05/ak-partiye-gececegi-konusuluyordu-cemil-tugaydan-dikkat-ceken-hamle",
+   "published": "2026-10-05T06:18:06Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:14:10Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "National Technology Hamlesi met with the potential of earth gold: intense interest in Turkish gold at TEKNOFEST!"
+    "en": "It was said to go to the party! the move that attracted attention from Cemil Tugay"
    }
   },
   "sozcu": {
-   "title": "Geç yaşlanmanın sırrı akşamdan çalmak",
-   "url": "https://www.sozcu.com.tr/gec-yaslanmanin-sirri-aksamdan-calmak-p366109",
-   "published": "2026-10-05T01:00:08Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T01:00:08Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Dolar/TL yeni bir rekor daha kırdı",
+   "url": "https://www.sozcu.com.tr/dolar-tl-yeni-bir-rekor-daha-kirdi-p366240",
+   "published": "2026-10-05T07:36:25Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:36:25Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "The secret of late aging is to steal from the evening"
+    "en": "The USD/TL broke another record."
    }
   },
   "cumhuriyet": {
-   "title": "ABD-İsrail’in yapamadığını Türkiye neden yapsın?",
-   "url": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-ali-guller/abd-israil-in-yapamadigini-turkiye-neden-yapsin-2543699",
-   "published": "2026-10-05T01:00:00Z",
-   "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-05T01:00:00Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Fon krizinin ekonomiye maliyeti ne olacak? Ekonomistler tek tek açıkladı...",
+   "url": "https://www.cumhuriyet.com.tr/ekonomi/fon-krizinin-ekonomiye-maliyeti-ne-olacak-ekonomistler-tek-tek-acikladi-2543771",
+   "published": "2026-10-05T07:34:00Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:34:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Why should the United States do what Israel can’t do?"
+    "en": "What will the financial crisis cost the economy?"
    }
   },
   "kommersant": {
@@ -1468,32 +1468,32 @@
    "url": "https://www.kommersant.ru/doc/9005995",
    "published": "2026-10-04T22:30:36Z",
    "first_seen": "2026-10-05T01:13:20Z",
-   "feed_updated": "2026-10-04T22:30:36Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "feed_updated": "2026-10-05T07:00:00Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
     "en": "This is rational grain // Grain loads were given priority on the railway"
    }
   },
   "meduza": {
-   "title": "В Уфе после жалобы провластных активистов закрасили мурал с Земфирой на фасаде дома, где она жила в детстве",
-   "url": "https://meduza.io/news/2026/10/04/v-ufe-posle-zhaloby-provlastnyh-aktivistov-zakrasili-mural-s-zemfiroy-na-fasade-doma-gde-ona-zhila-v-detstve",
-   "published": "2026-10-04T17:31:05Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T17:31:05Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Эстония передвигает войска ближе к границе с Россией в рамках программы активной обороны",
+   "url": "https://meduza.io/news/2026/10/05/estoniya-peredvigaet-voyska-blizhe-k-granitse-s-rossiey-v-ramkah-programmy-aktivnoy-oborony",
+   "published": "2026-10-05T06:56:49Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T06:56:49Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "In Ufa after the complaint of pro-government activists painted a mural with Zemfira on the facade of the house where she lived as a child."
+    "en": "Estonia moves troops closer to border with Russia as part of active defense program"
    }
   },
   "novayagazetaeurope": {
-   "title": "Бывшего бойца сепаратистского батальона Моторолы задержали по делу об убийстве двух женщин в Москве",
-   "url": "https://novayagazeta.eu/articles/2026/10/04/byvshego-boitsa-separatistskogo-batalona-motoroly-zaderzhali-po-delu-ob-ubiistve-dvukh-zhenshchin-v-moskve-news",
-   "published": "2026-10-04T15:41:11Z",
-   "first_seen": "2026-10-04T20:26:39Z",
-   "feed_updated": "2026-10-04T15:41:11Z",
-   "fetched_at": "2026-10-05T01:13:20Z",
+   "title": "Минцифры снова обсуждает плату за зарубежный интернет-трафик в сетях 5G",
+   "url": "https://novayagazeta.eu/articles/2026/10/05/mintsifry-snova-obsuzhdaet-platu-za-zarubezhnyi-internet-trafik-v-setiakh-5g-news",
+   "published": "2026-10-05T07:27:26Z",
+   "first_seen": "2026-10-05T07:38:19Z",
+   "feed_updated": "2026-10-05T07:27:26Z",
+   "fetched_at": "2026-10-05T07:38:19Z",
    "translations": {
-    "en": "Former fighter of the separatist battalion Motorola detained in the case of the murder of two women in Moscow"
+    "en": "Mincifry again discusses the fee for foreign internet traffic in 5G networks"
    }
   }
  }
