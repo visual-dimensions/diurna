@@ -129,7 +129,7 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler au
 - `feed_kind`: `top` (Aufmacher/Titelseite) | `latest` (neuester Beitrag) | `none` (kein Feed gefunden)
 - `city_country`: Land des Redaktionsorts (Seed-Spalte, leer = `country`); nötig für Exilmedien
 - `tz`: Zeitzone aus GeoNames, für die Ortszeit im Panel
-- `note`: z. B. `exile` für Exilmedien (Redaktion außerhalb des Herkunftslands – Marker am tatsächlichen Redaktionsort, im Panel kennzeichnen)
+- `note`: z. B. `exile` für Exilmedien (Redaktion außerhalb des Herkunftslands – Marker am tatsächlichen Redaktionsort, im Panel kennzeichnen); geplant: `state` für staatseigene/-kontrollierte Medien (siehe Abschnitt 10)
 
 ### `headlines.json` (Objekt, Key = Source-ID)
 ```json
@@ -307,7 +307,52 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
 
 ---
 
-## 10. Nicht tun
+## 10. Weltweiter Ausbau (Plan, nach dem Europa-Launch)
+
+Ziel: von ~150 Medien in Europa zu einigen Tausend weltweit – ohne die Prinzipien aus Abschnitt 2 aufzugeben. Reihenfolge: erst Fundament, dann Import-Pipeline, dann regionale Wellen.
+
+### Schritt A – Fundament (ohne neue Medien; sinnvoll schon für Europa)
+- **Daten aufteilen:** kleiner Index für den Globus (`id`, Position, Frische-Stufe, Anzahl je Stadt) + Detaildateien **pro Land**, nachgeladen beim Antippen/in der Liste. Budget „Daten-JSON < 100 KB gzip“ gilt für den Index.
+- **Daten-Branch ohne Historie:** `headlines.json`/`status.json`/`http_cache.json` auf einen eigenen `data`-Branch, bei jedem Lauf überschrieben (force-push). Heute wächst `main` um ~1 GB/Jahr, weltweit um ein Vielfaches.
+- **Karte:** echtes Clustering beim Herauszoomen; auf Weltebene nur Tier 1, Tier 2/3 ab bestimmten Zoomstufen.
+- **Abruf-Takt nach Tier** (Datenfeld, kein Code pro Medium): Tier 1 alle 30 Min., Tier 2 stündlich, Tier 3 alle 2–3 h. Höhere Parallelität mit Limit pro Domain.
+- **Ambient-Modus:** echte Rotation statt Pendeln über Europa.
+
+### Schritt B – Import-Pipeline
+- `scripts/import_wikidata.py`: Kandidaten pro Land aus **Wikidata** (CC0) – Name, Website, Sprache, Erscheinungsort mit Koordinaten, Eigentümer. Ergebnis: `data/seed/candidates/<land>.csv` zur Prüfung, nicht direkt in `sources.json`.
+- Tier-Vorschlag automatisch (z. B. Anzahl Wikipedia-Sprachversionen als Bekanntheits-Indiz), Entscheidung beim Prüfen.
+- Handgepflegte Seeds (`europe.csv` usw.) haben immer Vorrang.
+- Feed-Suche wie heute; eindeutige Fälle werden automatisch übernommen, manuell geprüft wird nur, was als `CHECK` markiert ist – sortiert nach Tier.
+
+### Kontingente pro Land
+- Größere Länder bekommen mehr Medien, kleine Länder trotzdem mehrere.
+- **Richtwert:** `max(3, min(300, round(10 × √Einwohner in Mio.)))` – z. B. Liechtenstein 3, Österreich ~30, Deutschland ~90, USA ~180, Indien 300 (Deckel). Der Richtwert ist eine Obergrenze für den Import, kein Soll; pro Land wird bewusst angepasst (z. B. Länder mit sehr vielfältiger Presselandschaft oder mehreren Sprachgruppen).
+- In sehr großen Ländern auf regionale Streuung achten (nicht nur Hauptstadt-Medien).
+
+### Kennzeichnung staatsnaher Medien
+- Wo die Information **leicht und belastbar** zu bekommen ist, wird ein Medium als staatsnah gekennzeichnet – betrifft in Diktaturen fast immer die großen Titel.
+- Datenfeld `note` (wie `exile`): `state` = im Besitz oder unter Kontrolle des Staates/der Regierung (dokumentiert, z. B. Wikidata-Eigentümer, Impressum, Gesetz). UI-Label: „State-owned“ bzw. „State-controlled“, mit Erklärung auf der Info-Seite.
+- Öffentlich-rechtliche Medien mit unabhängiger Aufsicht (ORF, BBC u. ä.) sind **nicht** `state`.
+- „Regierungsnah“ ohne Eigentum (redaktionelle Linie) ist eine Wertung – nur mit anerkannter, zitierbarer Quelle (z. B. Media Ownership Monitor). **Offene Entscheidung**, ob und mit welcher Quelle.
+- Quelle der Einstufung im Datensatz festhalten (`note_source`), damit sie nachprüfbar ist.
+- Gilt rückwirkend auch für Europa (z. B. Rossijskaja Gaseta, das offizielle Regierungsblatt Russlands).
+
+### Schritt C – Regionale Wellen
+Jede Welle mit derselben Abnahme wie Phase 1/2 (Report geprüft, eine Woche Laufbetrieb) plus Schrift- und Übersetzungstest:
+1. Nordamerika & Ozeanien (Englisch, viele Feeds)
+2. Lateinamerika (Spanisch/Portugiesisch)
+3. Naher Osten & Nordafrika (erster Test für Schrift von rechts nach links)
+4. Süd- & Ostasien (CJK- und indische Schriften – Schriftgröße als Ladezeit-Thema; Noto-Familien mit `unicode-range`, nur bei Bedarf geladen)
+5. Afrika südlich der Sahara (viele Sprachen, wenige Feeds, mehr Handarbeit)
+
+### Bekannte Risiken
+- **Übersetzung:** weltweit ~150–250 Mio. Zeichen/Monat. Mit dem offenen Modell machbar, aber Minuten pro Lauf; ggf. nur Tier 1–2 übersetzen. Sprachen außerhalb von M2M100 bleiben unübersetzt.
+- **Blockaden:** mehr Seiten sperren Rechenzentrums-IPs (GitHub). Mehr ausgegraute Medien akzeptieren – oder Abruf später als Cloudflare-Cron, der nur JSON-Dateien schreibt (bewusst entscheiden, Prinzip 1).
+- **Recht:** Titel + Link bleibt die Regel; Rechtslage für kurze Auszüge unterscheidet sich je Land – vor jeder Welle kurz prüfen.
+
+---
+
+## 11. Nicht tun
 
 - Keine medienspezifischen Scraper oder Sonderlogik im Code.
 - Keine Teaser, Bilder, Volltexte aus Feeds speichern oder anzeigen.
