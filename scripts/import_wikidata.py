@@ -369,11 +369,13 @@ def select(cc: str, rows: list[dict], limit: int) -> None:
                 r[field] = d[field]
         if d.get("include") in ("yes", "no"):
             r["include"] = d["include"]
+        elif d.get("include") == "drop":  # left out, and its slot is not refilled
+            r["include"], r["dropped"] = "no", True
         r["remark"] = "; ".join(x for x in (f"reviewed: {d.get('reason', '')}".strip(), r["remark"]) if x)
 
     # Pre-select the best-known outlets up to the quota (seeded and manual yes count towards it),
     # with at most per_city_cap() per city for regional spread.
-    taken = sum(r["include"] in ("seeded", "yes") for r in rows)
+    taken = sum(r["include"] in ("seeded", "yes") or r.pop("dropped", False) for r in rows)
     per_city = Counter(r["city"] for r in rows if r["include"] in ("seeded", "yes"))
     cap = per_city_cap(limit)
     for r in rows:

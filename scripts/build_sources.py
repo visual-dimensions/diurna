@@ -11,8 +11,10 @@ Optional `hint_lat`/`hint_lon` (from Wikidata, written by import_wikidata.py)
 resolve problems with evidence instead of guessing:
 - several cities with the same name: the one within HINT_RADIUS_KM of the
   documented coordinate, if it is at least twice as close as the next one;
-- name unknown to GeoNames (townships, territories such as Puerto Rico): the
-  documented coordinate itself, with the time zone of the nearest GeoNames place.
+- name unknown to GeoNames (townships, territories such as Puerto Rico), or
+  still ambiguous (twin cities such as Kansas City MO/KS, small towns sharing a
+  name with larger ones): the documented coordinate itself, with the time zone
+  of the nearest GeoNames place within HINT_RADIUS_KM.
 
 Feed fields (feed, feed_kind, skip_pattern) of existing sources are preserved,
 so re-running this script does not undo discover_feeds.py --apply.
@@ -137,16 +139,23 @@ def geocode(
                     d1 = distance_km(*hint, ranked[1]["lat"], ranked[1]["lon"])
                     if d0 <= HINT_RADIUS_KM and d1 >= 2 * d0:
                         return ranked[0], f"{dataset}, {tier} name, disambiguated by Wikidata coordinate"
+                    return at_hint(gazetteers, hint, city, f"ambiguous in {dataset}")
                 listed = "; ".join(f"{h['name']} ({h['feature']}, pop {h['population']}, {h['lat']},{h['lon']})" for h in hits)
                 return None, f"ambiguous in {dataset} ({tier} name): {listed}"
     if hint:
-        place, d = nearest(gazetteers, *hint)
-        if place and d <= HINT_RADIUS_KM:
-            return (
-                {"lat": round(hint[0], 4), "lon": round(hint[1], 4), "tz": place["tz"], "name": city},
-                f"not in GeoNames – Wikidata coordinate, time zone of {place['name']} ({d:.0f} km)",
-            )
+        return at_hint(gazetteers, hint, city, "not in GeoNames")
     return None, f"not found in {', '.join(gazetteers)}"
+
+
+def at_hint(gazetteers: dict[str, dict[str, list[dict]]], hint: tuple[float, float], city: str, why: str) -> tuple[dict | None, str]:
+    """The documented coordinate itself, with the time zone of the nearest GeoNames place."""
+    place, d = nearest(gazetteers, *hint)
+    if place and d <= HINT_RADIUS_KM:
+        return (
+            {"lat": round(hint[0], 4), "lon": round(hint[1], 4), "tz": place["tz"], "name": city},
+            f"{why} – Wikidata coordinate, time zone of {place['name']} ({d:.0f} km)",
+        )
+    return None, f"{why}, no GeoNames place within {HINT_RADIUS_KM} km of the Wikidata coordinate"
 
 
 def read_seed() -> list[dict]:

@@ -338,3 +338,85 @@ US,Q7757827,no,,,,,,,diaspora paper (Portuguese)
 US,Q7767878,no,,,,,,,religious paper
 US,Q7768281,no,,,,,,,feed carries agency sports wire instead of local news
 US,Q7019295,no,,,,,,,alternative weekly
+CA,Q7337008,no,,,,,,,feed abandoned (newest item older than 14 days) – replaced
+US,Q5035526,no,,,,,,,feed abandoned (newest item older than 14 days) – replaced
+US,Q5603700,no,,,,,,,feed abandoned (newest item older than 14 days) – replaced
+US,Q6385306,no,,,,,,,feed abandoned (newest item older than 14 days) – replaced
+US,Q28232782,no,,,,,,,feed abandoned (newest item older than 14 days) – replaced
+US,Q7764591,no,,,,,,,feed abandoned (newest item older than 14 days) – replaced
+US,Q5021600,no,,,,,,,feed abandoned (newest item older than 14 days) – replaced
+PG,Q25703241,no,,,,,,,feed abandoned (newest item older than 14 days) – replaced
+CA,Q3228300,no,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions) – replaced
+CA,Q5172009,no,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions) – replaced
+US,Q17071505,no,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions) – replaced
+US,Q5209365,no,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions) – replaced
+US,Q4816055,no,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions) – replaced
+US,Q5474733,no,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions) – replaced
+US,Q4703764,no,,,,,,,homepage now redirects to a section of The Dallas Morning News – no own feed
+US,Q5161578,no,,,,,,,news sitemap frozen since 2026-09-30 – replaced
+US,Q4889872,no,,,,,,,feed empty (beta site) – replaced
+US,Q5209350,no,,,,,,,sports paper (horse racing)
+US,Q812061,no,,,,,,,special-interest paper (LGBT)
+US,Q6764121,no,,,,,,,military paper
+US,Q6824732,no,,,,,,,alternative weekly
+US,Q7012109,no,,,,,,,alternative weekly
+US,Q7405881,no,,,,,,,alternative weekly
+US,Q6824706,no,,,,,,,alternative weekly
+US,Q6672664,no,,,,,,,trade/business paper
+US,Q7413602,no,,,,,,,trade/business paper
+US,Q7419556,no,,,,,,,alternative weekly
+US,Q7749170,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7749297,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7750327,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7753918,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q11976288,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7129382,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7180847,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7182639,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7197526,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7241597,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7241600,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7760219,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7762191,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7766280,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7768282,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q6666427,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q6682332,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q6818077,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q6893724,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7294142,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7302833,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7414217,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7414913,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7562241,no,,,,,,,regional outlet without a reachable feed – replaced
+US,Q7713857,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7728662,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7629215,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7598154,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7600510,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7620144,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7638323,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7680028,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7697665,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7698512,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7713173,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7713495,drop,,,,,,,community paper (Jewish)
+US,Q7714232,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7728658,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7851177,drop,,,,,,,alternative weekly
+US,Q7911926,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7921036,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7958861,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7974489,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7986770,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q8025883,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q8034364,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+CA,Q106807396,drop,,,,,,,online-only outlet without a place of publication
+US,Q8035879,drop,,,,,,,"diaspora paper (Chinese), no single place of publication"
+US,Q4780957,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q5153792,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q6146255,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7019405,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7707345,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7750763,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+US,Q7972060,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)

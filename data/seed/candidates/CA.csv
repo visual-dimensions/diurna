@@ -58,7 +58,7 @@ no,CA,Hour Community,Montreal,,http://hour.ca/,en,daily,3,,,Q3141327,2,newspaper
 no,CA,L'Express,,,https://l-express.ca/,fr,daily,3,,,Q3203397,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,CA,Le Gaboteur,Stephenville,US,http://www.gaboteur.ca/,fr,daily,3,exile,,Q3223017,2,newspaper,32.2207,-98.2023,newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
 no,CA,Le Québécois,,,https://www.lequebecois.org/,fr,daily,3,,,Q3226220,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-yes,CA,Le Voyageur,Grand Sudbury,,http://www.levoyageur.ca/,fr,daily,3,,,Q3228300,2,newspaper,46.4900,-81.0100,
+no,CA,Le Voyageur,Grand Sudbury,,http://www.levoyageur.ca/,fr,daily,3,,,Q3228300,2,newspaper,46.4900,-81.0100,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions) – replaced
 no,CA,Montreal Mirror,,,http://montrealmirror.com,en,daily,3,,,Q3322928,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 yes,CA,Burnaby Now,Burnaby,,https://www.burnabynow.com/,en,daily,3,,,Q4999595,2,newspaper,49.2500,-122.9492,
 no,CA,The Suburban,,,https://www.thesuburban.com/,en,daily,3,,,Q3522909,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
@@ -135,7 +135,7 @@ no,CA,Pique Newsmagazine,Vancouver,,http://www.piquenewsmagazine.com/,en,daily,3
 no,CA,Pulse Niagara,,,http://www.pulseniagara.com/,en,daily,3,,,Q7259664,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
 yes,CA,Red Deer Advocate,Red Deer,,http://www.reddeeradvocate.com,en,daily,3,,,Q7303988,1,daily newspaper; newspaper,52.2681,-113.8111,
 no,CA,Renfrew Mercury,,,http://www.yourottawaregion.com/,en,daily,3,,,Q7313170,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-yes,CA,Rive-Sud Express,Boucherville,,http://www.rivesudexpress.ca/,fr,daily,3,,,Q7337008,1,newspaper,45.6000,-73.4500,
+no,CA,Rive-Sud Express,Boucherville,,http://www.rivesudexpress.ca/,fr,daily,3,,,Q7337008,1,newspaper,45.6000,-73.4500,reviewed: feed abandoned (newest item older than 14 days) – replaced
 no,CA,Salam Toronto,,,http://www.salamtoronto.ca,en,daily,3,,,Q7403528,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
 no,CA,Similkameen News Leader,,,http://www.thenewsleader.net//,en,daily,3,,,Q7517826,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
 no,CA,Socialist Voice,,,http://www.communistpartyofireland.ie/sv/index.html,en,daily,3,,,Q7551796,1,website; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
@@ -230,7 +230,7 @@ no,CA,The Maple,,,https://www.readthemaple.com/,en,online,3,,,Q135841142,1,news 
 no,CA,TownandCountryToday.com,,,https://TownandCountryToday.com,en,online,3,,,Q139488805,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 no,CA,Briarpatch,Regina,,https://briarpatchmagazine.com/,en,magazine,3,,,Q4965804,1,magazine; news magazine,50.4547,-104.6067,not pre-selected: magazine/online below tier 1
 no,CA,Abaka,Montreal,,http://abakanews.org/,en,daily,3,,,Q4663298,0,newspaper,45.5033,-73.5868,reviewed: small community paper
-yes,CA,Cornwall Seaway News,Cornwall,,http://www.cornwallseawaynews.com,en,daily,3,,,Q5172009,0,newspaper,45.0275,-74.7400,
+no,CA,Cornwall Seaway News,Cornwall,,http://www.cornwallseawaynews.com,en,daily,3,,,Q5172009,0,newspaper,45.0275,-74.7400,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions) – replaced
 no,CA,Беседа,Торонто,,https://besedanews.com/,ru,weekly,3,,,Q108935889,0,weekly newspaper; community newspaper,43.6703,-79.3867,"reviewed: diaspora paper (Russian); types: daily, weekly"
 no,CA,Canadian Courier,Toronto,,http://canadian-courier.ca/,en,weekly,3,,,Q108936107,0,weekly newspaper; community newspaper,43.6703,-79.3867,"language from country default; types: daily, weekly"
 no,CA,Русский Экспресс,Торонто,,https://www.russianexpress.net/,ru,weekly,3,,,Q109302208,0,weekly newspaper; community newspaper,43.6703,-79.3867,"reviewed: regional outlet without a reachable feed – replaced; types: daily, weekly"
@@ -257,7 +257,7 @@ no,CA,Le Peuple Lotbinière,Lévis,,https://www.lepeuplelotbiniere.ca/,fr,weekly
 no,CA,L'Express de Drummondville,,,https://www.journalexpress.ca/,fr,daily,3,,,Q106807128,0,regional weekly,,,no place of publication/headquarters in Wikidata – fill in city
 no,CA,U of T News,Toronto,,https://www.utoronto.ca/news,en,daily,3,,,Q138452647,0,university newspaper,43.6703,-79.3867,
 no,CA,Glasilo kanadskih Slovencev,,,http://www.theslovenian.com/magazine/,sl,daily,3,,,Q81095649,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-yes,CA,Vingt55,Internet,,https://vingt55.ca,fr,daily,3,,,Q106807396,0,newspaper,,,
+no,CA,Vingt55,Internet,,https://vingt55.ca,fr,daily,3,,,Q106807396,0,newspaper,,,reviewed: online-only outlet without a place of publication
 no,CA,Le Maître papetier,,,https://lemaitrepapetier.ca/,fr,daily,3,,,Q106840901,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,CA,L'info du Nord,Mont-Tremblant,,https://infodunordvalleedelarouge.ca/,fr,daily,3,,,Q107235393,0,newspaper,46.1167,-74.6000,reviewed: regional outlet without a reachable feed – replaced
 no,CA,Windspeaker,,,https://windspeaker.com/,en,online,3,,,Q108279275,0,newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online; not pre-selected: magazine/online below tier 1"

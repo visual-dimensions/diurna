@@ -90,6 +90,9 @@ def parse_news_sitemap(content: bytes) -> Feed | None:
     return Feed("news_sitemap", clean_title(name.text if name is not None else ""), items)
 
 
+WIRE_CHILD = re.compile(r"[/_-](ap|afp|reuters|dpa|wire|wires)[/_.-]", re.I)
+
+
 def sitemap_index_child(content: bytes) -> str | None:
     """For a <sitemapindex>: the child to read – the most recently modified one,
     preferring children with "news" in their URL. None if this is not an index."""
@@ -109,6 +112,8 @@ def sitemap_index_child(content: bytes) -> str | None:
     if not children:
         return None
     news = [c for c in children if "news" in c[0].lower()] or children
+    # Prefer the outlet's own reporting over agency wire children (…/news/ap.xml, …/reuters.xml).
+    news = [c for c in news if not WIRE_CHILD.search(c[0])] or news
     with_dates = [c for c in news if _from_iso(c[1])]
     if with_dates:
         return max(with_dates, key=lambda c: _from_iso(c[1]))[0]

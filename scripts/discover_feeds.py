@@ -51,6 +51,9 @@ CONCURRENCY = 8
 MAX_CANDIDATES = 20
 MAX_OVERVIEW_PAGES = 3
 STALE_HOURS = 48
+# A feed whose newest dated item is older than this is abandoned and counts as no feed
+# (twice the rhythm of a weekly paper).
+ABANDONED_HOURS = 14 * 24
 # The brief's paths, plus the standard feed path of the Arc XP publishing system (used by many US papers).
 FALLBACK_PATHS = ("/rss", "/feed", "/rss.xml", "/feed.xml", "/index.rss", "/arc/outboundfeeds/rss/?outputType=xml")
 FEED_TYPE = re.compile(r"application/(rss|atom)\+xml", re.I)
@@ -163,6 +166,8 @@ async def check_feed(client: httpx.AsyncClient, cand: Candidate) -> None:
     cand.first_age_h = age_hours(feed.items[0].published)
     ages = [a for a in (age_hours(i.published) for i in feed.items) if a is not None]
     cand.newest_age_h = min(ages) if ages else None
+    if cand.newest_age_h is not None and cand.newest_age_h >= ABANDONED_HOURS:
+        cand.valid, cand.status = False, f"abandoned (newest item {cand.newest_age_h / 24:.0f} days old)"
 
 
 def site_of(url: str) -> str:
