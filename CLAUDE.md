@@ -326,8 +326,20 @@ Ziel: von ~150 Medien in Europa zu einigen Tausend weltweit – ohne die Prinzip
 - **Abruf-Takt nach Tier** (Datenfeld, kein Code pro Medium): Tier 1 alle 30 Min., Tier 2 stündlich, Tier 3 alle 2–3 h. Höhere Parallelität mit Limit pro Domain.
 - **Ambient-Modus:** echte Rotation statt Pendeln über Europa.
 
-### Schritt B – Import-Pipeline
+### Schritt B – Import-Pipeline – ✅ umgesetzt 2026-10-05
 - `scripts/import_wikidata.py`: Kandidaten pro Land aus **Wikidata** (CC0) – Name, Website, Sprache, Erscheinungsort mit Koordinaten, Eigentümer. Ergebnis: `data/seed/candidates/<land>.csv` zur Prüfung, nicht direkt in `sources.json`.
+- Ablauf pro Land:
+  1. `.venv/bin/python scripts/import_wikidata.py US` → `data/seed/candidates/US.csv`
+  2. Prüfen: Spalte `include` = `yes` / `no` (`seeded` = schon in einer Seed-Datei, gleiche Domain). Fehlende Städte, Tier, `type` korrigieren; Medien, die Wikidata nicht kennt, als neue Zeilen ergänzen.
+  3. `import_wikidata.py --accept US` → kopiert `include=yes` nach `data/seed/us.csv` (Seed-Spalten, ohne Prüfspalten)
+  4. `build_sources.py`, dann `discover_feeds.py --only <neue ids>` und Report prüfen wie in Phase 1.
+- Technik: SPARQL (query.wikidata.org) findet nur die IDs – je Wurzelklasse (Zeitung, Online-Zeitung, News-Website, Nachrichtenmagazin inkl. aller Unterklassen) und je Länder-Eigenschaft (`P17` Staat **oder** `P495` Herkunftsland, Wikidata nutzt beides, z. B. Kronen Zeitung nur `P495`). Details (Labels, Website, Sprache, Ort, Eigentümer, Sitelinks) über die Wikidata-API. Amtsblätter (`Q2065227` + Unterklassen) sind ausgeschlossen, außer das Medium ist zusätzlich als Zeitung typisiert. Aufgelöste Medien (`P576`, `P2669`) fallen raus.
+- Namen und Städte in der Sprache des Mediums (Fallback `mul`, `en`). Ort = Erscheinungsort (`P291`), sonst Hauptsitz (`P159`); ohne Ort kein automatisches `yes`.
+- Tier-Vorschlag aus Sitelinks: ≥ 15 → 1, ≥ 6 → 2, sonst 3. Staatseigentum: Eigentümer (`P127`) ist Regierung/Behörde/Staatsbetrieb → `note=state`, Beleg = Wikidata-Eintrag des Mediums.
+- Sprache: Bei mehreren oder fehlenden Sprachen gewinnt die im Land häufigste Mediensprache (Wikidatas Amtssprachen-Liste führt für die USA Spanisch zuerst → CNN wäre spanisch geworden).
+- Ausgeschlossen zusätzlich: Social-News-Seiten, News-Aggregatoren (Reddit).
+- Pilot (2026-10-05): AT 32 Kandidaten (Quote 30), NZ 38 (23), EG 35 (107), US 3.847 (184); Lauf für die USA ~10 Min. Kandidatenlisten liegen in `data/seed/candidates/`.
+- Bekannte Grenzen: Wikidata ist lückenhaft (AT: OÖN, VN fehlen; EG: nur 35 Kandidaten bei Quote 107; viele Einträge ohne Ort) und enthält Rauschen (Podcast-App, Firmenmagazin, falsche Websites). Staatseigentum ist nur erkennbar, wo Wikidata einen Eigentümer kennt (Al-Ahram, Voice of America werden **nicht** erkannt) – bei der Prüfung ergänzen. Die Kandidatenliste ist ein Startpunkt, kein Ersatz für die Prüfung.
 - Tier-Vorschlag automatisch (z. B. Anzahl Wikipedia-Sprachversionen als Bekanntheits-Indiz), Entscheidung beim Prüfen.
 - Handgepflegte Seeds (`europe.csv` usw.) haben immer Vorrang.
 - Feed-Suche wie heute; eindeutige Fälle werden automatisch übernommen, manuell geprüft wird nur, was als `CHECK` markiert ist – sortiert nach Tier.

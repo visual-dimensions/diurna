@@ -1,0 +1,29 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,wd_lat,wd_lon,remark
+yes,NZ,The New Zealand Herald,Auckland,,https://www.nzherald.co.nz/,en,daily,1,,,Q1199207,28,-36.8492,174.7653,
+yes,NZ,The Press,Christchurch,,https://www.stuff.co.nz/the-press/,en,daily,2,,,Q2413590,11,-43.5311,172.6361,
+yes,NZ,Otago Daily Times,Dunedin,,https://www.odt.co.nz/,en,daily,2,,,Q311369,8,-45.8742,170.5036,
+yes,NZ,The Southland Times,Invercargill,,http://www.southlandtimes.co.nz,en,daily,3,,,Q2414358,5,-46.4290,168.3620,
+yes,NZ,The Northern Advocate,Whangārei,,http://www.northernadvocate.co.nz/index.cfm,en,daily,3,,,Q5272115,5,-35.7250,174.3236,
+yes,NZ,Wairarapa Times-Age,Masterton,,http://www.times-age.co.nz,en,daily,3,,,Q5272121,5,-40.9667,175.6500,
+yes,NZ,Whanganui Chronicle,Whanganui,,http://www.wanganuichronicle.co.nz/,en,daily,3,,,Q7967808,5,-39.9325,175.0519,
+yes,NZ,Westport News,Westport,,http://www.westportnews.co.nz/,en,daily,3,,,Q7989602,5,-41.7550,171.5990,
+no,NZ,Ashburton Guardian,,,http://www.guardianonline.co.nz//,en,daily,3,,,Q4804670,4,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,NZ,Bay of Plenty Times,Tauranga,,http://www.bayofplentytimes.co.nz/,en,daily,3,,,Q4874227,4,-37.6858,176.1667,
+yes,NZ,Greymouth Star,Greymouth,,http://greystar.co.nz/,en,daily,3,,,Q5608464,4,-42.4500,171.2075,
+yes,NZ,The Oamaru Mail,Oamaru,,http://www.oamarumail.co.nz,en,daily,3,,,Q7754602,4,-45.0894,170.9661,
+yes,NZ,Hawke's Bay Today,Hastings,,http://www.hbtoday.co.nz,en,daily,3,,,Q10554215,4,-39.6500,176.8333,
+yes,NZ,Sunday Star-Times,Auckland,,http://sundaystartimes.co.nz/,en,daily,3,,,Q2366190,4,-36.8492,174.7653,
+yes,NZ,The Daily Post,Rotorua,,http://www.rotoruadailypost.co.nz,en,daily,3,,,Q7728695,4,-38.1378,176.2514,
+yes,NZ,The Sun,Canterbury Region,,https://paperspast.natlib.govt.nz/newspapers/sun-christchurch/1915/02/05,en,daily,3,,,Q56278256,3,-43.6000,172.0000,
+no,NZ,The Hutt News,,,http://fairfaxmedia.newspaperdirect.com/epaper/viewer.aspx,en,daily,3,,,Q91881243,2,,,no place of publication/headquarters in Wikidata – fill in city
+no,NZ,Newsroom,,,https://www.newsroom.co.nz/,en,online,3,,,Q48795745,2,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,NZ,Whakatane Beacon,Whakatāne,,http://www.whakatanebeacon.co.nz,en,daily,3,,,Q20184070,1,-37.9640,176.9840,language from country default
+yes,NZ,Chinese Herald,Auckland,,https://www.chineseherald.co.nz/,en,daily,3,,,Q141145741,1,-36.8492,174.7653,language from country default
+yes,NZ,The Guardian,Motueka,,https://topsouthmedia.co.nz/guardian-motueka-golden-bay,en,daily,3,,,Q137163090,0,-41.1233,173.0147,
+no,NZ,Pīpīwharauroa,,,http://turanga-ararau.org.nz/?page_id=218,en,daily,3,,,Q104587918,0,,,no place of publication/headquarters in Wikidata – fill in city
+no,NZ,BusinessDesk,,,https://businessdesk.co.nz/,en,online,3,,,Q112301445,0,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,NZ,Nor'West News,Christchurch,,https://starmedia.kiwi/digital-editions/?publication=gfm1HjAVyM7OpbxS,en,weekly,3,,,Q126480880,0,-43.5311,172.6361,"language from country default; types: daily, weekly"
+yes,NZ,Golden Bay Weekly,Golden Bay,,http://www.gbweekly.co.nz/category/the-gb-weekly-news-archives/,en,weekly,3,,,Q123143542,0,-40.7833,172.6500,
+yes,NZ,GTA BOOM,Auckland,,https://www.gtaboom.com/,en,online,3,,,Q139580130,0,-36.8492,174.7653,
+yes,NZ,Sportzhub,Parakai,,https://www.sportzhub.com/,en,online,3,,,Q132178643,0,-36.6604,174.4327,language from country default
+no,NZ,Re:,,,https://www.renews.co.nz,en,online,3,,,Q133358821,0,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
