@@ -1,5 +1,4 @@
 country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
 SY,Al-Watan,Damascus,,http://alwatan.sy,ar,daily,3,,,33.5131,36.2919
-SY,Enab Baladi,Darayya,,https://www.enabbaladi.net/,ar,online,3,,,33.4589,36.2372
 SY,Al-Jamahir,Aleppo,,http://jamahir.alwehda.gov.sy/,ar,daily,3,state,https://en.wikipedia.org/wiki/Al-Wehda_Foundation,,
 SY,Al-Furat,Deir ez-Zor,,http://furat.alwehda.gov.sy/,ar,daily,3,state,https://en.wikipedia.org/wiki/Al-Wehda_Foundation,35.3333,40.1500

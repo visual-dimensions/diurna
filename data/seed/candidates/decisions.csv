@@ -776,3 +776,7 @@ TR,Q135649565,no,,,,,,,regional outlet without a reachable feed – replaced
 AE,Q108857582,no,,,,,,,regional outlet without a reachable feed – replaced
 BH,Q3120741,no,,,,,,,regional outlet without a reachable feed – replaced
 IL,Q216393,yes,Tel Aviv,en,1,,,,place filled in; homepage is the English edition
+SD,Q134291131,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+SY,Q22080795,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+IL,Q2350278,yes,,en,,,,,homepage is the English edition
+TN,Q140519314,yes,Tunis,fr,3,online,,,language: French

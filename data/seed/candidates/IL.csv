@@ -1,11 +1,11 @@
 include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
-yes,IL,Haaretz,Tel Aviv,,https://haaretz.com,en,daily,1,,,Q216393,47,daily newspaper; newspaper,,,reviewed: place filled in; homepage is the English edition; no place of publication/headquarters in Wikidata – fill in city
+yes,IL,Haaretz,Tel Aviv,,https://haaretz.com,en,daily,1,,,Q216393,47,daily newspaper; newspaper,,,reviewed: place filled in; homepage is the English edition; homepage is the English edition; no place of publication/headquarters in Wikidata – fill in city
 yes,IL,The Jerusalem Post,Jerusalem,,https://jpost.com/,en,daily,1,,,Q35438,45,daily newspaper; online newspaper; publishing house,31.0000,35.0000,"reviewed: Wikidata place is the country; types: daily, online"
 yes,IL,The Times of Israel,Jerusalem,,https://www.timesofisrael.com/,en,online,1,,,Q6449319,32,online newspaper,31.7767,35.2342,reviewed: language: English
 yes,IL,Yedioth Ahronoth,Rishon LeZion,,https://www.yediot.co.il/,he,daily,1,,,Q1132126,31,daily newspaper; newspaper,31.9500,34.8000,
 yes,IL,Israel Hayom,Tel Aviv,,https://www.israelhayom.co.il/,he,daily,1,,,Q1632726,25,daily newspaper; free newspaper,31.0000,35.0000,reviewed: Wikidata place is the country
 no,IL,+972 Magazine,,,http://972mag.com/,en,online,2,,,Q4454786,14,online newspaper; magazine; news website; online magazine,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
-yes,IL,Globes,Tel Aviv,,http://www.globes.co.il/serveen/,he,daily,2,,,Q2350278,13,daily newspaper; newsletter; fact-checking organisation; website,32.0800,34.7800,
+yes,IL,Globes,Tel Aviv,,http://www.globes.co.il/serveen/,en,daily,2,,,Q2350278,13,daily newspaper; newsletter; fact-checking organisation; website,32.0800,34.7800,reviewed: homepage is the English edition
 yes,IL,Al-Ittihad,Haifa,,https://www.alittihad44.com/,ar,daily,2,,,Q741891,11,daily newspaper,31.0000,35.0000,reviewed: Wikidata place is the country
 yes,IL,Makor Rishon,Jerusalem,,http://www.makorrishon.co.il/,he,weekly,2,,,Q601702,10,weekly newspaper,31.7767,35.2342,
 no,IL,Calcalist,Tel Aviv,,http://www.calcalist.co.il,he,daily,2,,,Q2920691,9,newspaper,32.0800,34.7800,
@@ -25,7 +25,7 @@ no,IL,rotter.net,,,http://rotter.net/,he,online,3,,,Q7035331,2,online newspaper,
 no,IL,0404 News,,,https://www.0404.co.il/,he,online,3,,,Q18191813,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 no,IL,Walla!,worldwide,,https://news.walla.co.il/,he,online,3,,,Q25489015,2,online newspaper; mobile app,,,not pre-selected: magazine/online below tier 1
 no,IL,Zman Israel,,,https://www.zman.co.il/,he,online,3,,,Q124961171,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
-no,IL,Zo HaDerekh,Israel,,https://zoha.org.il/,he,daily,3,,,Q6591457,2,newspaper; communist newspaper,31.0000,35.0000,reviewed: Wikidata place is the country; small party paper; small party paper; small party paper; small party paper
+no,IL,Zo HaDerekh,Israel,,https://zoha.org.il/,he,daily,3,,,Q6591457,2,newspaper; communist newspaper,31.0000,35.0000,reviewed: Wikidata place is the country; small party paper; small party paper; small party paper; small party paper; small party paper
 no,IL,Arab48,Haifa,,https://www.arab48.com/,he,online,3,,,Q110503026,2,news website,32.8192,34.9992,language from country default; not pre-selected: magazine/online below tier 1
 no,IL,Panet,Nazareth,,https://www.panet.co.il/,ar,online,3,,,Q6989633,2,news website,32.7021,35.2978,not pre-selected: magazine/online below tier 1
 no,IL,אותיות וילדים,,,https://otiyotveyeladim.co.il/,he,daily,3,,,Q6846557,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

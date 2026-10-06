@@ -1,5 +1,5 @@
 include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
-yes,TN,La Presse de Tunisie,Tunis,,http://www.lapresse.tn/,fr,daily,2,state,https://en.wikipedia.org/wiki/La_Presse_de_Tunisie,Q375527,6,daily newspaper,,,reviewed: place filled in; state-owned (SNIPE); state-owned (SNIPE); state-owned (SNIPE); no place of publication/headquarters in Wikidata – fill in city
+yes,TN,La Presse de Tunisie,Tunis,,http://www.lapresse.tn/,fr,daily,2,state,https://en.wikipedia.org/wiki/La_Presse_de_Tunisie,Q375527,6,daily newspaper,,,reviewed: place filled in; state-owned (SNIPE); state-owned (SNIPE); state-owned (SNIPE); state-owned (SNIPE); no place of publication/headquarters in Wikidata – fill in city
 yes,TN,Assabah,Tunis,,http://www.assabah.com.tn/,ar,daily,2,,,Q2866932,6,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
 yes,TN,Le Temps,Tunis,,https://www.letemps.news/,fr,daily,3,,,Q3227555,3,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
 no,TN,Attariq Al-Jadid,,,http://attariq.org/,ar,weekly,3,,,Q2869931,2,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
@@ -8,4 +8,4 @@ no,TN,Essahafa,Tunis,,http://www.essahafa.tn/,ar,daily,3,state,https://en.wikipe
 no,TN,Al-Fajr,,,http://www.jaridatelfejr.com/,ar,weekly,3,,,Q22685948,1,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,TN,Al-Thawra News,,,https://athawra-news-tunisie.blogspot.com/,ar,weekly,3,,,Q28499160,1,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 yes,TN,L'Économiste maghrébin,Tunis,,https://www.leconomistemaghrebin.com/,fr,daily,3,,,Q106978471,0,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
-yes,TN,Tunisie Numerique,Tunis,,https://www.tunisienumerique.com,ar,online,3,,,Q140519314,0,online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,TN,Tunisie Numerique,Tunis,,https://www.tunisienumerique.com,fr,online,3,,,Q140519314,0,online newspaper,,,reviewed: language: French; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

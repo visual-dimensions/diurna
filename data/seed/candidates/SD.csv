@@ -1,5 +1,5 @@
 include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
 no,SD,Al-Sudani,Khartoum,,http://www.alsudani.sd/news/,ar,daily,3,,,Q4703263,4,newspaper,15.0000,32.0000,reviewed: regional outlet without a reachable feed – replaced
 no,SD,Al-Mushahid Al-riyadiya,,,http://www.mushahidsd.net,ar,daily,3,,,Q4702968,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-yes,SD,Assayha,Khartoum,,https://www.assayha.net/,ar,daily,3,,,Q134291131,1,newspaper; daily newspaper,15.0000,32.0000,reviewed: Wikidata place is the country
+no,SD,Assayha,Khartoum,,https://www.assayha.net/,ar,daily,3,,,Q134291131,1,newspaper; daily newspaper,15.0000,32.0000,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions)
 no,SD,Al-tayar,Khartoum,,https://al-tayar.net/,ar,daily,3,,,Q134538794,1,newspaper; daily newspaper,15.0000,32.0000,reviewed: regional outlet without a reachable feed – replaced
