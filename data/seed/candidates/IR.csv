@@ -1,0 +1,38 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,IR,Ettela'at,Tehran,,http://www.ettelaat.com/,fa,daily,1,state,https://en.wikipedia.org/wiki/Ettela'at,Q1371762,20,periodical; daily newspaper,35.6853,51.4181,reviewed: Wikidata place is a building; run by a representative of the Supreme Leader; run by a representative of the Supreme Leader; run by a representative of the Supreme Leader
+yes,IR,Tehran Times,Tehran,,http://www.tehrantimes.com/,en,daily,1,state,https://en.wikipedia.org/wiki/Tehran_Times,Q2708943,18,daily newspaper; website; news agency,,,reviewed: place filled in; owned by the Islamic Propagation Organization; owned by the Islamic Propagation Organization; owned by the Islamic Propagation Organization; no place of publication/headquarters in Wikidata – fill in city
+yes,IR,Hamshahri,Tehran,,http://hamshahrionline.ir/,fa,daily,1,state,https://en.wikipedia.org/wiki/Hamshahri,Q1574046,17,newspaper,35.6889,51.3897,reviewed: owned by the Tehran Municipality
+yes,IR,Kayhan,Tehran,,http://kayhan.ir/,fa,daily,1,state,https://en.wikipedia.org/wiki/Kayhan,Q1468962,15,daily newspaper,35.6889,51.3897,reviewed: run by a representative of the Supreme Leader
+yes,IR,Jaam-e Jam,Tehran,,http://jamejamonline.ir/,fa,daily,2,state,https://en.wikipedia.org/wiki/Jaam-e_Jam_(newspaper),Q532925,7,periodical; newspaper,,,reviewed: place filled in; published by the state broadcaster IRIB; published by the state broadcaster IRIB; published by the state broadcaster IRIB; no place of publication/headquarters in Wikidata – fill in city
+yes,IR,Shargh,Tehran,,https://www.sharghdaily.com,fa,daily,2,,,Q4819149,7,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IR,Alik,Tehran,,https://alikonline.ir,hy,daily,2,,,Q2836909,6,newspaper,35.6889,51.3897,reviewed: community paper (Armenian)
+yes,IR,Resalat,Tehran,,http://www.resalat-news.com/Fa/,fa,daily,3,,,Q7314924,6,newspaper,35.6889,51.3897,reviewed: above the per-city cap
+yes,IR,Iran,Tehran,,https://irannewspaper.ir/,fa,daily,2,state,https://www.wikidata.org/wiki/Q10859757,Q10859757,6,newspaper,32.0000,53.0000,reviewed: Wikidata place is the country; owner: Islamic Republic News Agency
+no,IR,Islamic Republican,Tehran,,http://www.jomhourieslami.com/,fa,daily,2,,,Q3809848,6,newspaper,35.6889,51.3897,
+no,IR,Aftab Yazd,,,http://www.aftabeyazd.ir/,fa,daily,3,,,Q4690431,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IR,Rajanews,,,https://rajanews.com,fa,online,3,,,Q5709368,4,website; online newspaper; news media,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,IR,Etemaad,Tehran,,http://www.etemadnewspaper.ir/,fa,daily,3,,,Q10859569,4,newspaper,35.6889,51.3897,reviewed: above the per-city cap
+no,IR,Tabnak,Tehran,,https://www.tabnak.ir/,fa,online,3,,,Q5947432,4,news agency; news website,35.6889,51.3897,language from country default; not pre-selected: magazine/online below tier 1
+no,IR,Mizan News Agency,,,https://www.mizanonline.ir/,fa,online,3,,,Q21515268,4,news website; news agency,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IR,Amadnews,,,http://amadnews.co/,fa,online,3,,,Q28808404,4,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IR,Eghtesad Online,Tehran,,http://www.eghtesadonline.com/,fa,daily,3,,,Q56887628,3,newspaper; website,35.6889,51.3897,
+no,IR,Entekhab,Tehran,,http://www.entekhab.ir/,fa,daily,3,,,Q5962362,3,daily newspaper; periodical; website; news agency,35.6889,51.3897,
+no,IR,Roozonline,,,https://www.roozonline.net,fa,online,3,,,Q7366691,3,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IR,Ebtekar,Tehran,,http://ebtekarnews.com/Ebtekar/Home.aspx,fa,daily,3,,,Q17174294,3,daily newspaper; newspaper,35.6889,51.3897,
+no,IR,Financial Tribune,Tehran,,http://financialtribune.com/,en,daily,3,,,Q20110716,3,newspaper; website,35.6889,51.3897,reviewed: regional outlet without a reachable feed – replaced; above the per-city cap; language from country default
+no,IR,Iran Daily,Tehran,,https://irandaily.ir/,en,daily,3,state,https://www.wikidata.org/wiki/Q2364877,Q2364877,2,newspaper,32.0000,53.0000,reviewed: regional outlet without a reachable feed – replaced; owner: Islamic Republic News Agency
+yes,IR,Ham-Mihan,Tehran,,https://hammihanonline.ir/,fa,daily,3,,,Q5643820,2,periodical; newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,IR,Bahar,Tehran,,http://baharnewspaper.com/,fa,daily,3,,,Q5703456,2,daily newspaper; newspaper,35.6889,51.3897,
+no,IR,Farheekhtegan,,,http://newspaper.fdn.ir/,fa,daily,3,,,Q16047436,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IR,Nasim Online,,,http://www.nasimonline.ir/,fa,online,3,,,Q31067845,2,news website; political blog,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IR,Arman Daily,,,http://www.armandaily.ir,fa,daily,3,,,Q5691469,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IR,Asrar,Tehran,,http://89.165.118.117/index.php?lang=fa,fa,daily,3,,,Q17004255,1,newspaper,35.6889,51.3897,
+no,IR,Azarbaydgan,Tabriz,,https://www.azarbaydgan.ir/,fa,daily,3,,,Q31072156,1,newspaper,38.0739,46.2961,reviewed: regional outlet without a reachable feed – replaced
+no,IR,Borna News Agency,,,https://borna.news/,fa,online,3,,,Q140208764,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IR,Իրանահայ,,,https://www.iranahayer.com/about.html,hy,online,3,,,Q16381913,1,newsletter; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IR,Haft-e Sobh,,,http://7sobh.com,fa,daily,3,,,Q30001764,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IR,عجب‌شیر,Tabriz,,http://ajabshirpress.ir/,fa,daily,3,,,Q125896894,1,newspaper; publication,38.0739,46.2961,reviewed: no Latin-script name
+no,IR,Kalem-e-Sabz,,,http://www.kaleme.com/,fa,daily,3,,,Q5936858,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IR,tasnimnews.com,Tehran,,https://www.tasnimnews.com/en/,fa,online,3,,,Q134970831,0,online newspaper,35.6889,51.3897,not pre-selected: magazine/online below tier 1
+no,IR,Sarshenasan,Tehran,,http://sarshenasan.com/,fa,daily,3,,,Q112968823,0,newspaper,35.6889,51.3897,language from country default
+no,IR,Iranian Diplomacy,,,http://www.irdiplomacy.ir/,fa,online,3,,,Q119522816,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

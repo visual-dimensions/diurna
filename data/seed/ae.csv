@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+AE,Gulf News,Dubai,,http://gulfnews.com/,en,daily,1,,,25.2644,55.3117
+AE,The National,Abu Dhabi,,https://www.thenational.ae/,en,daily,1,,,24.4511,54.3969
+AE,Khaleej Times,Dubai,,https://www.khaleejtimes.com/,en,daily,2,,,,
+AE,Al Bayan,Dubai,,https://www.albayan.ae/,ar,daily,3,state,https://en.wikipedia.org/wiki/Al_Bayan_(Emirati_newspaper),25.2697,55.3094
+AE,Al-Ittihad,Abu Dhabi,,https://www.aletihad.ae,ar,daily,2,state,https://en.wikipedia.org/wiki/Al_Ittihad_(Emirati_newspaper),,

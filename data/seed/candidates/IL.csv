@@ -1,0 +1,63 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,IL,Haaretz,Tel Aviv,,https://haaretz.com,en,daily,1,,,Q216393,47,daily newspaper; newspaper,,,reviewed: place filled in; homepage is the English edition; no place of publication/headquarters in Wikidata – fill in city
+yes,IL,The Jerusalem Post,Jerusalem,,https://jpost.com/,en,daily,1,,,Q35438,45,daily newspaper; online newspaper; publishing house,31.0000,35.0000,"reviewed: Wikidata place is the country; types: daily, online"
+yes,IL,The Times of Israel,Jerusalem,,https://www.timesofisrael.com/,en,online,1,,,Q6449319,32,online newspaper,31.7767,35.2342,reviewed: language: English
+yes,IL,Yedioth Ahronoth,Rishon LeZion,,https://www.yediot.co.il/,he,daily,1,,,Q1132126,31,daily newspaper; newspaper,31.9500,34.8000,
+yes,IL,Israel Hayom,Tel Aviv,,https://www.israelhayom.co.il/,he,daily,1,,,Q1632726,25,daily newspaper; free newspaper,31.0000,35.0000,reviewed: Wikidata place is the country
+no,IL,+972 Magazine,,,http://972mag.com/,en,online,2,,,Q4454786,14,online newspaper; magazine; news website; online magazine,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,IL,Globes,Tel Aviv,,http://www.globes.co.il/serveen/,he,daily,2,,,Q2350278,13,daily newspaper; newsletter; fact-checking organisation; website,32.0800,34.7800,
+yes,IL,Al-Ittihad,Haifa,,https://www.alittihad44.com/,ar,daily,2,,,Q741891,11,daily newspaper,31.0000,35.0000,reviewed: Wikidata place is the country
+yes,IL,Makor Rishon,Jerusalem,,http://www.makorrishon.co.il/,he,weekly,2,,,Q601702,10,weekly newspaper,31.7767,35.2342,
+no,IL,Calcalist,Tel Aviv,,http://www.calcalist.co.il,he,daily,2,,,Q2920691,9,newspaper,32.0800,34.7800,
+no,IL,Vesti,Rishon LeZion,,https://www.vesty.co.il/,ru,daily,2,,,Q1987800,7,newspaper,31.9500,34.8000,reviewed: site now redirects to the Hebrew ynet – no own content
+no,IL,Kul al-Arab,Nazareth,,https://www.alarab.com/,ar,weekly,3,,,Q2912134,7,weekly newspaper,31.0000,35.0000,reviewed: regional outlet without a reachable feed – replaced
+yes,IL,al-Madina,Haifa,,http://www.almadina.co.il,ar,weekly,2,,,Q571920,6,weekly newspaper,32.8192,34.9992,
+yes,IL,B'Sheva,Petah Tikva,,https://besheva.co.il/,he,weekly,2,,,Q2912104,6,weekly newspaper,32.0833,34.8833,
+yes,IL,Al-Sinnara,Nazareth,,https://www.sonara.net/,ar,weekly,3,,,Q6039750,5,weekly newspaper,31.0000,35.0000,reviewed: Wikidata place is the country
+no,IL,HaKol HaYehudi,,,http://www.hakolhayehudi.co.il/,he,online,3,,,Q16129918,3,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,Einayim,,,https://www.einayim.com/,he,daily,3,,,Q12410301,3,newspaper; magazine,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,Kikar HaShabbat,,,https://www.kikar.co.il/,he,online,3,,,Q6262613,3,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,mako,,,https://www.mako.co.il,he,online,3,,,Q6832043,3,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,Halavluv,,,http://www.halavluv.com,he,daily,3,,,Q55649044,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,Epoch,,,https://epoch.org.il/,he,daily,3,,,Q96306301,2,magazine; newspaper; nonprofit organization,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,Bhol,,,http://www.bhol.co.il/,he,online,3,,,Q6259258,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,rotter.net,,,http://rotter.net/,he,online,3,,,Q7035331,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,0404 News,,,https://www.0404.co.il/,he,online,3,,,Q18191813,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,Walla!,worldwide,,https://news.walla.co.il/,he,online,3,,,Q25489015,2,online newspaper; mobile app,,,not pre-selected: magazine/online below tier 1
+no,IL,Zman Israel,,,https://www.zman.co.il/,he,online,3,,,Q124961171,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,Zo HaDerekh,Israel,,https://zoha.org.il/,he,daily,3,,,Q6591457,2,newspaper; communist newspaper,31.0000,35.0000,reviewed: Wikidata place is the country; small party paper; small party paper; small party paper; small party paper
+no,IL,Arab48,Haifa,,https://www.arab48.com/,he,online,3,,,Q110503026,2,news website,32.8192,34.9992,language from country default; not pre-selected: magazine/online below tier 1
+no,IL,Panet,Nazareth,,https://www.panet.co.il/,ar,online,3,,,Q6989633,2,news website,32.7021,35.2978,not pre-selected: magazine/online below tier 1
+no,IL,אותיות וילדים,,,https://otiyotveyeladim.co.il/,he,daily,3,,,Q6846557,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,טבע הדברים,,,https://tevahadvarim.co.il/,he,daily,3,,,Q6556613,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,עולם קטן (עלון שבת),,,http://www.olam-katan.co.il/,he,daily,3,,,Q6759891,1,saturday bulletin; news website,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,IL,Giluy Da'at,,,https://www.giluydaat.co.il/,he,daily,3,,,Q7058032,1,saturday bulletin,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,shvi'i,Israel,,https://www.dmag.co.il/pub/shvii,he,daily,3,,,Q16129534,1,saturday bulletin; newspaper,31.0000,35.0000,reviewed: Wikidata place is the country
+no,IL,Setit,Herzliya,,http://www.SETiT.us,he,daily,3,,,Q14333638,1,newspaper,32.1556,34.8422,reviewed: unclear outlet (US domain); language from country default
+no,IL,זבנג!,,,http://www.zbengweb.co.il,he,daily,3,,,Q55649557,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,Maariv Hashavua,Israel,,https://www.maariv.co.il/,he,daily,3,,,Q6748492,1,daily newspaper,31.0000,35.0000,reviewed: weekly supplement – Maariv in mena_manual.csv
+no,IL,Srugim,,,http://www.srugim.co.il/,he,online,3,,,Q16132624,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,Al-Masdar,,,http://www.al-masdar.net,ar,online,3,,,Q20502108,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,Haredim10,,,http://www.ch10.co.il/,he,online,3,,,Q30086376,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,Aurora,Tel Aviv,,http://aurora-israel.co.il/,es,weekly,3,,,Q6124655,1,weekly newspaper,32.0800,34.7800,reviewed: community paper (Spanish-language)
+no,IL,Ashdod Net,,,https://ashdodnet.com,he,online,3,,,Q113687776,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,Newsru.co.il,,,https://www.newsru.co.il,ru,online,3,,,Q125083394,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,JFEED,,,https://www.jfeed.com/,en,online,3,,,Q135087587,1,website; online newspaper; media company,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,המקומון,,,http://www.hamekomon.co.il/,he,daily,3,,,Q107086699,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,קו עיתונות,,,http://kav-itonut.co.il/,he,daily,3,,,Q7057154,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,ערב ערב באילת,Eilat,,https://www.ereverev.co.il/,he,daily,3,,,Q12410440,1,local newspaper,29.5500,34.9500,reviewed: no Latin-script name
+no,IL,חדשות השבוע,,,http://www.hadashothasavua.com//,he,daily,3,,,Q20502341,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,Jerusalem times,Jerusalem,,http://www.jerusalem-times.net/,he,daily,3,,,Q7743133,1,newspaper,31.7767,35.2342,
+no,IL,Polisa,,,https://polisa.news/,he,daily,3,,,Q6547328,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,Matzav Haruh,,,https://www.mazav.co.il/,he,daily,3,,,Q6861558,1,saturday bulletin,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,الرسالة من النقب,,,https://janoob.net/,ar,daily,3,,,Q122872551,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IL,אמס,,,https://www.emess.co.il,he,online,3,,,Q141645953,1,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,hamechadesh,,,https://hm-news.co.il/,he,online,3,,,Q104628019,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,ערוץ 2000,,,https://www.tv2000.co.il/,he,online,3,,,Q118645839,1,business; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,All Israel News,Jerusalem,,https://allisraelnews.com/,he,online,3,,,Q120434736,1,company; news website,31.7767,35.2342,language from country default; not pre-selected: magazine/online below tier 1
+no,IL,Israel Today,,,https://www.israeltoday.co.il/,en,online,3,,,Q18352376,1,magazine; news website; Christian media,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,"Davar - Workers, Society and Economy in Israel",,,https://www.davar1.co.il/,he,online,3,,,Q30527722,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,Israelinfo,,,https://israelinfo.co.il/,he,online,3,,,Q111232372,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,CTech by Calcalist,,,https://www.calcalistech.com/,en,online,3,,,Q123247846,0,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IL,Portal Karmel,,,https://www.karmel.co.il/,he,online,3,,,Q123456147,0,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IL,The Zioneer,,,https://thezioneer.com,he,online,3,,,Q140166471,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

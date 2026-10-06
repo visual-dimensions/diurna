@@ -1,0 +1,9 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,KW,Kuwait Times,Kuwait,,https://www.kuwaittimes.net/,en,daily,3,,,Q6448883,4,newspaper,29.1667,47.6000,reviewed: regional outlet without a reachable feed – replaced
+yes,KW,Arab Times,Shuwaikh Port,,http://www.arabtimesonline.com,en,daily,3,,,Q4783255,4,newspaper,29.3500,47.9500,
+yes,KW,Al-Anba,Kuwait City,,http://www.alanba.com.kw/newspaper/,ar,daily,3,,,Q4702198,3,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,KW,Al-Qabas,Kuwait City,,https://www.alqabas.com,ar,daily,3,,,Q4703049,3,newspaper,29.3750,47.9800,reviewed: regional outlet without a reachable feed – replaced
+no,KW,Annahar,Kuwait City,,http://www.annaharkw.com,ar,daily,3,,,Q4767787,3,newspaper,29.3750,47.9800,reviewed: regional outlet without a reachable feed – replaced
+no,KW,Al-Sabah,Kuwait,,http://www.alsabahpress.com,ar,daily,3,,,Q4703148,2,newspaper,29.1667,47.6000,reviewed: regional outlet without a reachable feed – replaced
+no,KW,جريدة الطليعة,,,http://altaleea.com/,ar,daily,3,,,Q12205251,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KW,Crimes And Courts,,,https://www.cckwt.cc/,ar,online,3,,,Q106676549,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

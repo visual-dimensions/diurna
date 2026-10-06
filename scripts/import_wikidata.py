@@ -26,6 +26,7 @@ import re
 import sys
 from collections import Counter
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -187,6 +188,8 @@ def candidates(country_qid: str, closure: dict[str, str], disqualifying: set[str
         if set(classes) & disqualifying:
             continue
         place = (claim_ids(ent, "P291") or claim_ids(ent, "P159") or [None])[0]
+        if place == country_qid:
+            place = None  # "published in: Israel" is no place – its coordinate is the country's centre
         it.update({
             "sites": sites,
             "langs": [c for c in (lang_codes.get(l) for l in claim_ids(ent, "P407")) if c],
@@ -225,11 +228,24 @@ def entities(ids: list[str], props: str = "labels|claims") -> dict[str, dict]:
     return out
 
 
+def is_latin(text: str) -> bool:
+    letters = [c for c in text if c.isalpha()]
+    return bool(letters) and all(unicodedata.name(c, "").startswith("LATIN") for c in letters)
+
+
 def label(entity: dict | None, langs: list[str]) -> str:
+    """Label in the outlet's language – in Latin script, like the hand-made seeds
+    (Kathimerini, Athina): a label in another script gives way to the `mul`/English one."""
     labels = (entity or {}).get("labels", {})
-    for lang in [*langs, "mul", "en"]:
-        if lang in labels:
+    order = [lang for lang in [*langs, "mul", "en"] if lang in labels]
+    if order and is_latin(labels[order[0]]["value"]):
+        return labels[order[0]]["value"]
+    # Not in Latin script: the English label (Cairo, not Le Caire), then any Latin one.
+    for lang in ["en", "mul", *order, *labels]:
+        if lang in labels and is_latin(labels[lang]["value"]):
             return labels[lang]["value"]
+    if order:
+        return labels[order[0]]["value"]
     return next(iter(labels.values()))["value"] if labels else ""
 
 

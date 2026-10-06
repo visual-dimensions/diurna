@@ -1,0 +1,75 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,TR,Şalom,İstanbul,,https://salom.com.tr,tr,daily,1,,,Q21202,124,Jewish newspaper,41.0100,28.9603,reviewed: community paper (Jewish); not pre-selected: alternative/religious paper
+seeded,TR,Hürriyet,İstanbul,,http://www.hurriyet.com.tr/,tr,daily,1,,,Q327147,36,daily newspaper; newspaper,41.0100,28.9603,
+yes,TR,Milliyet,İstanbul,,https://www.milliyet.com.tr/,tr,daily,1,,,Q568226,26,newspaper,41.0344,28.8569,"reviewed: Istanbul district → city, as in europe.csv"
+seeded,TR,Sabah,Beşiktaş,,https://www.sabah.com.tr/,tr,daily,1,,,Q574575,16,newspaper,41.0753,29.0275,
+yes,TR,Yeni Şafak,İstanbul,,http://www.yenisafak.com,tr,daily,1,,,Q1815813,15,newspaper,41.0481,28.9003,reviewed: Istanbul district → city
+seeded,TR,Sözcü,İstanbul,,http://www.sozcu.com.tr/,tr,daily,2,,,Q4121023,13,newspaper,41.0100,28.9603,
+yes,TR,Hürriyet Daily News,İstanbul,,https://www.hurriyetdailynews.com/,en,daily,2,,,Q1507755,13,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,TR,T.C. Resmî Gazete,Ankara,,http://www.resmigazete.gov.tr,tr,weekly,2,,,Q1531422,12,government gazette; weekly newspaper; semimonthly; daily newspaper,39.9358,32.8387,"reviewed: official gazette; types: daily, online, weekly"
+no,TR,Posta,İstanbul,,http://www.posta.com.tr/,tr,daily,2,,,Q1543309,12,daily newspaper,41.0100,28.9603,
+no,TR,Jamanak,Istanbul,,http://www.jamanak.com/,hy,daily,2,,,Q1548769,12,daily newspaper,41.0100,28.9603,reviewed: community paper (Armenian)
+yes,TR,Türkiye Gazetesi,İstanbul,,http://www.turkiyegazetesi.com.tr,tr,daily,2,,,Q327799,11,newspaper; website; online newspaper; news broadcasting,41.0093,28.8149,"reviewed: Istanbul district → city; types: daily, online"
+no,TR,Marmara,Istanbul,,https://normarmara.com,hy,daily,2,,,Q2607282,11,newspaper,41.0100,28.9603,reviewed: community paper (Armenian)
+yes,TR,Akşam,İstanbul,,http://www.aksam.com.tr/,tr,daily,2,,,Q424791,11,newspaper; periodical,41.0100,28.9603,reviewed: above the per-city cap
+yes,TR,Evrensel,İstanbul,,https://www.evrensel.net/,tr,daily,2,,,Q1149161,10,periodical; newspaper,39.0000,36.0000,reviewed: Wikidata place is the country
+yes,TR,Daily Sabah,İstanbul,,http://www.dailysabah.com,en,daily,2,,,Q18639164,9,periodical; newspaper,41.0100,28.9603,reviewed: above the per-city cap
+yes,TR,Gazete Habertürk,İstanbul,,https://www.haberturk.com,tr,daily,2,,,Q5636741,8,newspaper,41.0319,28.9761,reviewed: Istanbul district → city
+yes,TR,BirGün,İstanbul,,http://www.birgun.net/,tr,daily,2,,,Q864960,8,daily newspaper,41.0594,28.9869,reviewed: Istanbul district → city
+no,TR,Vatan,,,http://www.gazetevatan.com,tr,daily,2,,,Q763682,7,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,TR,Star Gazetesi,İstanbul,,https://www.star.com.tr/,tr,daily,2,,,Q6082816,7,newspaper,41.0219,28.7772,reviewed: Istanbul district → city
+no,TR,Güneş,,,https://www.gunes.com/,tr,daily,2,,,Q1560226,7,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,TR,Yeni Akit,İstanbul,,http://www.yeniakit.com.tr/,tr,daily,3,,,Q6077569,6,newspaper,41.0100,28.9603,reviewed: above the per-city cap
+yes,TR,Yeniçağ,İstanbul,,https://www.yenicaggazetesi.com.tr/,tr,daily,3,,,Q3572167,5,newspaper,41.0100,28.9603,reviewed: above the per-city cap
+no,TR,Takvim Gazetesi,,,http://www.takvim.com.tr/,tr,daily,3,,,Q6062948,5,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,TR,Diken,İstanbul,,http://www.diken.com.tr/,tr,online,3,,,Q21524993,5,online newspaper,41.0100,28.9603,reviewed: above the per-city cap; not pre-selected: magazine/online below tier 1
+no,TR,T24,İstanbul,,https://t24.com.tr,tr,online,3,,,Q21525554,5,online newspaper; news website,41.0319,28.9761,reviewed: regional outlet without a reachable feed – replaced; language from country default; not pre-selected: magazine/online below tier 1
+yes,TR,Yeni Asır,İzmir,,https://www.yeniasir.com.tr/,tr,daily,3,,,Q2600054,4,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,TR,"Bugün (gazete, 2005)",,,http://www.bugun.com.tr/,tr,daily,3,,,Q1002600,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,TR,Odatv,,,http://odatv.com/,tr,online,3,,,Q7004862,4,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,TR,Dünya gazetesi,İstanbul,,https://www.dunya.com/,tr,daily,3,,,Q6049627,4,newspaper,41.0100,28.9603,reviewed: above the per-city cap
+yes,TR,Karar Gazetesi,İstanbul,,http://www.karar.com/,tr,daily,3,,,Q28607198,3,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,TR,Eskişehir haber,,,https://gazetebanka.com/,tr,online,3,,,Q110269682,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,AMK,,,https://amkspor.sozcu.com.tr/,tr,daily,3,,,Q6039562,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,TR,Veryansın TV,,,https://www.veryansintv.com,tr,online,3,,,Q120395570,2,organization; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,TR,Türkiye Ticaret Sicili Gazetesi,,,https://www.ticaretsicil.gov.tr,tr,daily,3,,,Q12812343,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,TR,DAGonline,,,https://www.dagonline.nl/,nl,online,3,,,Q55478221,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,Ensonhaber,,,https://www.ensonhaber.com/,tr,online,3,,,Q109316392,1,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,Türkiye Today,,,https://www.turkiyetoday.com/,en,online,3,,,Q135087692,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,Gundemhaberim.com,Kayseri,,https://www.gundemhaberim.com/,tr,daily,3,,,Q116784424,0,newspaper,38.7225,35.4875,reviewed: regional outlet without a reachable feed – replaced
+yes,TR,Çağdaş Burdur Gazetesi,Burdur,,https://www.cagdasburdur.com/,tr,daily,3,,,Q140132082,0,newspaper,37.4239,30.0844,
+no,TR,Medya Yenigün,Adana,,https://www.medyayenigun.net/,tr,daily,3,,,Q140466248,0,newspaper; online newspaper,37.3683,35.7061,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
+no,TR,Çağdaş Kocaeli,Kocaeli,,https://cagdaskocaeli.com.tr/,tr,daily,3,,,Q138610686,0,newspaper; online newspaper,40.7644,29.9450,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
+no,TR,Gazete Yenigün,İzmir,,https://www.gazeteyenigun.com.tr/,tr,daily,3,,,Q135649565,0,online newspaper; newspaper,38.4127,27.1384,"reviewed: regional outlet without a reachable feed – replaced; language from country default; types: daily, online"
+no,TR,Kocaeli Tanık Gazetesi,İzmit,,https://www.kocaelitanik.com/,tr,online,3,,,Q141205634,0,online newspaper,40.7719,29.9498,not pre-selected: magazine/online below tier 1
+no,TR,BurdurPlus,Burdur,,https://burdurplus.com,tr,online,3,,,Q141460104,0,online newspaper,37.7167,30.2833,not pre-selected: magazine/online below tier 1
+no,TR,Haber.com,İstanbul,,https://www.haber.com/,tr,online,3,,,Q85971100,0,news website; website; online newspaper,41.0100,28.9603,not pre-selected: magazine/online below tier 1
+no,TR,haber365.com.tr,İstanbul,,https://www.haber365.com.tr/,tr,online,3,,,Q107020245,0,news website; news aggregation website; online newspaper,41.0100,28.9603,not pre-selected: magazine/online below tier 1
+no,TR,Litros Sanat,,,https://www.litrossanat.com,tr,online,3,,,Q121331669,0,online newspaper; periodical,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,TGRT Haber,İstanbul,,https://www.tgrthaber.com/,tr,online,3,,,Q123908496,0,news website; website; online newspaper; news broadcasting,41.0100,28.9603,not pre-selected: magazine/online below tier 1
+no,TR,Medyabar,Sakarya,,https://medyabar.com/,tr,online,3,,,Q124759824,0,news website; online newspaper,40.7778,30.4028,not pre-selected: magazine/online below tier 1
+no,TR,haberjet.com,İstanbul,,https://www.haberjet.com/,tr,online,3,,,Q126008638,0,news website; website; online newspaper,41.0100,28.9603,not pre-selected: magazine/online below tier 1
+no,TR,marmarismanset.com,Marmaris,,https://marmarismanset.com,tr,online,3,,,Q131462551,0,website; news website; online newspaper,36.8564,28.2711,not pre-selected: magazine/online below tier 1
+no,TR,Yenisokegazetesi.com,Aydın,,https://yenisokegazetesi.com/,tr,online,3,,,Q131842130,0,online newspaper; website; news website,37.8481,27.8453,not pre-selected: magazine/online below tier 1
+no,TR,Kocaelikoz.com,Kocaeli,,https://www.kocaelikoz.com/,tr,online,3,,,Q132895128,0,news website; website; online newspaper,40.7644,29.9450,not pre-selected: magazine/online below tier 1
+no,TR,caninsesi.com.tr,Çanakkale,,https://www.caninsesi.com.tr/,tr,online,3,,,Q133875099,0,news website; website; online newspaper,40.1506,26.4111,not pre-selected: magazine/online below tier 1
+no,TR,yenialanya.com,Alanya,,https://www.yenialanya.com/,tr,online,3,,,Q134405382,0,online newspaper; news website,36.5436,31.9997,not pre-selected: magazine/online below tier 1
+no,TR,Sakarya Son Dakika,Sakarya,,https://www.sakaryasondakika.com/,tr,online,3,,,Q134581281,0,news website; website; online newspaper,40.6972,30.4567,not pre-selected: magazine/online below tier 1
+no,TR,Günebakış,Trabzon,,https://www.gunebakis.com.tr,tr,online,3,,,Q135416520,0,online newspaper; news website,41.0050,39.7225,language from country default; not pre-selected: magazine/online below tier 1
+no,TR,Karadeniz Bayrak Gazetesi,,,https://www.karadenizbayrak.com/,tr,online,3,,,Q137053226,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,İstemersin,Mersin,,https://www.istemersin.com/,tr,online,3,,,Q137660953,0,online newspaper,36.8000,34.6167,not pre-selected: magazine/online below tier 1
+no,TR,Memur Haber 365,Antalya,,https://www.memurhaber365.com,tr,online,3,,,Q138001559,0,news website; online newspaper,36.9081,30.6956,not pre-selected: magazine/online below tier 1
+no,TR,izmirgundem.com,,,https://izmirgundem.com,tr,online,3,,,Q138819594,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,TR,Pusula-App,İstanbul,,https://pusula-app.com,tr,online,3,,,Q139574813,0,digital media; online newspaper,41.0100,28.9603,not pre-selected: magazine/online below tier 1
+no,TR,Türkçe,,,https://www.haberlerver.com,tr,online,3,,,Q139849742,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,TRT Español,,,https://www.trtespanol.com,es,online,3,,,Q125631234,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,Webtekno,,,https://www.webtekno.com,tr,online,3,,,Q134277841,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,Serbestiyet,,,https://serbestiyet.com,tr,online,3,,,Q135270180,0,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,Harici,,,https://harici.com.tr,tr,online,3,,,Q138610500,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,TR,Yeşil Gazete,,,https://yesilgazete.org,tr,online,3,,,Q138818903,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TR,Attalos Haber,,,https://attalosgzt.blogspot.com/,tr,online,3,,,Q139032157,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,TR,Gündem Sivas,,,https://www.gundemsivas.com,tr,online,3,,,Q140277868,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,TR,Haber Kocaeli,Kocaeli,,https://haberkocaeli.com,tr,online,3,,,Q141082016,0,news website,40.7644,29.9450,not pre-selected: magazine/online below tier 1
+no,TR,TAMGA Haber,,,https://tamgahaber.com/,tr,online,3,,,Q141281999,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,TR,Fethiye TV,,,https://www.fethiyetv.com,tr,online,3,,,Q141331804,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,TR,TRT Deutsch,,,https://www.trtdeutsch.com/,tr,online,3,,,Q72810636,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

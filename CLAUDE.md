@@ -84,6 +84,7 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler au
 │  ├─ build_sources.py
 │  ├─ discover_feeds.py
 │  ├─ fetch_headlines.py
+│  ├─ import_wikidata.py, refill_regional.py, check_feeds.py   (weltweiter Ausbau)
 │  └─ requirements.txt
 ├─ public/
 │  └─ data/                     generiert, nicht in `main` – kommt vom Branch `data` (`npm run data`)
@@ -377,6 +378,15 @@ Ziel: von ~150 Medien in Europa zu einigen Tausend weltweit – ohne die Prinzip
 - `drop` hält jetzt auch den Platz in der Stadt-Höchstzahl (vorher rückte das nächste Medium derselben Stadt nach).
 - `skip_pattern` erstmals genutzt (Amandala: Ausgabe-Einträge überspringen).
 - Rechtslage: Brasilien diskutiert Vergütung journalistischer Inhalte (PL 2.370) nur für große Plattformen (> 2 Mio. Nutzer); Titel + Link unberührt.
+
+**Welle 3 (Nahost & Nordafrika, plus Ausbau Türkei) – übernommen 2026-10-06:** 113 neue Medien aus 20 Ländern (TR 17, IL 12, EG 11, IR 10, SA 10, DZ 8, …), davon 92 mit Feed; die 21 ohne Feed sind Tier 1/2 (u. a. Al-Ahram, El Watan, L'Orient-Le Jour). Jemen ohne Medium (keine brauchbaren Kandidaten). Erkenntnisse:
+- **Lateinische Umschrift** für Namen und Städte, wie in `europe.csv` (Kathimerini, Athina): Ist die Wikidata-Bezeichnung in der Sprache des Mediums nicht lateinisch, gilt die englische (Al-Ahram, Cairo – nicht „Le Caire“). Medien ganz ohne lateinische Bezeichnung werden nicht aufgenommen.
+- Wikidata-Ort = das Land selbst („Israel“) zählt als **kein Ort** – sonst landete der Marker im Landesmittelpunkt (Negev).
+- 20 Medien `state`, Beleg jeweils Wikipedia: staatliche Presse in Ägypten, Algerien, Tunesien, Syrien; Iran (Kayhan, Ettela'at – Vertreter des Revolutionsführers; Hamshahri – Stadt Teheran; Jaam-e Jam – IRIB; Tehran Times); VAE (Abu Dhabi Media, Dubai Media); Al-Hayat al-Jadida (PA); Al Ra'i/Jordan Times (Mehrheit beim staatlichen Sozialfonds); Al-Sabah (Iraqi Media Network). „Regierungsnah“ ohne Eigentum (z. B. Youm7) bleibt ungekennzeichnet (offene Entscheidung).
+- Armenische und jüdische Gemeindeblätter (Beirut, Istanbul, Teheran, Kairo) wie Diaspora-Blätter ausgeschlossen. Amtsblätter (Resmî Gazete, Um Al-Qura) ausgeschlossen.
+- Handliste `data/seed/mena_manual.csv` (Irak, Libyen, große saudische Blätter, Maariv, Al-Quds …). Asharq Al-Awsat erscheint in London (`city_country` GB, ohne `exile`). Al-Quds (Jerusalem) per Koordinaten-Hinweis Palästina zugeordnet.
+- Schriften: Noto Naskh Arabic und Noto Serif Hebrew (Fontsource, `unicode-range` → nur geladen, wenn solche Zeichen erscheinen). Für arabische Schrift und Hebräisch keine Sperrung (zerstört Buchstabenverbindungen), für Arabisch Zeilenhöhe 1,55.
+- `scripts/refill_regional.py` ersetzt Tier-3-Medien ohne Feed rundenweise (vorher Einmal-Skript).
 
 Jede Welle mit derselben Abnahme wie Phase 1/2 (Report geprüft, eine Woche Laufbetrieb) plus Schrift- und Übersetzungstest:
 1. Nordamerika & Ozeanien (Englisch, viele Feeds)

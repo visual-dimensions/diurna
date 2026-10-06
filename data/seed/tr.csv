@@ -1,0 +1,18 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+TR,Milliyet,İstanbul,,https://www.milliyet.com.tr/,tr,daily,1,,,41.0344,28.8569
+TR,Yeni Şafak,İstanbul,,http://www.yenisafak.com,tr,daily,1,,,41.0481,28.9003
+TR,Hürriyet Daily News,İstanbul,,https://www.hurriyetdailynews.com/,en,daily,2,,,,
+TR,Türkiye Gazetesi,İstanbul,,http://www.turkiyegazetesi.com.tr,tr,daily,2,,,41.0093,28.8149
+TR,Akşam,İstanbul,,http://www.aksam.com.tr/,tr,daily,2,,,41.0100,28.9603
+TR,Evrensel,İstanbul,,https://www.evrensel.net/,tr,daily,2,,,39.0000,36.0000
+TR,Daily Sabah,İstanbul,,http://www.dailysabah.com,en,daily,2,,,41.0100,28.9603
+TR,Gazete Habertürk,İstanbul,,https://www.haberturk.com,tr,daily,2,,,41.0319,28.9761
+TR,BirGün,İstanbul,,http://www.birgun.net/,tr,daily,2,,,41.0594,28.9869
+TR,Star Gazetesi,İstanbul,,https://www.star.com.tr/,tr,daily,2,,,41.0219,28.7772
+TR,Yeni Akit,İstanbul,,http://www.yeniakit.com.tr/,tr,daily,3,,,41.0100,28.9603
+TR,Yeniçağ,İstanbul,,https://www.yenicaggazetesi.com.tr/,tr,daily,3,,,41.0100,28.9603
+TR,Diken,İstanbul,,http://www.diken.com.tr/,tr,online,3,,,41.0100,28.9603
+TR,Yeni Asır,İzmir,,https://www.yeniasir.com.tr/,tr,daily,3,,,,
+TR,Dünya gazetesi,İstanbul,,https://www.dunya.com/,tr,daily,3,,,41.0100,28.9603
+TR,Karar Gazetesi,İstanbul,,http://www.karar.com/,tr,daily,3,,,,
+TR,Çağdaş Burdur Gazetesi,Burdur,,https://www.cagdasburdur.com/,tr,daily,3,,,37.4239,30.0844

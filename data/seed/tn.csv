@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+TN,La Presse de Tunisie,Tunis,,http://www.lapresse.tn/,fr,daily,2,state,https://en.wikipedia.org/wiki/La_Presse_de_Tunisie,,
+TN,Assabah,Tunis,,http://www.assabah.com.tn/,ar,daily,2,,,,
+TN,Le Temps,Tunis,,https://www.letemps.news/,fr,daily,3,,,,
+TN,L'Économiste maghrébin,Tunis,,https://www.leconomistemaghrebin.com/,fr,daily,3,,,,
+TN,Tunisie Numerique,Tunis,,https://www.tunisienumerique.com,ar,online,3,,,,

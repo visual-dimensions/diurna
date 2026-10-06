@@ -1,0 +1,18 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+EG,Al-Shorouk,Cairo,,https://www.shorouknews.com,ar,daily,2,,,,
+IL,Maariv,Tel Aviv,,https://www.maariv.co.il,he,daily,1,,,,
+LB,Al-Akhbar,Beirut,,https://www.al-akhbar.com,ar,daily,2,,,,
+LY,Libya Herald,Tripoli,,https://libyaherald.com,en,online,2,,,,
+IQ,Al-Sabah,Baghdad,,https://alsabaah.iq,ar,daily,1,state,https://en.wikipedia.org/wiki/Al-Sabah_(Iraq),,
+IQ,Al-Mada,Baghdad,,https://almadapaper.net,ar,daily,2,,,,
+IQ,Shafaq News,Baghdad,,https://shafaq.com,ar,online,3,,,,
+PS,Al-Quds,Jerusalem,,https://www.alquds.com,ar,daily,2,,,31.7833,35.2333
+SA,Asharq Al-Awsat,London,GB,https://aawsat.com,ar,daily,1,,,,
+SA,Al Jazirah,Riyadh,,https://www.al-jazirah.com,ar,daily,2,,,,
+SA,Al-Madina,Jeddah,,https://www.al-madina.com,ar,daily,3,,,,
+SA,Al-Eqtisadiah,Riyadh,,https://www.aleqt.com,ar,daily,3,,,,
+SA,Al-Watan,Abha,,https://www.alwatan.com.sa,ar,daily,3,,,,
+QA,The Peninsula,Doha,,https://thepeninsulaqatar.com,en,daily,2,,,,
+QA,Al Sharq,Doha,,https://al-sharq.com,ar,daily,2,,,,
+OM,Times of Oman,Muscat,,https://timesofoman.com,en,daily,2,,,,
+KW,Al-Rai,Kuwait City,,https://www.alraimedia.com,ar,daily,2,,,,

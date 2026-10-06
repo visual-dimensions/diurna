@@ -39,3 +39,7 @@ eltiempo-co,https://www.eltiempo.com/rss/colombia.xml,latest,"national section; 
 diariopuntal,https://www.puntal.com.ar/rss/pages/home.xml,top,"home page feed"
 gazetadopovo,https://www.gazetadopovo.com.br/feed/rss/ultimas-noticias.xml,latest,
 amandala,https://amandala.com.bz/news/feed/,latest,"skip_pattern drops issue entries"
+yediothahronoth,https://www.ynet.co.il/Integration/StoryRss2.xml,latest,"ynet (Yedioth's news site) news feed"
+milliyet,https://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml,latest,"breaking-news feed"
+aljazirah,https://www.al-jazirah.com/rss/ln.xml,latest,"latest-news feed"
+youm7,https://www.youm7.com/rss/SectionRss?SectionID=97,latest,"general news section; items undated"

@@ -1,0 +1,11 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+EG,Al-Ahram,Cairo,,https://ahram.org.eg,ar,daily,1,state,https://en.wikipedia.org/wiki/Al-Ahram,30.0444,31.2358
+EG,Youm7,Giza,,https://www.youm7.com/,ar,daily,2,,,29.9870,31.2118
+EG,Mada Masr,Cairo,,https://www.madamasr.com/,ar,online,2,,,30.0444,31.2358
+EG,Daily News Egypt,Giza,,https://www.dailynewsegypt.com,en,daily,2,,,29.9870,31.2118
+EG,Al Gomhuria,Cairo,,https://algomhuria.gomhuriaonline.com,ar,daily,2,state,https://en.wikipedia.org/wiki/Al_Gomhuria,27.0000,29.0000
+EG,Akhbar el-Yom,Cairo,,https://akhbarelyom.com/,ar,daily,2,state,https://en.wikipedia.org/wiki/Akhbar_el-Yom,30.0444,31.2358
+EG,Egypt Independent,Cairo,,https://egyptindependent.com/,en,daily,3,,,30.0444,31.2358
+EG,El Watan News,Cairo,,https://www.elwatannews.com/,ar,daily,3,,,,
+EG,Masrawy,Cairo,,https://www.masrawy.com/,ar,online,3,,,,
+EG,Veto,Cairo,,https://www.vetogate.com/,ar,daily,3,,,30.0444,31.2358

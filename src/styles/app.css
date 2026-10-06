@@ -937,6 +937,17 @@ body[data-view='list'] .topbar::before {
   overflow: hidden;
 }
 
+/* Arabic script (Arabic, Persian, Urdu, …) and Hebrew: no tracking – it would break cursive joining –
+   and more line height for Naskh's tall ascenders and descenders. */
+:is(.card__headline, .livebar__headline, .ambient-label__headline):is(:lang(ar), :lang(fa), :lang(ur), :lang(ps), :lang(ckb), :lang(he), :lang(yi)) {
+  letter-spacing: 0;
+  hyphens: manual;
+}
+
+.card__headline:is(:lang(ar), :lang(fa), :lang(ur), :lang(ps), :lang(ckb)) {
+  line-height: 1.55;
+}
+
 .card--l1 .card__headline {
   color: var(--paper-2);
 }

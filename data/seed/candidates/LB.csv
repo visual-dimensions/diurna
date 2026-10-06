@@ -1,0 +1,14 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,LB,An-Nahar,Beirut,,https://www.annahar.com,ar,daily,1,,,Q285097,16,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,LB,L'Orient-Le Jour,Beyrouth,,https://www.lorientlejour.com/,fr,daily,2,,,Q1788906,12,daily newspaper,33.8869,35.5131,
+no,LB,Ararad,Beirut,,https://araraddaily.com,hy,daily,2,,,Q4068569,7,newspaper,33.8869,35.5131,reviewed: community paper (Armenian)
+no,LB,Al-Masdar News,,,http://www.almasdarnews.com/,ar,online,2,,,Q27954482,7,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,LB,Aztag,Beirut,,http://www.aztagdaily.com,hy,daily,2,,,Q4832922,6,newspaper,33.8869,35.5131,reviewed: community paper (Armenian)
+no,LB,Al-Ahed,,,https://www.alahednews.com.lb/,ar,daily,3,,,Q106281209,5,website; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,LB,Zartonk,Beirut,,https://zartonkdaily.net,hy,daily,3,,,Q8066927,4,daily newspaper,33.8869,35.5131,reviewed: community paper (Armenian)
+no,LB,Al Joumhouria,Beirut,,http://www.aljoumhouria.com/,ar,daily,3,,,Q4704165,2,newspaper,33.8869,35.5131,reviewed: regional outlet without a reachable feed – replaced
+no,LB,Daraj Media,,,https://daraj.com,ar,online,3,,,Q97312340,2,online magazine; media company; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,LB,FA Lebanon,,,https://www.falebanon.com/,ar,online,3,,,Q78173162,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,LB,Al-Modon,Beirut,,https://www.almodon.com/portal,ar,online,3,,,Q127101587,0,newspaper,33.8869,35.5131,reviewed: above the per-city cap
+no,LB,Sobhiye Daily,Beirut,,https://sobhiye.news,en,online,3,,,Q139831871,0,newsletter; online newspaper,33.8869,35.5131,not pre-selected: magazine/online below tier 1
+no,LB,Megaphone news,,,https://megaphone.news/,ar,online,3,,,Q97060897,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

@@ -613,3 +613,166 @@ BR,Q131722519,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub
 DO,Q139254993,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
 CL,Q10695465,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
 BR,Q140836488,drop,,,,,,,"trade paper (agribusiness), no feed"
+MA,Q12249940,yes,Rabat,,2,online,,,place filled in; leading news site
+MA,Q1115018,yes,Casablanca,,2,magazine,,,place filled in
+MA,Q4808310,yes,,ar,3,,,,language: Arabic
+MA,Q3205237,yes,,,3,,,,above the per-city cap
+MA,Q4703448,yes,,,3,,,,above the per-city cap
+DZ,Q28055931,yes,Algiers,,2,,state,https://en.wikipedia.org/wiki/El_Moudjahid,Wikidata place is the country; public (state-owned) press
+DZ,Q2529832,yes,Algiers,,1,,,,place filled in
+DZ,Q617296,yes,Algiers,,2,,,,place filled in
+DZ,Q3226206,yes,Oran,,2,,,,place filled in
+DZ,Q3227244,yes,Algiers,,2,,,,place filled in
+DZ,Q676608,yes,Tizi Ouzou,,3,,,,place filled in
+DZ,Q3046937,yes,Algiers,,3,,state,https://en.wikipedia.org/wiki/Ech_Chaab,place filled in; public (state-owned) press
+DZ,Q3050061,yes,Algiers,,3,,state,https://en.wikipedia.org/wiki/El_Massa,place filled in; public (state-owned) press
+DZ,Q3140562,yes,Algiers,,3,,state,https://en.wikipedia.org/wiki/Horizons_(newspaper),place filled in; public (state-owned) press
+DZ,Q482344,yes,Constantine,,3,,state,https://en.wikipedia.org/wiki/An_Nasr_(Algeria),place filled in; public (state-owned) press
+DZ,Q3054447,yes,Algiers,,3,,,,place filled in
+DZ,Q3203408,yes,Algiers,,3,,,,place filled in
+DZ,Q5351158,yes,,,,,state,https://en.wikipedia.org/wiki/El_Djoumhouria,public (state-owned) press
+DZ,Q3237831,no,,,,,,,ceased publication in 2022
+TN,Q375527,yes,Tunis,,2,,state,https://en.wikipedia.org/wiki/La_Presse_de_Tunisie,place filled in; state-owned (SNIPE)
+TN,Q2866932,yes,Tunis,,2,,,,place filled in
+TN,Q3227555,yes,Tunis,,3,,,,place filled in
+TN,Q12189349,yes,Tunis,,3,,state,https://en.wikipedia.org/wiki/La_Presse_de_Tunisie,"place filled in; state-owned (SNIPE, publisher of La Presse)"
+TN,Q106978471,yes,Tunis,,3,,,,place filled in
+TN,Q140519314,yes,Tunis,,3,online,,,place filled in
+EG,Q286468,yes,,,,,state,https://en.wikipedia.org/wiki/Al-Ahram,state-owned (National Press Authority)
+EG,Q4116126,yes,Cairo,,,,state,https://en.wikipedia.org/wiki/Al_Gomhuria,Wikidata place is the country; state-owned
+EG,Q4116122,yes,,,,,state,https://en.wikipedia.org/wiki/Akhbar_el-Yom,state-owned
+EG,Q4992538,no,,,,,,,diaspora paper (Armenian)
+EG,Q132058274,no,,,,,,,sports paper
+EG,Q107296845,no,,,,,,,no Latin-script name; place is a governorate
+EG,Q16486302,yes,,,2,online,,,independent news site
+EG,Q17063675,yes,,,3,,,,above the per-city cap
+EG,Q2829328,yes,,,3,,,,above the per-city cap
+EG,Q12213878,yes,,,3,,state,https://en.wikipedia.org/wiki/Rose_al-Yusuf,state-owned; above the per-city cap
+EG,Q12205286,yes,Cairo,,3,,,,place filled in
+EG,Q6783942,yes,Cairo,,3,online,,,place filled in
+EG,Q12231503,yes,,,3,,,,above the per-city cap
+EG,Q12205249,no,,,,,,,Wikidata homepage wrong – in mena_manual.csv
+SD,Q4703263,yes,Khartoum,,,,,,Wikidata place is the country
+SD,Q134291131,yes,Khartoum,,,,,,Wikidata place is the country
+SD,Q134538794,yes,Khartoum,,,,,,Wikidata place is the country
+IL,Q216393,yes,Tel Aviv,,1,,,,place filled in
+IL,Q35438,yes,Jerusalem,en,,daily,,,Wikidata place is the country
+IL,Q6449319,yes,,en,,,,,language: English
+IL,Q1632726,yes,Tel Aviv,,,,,,Wikidata place is the country
+IL,Q741891,yes,Haifa,,,,,,Wikidata place is the country
+IL,Q2912134,yes,Nazareth,,3,,,,Wikidata place is the country
+IL,Q14333638,no,,,,,,,unclear outlet (US domain)
+IL,Q12410440,no,,,,,,,no Latin-script name
+IL,Q6124655,no,,,,,,,community paper (Spanish-language)
+IL,Q6748492,no,,,,,,,weekly supplement – Maariv in mena_manual.csv
+PS,Q2898468,yes,,,,,state,https://en.wikipedia.org/wiki/Al-Hayat_al-Jadida,owned by the Palestinian Authority
+LB,Q285097,yes,Beirut,,1,,,,place filled in
+LB,Q4068569,no,,,,,,,community paper (Armenian)
+LB,Q4832922,no,,,,,,,community paper (Armenian)
+LB,Q8066927,no,,,,,,,community paper (Armenian)
+LB,Q4704165,yes,,,3,,,,above the per-city cap
+LB,Q127101587,yes,,,3,online,,,above the per-city cap
+SY,Q292171,yes,,,,,state,https://en.wikipedia.org/wiki/Al-Thawra_(Syria),state-owned
+SY,Q20391493,yes,,,,,state,https://en.wikipedia.org/wiki/Al-Wehda_Foundation,state-owned (al-Wehda press foundation)
+SY,Q12219828,yes,Aleppo,,3,,state,https://en.wikipedia.org/wiki/Al-Wehda_Foundation,place filled in; state-owned (al-Wehda press foundation)
+SY,Q12219843,yes,Homs,,3,,state,https://en.wikipedia.org/wiki/Al-Wehda_Foundation,place filled in; state-owned (al-Wehda press foundation)
+SY,Q22080795,yes,,,3,online,,,independent outlet
+JO,Q4704674,yes,,,2,,state,https://en.wikipedia.org/wiki/Al_Rai_(Jordan),majority held by the state Social Security Corporation
+JO,Q7743519,yes,,,,,state,https://en.wikipedia.org/wiki/The_Jordan_Times,"published by the Jordan Press Foundation (Al Rai), state majority"
+JO,Q16203499,yes,Amman,,3,online,,,place filled in
+JO,Q97164221,no,,,,,,,news aggregator
+JO,Q124335263,no,,,,,,,broadcaster
+SA,Q6808828,no,,,,,,,official gazette
+KW,Q4702198,yes,Kuwait City,,3,,,,place filled in
+BH,Q310130,no,,,,,,,closed by the government in 2017
+BH,Q4700704,yes,Manama,,2,,,,place filled in
+BH,Q18162929,yes,Manama,,3,,,,place filled in
+BH,Q4703331,yes,Manama,,3,,,,place filled in
+QA,Q4727585,no,,,,,,,broadcaster
+AE,Q1579995,yes,Dubai,,2,,,,place filled in
+AE,Q686585,yes,Abu Dhabi,,2,,state,https://en.wikipedia.org/wiki/Al_Ittihad_(Emirati_newspaper),place filled in; owned by Abu Dhabi Media (government)
+AE,Q17521121,yes,,,,,state,https://en.wikipedia.org/wiki/Al_Bayan_(Emirati_newspaper),owned by Dubai Media Incorporated (government)
+AE,Q5369234,no,,,,,,,Wikidata homepage wrong
+AE,Q114891288,no,,,,,,,business offshoot of Erem News
+OM,Q6940222,yes,Muscat,,3,,,,place filled in
+OM,Q135491671,yes,Muscat,,3,,,,place filled in
+IR,Q1371762,yes,Tehran,,,,state,https://en.wikipedia.org/wiki/Ettela'at,Wikidata place is a building; run by a representative of the Supreme Leader
+IR,Q1468962,yes,,,,,state,https://en.wikipedia.org/wiki/Kayhan,run by a representative of the Supreme Leader
+IR,Q1574046,yes,,,,,state,https://en.wikipedia.org/wiki/Hamshahri,owned by the Tehran Municipality
+IR,Q10859757,yes,Tehran,,,,,,Wikidata place is the country
+IR,Q2364877,yes,Tehran,en,,,,,Wikidata place is the country
+IR,Q2836909,no,,,,,,,community paper (Armenian)
+IR,Q125896894,no,,,,,,,no Latin-script name
+IR,Q2708943,yes,Tehran,,1,,state,https://en.wikipedia.org/wiki/Tehran_Times,place filled in; owned by the Islamic Propagation Organization
+IR,Q532925,yes,Tehran,,2,,state,https://en.wikipedia.org/wiki/Jaam-e_Jam_(newspaper),place filled in; published by the state broadcaster IRIB
+IR,Q4819149,yes,Tehran,,2,,,,place filled in
+IR,Q7314924,yes,,,3,,,,above the per-city cap
+IR,Q10859569,yes,,,3,,,,above the per-city cap
+IR,Q20110716,yes,,en,3,,,,English-language; above the per-city cap
+IR,Q5643820,yes,Tehran,,3,,,,place filled in
+TR,Q1531422,no,,,,,,,official gazette
+TR,Q21202,no,,,,,,,community paper (Jewish)
+TR,Q1548769,no,,,,,,,community paper (Armenian)
+TR,Q2607282,no,,,,,,,community paper (Armenian)
+TR,Q568226,yes,İstanbul,,,,,,"Istanbul district → city, as in europe.csv"
+TR,Q1815813,yes,İstanbul,,,,,,Istanbul district → city
+TR,Q327799,yes,İstanbul,,,,,,Istanbul district → city
+TR,Q1149161,yes,İstanbul,,,,,,Wikidata place is the country
+TR,Q5636741,yes,İstanbul,,,,,,Istanbul district → city
+TR,Q864960,yes,İstanbul,,,,,,Istanbul district → city
+TR,Q6082816,yes,İstanbul,,,,,,Istanbul district → city
+TR,Q1507755,yes,İstanbul,en,2,,,,place filled in
+TR,Q424791,yes,,,2,,,,above the per-city cap
+TR,Q18639164,yes,,en,2,,,,above the per-city cap
+TR,Q6077569,yes,,,3,,,,above the per-city cap
+TR,Q3572167,yes,,,3,,,,above the per-city cap
+TR,Q6049627,yes,,,3,,,,above the per-city cap
+TR,Q28607198,yes,İstanbul,,3,,,,place filled in
+TR,Q21524993,yes,,,3,online,,,above the per-city cap
+TR,Q21525554,yes,İstanbul,,3,online,,,above the per-city cap
+TR,Q2600054,yes,İzmir,,3,,,,place filled in
+IL,Q6039750,yes,Nazareth,,,,,,Wikidata place is the country
+IL,Q6591457,no,,,,,,,Wikidata place is the country; small party paper
+IL,Q16129534,no,,,,,,,Wikidata place is the country
+EG,Q89598968,drop,,,,,,,"place is a governorate, not a city"
+AE,Q278458,yes,Dubai,,,,,,Wikidata place is the emirate
+IL,Q1987800,drop,,,,,,,site now redirects to the Hebrew ynet – no own content
+AE,Q12205257,no,,,,,,,regional outlet without a reachable feed – replaced
+BH,Q4703331,no,,,,,,,regional outlet without a reachable feed – replaced
+DZ,Q676608,no,,,,,,,regional outlet without a reachable feed – replaced
+DZ,Q3046937,no,,,,,,,regional outlet without a reachable feed – replaced
+DZ,Q3050061,no,,,,,,,regional outlet without a reachable feed – replaced
+DZ,Q3140562,no,,,,,,,regional outlet without a reachable feed – replaced
+DZ,Q482344,no,,,,,,,regional outlet without a reachable feed – replaced
+DZ,Q3203408,no,,,,,,,regional outlet without a reachable feed – replaced
+EG,Q2829328,no,,,,,,,regional outlet without a reachable feed – replaced
+EG,Q4118565,no,,,,,,,regional outlet without a reachable feed – replaced
+EG,Q12213878,no,,,,,,,regional outlet without a reachable feed – replaced
+IL,Q2912134,no,,,,,,,regional outlet without a reachable feed – replaced
+IR,Q20110716,no,,,,,,,regional outlet without a reachable feed – replaced
+IR,Q2364877,no,,,,,,,regional outlet without a reachable feed – replaced
+IR,Q31072156,no,,,,,,,regional outlet without a reachable feed – replaced
+KW,Q6448883,no,,,,,,,regional outlet without a reachable feed – replaced
+KW,Q4703049,no,,,,,,,regional outlet without a reachable feed – replaced
+KW,Q4767787,no,,,,,,,regional outlet without a reachable feed – replaced
+KW,Q4703148,no,,,,,,,regional outlet without a reachable feed – replaced
+LB,Q4704165,no,,,,,,,regional outlet without a reachable feed – replaced
+MA,Q3204559,no,,,,,,,regional outlet without a reachable feed – replaced
+MA,Q3205237,no,,,,,,,regional outlet without a reachable feed – replaced
+OM,Q6940222,no,,,,,,,regional outlet without a reachable feed – replaced
+OM,Q1319001,no,,,,,,,regional outlet without a reachable feed – replaced
+QA,Q12205246,no,,,,,,,regional outlet without a reachable feed – replaced
+SD,Q4703263,no,,,,,,,regional outlet without a reachable feed – replaced
+SD,Q134538794,no,,,,,,,regional outlet without a reachable feed – replaced
+SY,Q16169565,no,,,,,,,regional outlet without a reachable feed – replaced
+SY,Q292171,no,,,,,,,regional outlet without a reachable feed – replaced
+SY,Q12219843,no,,,,,,,regional outlet without a reachable feed – replaced
+TN,Q12189349,no,,,,,,,regional outlet without a reachable feed – replaced
+TR,Q21525554,no,,,,,,,regional outlet without a reachable feed – replaced
+TR,Q116784424,no,,,,,,,regional outlet without a reachable feed – replaced
+TR,Q140466248,no,,,,,,,regional outlet without a reachable feed – replaced
+TR,Q138610686,no,,,,,,,regional outlet without a reachable feed – replaced
+TR,Q135649565,no,,,,,,,regional outlet without a reachable feed – replaced
+AE,Q108857582,no,,,,,,,regional outlet without a reachable feed – replaced
+BH,Q3120741,no,,,,,,,regional outlet without a reachable feed – replaced
+IL,Q216393,yes,Tel Aviv,en,1,,,,place filled in; homepage is the English edition

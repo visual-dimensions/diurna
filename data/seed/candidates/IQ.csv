@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,IQ,Yeksani,,,https://www.yeksani.org,ku,online,3,,,Q110814753,1,LGBTQI online newspaper; transgender organization,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IQ,Badr Newspaper,,,http://badrnewspaper.com/,ku,daily,3,,,Q50309075,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IQ,Naba Iraq,,,https://nabalinks.com,ar,online,3,,,Q141641925,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

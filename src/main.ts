@@ -1,5 +1,8 @@
 import '@fontsource-variable/newsreader/opsz.css';
 import '@fontsource-variable/noto-serif/wght.css';
+// Arabic/Persian and Hebrew headlines – unicode-range subsets, only fetched when such text is shown.
+import '@fontsource-variable/noto-naskh-arabic/wght.css';
+import '@fontsource-variable/noto-serif-hebrew/wght.css';
 import '@fontsource-variable/inter/wght.css';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import './styles/tokens.css';

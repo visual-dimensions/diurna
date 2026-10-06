@@ -1,0 +1,39 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,DZ,El Moudjahid,Algiers,,http://www.elmoudjahid.com/,fr,daily,2,state,https://en.wikipedia.org/wiki/El_Moudjahid,Q28055931,9,newspaper,28.0000,1.0000,reviewed: Wikidata place is the country; public (state-owned) press; public (state-owned) press; public (state-owned) press
+no,DZ,Alger républicain,,,http://www.alger-republicain.com,fr,daily,2,,,Q2835699,8,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,El Khabar,Algiers,,https://www.elkhabar.com/,ar,daily,2,,,Q1324287,7,daily newspaper,36.7764,3.0586,
+yes,DZ,El Watan,Algiers,,http://www.elwatan.com/,fr,daily,1,,,Q2529832,7,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,DZ,Echorouk El Yawmi,Algiers,,http://www.echoroukonline.com/ara/english/index.1.html,ar,daily,2,,,Q617296,6,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,DZ,Le Quotidien d'Oran,Oran,,http://www.lequotidien-oran.com/,fr,daily,2,,,Q3226206,6,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,DZ,Le Soir d'Algérie,Algiers,,http://www.lesoirdalgerie.com,fr,daily,2,,,Q3227244,6,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,DZ,El heddaf,,,http://www.lebuteur.com,ar,daily,3,,,Q1653883,5,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,La Dépêche de Kabylie,Tizi Ouzou,,http://www.depechedekabylie.com/,fr,daily,3,,,Q676608,5,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Liberté,El Achour,,http://www.liberte-algerie.com/,fr,daily,3,,,Q3237831,5,daily newspaper; newspaper,36.7339,2.9919,reviewed: ceased publication in 2022
+no,DZ,Ech-Chaab,Algiers,,http://www.ech-chaab.com/ar/,ar,daily,3,state,https://en.wikipedia.org/wiki/Ech_Chaab,Q3046937,4,daily newspaper,,,reviewed: regional outlet without a reachable feed – replaced; public (state-owned) press; no place of publication/headquarters in Wikidata – fill in city
+no,DZ,El Massa,Algiers,,http://www.el-massa.com/,ar,daily,3,state,https://en.wikipedia.org/wiki/El_Massa,Q3050061,4,daily newspaper,,,reviewed: regional outlet without a reachable feed – replaced; public (state-owned) press; no place of publication/headquarters in Wikidata – fill in city
+yes,DZ,El Djoumhouria,Oran,,http://www.eldjoumhouria.dz/,ar,daily,3,state,https://en.wikipedia.org/wiki/El_Djoumhouria,Q5351158,4,newspaper,35.6969,-0.6331,reviewed: public (state-owned) press
+no,DZ,El Acil,,,http://www.elacil.com/,fr,daily,3,,,Q3049680,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,El Bilad,Algiers,,http://www.elbilad.net/,ar,daily,3,,,Q3049742,3,daily newspaper,36.7764,3.0586,
+no,DZ,Horizons,Algiers,,http://www.horizons-dz.com/,fr,daily,3,state,https://en.wikipedia.org/wiki/Horizons_(newspaper),Q3140562,3,daily newspaper,,,reviewed: regional outlet without a reachable feed – replaced; public (state-owned) press; no place of publication/headquarters in Wikidata – fill in city
+no,DZ,An-Nasr,Constantine,,https://www.annasronline.com/,ar,daily,3,state,https://en.wikipedia.org/wiki/An_Nasr_(Algeria),Q482344,3,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; public (state-owned) press; no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Le Temps d'Algérie,,,http://www.letempsdz.com/,fr,daily,3,,,Q3227554,3,daily newspaper; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,DZ,Ennahar newspaper,Algiers,,https://www.ennaharonline.com/,ar,daily,3,,,Q3054447,3,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Le Jeune Indépendant,,,http://www.jeune-independant.net/,fr,daily,3,,,Q3223621,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Le Matin,,,https://www.lematindz.net/,fr,daily,3,,,Q3224397,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,El Ayem El Djazairia,,,https://www.elayemdz.com/,ar,daily,3,,,Q5350789,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,La Tribune,,,http://www.latribune-online.com/,fr,daily,3,,,Q3213289,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,La Dépêche,,,http://www.depeche-dz.com,fr,daily,3,,,Q3208474,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Le Midi libre,,,http://www.lemidi-dz.com/,fr,daily,3,,,Q16653991,2,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,L'Expression,Algiers,,https://www.lexpression.dz/,fr,daily,3,,,Q3203408,2,daily newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Le Financier,,,http://www.lefinancier-dz.com,fr,daily,3,,,Q3222854,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Les Débats,,,http://www.lesdebats.com/,fr,daily,3,,,Q3232197,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Akhbar El Youm,,,http://akhbarelyoum-dz.com/,ar,daily,3,,,Q2828995,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Al Fadjr,,,https://alfadjr.dz/,ar,daily,3,,,Q2829323,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,Oran Républicain,,,https://gallica.bnf.fr/ark:/12148/cb32829423c/date,fr,daily,3,,,Q16668213,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,الجزائر نيوز,,,https://nn-algeria.dz/,ar,daily,3,,,Q12185528,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,وقت الجزائر,,,https://www.wakteldjazair.com/,ar,daily,3,,,Q16127333,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DZ,البصائر,,,https://elbassair.dz,ar,weekly,3,,,Q12184489,1,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,DZ,Jeunesse d'Algérie,Oran,,https://jeunessedalgerie.dz/,fr,daily,3,,,Q131619893,0,daily newspaper,35.6969,-0.6331,
+no,DZ,Algérie-éco,,,https://www.algerie-eco.com/,fr,online,3,,,Q120324945,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,DZ,Dia-Algérie,,,https://dia-algerie.com/,fr,online,3,,,Q120325212,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,DZ,Algérie 360,,,https://www.algerie360.com/,fr,online,3,,,Q120167298,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

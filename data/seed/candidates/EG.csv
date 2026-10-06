@@ -1,34 +1,33 @@
-include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,wd_lat,wd_lon,remark
-yes,EG,الأهرام,القاهرة,,https://ahram.org.eg,ar,daily,1,,,Q286468,29,30.0444,31.2358,
-yes,EG,اليوم السابع,الجيزة,,https://www.youm7.com/,ar,daily,2,,,Q4119059,8,29.9870,31.2118,
-yes,EG,مدى مصر,القاهرة,,https://www.madamasr.com/,ar,online,2,,,Q16486302,8,30.0444,31.2358,
-yes,EG,هوسابير,القاهرة,,https://www.alhwsabir.com,ar,daily,2,,,Q4992538,7,30.0444,31.2358,
-yes,EG,Daily News Egypt,Giza,,https://www.dailynewsegypt.com,en,daily,2,,,Q5209324,7,29.9870,31.2118,
-yes,EG,المصري اليوم,القاهرة,,https://www.almasryalyoum.com/,ar,daily,2,,,Q2829240,7,30.0444,31.2358,
-yes,EG,جريدة الجمهورية,مصر,,https://algomhuria.gomhuriaonline.com,ar,daily,2,,,Q4116126,7,27.0000,29.0000,
-yes,EG,أخبار اليوم,القاهرة,,https://akhbarelyom.com/,ar,daily,2,,,Q4116122,6,30.0444,31.2358,
-yes,EG,الدستور,القاهرة,,https://www.dostor.org/,ar,daily,2,,,Q4165433,6,30.0444,31.2358,language from country default
-yes,EG,المصور,القاهرة,,https://almussawar.darelhilal.com/,ar,daily,2,,,Q4118576,6,30.0444,31.2358,
-no,EG,masr alyoum,,,http://masr-alyoum.com/,en,magazine,2,,,Q5348337,6,,,no place of publication/headquarters in Wikidata – fill in city
-no,EG,الأهرام ويكلي,,,https://english.ahram.org.eg/,ar,daily,3,,,Q424967,5,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-yes,EG,جريدة الشروق,القاهرة,,https://www.infradplus.com/,ar,daily,3,,,Q12205249,5,30.0444,31.2358,
-yes,EG,Al-Ahram Hebdo,Le Caire,,https://french.ahram.org.eg/,fr,daily,3,,,Q2829199,4,30.0444,31.2358,
-yes,EG,الفجر,القاهرة,,https://www.elfagr.org,ar,daily,3,,,Q2829328,4,30.0444,31.2358,
-yes,EG,الوفد,الدقي,,https://www.alwafd.news/,ar,daily,3,,,Q4118565,4,30.0381,31.2111,
-no,EG,الأهالي,,,https://alahalygate.com/,ar,daily,3,,,Q18350715,4,,,no place of publication/headquarters in Wikidata – fill in city
-yes,EG,Egypt Independent,Cairo,,https://egyptindependent.com/,en,daily,3,,,Q17063675,4,30.0444,31.2358,
-no,EG,في الجول,,,https://www.filgoal.com/,ar,daily,3,,,Q5448251,3,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-yes,EG,الشعب,القاهرة,,http://www.elshaab.org/,ar,daily,3,,,Q4704790,3,30.0444,31.2358,
-no,EG,جريدة الوطن,,,https://www.elwatannews.com/,ar,daily,3,,,Q12205286,3,,,no place of publication/headquarters in Wikidata – fill in city
-no,EG,مصراوي,,,https://www.masrawy.com/,ar,online,3,,,Q6783942,3,,,no place of publication/headquarters in Wikidata – fill in city
-no,EG,جريدة المال,,,https://www.almalnews.com,ar,daily,3,,,Q12205263,2,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-yes,EG,روز اليوسف,القاهرة,,https://daily.rosaelyoussef.com/,ar,daily,3,,,Q12213878,2,30.0444,31.2358,
-yes,EG,صوت الأمة,القاهرة,,https://www.soutalomma.com/,ar,daily,3,,,Q12220357,2,30.0444,31.2358,
-yes,EG,فيتو,القاهرة,,https://www.vetogate.com/,ar,daily,3,,,Q12231503,2,30.0444,31.2358,
-no,EG,العهد,,,https://www.alahedgate.com/,ar,daily,3,,,Q108282993,2,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-yes,EG,كورة بلس,الجيزة,,https://koraplus.com/,ar,daily,3,,,Q132058274,1,29.9870,31.2118,
-no,EG,المصريون,,,https://www.almesryoon.com,ar,daily,3,,,Q124414980,1,,,no place of publication/headquarters in Wikidata – fill in city
-yes,EG,أبو الهول,القاهرة,,https://www.abou-alhool.com/,ar,daily,3,,,Q130244648,1,30.0444,31.2358,
-yes,EG,شباب مصر,القاهرة,,https://www.shababean.com,ar,daily,3,,,Q130244856,1,30.0444,31.2358,
-yes,EG,اخبارك,الدقهلية,,https://www.jaridatakhbarak.com,ar,daily,3,,,Q107296845,0,,,language from country default
-yes,EG,القليوبية أون لاين,محافظة القليوبية,,https://qaliobiaonline.com,ar,daily,3,,,Q89598968,0,30.4100,31.2100,
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,EG,Al-Ahram,Cairo,,https://ahram.org.eg,ar,daily,1,state,https://en.wikipedia.org/wiki/Al-Ahram,Q286468,29,daily newspaper; newspaper; periodical,30.0444,31.2358,reviewed: state-owned (National Press Authority)
+yes,EG,Youm7,Giza,,https://www.youm7.com/,ar,daily,2,,,Q4119059,8,newspaper; website,29.9870,31.2118,
+yes,EG,Mada Masr,Cairo,,https://www.madamasr.com/,ar,online,2,,,Q16486302,8,online newspaper,30.0444,31.2358,reviewed: independent news site; not pre-selected: magazine/online below tier 1
+no,EG,Al-Masry Al-Youm,Cairo,,https://www.almasryalyoum.com/,ar,daily,2,,,Q2829240,7,newspaper; daily newspaper,30.0444,31.2358,
+no,EG,Housaper,Cairo,,https://www.alhwsabir.com,ar,daily,2,,,Q4992538,7,newspaper; periodical,30.0444,31.2358,reviewed: diaspora paper (Armenian)
+yes,EG,Daily News Egypt,Giza,,https://www.dailynewsegypt.com,en,daily,2,,,Q5209324,7,newspaper,29.9870,31.2118,
+yes,EG,Al Gomhuria,Cairo,,https://algomhuria.gomhuriaonline.com,ar,daily,2,state,https://en.wikipedia.org/wiki/Al_Gomhuria,Q4116126,7,newspaper,27.0000,29.0000,reviewed: Wikidata place is the country; state-owned; state-owned; state-owned; state-owned
+yes,EG,Akhbar el-Yom,Cairo,,https://akhbarelyom.com/,ar,daily,2,state,https://en.wikipedia.org/wiki/Akhbar_el-Yom,Q4116122,6,newspaper,30.0444,31.2358,reviewed: state-owned
+no,EG,Al-Dostor,Cairo,,https://www.dostor.org/,ar,daily,2,,,Q4165433,6,daily newspaper,30.0444,31.2358,language from country default
+no,EG,Al-Musawar,Cairo,,https://almussawar.darelhilal.com/,ar,daily,2,,,Q4118576,6,periodical; newspaper,30.0444,31.2358,
+no,EG,masr alyoum,,,http://masr-alyoum.com/,en,magazine,2,,,Q5348337,6,magazine; news magazine,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,EG,Al-Ahram Weekly,,,https://english.ahram.org.eg/,ar,daily,3,,,Q424967,5,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,EG,Al-Shorouk,Cairo,,https://www.infradplus.com/,ar,daily,3,,,Q12205249,5,newspaper,30.0444,31.2358,reviewed: Wikidata homepage wrong – in mena_manual.csv
+no,EG,El Fagr,Cairo,,https://www.elfagr.org,ar,daily,3,,,Q2829328,4,newspaper,30.0444,31.2358,reviewed: regional outlet without a reachable feed – replaced
+no,EG,Al-Wafd,Dokki,,https://www.alwafd.news/,ar,daily,3,,,Q4118565,4,newspaper,30.0381,31.2111,reviewed: regional outlet without a reachable feed – replaced
+no,EG,Al Ahali,,,https://alahalygate.com/,ar,daily,3,,,Q18350715,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,EG,Egypt Independent,Cairo,,https://egyptindependent.com/,en,daily,3,,,Q17063675,4,newspaper,30.0444,31.2358,reviewed: above the per-city cap
+no,EG,Al Shaab,Cairo,,http://www.elshaab.org/,ar,daily,3,,,Q4704790,3,newspaper,30.0444,31.2358,
+no,EG,FilGoal,,,https://www.filgoal.com/,ar,daily,3,,,Q5448251,3,website; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,EG,El Watan News,Cairo,,https://www.elwatannews.com/,ar,daily,3,,,Q12205286,3,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,EG,Masrawy,Cairo,,https://www.masrawy.com/,ar,online,3,,,Q6783942,3,website; online newspaper; podcast show,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,EG,Almal News,,,https://www.almalnews.com,ar,daily,3,,,Q12205263,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,EG,Rose Al-Youssef,Cairo,,https://daily.rosaelyoussef.com/,ar,daily,3,state,https://en.wikipedia.org/wiki/Rose_al-Yusuf,Q12213878,2,newspaper,30.0444,31.2358,reviewed: regional outlet without a reachable feed – replaced; above the per-city cap; above the per-city cap
+no,EG,Sawt Al-Umma,Cairo,,https://www.soutalomma.com/,ar,daily,3,,,Q12220357,2,newspaper,30.0444,31.2358,
+yes,EG,Veto,Cairo,,https://www.vetogate.com/,ar,daily,3,,,Q12231503,2,newspaper; website,30.0444,31.2358,reviewed: above the per-city cap
+no,EG,Alahed,,,https://www.alahedgate.com/,ar,daily,3,,,Q108282993,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,EG,Kora Plus,Giza,,https://koraplus.com/,ar,daily,3,,,Q132058274,1,newspaper; website,29.9870,31.2118,reviewed: sports paper
+no,EG,Al Misreyoun,,,https://www.almesryoon.com,ar,daily,3,,,Q124414980,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,EG,أبو الهول,Cairo,,https://www.abou-alhool.com/,ar,daily,3,,,Q130244648,1,daily newspaper,30.0444,31.2358,
+no,EG,شباب مصر,Cairo,,https://www.shababean.com,ar,daily,3,,,Q130244856,1,daily newspaper,30.0444,31.2358,
+no,EG,jaridat akhbarak,الدقهلية,,https://www.jaridatakhbarak.com,ar,daily,3,,,Q107296845,0,newspaper; website,,,reviewed: no Latin-script name; place is a governorate; place is a governorate; place is a governorate; place is a governorate; language from country default
+no,EG,Qaliobia Online,Qalyubia Governorate,,https://qaliobiaonline.com,ar,daily,3,,,Q89598968,0,daily newspaper,30.4100,31.2100,"reviewed: place is a governorate, not a city"

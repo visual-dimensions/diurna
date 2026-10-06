@@ -1,0 +1,8 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,JO,The Jordan Times,Amman,,http://www.jordantimes.com,en,daily,2,state,https://en.wikipedia.org/wiki/The_Jordan_Times,Q7743519,8,newspaper,31.9500,35.9333,"reviewed: published by the Jordan Press Foundation (Al Rai), state majority"
+no,JO,Ad-Dustour,Amman,,https://www.addustour.com,ar,daily,2,,,Q4678064,7,newspaper,31.9500,35.9333,
+yes,JO,Al Ra'i,Amman,,http://www.alrai.com,ar,daily,2,state,https://en.wikipedia.org/wiki/Al_Rai_(Jordan),Q4704674,4,newspaper,31.9500,35.9333,reviewed: majority held by the state Social Security Corporation
+no,JO,MENAFN,Amman,,https://menafn.com/,ar,online,3,,,Q97164221,3,online newspaper,31.9500,35.9333,reviewed: news aggregator; not pre-selected: magazine/online below tier 1
+yes,JO,7iber,Amman,,https://www.7iber.com,ar,online,3,,,Q16203499,2,online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JO,Roya News,,,https://en.royanews.tv,ar,daily,3,,,Q124335263,0,newspaper,,,reviewed: broadcaster; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,JO,Jfranews,,,https://jfranews.com.jo/,ar,online,3,,,Q124419808,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

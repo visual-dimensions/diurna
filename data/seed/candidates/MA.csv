@@ -1,0 +1,22 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,MA,Telquel,Casablanca,,http://www.telquel.ma,fr,magazine,2,,,Q1115018,8,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,MA,Hespress,Rabat,,https://www.hespress.com,ar,online,2,,,Q12249940,7,periodical; online newspaper,,,reviewed: place filled in; leading news site; leading news site; leading news site; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,MA,Le Matin,Casablanca,,http://www.lematin.ma/,fr,daily,2,,,Q3224400,6,daily newspaper,33.5992,-7.6200,
+yes,MA,Assabah,Casablanca,,https://assabah.ma/,ar,daily,3,,,Q4808310,5,newspaper,33.5992,-7.6200,reviewed: language: Arabic
+no,MA,Aujourd'hui le Maroc,Casablanca,,http://www.aujourdhui.ma/,fr,daily,3,,,Q2871743,5,daily newspaper; newspaper,33.5992,-7.6200,
+no,MA,L'Opinion,Rabat,,http://www.lopinion.ma/,fr,daily,3,,,Q3204559,5,newspaper,34.0211,-6.8414,reviewed: regional outlet without a reachable feed – replaced
+no,MA,La Nouvelle Tribune,Casablanca,,https://lnt.ma/,fr,daily,3,,,Q3211148,5,newspaper,33.5992,-7.6200,
+no,MA,La Vie éco,,,http://www.lavieeco.com/,fr,daily,3,,,Q3213733,5,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,MA,Al-Alam,Rabat,,http://www.alalam.ma,ar,daily,3,,,Q4702174,4,newspaper,34.0211,-6.8414,
+no,MA,L'Économiste,Casablanca,,https://www.leconomiste.com/,fr,daily,3,,,Q3205237,4,daily newspaper,33.5992,-7.6200,reviewed: regional outlet without a reachable feed – replaced
+no,MA,Chouf TV,,,https://chouftv.ma/,ar,online,3,,,Q97174255,4,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,MA,Maroc Hebdo International,,,http://www.maroc-hebdo.press.ma,fr,daily,3,,,Q3294559,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MA,Al Bayane,Casablanca,,http://www.albayane.press.ma,fr,daily,3,,,Q2829301,4,daily newspaper,33.5992,-7.6200,
+yes,MA,Al Ahdath Al Maghribia,Casablanca,,http://www.ahdath.info/,ar,daily,3,,,Q4703448,3,newspaper,33.5992,-7.6200,reviewed: above the per-city cap
+no,MA,Libération,Casablanca,,http://www.libe.ma,fr,daily,3,,,Q3237990,3,daily newspaper,33.5992,-7.6200,
+no,MA,Akhir Saa,,,https://www.akhirsaa.com/,ar,daily,3,,,Q417643,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MA,Challenge,,,http://www.challenge.ma,fr,daily,3,,,Q2947866,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MA,Alakhbar,,,https://www.alakhbar.press.ma/,ar,daily,3,,,Q45107798,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MA,Goud,,,https://www.goud.ma/,fr,online,3,,,Q100376453,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,MA,Barlamane.com,,,https://www.barlamane.com/,ar,online,3,,,Q106468717,1,periodical; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,MA,DAGonline,,,https://www.dagonline.nl/,nl,online,3,,,Q55478221,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

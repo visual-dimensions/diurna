@@ -1,0 +1,11 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,SY,Al-Watan,Damascus,,http://alwatan.sy,ar,daily,3,,,Q292479,5,daily newspaper,33.5131,36.2919,
+no,SY,Freedom,Damascus,,https://alhurriya.news.sy/,ar,daily,3,,,Q16169565,5,daily newspaper,33.5131,36.2919,reviewed: regional outlet without a reachable feed – replaced
+yes,SY,Enab Baladi,Darayya,,https://www.enabbaladi.net/,ar,online,3,,,Q22080795,3,online newspaper; weekly newspaper; 501(c)(3) organization,33.4589,36.2372,reviewed: independent outlet; not pre-selected: magazine/online below tier 1
+no,SY,al-Thawra,Damascus,,http://thawra.sy/,ar,daily,3,state,https://en.wikipedia.org/wiki/Al-Thawra_(Syria),Q292171,2,daily newspaper,33.5131,36.2919,reviewed: regional outlet without a reachable feed – replaced
+no,SY,جريدة النور,,,http://alnnour.com/,ar,daily,3,,,Q12205280,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,SY,Al-Fedaa,,,http://fedaa.alwehda.gov.sy/,ar,daily,3,,,Q12219844,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,SY,Al-Jamahir,Aleppo,,http://jamahir.alwehda.gov.sy/,ar,daily,3,state,https://en.wikipedia.org/wiki/Al-Wehda_Foundation,Q12219828,1,daily newspaper,,,reviewed: place filled in; state-owned (al-Wehda press foundation); state-owned (al-Wehda press foundation); state-owned (al-Wehda press foundation); no place of publication/headquarters in Wikidata – fill in city
+no,SY,Al-Orouba,Homs,,http://ouruba.alwehda.gov.sy/,ar,daily,3,state,https://en.wikipedia.org/wiki/Al-Wehda_Foundation,Q12219843,1,daily newspaper,,,reviewed: regional outlet without a reachable feed – replaced; state-owned (al-Wehda press foundation); no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,SY,Al-Furat,Deir ez-Zor,,http://furat.alwehda.gov.sy/,ar,daily,3,state,https://en.wikipedia.org/wiki/Al-Wehda_Foundation,Q20391493,1,daily newspaper,35.3333,40.1500,reviewed: state-owned (al-Wehda press foundation)
+no,SY,Zaman al Wsl,,,https://www.zamanalwsl.net/,ar,online,3,,,Q31077297,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

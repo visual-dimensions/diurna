@@ -13,8 +13,8 @@
   --surface: rgb(13 17 26 / 0.82);
   --surface-line: rgb(243 235 221 / 0.1);
 
-  --font-serif: 'Newsreader Variable', 'Noto Serif Variable', Georgia, serif;
-  --font-sans: 'Inter Variable', 'Noto Sans', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Newsreader Variable', 'Noto Serif Variable', 'Noto Naskh Arabic Variable', 'Noto Serif Hebrew Variable', Georgia, serif;
+  --font-sans: 'Inter Variable', 'Noto Sans', 'Noto Naskh Arabic Variable', 'Noto Serif Hebrew Variable', system-ui, -apple-system, sans-serif;
 
   --safe-top: env(safe-area-inset-top, 0px);
   --safe-bottom: env(safe-area-inset-bottom, 0px);

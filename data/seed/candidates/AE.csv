@@ -1,0 +1,21 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,AE,Gulf News,Dubai,,http://gulfnews.com/,en,daily,1,,,Q278458,17,daily newspaper,25.2644,55.3117,reviewed: Wikidata place is the emirate
+yes,AE,The National,Abu Dhabi,,https://www.thenational.ae/,en,daily,1,,,Q2544289,16,newspaper,24.4511,54.3969,
+yes,AE,Khaleej Times,Dubai,,https://www.khaleejtimes.com/,en,daily,2,,,Q1579995,12,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,AE,Al Bayan,Dubai,,https://www.albayan.ae/,ar,daily,3,state,https://en.wikipedia.org/wiki/Al_Bayan_(Emirati_newspaper),Q17521121,5,newspaper; daily newspaper; online newspaper; online database,25.2697,55.3094,"reviewed: owned by Dubai Media Incorporated (government); types: daily, online"
+yes,AE,Al-Ittihad,Abu Dhabi,,https://www.aletihad.ae,ar,daily,2,state,https://en.wikipedia.org/wiki/Al_Ittihad_(Emirati_newspaper),Q686585,5,newspaper; online newspaper,,,"reviewed: place filled in; owned by Abu Dhabi Media (government); owned by Abu Dhabi Media (government); owned by Abu Dhabi Media (government); owned by Abu Dhabi Media (government); no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,AE,Emirates 24/7,,,http://www.emirates247.com,en,online,3,,,Q5372553,4,online newspaper; news broadcasting,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AE,Emarat Al Youm,Dubai,,https://zahracleaning.com/,ar,daily,3,,,Q5369234,3,newspaper; online newspaper; online database; media company,25.2697,55.3094,"reviewed: Wikidata homepage wrong; types: daily, online"
+no,AE,Al-Fajr,Abu Dhabi,,https://www.alfajr-news.net,ar,daily,3,,,Q12205257,3,newspaper,24.4511,54.3969,reviewed: regional outlet without a reachable feed – replaced
+no,AE,الشارقة 24,,,https://www.sharjah24.ae/,en,daily,3,,,Q25450114,1,government newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AE,Arabic IT News Portal,Dubai,,https://aitnews.com/,en,online,3,,,Q19690087,1,online newspaper,25.2697,55.3094,language from country default; not pre-selected: magazine/online below tier 1
+no,AE,Al Ain News,Abu Dhabi,,https://al-ain.com/,ar,online,3,,,Q54965476,1,online newspaper,24.4511,54.3969,not pre-selected: magazine/online below tier 1
+no,AE,Erem News,Abu Dhabi,,https://www.eremnews.com/,ar,daily,3,,,Q108857582,0,online newspaper; website; newspaper,24.4511,54.3969,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
+no,AE,Erem Business,Dubai,,https://www.erembusiness.com/,ar,daily,3,,,Q114891288,0,online newspaper; website; newspaper,25.2697,55.3094,"reviewed: business offshoot of Erem News; types: daily, online"
+no,AE,Foochia,Abu Dhabi,,https://www.foochia.com/,ar,online,3,,,Q108857819,0,website; online magazine; online newspaper,24.4511,54.3969,not pre-selected: magazine/online below tier 1
+no,AE,FandomWire,Dubai,,https://fandomwire.com,en,online,3,,,Q140355827,0,online newspaper; business,25.2697,55.3094,not pre-selected: magazine/online below tier 1
+no,AE,Animated Times,,,https://animatedtimes.com,en,online,3,,,Q140355874,0,online newspaper; business,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AE,Computer News Middle East,,,http://www.gpg.com/cnme/,en,daily,3,,,Q108279060,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AE,Dubai.News,,,https://dubai.news/,en,daily,3,,,Q131357360,0,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AE,Akhbar Al Aan,Dubai,,https://www.akhbaralaan.net/,ar,online,3,,,Q111978940,0,news agency; news website; publishing house,25.2697,55.3094,not pre-selected: magazine/online below tier 1
+no,AE,Big News Network,Dubai,,https://www.bignewsnetwork.com/,en,magazine,3,,,Q65068562,0,news magazine,25.2697,55.3094,not pre-selected: magazine/online below tier 1

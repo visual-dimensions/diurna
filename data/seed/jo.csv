@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+JO,The Jordan Times,Amman,,http://www.jordantimes.com,en,daily,2,state,https://en.wikipedia.org/wiki/The_Jordan_Times,31.9500,35.9333
+JO,Al Ra'i,Amman,,http://www.alrai.com,ar,daily,2,state,https://en.wikipedia.org/wiki/Al_Rai_(Jordan),31.9500,35.9333
+JO,7iber,Amman,,https://www.7iber.com,ar,online,3,,,,

@@ -1,0 +1,8 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,BH,Gulf Daily News,Manama,,http://www.gulf-daily-news.com,en,daily,3,,,Q3120741,5,daily newspaper,26.2167,50.5833,reviewed: regional outlet without a reachable feed – replaced
+no,BH,Al-Wasat,Manama,,http://www.alwasatnews.com/,ar,daily,3,,,Q310130,4,newspaper,26.2167,50.5833,reviewed: closed by the government in 2017
+yes,BH,Akhbar Al Khaleej,Manama,,http://www.akhbar-alkhaleej.com/,ar,daily,2,,,Q4700704,3,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,BH,Al Bilad,Manama,,https://www.albiladpress.com,ar,daily,3,,,Q18162929,3,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,BH,Al-Watan,Manama,,http://www.alwatannews.net/,ar,daily,3,,,Q4703331,2,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+yes,BH,Al Ayam,Janabiyah,,http://www.alayam.com,ar,daily,3,,,Q4703513,2,newspaper,26.1830,50.4660,
+no,BH,Enews Express,,,https://enewsexpress.com,ar,online,3,,,Q137529921,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

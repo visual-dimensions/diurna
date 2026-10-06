@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+MA,Telquel,Casablanca,,http://www.telquel.ma,fr,magazine,2,,,,
+MA,Hespress,Rabat,,https://www.hespress.com,ar,online,2,,,,
+MA,Assabah,Casablanca,,https://assabah.ma/,ar,daily,3,,,33.5992,-7.6200
+MA,Al-Alam,Rabat,,http://www.alalam.ma,ar,daily,3,,,34.0211,-6.8414
+MA,Al Ahdath Al Maghribia,Casablanca,,http://www.ahdath.info/,ar,daily,3,,,33.5992,-7.6200

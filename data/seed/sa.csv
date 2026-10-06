@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+SA,Arab News,Jeddah,,https://www.arabnews.com/,en,daily,1,,,21.5292,39.1611
+SA,Saudi Gazette,Jeddah,,http://www.saudigazette.com.sa,en,daily,2,,,21.5292,39.1611
+SA,Okaz,Jeddah,,http://www.okaz.com.sa/,ar,daily,2,,,21.5292,39.1611
+SA,Al Riyadh,Riyadh,,http://www.alriyadh.com,ar,daily,2,,,24.6500,46.7100
+SA,Ajel News,Riyadh,,https://ajel.sa,ar,daily,3,,,24.6500,46.7100

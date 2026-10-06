@@ -1,0 +1,11 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+IR,Ettela'at,Tehran,,http://www.ettelaat.com/,fa,daily,1,state,https://en.wikipedia.org/wiki/Ettela'at,35.6853,51.4181
+IR,Tehran Times,Tehran,,http://www.tehrantimes.com/,en,daily,1,state,https://en.wikipedia.org/wiki/Tehran_Times,,
+IR,Hamshahri,Tehran,,http://hamshahrionline.ir/,fa,daily,1,state,https://en.wikipedia.org/wiki/Hamshahri,35.6889,51.3897
+IR,Kayhan,Tehran,,http://kayhan.ir/,fa,daily,1,state,https://en.wikipedia.org/wiki/Kayhan,35.6889,51.3897
+IR,Jaam-e Jam,Tehran,,http://jamejamonline.ir/,fa,daily,2,state,https://en.wikipedia.org/wiki/Jaam-e_Jam_(newspaper),,
+IR,Shargh,Tehran,,https://www.sharghdaily.com,fa,daily,2,,,,
+IR,Resalat,Tehran,,http://www.resalat-news.com/Fa/,fa,daily,3,,,35.6889,51.3897
+IR,Iran,Tehran,,https://irannewspaper.ir/,fa,daily,2,state,https://www.wikidata.org/wiki/Q10859757,32.0000,53.0000
+IR,Etemaad,Tehran,,http://www.etemadnewspaper.ir/,fa,daily,3,,,35.6889,51.3897
+IR,Ham-Mihan,Tehran,,https://hammihanonline.ir/,fa,daily,3,,,,

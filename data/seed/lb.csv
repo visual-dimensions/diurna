@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+LB,An-Nahar,Beirut,,https://www.annahar.com,ar,daily,1,,,,
+LB,L'Orient-Le Jour,Beyrouth,,https://www.lorientlejour.com/,fr,daily,2,,,33.8869,35.5131
+LB,Al-Modon,Beirut,,https://www.almodon.com/portal,ar,online,3,,,33.8869,35.5131

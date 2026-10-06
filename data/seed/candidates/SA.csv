@@ -1,0 +1,11 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,SA,Arab News,Jeddah,,https://www.arabnews.com/,en,daily,1,,,Q623659,19,newspaper,21.5292,39.1611,
+yes,SA,Saudi Gazette,Jeddah,,http://www.saudigazette.com.sa,en,daily,2,,,Q1325956,9,newspaper,21.5292,39.1611,
+yes,SA,Okaz,Jeddah,,http://www.okaz.com.sa/,ar,daily,2,,,Q4119335,8,newspaper,21.5292,39.1611,
+yes,SA,Al Riyadh,Riyadh,,http://www.alriyadh.com,ar,daily,2,,,Q4704716,7,newspaper,24.6500,46.7100,
+no,SA,Um Al-Qura (newspaper),Mecca,,https://www.uqn.gov.sa/,ar,daily,3,,,Q6808828,2,newspaper; periodical; government gazette,21.4225,39.8261,reviewed: official gazette
+yes,SA,Ajel News,Riyadh,,https://ajel.sa,ar,daily,3,,,Q60565293,2,newspaper; website; mobile app,24.6500,46.7100,
+no,SA,Al-Hadath,,,http://www.al-hadath.com/,ar,daily,3,,,Q4702436,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,SA,مجلة الجوهرة للمرأة العربية,,,https://www.aljawharamag.com/,ar,daily,3,,,Q109257349,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,SA,Asda' Al Khaleej,,,"https://www,asda-alkhaleej.com/\",ar,daily,3,,,Q136206486,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,SA,entARABI,Riyadh Province,,https://entarabi.com,ar,online,3,,,Q138472780,0,news website; media company; online newspaper,23.0000,45.5000,not pre-selected: magazine/online below tier 1

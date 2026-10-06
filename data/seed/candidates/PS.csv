@@ -1,0 +1,7 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,PS,Palestinian Information Center,,,https://palinfo.com/,ar,online,2,,,Q21705765,8,website; news website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,PS,Al-Hayat al-Jadida,Ramallah,,http://www.alhayat-j.com,ar,daily,2,state,https://en.wikipedia.org/wiki/Al-Hayat_al-Jadida,Q2898468,7,newspaper; daily newspaper,31.8969,35.2017,reviewed: owned by the Palestinian Authority
+yes,PS,Felesteen,Gaza City,,http://felesteen.ps,ar,daily,2,,,Q12231001,6,newspaper,31.5075,34.4597,
+no,PS,Amad Media,,,https://amad-ps.com,ar,online,2,,,Q123569436,6,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,PS,صحيفة الرسالة,,,http://alresalah.ps/,ar,daily,3,,,Q20407381,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,PS,Al Watan Voice,,,https://www.alwatanvoice.com/arabic/index.html,ar,daily,3,,,Q12211973,1,newspaper; news media,,,no place of publication/headquarters in Wikidata – fill in city; language from country default

@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,QA,aljazeera.com,Doha,,https://www.aljazeera.net/,en,online,3,,,Q4727585,5,online newspaper,25.2861,51.5294,reviewed: broadcaster; not pre-selected: magazine/online below tier 1
+yes,QA,Gulf Times,Doha,,http://www.gulf-times.com/,en,daily,3,,,Q1554284,4,newspaper,25.2861,51.5294,
+no,QA,Al Raya,Doha,,http://www.raya.com/,ar,daily,3,,,Q12205246,2,daily newspaper,25.2861,51.5294,reviewed: regional outlet without a reachable feed – replaced
+no,QA,Qatar Chronicle,,,http://www.qatarchronicle.com/,en,daily,3,,,Q17069618,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,QA,winwin.com,,,https://www.winwin.com/,en,online,3,,,Q139569969,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

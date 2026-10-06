@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,OM,Muscat Daily,Muscat,,http://www.muscatdaily.com,en,daily,3,,,Q6940222,2,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,OM,Theweek,Muscat,,http://www.theweek.co.om,en,daily,3,,,Q1319001,1,newspaper,23.6139,58.5922,reviewed: regional outlet without a reachable feed – replaced
+yes,OM,Al-Roiya,Muscat,,https://alroya.om/,ar,daily,3,,,Q135491671,1,newspaper; daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city

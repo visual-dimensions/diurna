@@ -1,0 +1,9 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+DZ,El Moudjahid,Algiers,,http://www.elmoudjahid.com/,fr,daily,2,state,https://en.wikipedia.org/wiki/El_Moudjahid,28.0000,1.0000
+DZ,El Watan,Algiers,,http://www.elwatan.com/,fr,daily,1,,,,
+DZ,Echorouk El Yawmi,Algiers,,http://www.echoroukonline.com/ara/english/index.1.html,ar,daily,2,,,,
+DZ,Le Quotidien d'Oran,Oran,,http://www.lequotidien-oran.com/,fr,daily,2,,,,
+DZ,Le Soir d'Algérie,Algiers,,http://www.lesoirdalgerie.com,fr,daily,2,,,,
+DZ,El Djoumhouria,Oran,,http://www.eldjoumhouria.dz/,ar,daily,3,state,https://en.wikipedia.org/wiki/El_Djoumhouria,35.6969,-0.6331
+DZ,Ennahar newspaper,Algiers,,https://www.ennaharonline.com/,ar,daily,3,,,,
+DZ,Jeunesse d'Algérie,Oran,,https://jeunessedalgerie.dz/,fr,daily,3,,,35.6969,-0.6331
