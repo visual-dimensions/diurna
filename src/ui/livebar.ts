@@ -1,5 +1,6 @@
 import type { Medium } from '../data/load';
 import { escapeHtml, relativeAge } from './format';
+import { ensureScriptFont } from './scriptfonts';
 
 const ROTATE_MS = 6500;
 const MAX_ITEMS = 15;
@@ -94,6 +95,7 @@ export class LiveBar {
     // A glance at the strip should be understandable – show the English machine translation if there is one.
     const en = m.lang !== 'en' ? m.headline.translations?.en : undefined;
     const [text, lang] = en ? [en, 'en'] : [m.headline.title, m.lang];
+    ensureScriptFont(lang);
     this.item.innerHTML = `
       <span class="livebar__where">${escapeHtml(when)} in ${escapeHtml(m.city)} · <span class="livebar__masthead">${escapeHtml(m.name)}</span>${en ? ' · <span class="livebar__mt">machine-translated</span>' : ''}</span>
       <span class="livebar__headline" lang="${escapeHtml(lang)}" dir="auto">${escapeHtml(text)}</span>

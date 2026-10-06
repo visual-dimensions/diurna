@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,KP,Rodong Sinmun,Pyongyang,,http://rodong.rep.kp,ko,daily,1,state,https://en.wikipedia.org/wiki/Rodong_Sinmun,Q387054,29,daily newspaper,39.0167,125.7475,reviewed: organ of the ruling party
+no,KP,Chongnyon Jonwi,Pyongyang,,http://youth.rep.kp/,ko,daily,3,state,https://en.wikipedia.org/wiki/Chongnyon_Jonwi,Q11661417,9,daily newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,KP,Rimjin-gang,,,http://www.asiapress.org/rimjin-gang/,ko,daily,2,,,Q836901,7,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

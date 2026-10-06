@@ -1,0 +1,13 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+ID,The Jakarta Post,Jakarta,,http://www.thejakartapost.com,en,daily,1,,,-6.1753,106.8269
+ID,Kompas,Jakarta,,http://print.kompas.com/,id,daily,2,,,-6.1928,106.7936
+ID,Tempo,Jakarta,,http://www.tempo.co,id,magazine,1,,,-6.1753,106.8269
+ID,Media Indonesia,Jakarta,,https://www.mediaindonesia.com,id,daily,2,,,,
+ID,Bisnis Indonesia,Jakarta,,http://www.bisnis.com,id,daily,2,,,,
+ID,Republika,Jakarta,,https://www.republika.co.id,id,daily,2,,,-6.1753,106.8269
+ID,Pikiran Rakyat,Bandung,,https://www.pikiran-rakyat.com/,id,daily,2,,,,
+ID,Jawa Pos,Surabaya,,http://www.jawapos.com,id,daily,2,,,-7.3200,112.7314
+ID,Riau Pos,Pekanbaru,,https://riaupos.jawapos.com/,id,daily,3,,,0.5333,101.4500
+ID,Tabloid Jubi,Jayapura,,http://tabloidjubi.com,id,daily,3,,,-2.5425,140.7045
+ID,Kalteng Pos,Palangka Raya,,https://kaltengpos.jawapos.com/,id,daily,3,,,-2.2167,113.9167
+ID,Radar Bekasi,Bekasi,,https://radarbekasi.id/,id,daily,3,,,-6.2333,107.0000

@@ -1,0 +1,8 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,KG,MediaZona,,,https://zona.media/,ru,online,2,,,Q28135463,14,news website; news media,,,reviewed: Russian exile outlet listed under Kyrgyzstan; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,KG,Vecherniy Bishkek,Bishkek,,https://www.vb.kg/,ru,daily,2,,,Q75761,6,newspaper,42.8667,74.5667,
+no,KG,Slovo Kyrgyzstana,Bishkek,,https://slovo.kg,ru,daily,3,state,https://en.wikipedia.org/wiki/Slovo_Kyrgyzstana,Q4423860,6,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; government newspaper; no place of publication/headquarters in Wikidata – fill in city
+no,KG,Super Info,Bishkek,,https://Super.kg,ru,daily,3,,,Q25591500,1,newspaper,42.8667,74.5667,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,KG,"""Мегаполис"" Кыргызстан",,,https://mp.kg/,ru,daily,3,,,Q104665933,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KG,Для Вас,,,http://dv.kg/,ru,daily,3,,,Q104889693,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KG,МСН,,,http://www.msn.kg,ru,weekly,3,,,Q63981498,0,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city

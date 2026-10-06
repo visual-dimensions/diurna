@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,LA,Pasaxon,Vientiane,,http://www.pasaxon.org.la,lo,daily,2,state,https://en.wikipedia.org/wiki/Pasaxon,Q16841170,9,newspaper,17.9800,102.6300,reviewed: organ of the ruling party
+no,LA,Laotian Times,,,https://laotiantimes.com/,en,daily,3,,,Q114457330,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

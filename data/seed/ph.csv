@@ -1,0 +1,8 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+PH,Rappler,Pasig,,https://www.rappler.com/,en,online,1,,,14.5605,121.0765
+PH,Philippine Daily Inquirer,Makati,,http://www.inquirer.com.ph/,en,daily,1,,,14.5567,121.0214
+PH,The Philippine Star,Manila,,http://www.philstar.com,en,daily,2,,,14.5958,120.9772
+PH,Manila Standard,Makati,,http://www.thestandard.com.ph,en,daily,2,,,14.5567,121.0214
+PH,BusinessWorld,Makati,,http://www.bworldonline.com/,en,daily,3,,,,
+PH,Filipino Mirror Media Group Corporation,Makati,,http://www.pilipinomirror.com/,tl,daily,3,,,14.5567,121.0214
+PH,Cebu Daily News,Cebu City,,https://cebudailynews.inquirer.net,en,daily,3,,,10.2930,123.9020

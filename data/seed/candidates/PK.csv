@@ -1,0 +1,21 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,PK,Dawn,Karachi,,http://www.dawn.com,en,daily,1,,,Q1178770,25,newspaper,24.8600,67.0100,
+yes,PK,The News International,Karachi,,http://thenews.com.pk/,en,daily,2,,,Q835669,10,daily newspaper,24.8600,67.0100,
+yes,PK,Daily Express,Karachi,,https://www.express.com.pk/,ur,daily,2,,,Q3694775,7,newspaper,24.8600,67.0100,
+yes,PK,Pakistan Observer,Islamabad,,http://www.pakobserver.net/,en,daily,2,,,Q3694852,7,newspaper,33.6989,73.0369,
+yes,PK,Pakistan Today,Lahore,,http://pakistantoday.com.pk,en,daily,2,,,Q7125725,7,daily newspaper,31.5497,74.3436,
+no,PK,Khabrain,Lahore,,http://www.thepost.com.pk,ur,daily,3,,,Q6398798,6,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+yes,PK,Nawa-i-Waqt,Lahore,,http://www.nawaiwaqt.com.pk,ur,daily,3,,,Q3337348,5,newspaper,31.5497,74.3436,reviewed: language: Urdu; language from country default
+no,PK,Daily Hilal Pakistan,Karachi,,http://www.dailyhilal.com,en,daily,3,,,Q5209270,2,newspaper,24.8600,67.0100,reviewed: unclear outlet; language from country default
+no,PK,Daily Islam,,,http://www.dailyislam.pk,en,daily,3,,,Q6757389,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,PK,Zarb-e-Momin,,,http://www.zarbemomin.com.pk/,ur,daily,3,,,Q6846373,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,PK,Talár,Quetta,,https://talarbrahui.com/,en,daily,3,,,Q19599801,2,newspaper,30.1958,67.0172,reviewed: unclear outlet; language from country default
+no,PK,Rabwah Times,Lahore,,http://www.rabwah.net/,en,daily,3,,,Q30325395,2,newspaper,31.5497,74.3436,reviewed: community news site
+no,PK,Youth Press Pakistan,Lahore,,https://youthpresspakistan.youthgroupltd.com/,en,daily,3,,,Q111043431,1,newspaper,31.5497,74.3436,reviewed: youth portal
+no,PK,The Youth International,Lahore,,https://theyouth.com.pk/,en,daily,3,,,Q111127201,1,newspaper,31.5497,74.3436,reviewed: youth portal
+no,PK,Peshawar Times,Peshawar,,http://peshawartimes.com/,en,daily,3,,,Q92400704,0,newspaper,34.0144,71.5675,reviewed: regional outlet without a reachable feed – replaced
+no,PK,Daily Aeen,Peshawar,,https://dailyaeen.com.pk/,en,daily,3,,,Q97096183,0,newspaper,34.0144,71.5675,reviewed: regional outlet without a reachable feed – replaced
+no,PK,Pashtun Global,Mingora,,https://pashtunglobal.com,en,online,3,,,Q141496901,0,online newspaper,34.7717,72.3600,not pre-selected: magazine/online below tier 1
+no,PK,The Okara Times,,,https://www.okaratimes.com,en,daily,3,,,Q115114609,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,PK,Samaa.tv,,,https://www.samaa.tv/,en,online,3,,,Q106695309,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,PK,Fact Focus,,,https://factfocus.com/,en,online,3,,,Q107096399,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

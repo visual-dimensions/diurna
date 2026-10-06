@@ -43,3 +43,16 @@ yediothahronoth,https://www.ynet.co.il/Integration/StoryRss2.xml,latest,"ynet (Y
 milliyet,https://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml,latest,"breaking-news feed"
 aljazirah,https://www.al-jazirah.com/rss/ln.xml,latest,"latest-news feed"
 youm7,https://www.youm7.com/rss/SectionRss?SectionID=97,latest,"general news section; items undated"
+asahishimbun,https://www.asahi.com/rss/asahi/newsheadlines.rdf,latest,"main news headlines feed"
+thairath,https://www.thairath.co.th/rss/news,latest,
+detik,https://news.detik.com/rss,latest,"detikNews feed"
+24kg,https://24.kg/rss/,latest,
+thejapantimes,https://www.japantimes.co.jp/feed/,latest,
+hindustantimes,https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml,latest,"India news section (auto-pick was sports)"
+midday,https://www.mid-day.com/Resources/midday/rss/news.xml,latest,
+mint,https://www.livemint.com/rss/news,latest,
+rajasthanpatrika,https://cms.patrika.com/googlefeed/blog/category/national-news,latest,"national news (auto-pick was astrology)"
+divyabhaskar,https://www.divyabhaskar.co.in/rss-v1--category-970.xml,latest,"Gujarat news category"
+divyamarathi,https://divyamarathi.bhaskar.com/rss-v1--category-5495.xml,latest,"national news category"
+vnexpress,https://vnexpress.net/rss/thoi-su.rss,latest,"current affairs (auto-pick was world)"
+vietnamnews,https://vietnamnews.vn/rss/politics-laws.rss,latest,

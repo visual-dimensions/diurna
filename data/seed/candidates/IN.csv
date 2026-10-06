@@ -1,0 +1,377 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,IN,The Times of India,Mumbai,,http://timesofindia.indiatimes.com,en,daily,1,,,Q46807,61,newspaper,19.0758,72.8775,
+yes,IN,The Hindu,Chennai,,https://www.thehindu.com/,en,daily,1,,,Q926175,44,newspaper,13.0825,80.2750,
+yes,IN,Hindustan Times,New Delhi,,https://www.hindustantimes.com/,en,daily,1,,,Q41595,41,newspaper,28.6139,77.2089,
+yes,IN,The Indian Express,Mumbai,,https://indianexpress.com/,en,daily,1,,,Q1954843,36,daily newspaper,19.0758,72.8775,
+yes,IN,The Economic Times,Mumbai,,http://economictimes.indiatimes.com/,en,daily,1,,,Q1954757,25,newspaper,19.0758,72.8775,
+yes,IN,Dainik Bhaskar,Bhopal,,https://www.bhaskar.com/,hi,daily,1,,,Q1872524,23,daily newspaper,23.2589,77.4125,
+yes,IN,The Statesman,Kolkata,,http://www.thestatesman.com/,en,daily,1,,,Q372096,22,newspaper,22.5675,88.3700,
+yes,IN,Dainik Jagran,Kanpur,,http://www.jagran.com/,hi,daily,1,,,Q1318465,21,newspaper,26.4725,80.3311,
+yes,IN,The Telegraph,Kolkata,,http://www.telegraphindia.com/,en,daily,1,,,Q1954990,20,daily newspaper,22.5675,88.3700,
+yes,IN,Malayala Manorama,Kottayam,,https://www.manoramaonline.com/,ml,daily,1,,,Q2732186,20,daily newspaper; fact-checking organisation; website,9.5917,76.5222,reviewed: language: Malayalam
+yes,IN,Deccan Herald,Bengaluru,,http://www.deccanherald.com,en,daily,1,,,Q1181753,18,newspaper,12.9791,77.5913,
+yes,IN,Deccan Chronicle,Hyderabad,,http://www.deccan.com,en,daily,1,,,Q1975835,18,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Daily News and Analysis,Mumbai,,https://www.dnaindia.com,en,daily,1,,,Q1954041,17,daily newspaper,19.0758,72.8775,
+yes,IN,Anandabazar Patrika,Kolkata,,https://www.anandabazar.com,bn,daily,2,,,Q3344266,14,newspaper,22.5675,88.3700,
+yes,IN,Bombay Samachar,Mumbai,,http://bombaysamachar.com/,gu,daily,2,,,Q2768808,14,newspaper,22.5675,88.3700,reviewed: Wikidata place wrong
+yes,IN,The Tribune,Chandigarh,,http://www.tribuneindia.com/,en,daily,2,,,Q1922367,14,newspaper,30.7333,76.7797,
+yes,IN,Outlook,New Delhi,,https://www.outlookindia.com,en,magazine,2,,,Q1955600,14,news magazine,28.6139,77.2089,reviewed: leading news magazine; not pre-selected: magazine/online below tier 1
+yes,IN,Amar Ujala,Noida,,https://www.amarujala.com/,hi,daily,2,,,Q2176784,13,newspaper,28.5700,77.3200,
+yes,IN,Business Standard,New Delhi,,https://www.business-standard.com/,en,daily,2,,,Q2307816,13,newspaper,28.6139,77.2089,
+yes,IN,The New Indian Express,Chennai,,https://www.newindianexpress.com/,en,daily,2,,,Q1955025,13,newspaper,13.0825,80.2750,
+yes,IN,Kesari,Pune,,http://www.dailykesari.com/,mr,daily,2,,,Q6394871,13,newspaper,28.6667,77.2167,reviewed: Wikidata place wrong
+yes,IN,Rajasthan Patrika,Jaipur,,https://www.patrika.com,hi,daily,2,,,Q3866831,12,newspaper,26.9150,75.8200,
+yes,IN,Navbharat Times,Mumbai,,http://navbharattimes.indiatimes.com/,hi,daily,2,,,Q3595638,11,newspaper,19.0758,72.8775,
+yes,IN,Mid Day,Mumbai,,http://www.mid-day.com,en,daily,2,,,Q623936,11,daily newspaper,19.0758,72.8775,language from country default
+no,IN,Firstpost,Mumbai,,http://www.firstpost.com/,en,online,3,,,Q5453524,11,online newspaper,19.0758,72.8775,reviewed: regional outlet without a reachable feed – replaced; language from country default; not pre-selected: magazine/online below tier 1
+yes,IN,Dina Thanthi,Chennai,,https://www.dailythanthi.com/,ta,daily,2,,,Q3522186,10,periodical; newspaper,13.0825,80.2750,
+yes,IN,Eenadu,Hyderabad,,http://eenadu.net/,te,daily,2,,,Q3764157,10,newspaper,17.3617,78.4747,
+yes,IN,Dinakaran,Chennai,,http://www.dinakaran.com/,ta,daily,2,,,Q2191913,10,newspaper,13.0825,80.2750,
+yes,IN,Hindustan Dainik,New Delhi,,http://epaper.livehindustan.com/,hi,daily,2,,,Q5766803,10,newspaper,28.6139,77.2089,
+yes,IN,The Financial Express,Noida,,http://www.financialexpress.com/,en,daily,2,,,Q1332561,10,business newspaper,28.5700,77.3200,
+yes,IN,National Herald,Delhi,,https://www.nationalheraldindia.com/,en,daily,2,,,Q12436127,10,periodical; newspaper,28.6667,77.2167,language from country default
+yes,IN,Business Line,Chennai,,http://www.thehindubusinessline.com,en,daily,2,,,Q279739,9,newspaper,13.0825,80.2750,
+no,IN,Greater Kashmir,Srinagar,,http://www.greaterkashmir.com,en,daily,2,,,Q744661,9,newspaper; political concept,,,reviewed: in asia_manual.csv (needs a coordinate hint: two cities named Srinagar); no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Saamana,Mumbai,,http://www.saamana.com/,mr,daily,2,,,Q3224731,9,newspaper,19.0758,72.8775,
+yes,IN,Punjab Kesari,Jalandhar,,http://www.punjabkesari.in/,hi,daily,2,,,Q3630070,9,periodical; newspaper,31.3256,75.5792,
+yes,IN,Sudharma,Mysore,,http://sudharmasanskritdaily.in,sa,daily,2,,,Q3809207,9,newspaper,12.3086,76.6531,
+yes,IN,Mint,Delhi,,http://livemint.com,en,daily,2,,,Q2271133,9,newspaper; business periodical,28.6667,77.2167,language from country default
+yes,IN,Dinamani,Chennai,,http://www.dinamani.com/,ta,daily,2,,,Q2854935,9,newspaper,11.0000,79.0000,reviewed: place is a state
+yes,IN,Prajavani,Bengaluru,,https://www.prajavani.net/,kn,daily,2,,,Q2876395,9,newspaper,12.9791,77.5913,
+yes,IN,The Siasat Daily,Hyderabad,,http://www.siasat.com,en,daily,2,,,Q2066673,9,periodical; newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IN,Mumbai Mirror,Mumbai,,https://mumbaimirror.indiatimes.com/,en,daily,3,,,Q6935314,9,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+yes,IN,ThePrint,New Delhi,,https://theprint.in,en,online,2,,,Q85806279,9,online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,India TV,,,https://www.indiatvnews.com/,en,online,2,,,Q6019415,9,news broadcasting; news website,,,reviewed: broadcaster; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,IN,Mathrubhumi,Kozhikode,,https://www.mathrubhumi.com/,ml,daily,2,,,Q734491,8,newspaper,11.2478,75.7803,
+yes,IN,Dinamalar,Chennai,,http://www.dinamalar.com,ta,daily,2,,,Q3246100,8,newspaper,13.0825,80.2750,
+yes,IN,The Assam Tribune,Guwahati,,http://www.assamtribune.com,en,daily,2,,,Q3985721,8,newspaper,26.1806,91.7502,
+yes,IN,Chandrika,Kozhikode,,https://www.chandrikadaily.com/,ml,daily,2,,,Q4042996,8,newspaper,11.2478,75.7803,
+yes,IN,Aajkaal,Kolkata,,http://www.aajkaal.net/,bn,daily,2,,,Q2180999,8,newspaper,22.5675,88.3700,
+yes,IN,Sakshi,Hyderabad,,https://www.sakshi.com/,te,daily,2,,,Q1754493,8,newspaper,17.3617,78.4747,
+yes,IN,Malai Malar,Chennai,,http://www.maalaimalar.com,ta,daily,2,,,Q2075033,8,daily newspaper; newspaper,13.0825,80.2750,
+yes,IN,Prabhat Khabar,Patna,,https://www.prabhatkhabar.com/,hi,daily,2,,,Q7237234,8,periodical; newspaper,25.6100,85.1414,
+yes,IN,Maharashtra Times,Mumbai,,http://maharashtratimes.indiatimes.com/,mr,daily,2,,,Q6733367,8,newspaper,19.0758,72.8775,
+yes,IN,Lokmat,Mumbai,,http://lokmat.com,mr,daily,2,,,Q6668713,8,daily newspaper,19.0758,72.8775,
+yes,IN,The Samaja,Cuttack,,http://thesamaja.com/,or,daily,2,,,Q2685557,8,daily newspaper,20.4500,85.8667,
+no,IN,Tehelka,,,http://tehelka.com/,en,magazine,2,,,Q3046981,8,news magazine,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,IN,Andhra Prabha,Hyderabad,,https://www.prabhanews.com/,te,daily,2,,,Q748528,7,newspaper,17.3617,78.4747,
+yes,IN,Loksatta,Mumbai,,https://www.loksatta.com/,mr,daily,2,,,Q3627557,7,newspaper,19.0758,72.8775,
+yes,IN,Janasadharan,Guwahati,,http://janasadharan.in/,as,daily,2,,,Q3806981,7,newspaper,26.1806,91.7502,
+yes,IN,Daily Desher Katha,Agartala,,http://www.dailydesherkatha.com,bn,daily,2,,,Q3935555,7,newspaper,23.8333,91.2667,
+yes,IN,Amar Asom,Guwahati,,http://amarasom.glpublications.in/,as,daily,2,,,Q4022309,7,newspaper,26.1806,91.7502,
+yes,IN,Asomiya Pratidin,Guwahati,,http://www.asomiyapratidin.in/,as,daily,2,,,Q4022319,7,newspaper,26.1806,91.7502,
+yes,IN,Vijaya Karnataka,Bengaluru,,http://www.vijaykarnataka.com/,kn,daily,2,,,Q2464129,7,newspaper,12.9791,77.5913,
+yes,IN,Kerala Kaumudi,Thiruvananthapuram,,http://www.keralakaumudi.com/,ml,daily,2,,,Q2846588,7,newspaper,8.4875,76.9525,
+yes,IN,Pudhari,Navi Mumbai,,http://www.pudhari.com/,mr,daily,2,,,Q4967993,7,newspaper,19.0300,73.0100,
+yes,IN,Hind Samachar,Jalandhar,,https://www.hindsamachar.in/,ur,daily,2,,,Q5765865,7,periodical; newspaper,31.3256,75.5792,
+yes,IN,Samyukta Karnataka,Hubli,,http://epaper.samyukthakarnataka.com,kn,daily,2,,,Q7413183,7,newspaper,15.3550,75.1362,
+yes,IN,Niyamiya Barta,Guwahati,,http://niyamiyabarta.com/,as,daily,2,,,Q7042037,7,newspaper,26.1806,91.7502,
+no,IN,oneindia,Rohtak,,http://www.oneindia.com/,en,online,2,,,Q7093691,7,news website,28.9000,76.5667,language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Alt News,Ahmedabad,,https://www.altnews.in,en,online,2,,,Q39056034,7,news website,23.0219,72.5797,reviewed: fact-checking site; not pre-selected: magazine/online below tier 1
+yes,IN,The Wire,New Delhi,,https://thewire.in/,en,online,2,,,Q39070361,7,website; news website,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,IN,Ebela,Kolkata,,http://ebela.in/,bn,daily,2,,,Q3784692,6,newspaper,22.5675,88.3700,
+yes,IN,Namasthe Telangana,Hyderabad,,https://epaper.ntnews.com/,te,daily,2,,,Q3792500,6,newspaper,17.3617,78.4747,
+yes,IN,Madhyamam Daily,Kozhikode,,http://www.madhyamam.com/,ml,daily,2,,,Q4119691,6,newspaper,11.2478,75.7803,
+yes,IN,Nava Bharat,Nagpur,,http://navabharat.com/,hi,daily,2,,,Q2106140,6,newspaper,21.1497,79.0806,
+yes,IN,Hari Bhoomi,Delhi,,http://www.haribhoomi.com,hi,daily,2,,,Q2521947,6,periodical; newspaper,28.6667,77.2167,
+yes,IN,Avadhnama,Lucknow,,http://www.avadhnama.com/,ur,daily,2,,,Q2747390,6,newspaper,26.8470,80.9470,
+yes,IN,Janmabhumi,Kochi,,http://www.janmabhumidaily.com/jnb//,ml,daily,2,,,Q2801701,6,newspaper,,,reviewed: place is a station
+yes,IN,Bartaman,Kolkata,,http://bartamanpatrika.com/,bn,daily,2,,,Q4865142,6,newspaper,12.9791,77.5913,reviewed: Wikidata place wrong
+yes,IN,Dainik Janambhumi,Guwahati,,http://www.dainikjanambhumi.co.in/,as,daily,2,,,Q1143899,6,newspaper,26.1806,91.7502,
+yes,IN,The Munsif Daily,Hyderabad,,http://www.munsifdaily.in/,en,daily,2,,,Q2031591,6,periodical; newspaper,17.3617,78.4747,
+yes,IN,Prajasakti,Vijayawada,,http://www.prajasakti.com/,te,daily,2,,,Q6389421,6,periodical; newspaper,16.5167,80.6167,
+yes,IN,The Hans India,Hyderabad,,https://www.thehansindia.com/,en,daily,3,,,Q5170037,6,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Dainik Agradoot,Guwahati,,http://www.dainikagradoot.com/,as,daily,2,,,Q5209489,6,newspaper,26.1806,91.7502,
+yes,IN,Dainik Navajyoti,Ajmer,,http://www.dainiknavajyoti.com,hi,daily,2,,,Q5209494,6,newspaper,26.4680,74.6390,
+yes,IN,Gana Adhikar,Guwahati,,http://www.ganaadhikar.com/,as,daily,2,,,Q5520456,6,periodical; newspaper,26.1806,91.7502,
+yes,IN,Tarun Bharat,Belgaum,,https://tarunbharat.com/,mr,daily,2,,,Q7686924,6,periodical; newspaper,15.8569,74.5044,
+yes,IN,The Free Press Journal,Mumbai,,https://www.freepressjournal.in/,en,daily,3,,,Q7735208,6,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,IN,The Milli Gazette,New Delhi,,http://www.milligazette.com,en,daily,2,,,Q15062993,6,newspaper,28.6139,77.2089,
+yes,IN,Telangana Today,Hyderabad,,http://telanganatoday.com,en,daily,2,,,Q28174199,6,newspaper,17.3617,78.4747,
+yes,IN,Sambad,Bhubaneswar,,http://www.orissasambad.com,or,daily,2,,,Q15725286,6,daily newspaper,20.2950,85.8250,
+no,IN,The Quint,Noida,,https://www.thequint.com/,en,online,3,,,Q48734478,6,online newspaper; fact-checking organisation; website,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,IN,Varthabharathi,Mangaluru,,https://www.varthabharati.in/,kn,daily,2,,,Q7916196,6,newspaper,12.8717,74.8425,
+no,IN,The Chenab Times,,,https://thechenabtimes.com,en,daily,2,,,Q112168954,6,newspaper; news media; publishing house; web service,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,OpIndia,Bengaluru,,https://opindia.com,en,online,2,,,Q85790826,6,news website,12.9791,77.5913,not pre-selected: magazine/online below tier 1
+no,IN,Organiser,,,https://organiser.org/,en,magazine,2,,,Q245607,6,news magazine,,,reviewed: party-affiliated weekly; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,IN,Andhra Jyothy,Hyderabad,,http://www.andhrajyothy.com/,te,daily,2,,,Q3032867,5,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Jansatta,New Delhi,,https://www.jansatta.com,hi,daily,3,,,Q3162089,5,periodical; newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Ei Samay Sangbadpatra,Kolkata,,http://www.eisamay.com/,bn,daily,3,,,Q3784687,5,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,IN,Karavali Ale,Mangaluru,,http://karavaliale.net/,kn,daily,3,,,Q3809312,5,periodical; newspaper,12.8717,74.8425,
+yes,IN,Janayugom,Thiruvananthapuram,,http://www.janayugomonline.com/,ml,daily,3,,,Q3916529,5,newspaper,8.4875,76.9525,
+no,IN,Ganashakti,Kolkata,,http://www.ganashakti.com,bn,daily,3,,,Q3935468,5,newspaper,22.5675,88.3700,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Ganadabi,,,http://www.ganadabi.in/,bn,daily,3,,,Q3935648,5,newspaper; mouthpiece,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Deshabhimani,Thiruvananthapuram,,https://www.deshabhimani.com/,ml,daily,3,,,Q4119047,5,newspaper,8.4875,76.9525,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Nava Kaal,Mumbai,,https://www.navakal.in/epaper/?action=archive&pc_id=1,mr,daily,3,,,Q2129813,5,periodical; newspaper,19.0758,72.8775,
+no,IN,Navhind Times,Panaji,,http://www.navhindtimes.com,en,daily,3,,,Q2262113,5,periodical; newspaper,15.4800,73.8300,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Dainik Statesman,,,https://epaper.thestatesman.com/t/9256,bn,daily,3,,,Q2341026,5,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Kannada Prabha,Bengaluru,,http://www.kannadaprabha.com,kn,daily,3,,,Q2363826,5,newspaper,12.9791,77.5913,
+no,IN,The Hitavada,Nagpur,,http://www.thehitavada.com/,en,daily,3,,,Q2426836,5,newspaper,21.1497,79.0806,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Divya Bhaskar,Ahmedabad,,https://www.divyabhaskar.co.in,gu,daily,3,,,Q2760832,5,newspaper,23.0219,72.5797,
+no,IN,Sandesh,Ahmedabad,,http://www.sandesh.com,gu,daily,3,,,Q2774299,5,newspaper,23.0219,72.5797,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Prahaar,Mumbai,,http://prahaar.in,mr,daily,3,,,Q4568052,5,periodical; newspaper,19.0758,72.8775,
+no,IN,Bengaluru Mirror,Bengaluru,,http://www.bangaloremirror.com,en,daily,3,,,Q978676,5,newspaper,12.9791,77.5913,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Mail Today,Delhi,,http://www.mailtoday.in/,en,daily,3,,,Q1827419,5,periodical; newspaper; publication; daily newspaper,28.6667,77.2167,
+yes,IN,Kalantar,Kolkata,,https://bengalbyte.in/kalantar-newspaper,bn,daily,3,,,Q1906300,5,periodical; newspaper,22.5675,88.3700,
+yes,IN,Sangbad Pratidin,Kolkata,,http://www.sangbadpratidin.in/pratidin/,bn,daily,3,,,Q1954264,5,newspaper,22.5675,88.3700,
+yes,IN,Siraj Daily,Kozhikode,,http://www.sirajlive.com,ml,daily,3,,,Q2052218,5,newspaper,11.2500,75.7700,reviewed: place is a district
+yes,IN,Kashmir Times,Srinagar,,http://www.kashmirtimes.com/,en,daily,3,,,Q6374440,5,newspaper,34.0911,74.8061,
+no,IN,General,Thrissur,,http://www.generaldaily.com,ml,daily,3,,,Q5531660,5,newspaper,10.5200,76.2100,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Punjabi Tribune,Chandigarh,,https://www.punjabitribuneonline.com/,pa,daily,3,,,Q7260341,5,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,IN,Rozana Spokesman,Mohali,,https://www.rozanaspokesman.com/epaper/,pa,daily,3,,,Q7375326,5,periodical; newspaper,30.7194,76.7181,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Nagaland Post,Dimapur,,http://nagalandpost.com/,en,daily,3,,,Q6958385,5,newspaper,25.9125,93.7417,
+no,IN,Andhra Patrika,Vijayawada,,https://andhrapatrika.in/,te,daily,3,,,Q12990998,5,newspaper,16.5167,80.6167,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Navshakti,,,https://www.magzter.com/IN/Indian-National-Press--Bombay--Pvt.-Ltd./NavShakti/Newspaper/All-Issues,mr,daily,3,,,Q13879359,5,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,The Sunday Guardian,New Delhi,,http://www.sunday-guardian.com/,en,daily,3,,,Q15702315,5,newspaper,28.6139,77.2089,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Nava Telangana,Hyderabad,,http://navatelangana.com/,te,daily,3,,,Q19894700,5,newspaper,17.3617,78.4747,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,Prameya,,,http://epaper.prameyanews.com/,en,daily,3,,,Q19895389,5,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IN,Dainik Asam,Guwahati,,https://dainikasam.assamtribune.com/,as,daily,3,,,Q20984008,5,periodical; newspaper,26.1806,91.7502,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Punya Nagari,Mumbai,,http://www.epunyanagari.com/,mr,daily,3,,,Q114859195,5,newspaper,19.0758,72.8775,
+no,IN,The Samaya,,,http://odishasamaya.com/,or,daily,3,,,Q24943252,5,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,BBC News Punjabi,Delhi,,https://www.bbc.com/punjabi,en,online,3,,,Q41696738,5,news agency; online newspaper,28.6667,77.2167,language from country default; not pre-selected: magazine/online below tier 1
+no,IN,The North East Times,Guwahati,,http://net.glpublications.in/,en,daily,3,,,Q3988514,5,newspaper,26.1806,91.7502,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Daily Al-Fazl,London,GB,http://www.alfazl.com,ur,weekly,3,exile,,Q427815,5,daily newspaper; weekly newspaper; online newspaper,51.5072,-0.1275,"types: daily, online, weekly; newsroom abroad (GB) – exile?; not pre-selected: newsroom abroad"
+no,IN,The News Minute,Bengaluru,,http://www.thenewsminute.com/,en,online,3,,,Q24590066,5,news website,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Ekdin,Kolkata,,http://epaper.ekdin.info,bn,daily,3,,,Q3784682,4,periodical; newspaper,22.5675,88.3700,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Arunachal Front,,,http://arunachalfront.info/,en,daily,3,,,Q4802178,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,IN,The Morung Express,Dimapur,,http://www.morungexpress.com,en,daily,3,,,Q1811512,4,newspaper,25.9125,93.7417,
+yes,IN,Hosa Digantha,Bengaluru,,http://hosadigantha.in,kn,daily,3,,,Q1844963,4,newspaper,12.9791,77.5913,
+yes,IN,Sanjevani,Bengaluru,,http://www.sanjevani.com,kn,daily,3,,,Q2097526,4,newspaper,12.9791,77.5913,
+no,IN,Jai Hind,Rajkot,,http://www.jaihindnewspaper.com,gu,daily,3,,,Q6123373,4,periodical; newspaper,22.2969,70.7984,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Koshur Akhbar,,,http://akhbar.neabinternational.org,ks,daily,3,,,Q6433164,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Kutchmitra,Bhuj,,http://kutchmitradaily.com,gu,daily,3,,,Q6448388,4,periodical; newspaper,23.2500,69.6700,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Daily Excelsior,Jammu,,https://www.dailyexcelsior.com/,en,daily,3,,,Q5209247,4,periodical; newspaper,32.7333,74.8500,
+no,IN,Dainik Jugashankha,Kolkata,,https://jugasankha.in/,bn,daily,3,,,Q5209498,4,periodical; newspaper,22.5675,88.3700,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Sakal,Pune,,http://www.esakal.com,mr,daily,3,,,Q7402792,4,newspaper,18.5211,73.8553,
+yes,IN,Star of Mysore,Mysore,,http://www.starofmysore.com/,en,daily,3,,,Q7601252,4,newspaper,12.3086,76.6531,
+no,IN,Suryaa,Hyderabad,,http://www.suryaa.com/,te,daily,3,,,Q7647390,4,newspaper,17.3617,78.4747,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Mangalam Daily,Kottayam,,http://mangalam.com/index.php,ml,daily,3,,,Q15050589,4,newspaper; periodical,9.5917,76.5222,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,Mysooru Mithra,Mysore,,https://epaper.mysurumithra.com/,kn,daily,3,,,Q18128366,4,newspaper,12.3086,76.6531,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Mana Telangana,,,http://manatelangana.org/,te,daily,3,,,Q19893633,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Navodaya Times,Delhi,,https://epaper.navodayatimes.in/,hi,daily,3,,,Q19894708,4,periodical; newspaper,28.6667,77.2167,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Qaumi Awaz,,,http://www.qaumiaawaz.com/,ur,daily,3,,,Q28164208,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Deshdoot,Nashik,,http://www.deshdoot.com,mr,daily,3,,,Q30588913,4,newspaper,20.0000,73.7833,
+no,IN,Sanchar,Solapur,,http://www.esanchar.co.in/,mr,daily,3,,,Q48723678,4,newspaper,17.6703,75.9011,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Janmabhoomi,Mumbai,,https://epaper.janmabhoominewspapers.com/,gu,daily,3,,,Q80561018,4,newspaper,19.0758,72.8775,
+yes,IN,Pragativadi,Bhubaneswar,,http://www.pragativadi.com//,or,daily,3,,,Q14914767,4,daily newspaper,20.2950,85.8250,
+yes,IN,Dharitri,Bhubaneswar,,http://dharitri.com/,or,daily,3,,,Q15724333,4,daily newspaper,20.2950,85.8250,
+no,IN,O Heraldo,Panaji,,http://www.oheraldo.in/,en,daily,3,,,Q2676209,4,daily newspaper,15.4800,73.8300,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Dainik Sambad,Kolkata,,http://www.dainiksambad.net/,bn,daily,3,,,Q5209496,4,periodical; newspaper,22.5675,88.3700,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Nawan Zamana,Jalandhar,,http://www.nawanzamana.in/,pa,daily,3,,,Q15334823,4,newspaper,31.3256,75.5792,
+yes,IN,Gujarat Today,Ahmedabad,,http://www.gujarattoday.in,gu,daily,3,,,Q17054122,4,newspaper,23.0219,72.5797,
+no,IN,Calcutta Gazette,Colcata,,https://Calcuttagazette.com,it,daily,3,,,Q55606421,4,website; newspaper,22.5675,88.3700,reviewed: official gazette
+no,IN,Panchjanya,Delhi,,https://panchjanya.com/,hi,magazine,3,,,Q7130338,4,news magazine,28.6667,77.2167,not pre-selected: magazine/online below tier 1
+no,IN,Swarajya,,,http://swarajyamag.com,en,magazine,3,,,Q18386770,4,web portal; news magazine,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,IN,Inext,Kanpur,,https://www.inextlive.com/,hi,daily,3,,,Q3809113,3,newspaper,26.4725,80.3311,
+no,IN,State Times,,,https://www.statetimes.in/,en,daily,3,,,Q3809236,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Tamil Murasu,,,http://www.tamilmurasu.org/,en,daily,3,,,Q2732010,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IN,Imphal Free Press,Imphal,,http://www.ifp.co.in,en,daily,3,,,Q6007128,3,newspaper,24.8200,93.9500,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Jag Bani,Jalandhar,,https://jagbani.punjabkesari.in/,pa,daily,3,,,Q6122008,3,periodical; newspaper,31.3256,75.5792,
+no,IN,Jago Bangla,Kolkata,,https://aitmc.org/jagobangla.php,bn,daily,3,,,Q6122711,3,newspaper,22.5675,88.3700,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Poknapham,Imphal,,http://www.poknapham.in,en,daily,3,,,Q7208682,3,newspaper,24.8200,93.9500,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,Proletarian Era,,,http://www.suci-c.in/era/era.htm,en,daily,3,,,Q7249573,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IN,Nobat,Jamnagar,,http://nobat.com,en,daily,3,,,Q7045591,3,periodical; newspaper,22.4700,70.0700,reviewed: regional outlet without a reachable feed – replaced
+no,IN,People's Democracy,Delhi,,http://pd.cpim.org,en,daily,3,,,Q7165517,3,periodical; newspaper,28.6667,77.2167,reviewed: party weekly
+yes,IN,Prabhasakshi,New Delhi,,https://www.prabhasakshi.com,hi,daily,3,,,Q15658392,3,newspaper,28.6139,77.2089,
+no,IN,Mahanagar,Mumbai,,https://epaper.hamaramahanagar.net/,hi,daily,3,,,Q17070975,3,newspaper,19.0758,72.8775,
+no,IN,Daily Punjab Times,Jalandhar,,http://www.dailypunjabtimes.com,en,daily,3,,,Q18111514,3,newspaper,31.3256,75.5792,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Aaj Samaj,,,http://www.aajsamaaj.com/,hi,daily,3,,,Q19869542,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,NavGujarat Samay,Ahmedabad,,https://www.navgujaratsamay.com,gu,daily,3,,,Q24912062,3,periodical; newspaper,23.0219,72.5797,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Daily Post India,Chandigarh,,http://dailypost.in,en,daily,3,,,Q24937075,3,newspaper,30.7333,76.7797,
+yes,IN,Taasir,Patna,,http://www.taasir.com,ur,daily,3,,,Q24952074,3,periodical; newspaper,25.6100,85.1414,
+yes,IN,Gujarat Mitra,Surat,,http://www.gujaratmitra.in/,gu,daily,3,,,Q28039375,3,newspaper,21.2050,72.8400,
+yes,IN,Rising Kashmir,Srinagar,,http://www.risingkashmir.com,en,daily,3,,,Q60785642,3,newspaper,34.0911,74.8061,
+no,IN,Free Press Kashmir,,,https://freepresskashmir.news,en,daily,3,,,Q95578178,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IN,Trolley Times,,,https://trolleytimes.com/,hi,daily,3,,,Q104629572,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Eastern Mirror,Dimapur,,https://easternmirrornagaland.com/,en,daily,3,,,Q111915885,3,newspaper,25.9125,93.7417,
+no,IN,Jat Gazette,Rohtak,,https://www.jatgazette.in,hi,daily,3,,,Q114022318,3,newspaper,28.9000,76.5667,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Scroll,,,http://www.scroll.in,en,online,3,,,Q19896243,3,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Thinaboomi,,,https://www.thinaboomi.com/,ta,daily,3,,,Q16312668,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Newslaundry,Delhi,,https://www.newslaundry.com,en,online,3,,,Q99844616,3,news website,28.6667,77.2167,not pre-selected: magazine/online below tier 1
+no,IN,Cobrapost,New Delhi,,http://www.cobrapost.com/,en,online,3,,,Q17050768,3,magazine; news website; nonprofit organization,28.6139,77.2089,not pre-selected: magazine/online below tier 1
+no,IN,The Better India,Bengaluru,,https://thebetterindia.com,en,online,3,,,Q60740702,3,organization; news website,12.9791,77.5913,not pre-selected: magazine/online below tier 1
+no,IN,Businessworld,,,https://www.businessworld.in/,en,online,3,,,Q5001973,3,magazine; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Business Today,Delhi,,https://www.businesstoday.in/,en,magazine,3,,,Q5001804,3,news magazine; business periodical,28.6667,77.2167,not pre-selected: magazine/online below tier 1
+no,IN,Bihar Times,Patna,,http://www.bihartimes.com,en,daily,3,,,Q4907081,2,website; newspaper,25.6100,85.1414,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Orissa Post,Bhubaneswar,,https://www.orissapost.com/,en,daily,3,,,Q1995658,2,periodical; newspaper,20.2950,85.8250,
+no,IN,Financial Chronicle,Hyderabad,,http://www.mydigitalfc.com/,en,daily,3,,,Q5449582,2,newspaper,17.3617,78.4747,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,Sarkar Ki Upalabdhiya,Lucknow,,https://sarkarkiupalabdhiya.blogspot.com/,hi,daily,3,,,Q7424186,2,newspaper,26.8470,80.9470,reviewed: government publicity blog
+yes,IN,Sikkim Express,Gangtok,,http://www.sikkimexpress.com/,en,daily,3,,,Q7513788,2,periodical; newspaper,27.3300,88.6200,
+no,IN,Syandhan Patrika,Agartala,,http://www.syandanpatrika.com,bn,daily,3,,,Q7659461,2,periodical; newspaper,23.8333,91.2667,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Phulchhab,Rajkot,,http://epaper.phulchhab.com/,gu,daily,3,,,Q16928152,2,newspaper,22.2969,70.7984,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Janam Sakshi,Hyderabad,,http://janamsakshi.org/,te,daily,3,,,Q19572270,2,newspaper,17.3617,78.4747,
+no,IN,Jagat Darpan,Surat,,http://www.jagatdarpan.weebly.com/,gu,daily,3,,,Q24947273,2,periodical; newspaper,21.2050,72.8400,reviewed: hosted on a website builder
+no,IN,Jan Morcha,Ayodhya,,http://janmorcha.in/,hi,daily,3,,,Q25212712,2,periodical; newspaper,26.7992,82.2044,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Asomiya Khabar,Guwahati,,https://www.assamiyakhabor.com/publishfinal/asset/guwahati/current/1.html,as,daily,3,,,Q109534047,2,newspaper,26.1806,91.7502,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Sanctuary Asia,,,http://www.sanctuaryasia.com/index.php,en,daily,3,,,Q7415707,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IN,The Assam Chronicle,Guwahati,,http://assamchronicle.com/,en,daily,3,,,Q19570906,2,newspaper,26.1806,91.7502,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Siyasat Jadid,Kanpur,,https://siyasatjadid.in/,ur,daily,3,,,Q122978788,2,newspaper,26.4725,80.3311,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Janta Ka Reporter,Delhi,,http://www.jantakareporter.com/,en,online,3,,,Q104523715,2,news website,28.6667,77.2167,language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Moneycontrol,Mumbai,,https://www.moneycontrol.com/,en,online,3,,,Q19573046,2,news website,19.0758,72.8775,not pre-selected: magazine/online below tier 1
+no,IN,Business India,Mumbai,,https://businessindia.co/,en,magazine,3,,,Q5001733,2,news magazine; business periodical,19.0758,72.8775,not pre-selected: magazine/online below tier 1
+no,IN,The Caravan,Delhi,,https://hindi.caravanmagazine.in/,en,magazine,3,,,Q7721321,2,news magazine,28.6667,77.2167,not pre-selected: magazine/online below tier 1
+no,IN,NEWZ Bangla,,,http://news-bangla.com/,en,daily,3,,,Q3921382,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,IN,Kashmir Observer,Srinagar,,http://kashmirobserver.net/index.php,en,daily,3,,,Q2325906,1,newspaper,34.0911,74.8061,
+no,IN,Afternoon voice,Mumbai,,https://www.afternoonvoice.com/,en,daily,3,,,Q1994693,1,newspaper,19.0758,72.8775,
+no,IN,Janathavani,Davangere,,http://janathavani.com/epaper/,kn,daily,3,,,Q6150847,1,periodical; newspaper,14.4667,75.9167,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Divya Marathi,Jalgaon,,https://divyamarathi.bhaskar.com/,mr,daily,3,,,Q5284699,1,newspaper,21.0167,75.5667,
+no,IN,Lokasha,,,http://www.elokasha.com/,mr,daily,3,,,Q6668616,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Mangalore Today,Mangaluru,,https://www.mangaloretoday.com/,en,daily,3,,,Q6748718,1,periodical; newspaper,12.8717,74.8425,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Marathwada Neta,Latur,,http://www.emarathwadaneta.com/,mr,daily,3,,,Q6755049,1,periodical; newspaper,18.4000,76.5833,reviewed: regional outlet without a reachable feed – replaced
+no,IN,North East Mail,Guwahati,,http://www.northeastmail.com/,en,daily,3,,,Q7055217,1,newspaper,26.1806,91.7502,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Dhwani Pratidhwani,,,https://dhwanipratidhwani.net/,en,daily,3,,,Q15724352,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IN,"Lancaster Newspapers, Inc.",Lancaster,US,http://www.lancasteronline.com,en,daily,3,exile,,Q16253254,1,newspaper,40.0397,-76.3044,language from country default; newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
+no,IN,Rashtra Deepika,,,https://www.rashtradeepika.com/,ml,daily,3,,,Q19895775,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Sarbasadharana,,,http://sarbasadharana.com/,or,daily,3,,,Q25644163,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Karavali Munjavu,Karwar,,https://www.karavalimunjavu.com/,kn,daily,3,,,Q28406465,1,newspaper,14.8136,74.1297,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Ranchi Express,Ranchi,,http://www.ranchiexpress.com/,en,daily,3,,,Q31327285,1,newspaper,23.3556,85.3347,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,Dainik Purvoday,Guwahati,,https://dainikpurvoday.com/,hi,daily,3,,,Q31327996,1,newspaper,26.1806,91.7502,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Pratahkal,Udaipur,,https://pratahkal.com/,hi,daily,3,,,Q31328038,1,newspaper,24.5833,73.6833,reviewed: regional outlet without a reachable feed – replaced
+no,IN,The Asian Age,,,https://www.asianage.com/,en,daily,3,,,Q61365508,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Pratibadi Kalam,Agartala,,https://pratibadikalam.news/bn/home,bn,daily,3,,,Q105044549,1,newspaper,23.8333,91.2667,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Suryaprava,,,https://suryaprava.co.in/,or,daily,3,,,Q15725375,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Xpert Times,Delhi,,https://xperttimes.com,hi,daily,3,,,Q140868292,1,newspaper,28.6667,77.2167,
+no,IN,Telugu Vaadi TV,,,https://www.teluguvaaditv.com/,te,daily,3,,,Q137381615,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Thekar,Diphu,,http://www.thekararnivang.com/,en,daily,3,,,Q17120739,1,daily newspaper,25.8333,93.4333,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,IN,Parichay Times,Delhi,,http://www.parichaytimes.com/,hi,daily,3,,,Q24887537,1,daily newspaper,28.6667,77.2167,
+no,IN,The Cults Bay,,,https://thecultsbay.com/,en,online,3,,,Q125296620,1,website; online newspaper; magazine,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,City Journal,Thrissur,,http://www.cityjournal.in/,en,daily,3,,,Q287944,1,newspaper,10.5200,76.2100,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Janvarta,,,https://janwarta.com,hi,daily,3,,,Q2164907,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Asana Journal,Chennai,,http://www.asanajournal.com/,en,daily,3,,,Q4803506,1,newspaper,13.0825,80.2750,reviewed: not news
+no,IN,Navprabha,,,https://navprabha.com,en,daily,3,,,Q1886361,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,IN,Uditvani,Jamshedpur,,https://uditvani.in/,hi,daily,3,,,Q12416299,1,newspaper,22.8000,86.1833,reviewed: language: Hindi; language from country default
+no,IN,Western Times,,,http://www.westerntimes.co.in,en,daily,3,,,Q27861189,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,IN,G Plus,Guwahati,,http://www.guwahatiplus.com/,en,daily,3,,,Q55612213,1,newspaper,26.1806,91.7502,
+no,IN,Kashmir Images,,,http://thekashmirimages.com,en,daily,3,,,Q60785644,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Vikrama,Bengaluru,,http://www.vikramaweekly.in/,kn,daily,3,,,Q113565520,1,newspaper,12.9791,77.5913,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Warangal Vaani,Warangal,,https://janadharma.com/warangal-vaani/,te,daily,3,,,Q132561388,1,newspaper; daily newspaper,17.9756,79.6011,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Dainik Nababarta Prasanga,Sribhumi district,,http://www.nababartaprasanga.com/,bn,daily,3,,,Q5209493,0,periodical; newspaper,24.8667,92.3500,reviewed: place is a district
+no,IN,KAAKAI Newspaper,Dharmanagar,,http://www.kaakai.in/,en,daily,3,,,Q17061011,0,newspaper,24.3700,92.1700,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,Pune Mirror,,,http://www.punemirror.com/,en,daily,3,,,Q19306351,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,IN,Ahmedabad Mirror,Ahmedabad,,https://ahmedabadmirror.com/,en,daily,3,,,Q19306361,0,newspaper,23.0219,72.5797,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Goa Prism,,,https://www.goaprism.com,en,daily,3,,,Q47346044,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Odisha Sun Times,Bhubaneswar,,https://odishasuntimes.com/,en,daily,3,,,Q69061911,0,newspaper,20.2950,85.8250,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,The Magnet,Shelby,US,http://www.getmagnet.com,en,daily,3,exile,,Q100308641,0,newspaper,33.1103,-86.5842,language from country default; newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
+no,IN,The Meghalayan,Shillong,,https://themeghalayan.com/,en,daily,3,,,Q116715040,0,newspaper,25.5744,91.8789,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Yuva Portal,Sirsa District,,https://yuvaportal.com/,hi,daily,3,,,Q117196007,0,newspaper,29.5400,75.0300,reviewed: place is a district
+no,IN,The News Agenda,Meerut,,https://thenewsagenda.com/,en,daily,3,,,Q108409195,0,newspaper,28.9800,77.7064,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Hipapr,,,https://hipapr.com/,en,daily,3,,,Q110929814,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,IN,Sanjhi Khabar,Zirakpur,,http://www.sanjhikhabar.com/,pa,daily,3,,,Q113613271,0,newspaper,30.6500,76.8200,
+no,IN,Aaj Ka Anand,Mumbai,,https://aajkaanand.epapers.in/,hi,daily,3,,,Q113675582,0,newspaper,19.0758,72.8775,
+no,IN,Agniban,Gwalior,,https://epaper.agniban.com/,hi,daily,3,,,Q113675700,0,newspaper,26.2125,78.1775,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Andaman Chronicle,Srivijayapuram,,https://www.andamanchronicle.net/,en,daily,3,,,Q113676085,0,newspaper,11.6667,92.7500,
+yes,IN,Andaman Sheekha,Srivijayapuram,,http://www.andamansheekha.com/,en,daily,3,,,Q113676090,0,newspaper,11.6667,92.7500,
+no,IN,Daily Chhattisgarh,Raipur,,https://dailychhattisgarh.com/,hi,daily,3,,,Q113775782,0,newspaper,21.2379,81.6337,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Daily Hindi Milap,Hyderabad,,https://www.hindimilap.in/,hi,daily,3,,,Q113818057,0,newspaper,17.3617,78.4747,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Dainik Agniban,Indore,,https://www.agniban.com/,hi,daily,3,,,Q113819021,0,newspaper,22.7186,75.8550,
+no,IN,Dainik Savera Times,Jalandhar,,http://dainiksaveratimes.org/,hi,daily,3,,,Q113865290,0,newspaper,31.3256,75.5792,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Dakshin Bharat Rashtramat,Bengaluru,,https://epaper.dakshinbharat.com/,hi,daily,3,,,Q113865335,0,newspaper,12.9791,77.5913,
+no,IN,Deshonnati,Nagpur,,http://epaper.deshonnati.com/,mr,daily,3,,,Q113867115,0,newspaper,21.1497,79.0806,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Dopahar,Bhopal,,https://epaper.dopaharmetro.com/,hi,daily,3,,,Q113867240,0,newspaper,23.2589,77.4125,
+no,IN,Echo of Arunachal,Itanagar,,http://echoofarunachal.in/,en,daily,3,,,Q113950828,0,newspaper,27.1000,93.6200,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Echo of India,Kolkata,,http://echoofindia.com/Home/index.aspx,en,daily,3,,,Q113950839,0,newspaper,22.5675,88.3700,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Esamaad,Patna,,https://esamaad.com/,en,daily,3,,,Q113950908,0,newspaper,25.6100,85.1414,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,Gujarat Guardian,Surat,,https://gujaratguardian.in/Home,gu,daily,3,,,Q113951254,0,newspaper,21.2050,72.8400,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Gujarati Midday,Mumbai,,https://www.gujaratimidday.com/,gu,daily,3,,,Q113951259,0,newspaper,19.0758,72.8775,
+no,IN,Hawk,Uttarakhand,,https://www.thehawk.in/,en,daily,3,,,Q113957901,0,newspaper,30.5111,78.9539,reviewed: place is a state
+no,IN,Himalaya Darpan,Siliguri,,http://epaperhimalayadarpan.com/,ne,daily,3,,,Q113957906,0,newspaper,26.7200,88.4200,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Hindmata Mirror,Mumbai,,http://www.hindmatamirror.in/,hi,daily,3,,,Q113957911,0,newspaper,19.0758,72.8775,
+no,IN,Indian Horizon,Hyderabad,,http://indianhorizon.org/,en,daily,3,,,Q113974353,0,newspaper,17.3617,78.4747,reviewed: regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+no,IN,Jadeed Indinon,Delhi,,http://jadeedindinon.net/,ur,daily,3,,,Q113977090,0,newspaper,28.6667,77.2167,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Jammu Prabhat,Kashmir,PK,https://epaper.prabhatkhabar.com/,en,daily,3,exile,,Q113977127,0,newspaper,34.5000,76.0000,language from country default; newsroom abroad (PK) – exile?; not pre-selected: newsroom abroad
+yes,IN,Jansandesh Times,Varanasi,,https://www.jansandeshtimes.net/,hi,daily,3,,,Q113977263,0,newspaper,25.3189,83.0128,
+no,IN,Kannada Times,Mumbai,,https://kannadatimes.com/,kn,daily,3,,,Q113989799,0,newspaper,19.0758,72.8775,
+no,IN,Karnataka Malla,Mumbai,,http://www.karnatakamalla.com/,kn,daily,3,,,Q113989994,0,newspaper,19.0758,72.8775,
+yes,IN,Kashmir Monitor,Srinagar,,https://www.thekashmirmonitor.net/,en,daily,3,,,Q114061671,0,newspaper,34.0911,74.8061,
+yes,IN,Khas Khabar,Jaipur,,https://www.khaskhabar.com/,hi,daily,3,,,Q114061827,0,newspaper,26.9150,75.8200,
+no,IN,Krishak Jagat,Indore,,https://www.krishakjagat.org/,hi,daily,3,,,Q114061908,0,newspaper,22.7186,75.8550,reviewed: trade paper (agriculture)
+no,IN,Kutchuday,Gandhidham,,https://kutchuday.in/category/e-paper/,gu,daily,3,,,Q114062002,0,newspaper,23.0681,70.1283,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Lok Sansar,Bhavnagar,,https://www.loksansar.in/,gu,daily,3,,,Q114062440,0,newspaper,21.7650,72.1369,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Lok Tej,Surat,,https://www.loktej.com/,hi,daily,3,,,Q114062451,0,newspaper,21.2050,72.8400,
+no,IN,Lokmat Samachar,Mumbai,,http://epaper.lokmat.com/lokmatsamachar/,mr,daily,3,,,Q114062480,0,newspaper,19.0758,72.8775,
+no,IN,Lokprabha,Mumbai,,https://elokprabha.com/,mr,daily,3,,,Q114062642,0,newspaper,19.0758,72.8775,
+no,IN,Lokprashna,Parbhani,,https://www.lokprashna.com/,mr,daily,3,,,Q114062672,0,newspaper,19.2667,76.7833,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Mokokchung Times,Mumbai,,https://mokokchungtimes.com/,en,daily,3,,,Q114839411,0,newspaper,19.0758,72.8775,
+no,IN,Nai Dunia,Bhopal,,https://epaper.naidunia.com/epaper/,hi,daily,3,,,Q114840694,0,newspaper,23.2589,77.4125,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,Naya Padkar,Anand,,http://nayapadkar.in/,gu,daily,3,,,Q114841245,0,newspaper,22.5560,72.9510,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,IN,PatnaDaily,Patna,,https://www.patnadaily.com/,en,daily,3,,,Q114856021,0,newspaper,25.6100,85.1414,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Pradesh Today,Bhopal,,https://epaper.pradeshtoday.com/,hi,daily,3,,,Q114856195,0,newspaper,23.2589,77.4125,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Prime Uday,Mumbai,,https://primeuday.in/e-newspaper/,pa,daily,3,,,Q114859008,0,newspaper,19.0758,72.8775,
+no,IN,Purvanchal Prahari,Guwahati,,http://pknewspapers.com/india/hindi/purvanchal-prahari.html,hi,daily,3,,,Q114859208,0,newspaper,26.1806,91.7502,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Rakhewal,Deesa,,https://www.rakhewaldaily.com/e-paper/,gu,daily,3,,,Q114859549,0,newspaper,24.2558,72.1836,reviewed: language: Gujarati; language from country default
+no,IN,Rashtriya Hindi Mail,Bhopal,,https://epaper.rashtriyahindimail.in/epaper.php?city=,hi,daily,3,,,Q114859897,0,newspaper,23.2589,77.4125,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Rashtriya sahara,Dehradun,,http://rashtriyasahara.com/,hi,daily,3,,,Q114859909,0,newspaper,30.3180,78.0290,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Samachar Jagat,Jaipur,,https://www.samacharjagat.com/epaper,hi,daily,3,,,Q114869894,0,newspaper,26.9150,75.8200,
+no,IN,Sanj Samachar,Rajkot,,https://sanjsamachar.net/news/e-paper,gu,daily,3,,,Q114877412,0,newspaper,22.2969,70.7984,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Sanmarg Hindi,Kolkata,,https://sanmarg.in/,hi,daily,3,,,Q114877440,0,newspaper,22.5675,88.3700,
+no,IN,Sandar Gurjari,Anand,,https://www.sardargurjari.com/visitor/epaper/epaper.aspx,gu,daily,3,,,Q114877678,0,newspaper,22.5560,72.9510,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Tarunmitra,Lucknow,,https://www.tarunmitra.in/,hi,daily,3,,,Q114878357,0,newspaper,26.8470,80.9470,
+no,IN,Telugu Times,Hyderabad,,https://www.telugutimes.net/,te,daily,3,,,Q114878369,0,newspaper,17.3617,78.4747,
+yes,IN,Tez,Bengaluru,,https://teznews.com/,hi,daily,3,,,Q114878379,0,newspaper,12.9791,77.5913,
+yes,IN,Lokshahi,Jalgaon,,https://lokshahilive.com,mr,daily,3,,,Q141368310,0,newspaper; daily newspaper,21.0167,75.5667,
+no,IN,The Diplomat India,Jattari,,https://thediplomatindia.com,en,magazine,3,,,Q141539957,0,magazine; newspaper; news magazine; news media,28.0167,77.6500,"types: daily, magazine; not pre-selected: magazine/online below tier 1"
+yes,IN,Nav Pradesh,Raipur,,https://navpradesh.com,hi,daily,3,,,Q140372378,0,newspaper,21.2379,81.6337,
+no,IN,Hindustan Business Times,,,https://hbtimes.in,en,online,3,,,Q102514116,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,B4Blaze,,,https://b4blaze.com/,en,online,3,,,Q110119668,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Arogya Daily,,,https://arogyadaily.com,en,daily,3,,,Q115468619,0,daily newspaper; online newspaper; media company,,,no place of publication/headquarters in Wikidata – fill in city
+yes,IN,Nirbhay,Bhubaneswar,,http://nirvaynews.com/,or,daily,3,,,Q122616790,0,daily newspaper,20.2950,85.8250,
+no,IN,Janabadi,Bhubaneswar,,http://janabadi.in/,or,daily,3,,,Q122617376,0,daily newspaper,20.2950,85.8250,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Sakala,Bhubaneswar,,https://sakalaepaper.com/,or,daily,3,,,Q123004626,0,daily newspaper,20.2950,85.8250,
+no,IN,City Village News,,,http://cityvillagenews.com/,en,online,3,,,Q54859512,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Khabar Satta,Seoni district,,https://khabarsatta.com,en,online,3,,,Q110813934,0,online newspaper,22.0900,79.5500,language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Agri News Network,,,https://www.agrinewsnetwork.in/,en,online,3,,,Q112038497,0,media company; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Punjabi Jagran,Jalandhar,,https://www.punjabijagran.com/,en,online,3,,,Q112898416,0,online newspaper,31.3256,75.5792,not pre-selected: magazine/online below tier 1
+no,IN,Daily News Activist,Ghaziabad,,http://www.dailynewsactivist.com/,hi,online,3,,,Q113818274,0,online newspaper,28.6667,77.4167,not pre-selected: magazine/online below tier 1
+no,IN,Dainik Janwani,Meerut,,http://janwani.in/,hi,online,3,,,Q113819644,0,online newspaper,28.9800,77.7064,not pre-selected: magazine/online below tier 1
+no,IN,The Samata,,,https://thesamata.in/,or,online,3,,,Q116977122,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Odisha Bytes,,,https://odishabytes.com/,en,online,3,,,Q117120185,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Story Network,Hyderabad,,https://storynetwork.in,en,online,3,,,Q134499073,0,website; online newspaper; online magazine; news website,17.3617,78.4747,not pre-selected: magazine/online below tier 1
+no,IN,Local Samosa,,,https://www.localsamosa.com/,en,online,3,,,Q134979673,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Republic Post,,,https://www.republicpost.in,en,online,3,,,Q136366085,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,India News Journal,Hyderabad,,https://indianewsjournal.com,en,online,3,,,Q136366363,0,online newspaper,17.3617,78.4747,not pre-selected: magazine/online below tier 1
+no,IN,The Weekly News,Hyderabad,,http://theweeklynews.in/,en,online,3,,,Q136379005,0,online newspaper,17.3617,78.4747,not pre-selected: magazine/online below tier 1
+no,IN,IndoAsia Defense,,,https://indoasiadefense.com/,en,online,3,,,Q138719801,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,IndiaGlitz,Chennai,,https://www.indiaglitz.com,en,online,3,,,Q138788737,0,website; online newspaper,13.0825,80.2750,not pre-selected: magazine/online below tier 1
+no,IN,Gaming Nation,,,https://gamingnation.in,en,online,3,,,Q139268186,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Rayalaseema News,,,https://rayalaseemanews.com,te,online,3,,,Q140044628,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Vionews,,,https://vionews.in/,en,online,3,,,Q140230417,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,TechVerma,,,https://www.techverma.com/,en,online,3,,,Q140303779,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Pragati,Mysore,,http://pragati.nationalinterest.in/,en,daily,3,,,Q7237603,0,newspaper,12.3086,76.6531,reviewed: think-tank magazine
+no,IN,Soan meeraas,Srinagar,,http://www.soanmeeraas.in/,ks,daily,3,,,Q7549774,0,newspaper,34.0911,74.8061,reviewed: regional outlet without a reachable feed – replaced
+no,IN,Bulletin of Tibetology,Gangtok,,https://tibetology.net/?publication-post=bulletin-of-tibetology,en,daily,3,,,Q107093395,0,newspaper,27.3300,88.6200,reviewed: academic journal
+no,IN,The Time Reports,Mumbai,,https://www.thetimereports.com,en,daily,3,,,Q104244424,0,newspaper,19.0758,72.8775,
+no,IN,Ekamatra,Bhubaneswar,,http://ekamaatra.com,or,daily,3,,,Q124706296,0,newspaper,20.2950,85.8250,reviewed: regional outlet without a reachable feed – replaced
+yes,IN,Nishkarsha,Bhubaneswar,,https://nishkarsha.com/,or,daily,3,,,Q124706305,0,newspaper,20.2950,85.8250,
+no,IN,Yugantar Pravah,,,https://www.yugantarpravah.com,hi,daily,3,,,Q131316774,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Hindustan Urdu Times,,,https://hindustanurdutimes.com,ur,daily,3,,,Q138639640,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,Akila,,,https://akilanews.com,gu,daily,3,,,Q131298707,0,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,IN,The Wire Science,,,https://science.thewire.in/,en,online,3,,,Q135011561,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Samachar Patrika,,,https://samacharpatrika.in/,en,online,3,,,Q135231366,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,The Statesman India,Hyderabad,,https://www.thestatesmanindia.com,en,online,3,,,Q136366362,0,news website,17.3617,78.4747,not pre-selected: magazine/online below tier 1
+no,IN,RA News Updates,,,https://www.ranewsupdates.com/,en,online,3,,,Q136399820,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,The Crypto Times,,,https://www.cryptotimes.io/,en,online,3,,,Q138024211,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Behindwoods,Chennai,,https://www.behindwoods.com/,en,online,3,,,Q138651888,0,media company; film production company; news website,13.0825,80.2750,not pre-selected: magazine/online below tier 1
+no,IN,thinQ360,Jaipur,,https://thinq360.com/,hi,online,3,,,Q139763398,0,news website,26.9150,75.8200,not pre-selected: magazine/online below tier 1
+no,IN,GudVibe,,,https://www.gudvibe.app,en,online,3,,,Q139944439,0,news website; website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,India News Grid,,,https://www.indianewsgrid.com/,en,online,3,,,Q139969535,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Harigeet Pravaah,Bhopal,,https://harigeet.com,en,online,3,,,Q139997366,0,news website,23.2589,77.4125,language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Asha News,,,https://ashanews.in,en,online,3,,,Q140385026,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,AthleticsIndia.com,Gurgaon,,https://athleticsindia.com,en,online,3,,,Q140391555,0,news website,28.4667,77.0333,not pre-selected: magazine/online below tier 1
+no,IN,Backily,,,https://backily.com,en,online,3,,,Q140461492,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Delvewire,,,https://delvewire.com,en,online,3,,,Q141081381,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Comics Today,,,https://www.thecomicstoday.com/,en,online,3,,,Q141314961,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,OdishaDiary,,,https://orissadiary.com/,en,online,3,,,Q96397146,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Counterview,,,https://www.counterview.net/,en,online,3,,,Q104522387,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Yahoo News India,,,https://in.news.yahoo.com,en,online,3,,,Q105318577,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Sambad English,Bhubaneswar,,https://sambadenglish.com/,en,online,3,,,Q106640220,0,news website,20.2950,85.8250,language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Folk Culture India,Bhopal,,https://www.folkculture.in,en,online,3,,,Q107650478,0,news website; online magazine,23.2589,77.4125,not pre-selected: magazine/online below tier 1
+no,IN,MEAWW,Bengaluru,,https://meaww.com/,en,online,3,,,Q109637723,0,news website,12.9791,77.5913,language from country default; not pre-selected: magazine/online below tier 1
+no,IN,ENewsRoom,Kolkata,,https://www.enewsroom.in/,en,online,3,,,Q110995863,0,news website,22.5675,88.3700,not pre-selected: magazine/online below tier 1
+no,IN,Kolly Buzz,,,https://kollybuzz.com,en,online,3,,,Q113652976,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Sangri Today,Jaipur,,https://www.sangritoday.com/,en,online,3,,,Q114593588,0,news website,26.9150,75.8200,not pre-selected: magazine/online below tier 1
+no,IN,South First,Hyderabad,,https://thesouthfirst.com/,en,online,3,,,Q116269909,0,news website,17.3617,78.4747,not pre-selected: magazine/online below tier 1
+no,IN,Flaunt Weekly,Kota,,https://flauntweekly.com,en,online,3,,,Q117309339,0,news website,25.1800,75.8300,language from country default; not pre-selected: magazine/online below tier 1
+no,IN,The News Insight,,,http://enewsinsight.com,en,online,3,,,Q123242157,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,IN,Inc42,New Delhi,,https://inc42.com,en,online,3,,,Q124396958,0,media company; news website,28.6139,77.2089,language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Telangana Tribune,,,https://www.telanganatribune.com,en,online,3,,,Q125543807,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,IN,Northeast Today,,,https://www.northeasttoday.in/,en,magazine,3,,,Q115988074,0,news magazine,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

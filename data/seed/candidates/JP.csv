@@ -1,0 +1,128 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,JP,Asahi Shimbun,Tokyo,,http://www.asahi.com,ja,daily,1,,,Q720503,42,daily newspaper,34.6938,135.5021,reviewed: place is a district/prefecture or second office
+no,JP,Yomiuri Shimbun,Tokyo,,https://www.yomiuri.co.jp/,ja,daily,1,,,Q645218,39,daily newspaper,35.6894,139.6917,
+no,JP,Mainichi Shimbun,Tokyo,,https://mainichi.jp/,ja,daily,1,,,Q1136866,30,daily newspaper,35.6894,139.6917,
+no,JP,Nihon Keizai Shimbun,Tokyo,,https://www.nikkei.com/,ja,daily,1,,,Q1077694,27,daily newspaper,35.6894,139.6917,
+no,JP,The Japan Times,Tokyo,,http://club.japantimes.co.jp/,en,daily,1,,,Q1190886,23,daily newspaper; publishing house,,,reviewed: Wikidata homepage is the subscription portal – in asia_manual.csv; no place of publication/headquarters in Wikidata – fill in city
+yes,JP,Sankei Shimbun,Tokyo,,https://www.sankei.com/,ja,daily,1,,,Q1197261,22,daily newspaper,34.6938,135.5021,reviewed: place is a district/prefecture or second office
+yes,JP,Kobe Shimbun,Kobe,,https://www.kobe-np.co.jp/,ja,daily,2,,,Q13403521,19,daily newspaper; business,34.6902,135.1954,reviewed: regional paper
+yes,JP,Shimbun Akahata,Tokyo,,https://www.jcp.or.jp/akahata/,ja,daily,1,,,Q1186339,16,daily newspaper; party newspaper; communist newspaper,35.6813,139.7106,reviewed: place is a district/prefecture or second office
+no,JP,Kono Manga ga Sugoi!,,,http://konomanga.jp/,ja,daily,2,,,Q11266651,13,mook,,,reviewed: not news; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,JP,Chunichi Shimbun,Nagoya,,http://www.chunichi.co.jp/,ja,daily,2,,,Q904678,11,daily newspaper; local newspaper; block newspaper,35.1814,136.9064,
+no,JP,Tokyo Shimbun,Tokyo,,https://www.tokyo-np.co.jp/,ja,daily,2,,,Q766032,11,daily newspaper,35.6894,139.6917,
+no,JP,Tokyo Sports,Tokyo,,https://www.tokyo-sports.co.jp/,ja,daily,2,,,Q8152375,10,newspaper,35.6894,139.6917,reviewed: sports paper
+no,JP,Choson Sinbo,,,https://chosonsinbo.com/,ja,daily,2,,,Q704192,9,newspaper,,,"reviewed: community paper (Korean, Chongryon); no place of publication/headquarters in Wikidata – fill in city"
+yes,JP,Chugoku Shimbun,Hiroshima,,http://www.chugoku-np.co.jp/index_e.html,ja,daily,2,,,Q906959,8,daily newspaper,34.3914,132.4519,
+yes,JP,Hokkaido Shimbun,Sapporo,,https://www.hokkaido-np.co.jp/,ja,daily,2,,,Q907792,8,daily newspaper,43.0619,141.3544,
+no,JP,Jōmō Shimbun,Maebashi,,http://www.jomo-news.co.jp/,ja,daily,3,,,Q1546976,8,local newspaper; online newspaper,,,"reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+yes,JP,Nikkei Asia,Tokyo,,https://asia.nikkei.com/,en,daily,2,,,Q17216388,7,newspaper; magazine,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,JP,Shizuoka Shimbun,Shizuoka,,http://www.at-s.com/,ja,daily,2,,,Q904670,7,local newspaper,34.9756,138.3825,
+yes,JP,Ryūkyū Shimpō,Naha,,http://ryukyushimpo.jp/,ja,daily,2,,,Q4539663,7,local newspaper; organization,26.2122,127.6808,reviewed: place is a district/prefecture or second office
+yes,JP,Kanagawa Shimbun,Yokohama,,https://www.kanaloco.jp/,ja,daily,2,,,Q840928,6,local newspaper,35.4478,139.6368,reviewed: place is a district/prefecture or second office
+yes,JP,The Okinawa Times,Naha,,https://www.okinawatimes.co.jp/,ja,daily,2,,,Q4539628,6,local newspaper,26.2122,127.6808,reviewed: place is a district/prefecture or second office
+yes,JP,Kyoto Shimbun,Kyoto,,https://www.kyoto-np.co.jp/,ja,daily,2,,,Q6452210,5,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,JP,The Tōō Nippō Press,Aomori,,https://www.toonippo.co.jp/,ja,daily,3,,,Q6672394,5,newspaper,40.8228,140.7469,
+yes,JP,Miyazaki Nichinichi Shinbun,Miyazaki,,https://www.the-miyanichi.co.jp/,ja,daily,3,,,Q6884451,5,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,JP,Sekai Nippo,,,http://www.worldtimes.co.jp/,ja,daily,3,,,Q11362392,5,business; newspaper,,,reviewed: church-affiliated paper; no place of publication/headquarters in Wikidata – fill in city
+yes,JP,Nishinippon Shimbun,Fukuoka,,http://www.nishinippon.co.jp/,ja,daily,3,,,Q5231221,5,daily newspaper,33.5901,130.4017,
+no,JP,Komei Shimbun,,,http://www.komei.or.jp/news/index.html,ja,daily,3,,,Q10855393,5,party newspaper,,,reviewed: party paper; no place of publication/headquarters in Wikidata – fill in city
+yes,JP,Akita Sakigake Shimpō,Akita,,https://www.sakigake.jp/,ja,daily,3,,,Q11595779,5,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,JP,Kahoku Shimpo,Sendai,,http://www.kahoku.co.jp/,ja,daily,3,,,Q639774,5,daily newspaper,38.2682,140.8694,reviewed: regional outlet without a reachable feed – replaced
+no,JP,ITmedia,Tokyo,,https://www.itmedia.co.jp/,ja,online,3,,,Q618875,5,business; news website,35.6894,139.6917,language from country default; not pre-selected: magazine/online below tier 1
+no,JP,Nikkan Kogyo Shimbun,,,http://www.nikkan.co.jp/,ja,daily,3,,,Q1990349,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Sanyo Shimbun,Okayama,,https://www.sanyonews.jp/,ja,daily,3,,,Q7420810,4,newspaper,34.6551,133.9196,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Shinano Mainichi Shimbun,Nagano,,https://www.shinmai.co.jp/,ja,daily,3,,,Q11386181,4,daily newspaper,36.6487,138.1947,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Yamanashi Nichinichi Shimbun,Kofu,,https://www.sannichi.co.jp/,ja,daily,3,,,Q11045913,4,local newspaper,35.6621,138.5682,reviewed: regional outlet without a reachable feed – replaced
+no,JP,47NEWS,,,https://www.47news.jp/,ja,online,3,,,Q11187831,4,news website; Enumeration of 47,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,Shimotsuke Shinbun,,,https://www.shimotsuke.co.jp/,ja,daily,3,,,Q11361390,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,JP,Hokkoku Shimbun,Kanazawa,,https://www.hokkoku.co.jp/,ja,daily,3,,,Q11401312,3,organization; newspaper; mass media,36.5950,136.6250,reviewed: place is a district/prefecture or second office; language from country default
+no,JP,Minami-Nippon Shimbun,,,https://373news.com/,ja,daily,3,,,Q11407895,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,JP,The Shikoku Shimbun,Takamatsu,,https://www.shikoku-np.co.jp/,ja,daily,3,,,Q11419744,3,organization; newspaper,34.3340,134.0441,reviewed: place is a district/prefecture or second office; language from country default
+no,JP,San-in Chuo Shimpo,Matsue,,http://www.sanin-chuo.co.jp/,ja,daily,3,,,Q11471110,3,newspaper,35.4722,133.0503,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Iwate Nippo,Morioka,,http://www.iwate-np.co.jp/,ja,daily,3,,,Q11474625,3,newspaper,39.7021,141.1545,reviewed: regional outlet without a reachable feed – replaced
+no,JP,The Nagasaki Shimbun,,,https://www.nagasaki-np.co.jp/,ja,daily,3,,,Q11652567,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Yamaguchi Shimbun,Shimonoseki,,http://www.minato-yamaguchi.co.jp/,ja,daily,3,,,Q8047652,3,daily newspaper,33.9579,130.9413,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Liberal & Democratic,Nagatachō,,https://www.jimin.jp/involved/paper/,ja,weekly,3,,,Q11612949,3,party newspaper; weekly newspaper,35.6759,139.7444,"reviewed: party paper; types: daily, weekly"
+no,JP,TBS NEWS DIG,,,https://newsdig.tbs.co.jp/,ja,online,3,,,Q16143608,3,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,JP,Yamagata Shimbun,Yamagata,,https://www.yamagata-np.jp/,ja,daily,3,,,Q11468452,3,local newspaper,38.2554,140.3396,
+no,JP,Ishinomaki Hibi Shinbun,Ishinomaki,,https://hibishinbun.com/,ja,daily,3,,,Q11586480,3,local newspaper,38.4342,141.3027,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Fukushima Minyu Shimbun,,,https://www.minyu-net.com/,ja,daily,3,,,Q11593163,3,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Impress Watch,,,https://www.watch.impress.co.jp/,ja,online,3,,,Q11224728,3,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,Asagumo Shinbunsha. Henshūkyoku,,,https://www.asagumo-news.com/,ja,daily,3,,,Q11517751,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Fukushima Minpō,,,https://www.minpo.jp/,ja,daily,3,,,Q11593162,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Senken Shinbunsha,Nihonbashi-Hakozakichō,,http://www.senken.co.jp/,ja,daily,3,,,Q11608206,2,business; company; newspaper,35.6802,139.7871,reviewed: trade paper; language from country default
+no,JP,The Japan News,,,http://the-japan-news.com/,en,daily,3,,,Q11306616,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,The Kitanippon Shimbun,,,https://webun.jp/,ja,daily,3,,,Q11401857,2,daily newspaper; local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Nihonkai Shimbun,,,http://www.nnn.co.jp/,ja,daily,3,,,Q11508492,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Saga Shimbun,,,https://www.saga-s.co.jp/,ja,daily,3,,,Q11384670,2,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,JP,Chiba Nipposha,,,https://www.chibanippo.co.jp/,ja,daily,3,,,Q11406077,2,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Gifu Shimbun,Gifu,,https://www.gifu-np.co.jp/,ja,daily,3,,,Q11471399,2,local newspaper,35.4263,136.7594,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Tokushima Shimbun,Tokushima,,https://www.topics.or.jp/,ja,daily,3,,,Q11489835,2,local newspaper,34.0703,134.5549,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Ehime Shimbun,Matsuyama,,https://www.ehime-np.co.jp/,ja,daily,3,,,Q11493542,2,local newspaper,33.8392,132.7656,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Kumamoto Nichinichi Shimbun,Kumamoto,,https://kumanichi.com/,ja,daily,3,,,Q11568194,2,local newspaper,32.8030,130.7079,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Fukui Shimbun,,,https://www.fukuishimbun.co.jp,ja,daily,3,,,Q11591397,2,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,JP,Ibaraki Shimbun,Mito,,https://ibarakinews.jp/,ja,daily,3,,,Q11617316,2,local newspaper,36.3417,140.4468,reviewed: place is a district/prefecture or second office
+no,JP,Shakai Shimpo,Minato,,https://sdp.or.jp/category/sdp-paper/,ja,weekly,3,,,Q11588278,2,weekly newspaper,35.6713,139.7800,reviewed: party paper
+no,JP,Mindan Shimbun,,,https://www.mindan.org/news/,ja,daily,3,,,Q11242568,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,交通新聞,Chiyoda,,https://www.kotsu.co.jp/,ja,daily,3,,,Q11374007,2,newspaper,35.6939,139.7536,reviewed: trade paper
+no,JP,Niconico News,,,https://news.nicovideo.jp/,ja,online,3,,,Q11324223,2,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,Real Sound,,,https://realsound.jp/,ja,online,3,,,Q48765549,2,communications media; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,Christian Today,Tokyo,,https://www.christiantoday.co.jp/,ja,daily,3,,,Q5110206,1,newspaper,35.6894,139.6917,language from country default
+no,JP,The Japan Maritime Daily,,,https://www.jmd.co.jp/,ja,daily,3,,,Q11508480,1,maritime newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,JP,The Yaeyama Nippo,Ishigaki,,https://yaeyama-nippo.co.jp,ja,daily,3,,,Q11391789,1,newspaper; organization,24.3445,124.1852,language from country default
+no,JP,奄美新聞,Amami,,https://amamishimbun.co.jp/,ja,daily,3,,,Q11444857,1,newspaper,28.3772,129.4938,reviewed: no Latin-script name
+no,JP,東京民報,Shiba,,http://www.tokyominpo.com/,ja,daily,3,,,Q11524941,1,business; newspaper; newspaper publisher,35.6508,139.7489,reviewed: no Latin-script name; language from country default
+no,JP,Keiba Ace,,,http://www.keiba-ace.jp/,ja,daily,3,,,Q11598591,1,newspaper; organization,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,JP,Bouei Home,,,https://www.boueinews.com/,ja,daily,3,,,Q11657075,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,電波タイムズ,Shinbashi,,https://www.dempa-times.co.jp/,ja,daily,3,,,Q11660485,1,newspaper,35.6667,139.7580,reviewed: trade paper
+no,JP,Bunka Tsushinsha,Tokyo,,https://www.bunkanews.jp/,ja,daily,3,,,Q109603061,1,business; newspaper,35.6839,139.7744,
+no,JP,東京ディズニーリゾートTIMES,Tokyo Disney Resort,,http://tabi.tokyodisneyresort.co.jp/plan/times.html,ja,daily,3,,,Q11524293,1,house publication; free newspaper,35.6297,139.8828,reviewed: resort newsletter
+no,JP,Sanjo Shinbun,Sanjō-shi,,https://www.sanjoshinbun.online/,ja,daily,3,,,Q11355971,1,local newspaper; daily newspaper,37.6368,138.9617,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Izu Shimbun,,,https://digital.izu-np.co.jp/,ja,daily,3,,,Q11380576,1,local newspaper; daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Daily Shin-Shunan,Shunan,,https://www.shinshunan.co.jp/,ja,daily,3,,,Q11504954,1,daily newspaper,34.1861,131.4703,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,JP,Suzaka Shimbun,Suzaka,,https://www.suzakanews.co.jp/,ja,weekly,3,,,Q110884378,1,local newspaper; weekly newspaper,36.6511,138.3073,"reviewed: regional outlet without a reachable feed – replaced; types: daily, weekly"
+no,JP,Daily Tohoku,,,https://www.daily-tohoku.news/,ja,daily,3,,,Q11320984,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Hokuu Shimpō,,,https://www.hokuu.co.jp/,ja,daily,3,,,Q11403950,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Nippon Times,,,https://nippon-times.net/,ja,daily,3,,,Q11419679,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Nara Shinbun,,,http://www.nara-np.co.jp/,ja,daily,3,,,Q11445114,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,神静民報,Odawara,,http://www.sinsei-minpo.com/,ja,daily,3,,,Q11591026,1,local newspaper,35.2646,139.1522,reviewed: no Latin-script name
+no,JP,Kii Minpo,,,https://www.agara.co.jp/,ja,daily,3,,,Q11604962,1,local newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Kochi Shimbun,Kōchi-shi,,https://www.kochinews.co.jp/,ja,daily,3,,,Q11672380,1,local newspaper,33.5588,133.5312,reviewed: regional outlet without a reachable feed – replaced
+no,JP,Real Live News,Tokyo,,http://npn.co.jp/,ja,daily,3,,,Q11393909,1,business; evening paper; newspaper publisher; news website,35.6894,139.6917,"language from country default; types: daily, online"
+no,JP,Shinken Shinbunsha,,,https://www.shinkenpress.co.jp/,ja,daily,3,,,Q22126352,1,industry newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,日刊人吉新聞,Hitoyoshi,,http://www.hitoyoshi-press.com/index.php,ja,daily,3,,,Q11504949,1,newspaper,32.2100,130.7625,reviewed: no Latin-script name
+no,JP,Dempa Shimbun Daily,,,https://www.dempa.co.jp/newspaper_01.php,ja,daily,3,,,Q11504965,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,SALALA,,,http://qprq.jp,ja,daily,3,,,Q11242440,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Hokuroku,,,http://www.hokuroku.co.jp/,ja,daily,3,,,Q11404537,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Wakayama Shimpō,,,https://wakayamashimpo.co.jp/,ja,daily,3,,,Q11417367,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Shukan NY Seikatsu,,,https://www.nyseikatsu.com/,ja,daily,3,,,Q18358323,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Kankokeizai News,,,https://www.kankokeizai.com/,ja,weekly,3,,,Q11630527,1,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,JP,NIKKEI xTECH,,,https://xtech.nikkei.com/,ja,online,3,,,Q118572941,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,ASCII.jp,,,https://ascii.jp/,ja,online,3,,,Q97378117,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,Umanity,,,https://umanity.jp/,ja,online,3,,,Q111967201,1,database; news website; website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,Cinema Cafe,,,https://www.cinemacafe.net/,ja,online,3,,,Q116206869,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,THE PAGE,,,https://news.yahoo.co.jp/media/wordleaf,ja,online,3,,,Q86740827,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,アクセスジャーナル,Shinjuku,,https://access-journal.jp/,ja,online,3,,,Q86741222,1,business; news website,35.6909,139.7061,language from country default; not pre-selected: magazine/online below tier 1
+no,JP,MyNewsJapan,Shinjuku,,https://www.mynewsjapan.com,ja,online,3,,,Q11233992,1,business; news website,35.6909,139.7061,not pre-selected: magazine/online below tier 1
+no,JP,NEWS Post seven,,,https://www.news-postseven.com/,ja,online,3,,,Q11234829,1,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,Mynavi,,,http://news.mynavi.jp/,ja,online,3,,,Q11339742,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,さくらフィナンシャルニュース,Haraikatamachi,,https://www.sakurafinancialnews.com/,ja,online,3,,,Q28688567,1,news website; business,35.6975,139.7358,language from country default; not pre-selected: magazine/online below tier 1
+no,JP,Suisan-Keizai Daily News,,,http://www.suikei.co.jp/,ja,daily,3,,,Q113674569,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,Kokumin Minshu Press,,,https://new-kokumin.jp/support/publication,ja,daily,3,,,Q113674183,0,party newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,JP,JinaCoin,Takamatsu,,https://jinacoin.ne.jp/,ja,online,3,,,Q139145897,0,online newspaper,34.3428,134.0466,not pre-selected: magazine/online below tier 1
+no,JP,Bucchake Housing,Takamatsu,,https://bucchake-housing.co.jp/,ja,online,3,,,Q139165116,0,online newspaper,34.3428,134.0466,not pre-selected: magazine/online below tier 1
+no,JP,Unseen Japan,,,https://unseen-japan.com,ja,online,3,,,Q131703147,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,HuffPost Japan,,,http://www.huffingtonpost.jp/,ja,online,3,,,Q44128263,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,The Europe Times,,,https://europe-times.net/,ja,online,3,,,Q141108936,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,SPICE,,,https://spice.eplus.jp/,ja,online,3,,,Q137734966,0,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,週刊報道サイト,Kameido,,http://hodotokushu.net/,ja,online,3,,,Q137994354,0,news website; business,35.6976,139.8263,language from country default; not pre-selected: magazine/online below tier 1
+no,JP,NHK NEWS WEB,,,https://www3.nhk.or.jp/news/,ja,online,3,,,Q122169045,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,Mogura VR News,,,https://www.moguravr.com/,ja,online,3,,,Q124857448,0,communications media; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,PANORA,,,https://panora.tokyo/,ja,online,3,,,Q130271804,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,Full-Count,,,https://full-count.jp/,ja,online,3,,,Q131010045,0,communications media; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,KAI-YOU.net,,,https://kai-you.net/,ja,online,3,,,Q113432416,0,news website; communications media,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,CNN.co.jp,,,https://www.cnn.co.jp/,ja,online,3,,,Q113772386,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,YuriNavi,,,https://yurinavi.com/,ja,online,3,,,Q114299469,0,news website; webcomic website; anime and manga database,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,Nippon.com,,,http://www.nippon.com/,ja,online,3,,,Q37630066,0,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,JP,HIPHOPCs,,,https://hiphopnewscs.jp/,ja,online,3,,,Q141246292,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,JP,YAPPARI,,,https://yappari.fr,fr,online,3,,,Q141014754,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

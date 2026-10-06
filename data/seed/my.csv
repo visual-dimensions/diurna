@@ -1,0 +1,10 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+MY,New Straits Times,Kuala Lumpur,,http://www.nst.com.my/,en,daily,1,,,,
+MY,The Star,Petaling Jaya,,https://thestar.com.my,en,daily,1,,,,
+MY,Malaysiakini,Kuala Lumpur,,https://www.malaysiakini.com/,en,online,2,,,,
+MY,Free Malaysia Today,Petaling Jaya,,http://www.freemalaysiatoday.com,en,online,2,,,,
+MY,Sin Chew Daily,Petaling Jaya,,https://www.sinchew.com.my/,zh,daily,2,,,,
+MY,Borneo Post,Kuching,,http://www.theborneopost.com/,en,daily,2,,,,
+MY,Utusan Malaysia,Kuala Lumpur,,https://www.utusan.com.my/,ms,daily,2,,,,
+MY,Kosmo!,Kuala Lumpur,,http://www.kosmo.com.my/,ms,daily,3,,,,
+MY,Sinar Harian,Shah Alam,,http://www.sinarharian.com.my,ms,daily,3,,,3.0833,101.5333

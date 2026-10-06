@@ -1,0 +1,5 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,BN,Borneo Bulletin,Bandar Seri Begawan,,http://www.borneobulletin.com.bn,en,daily,2,,,Q4946070,7,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,BN,Media Permata,,,https://mediapermata.com.bn/,ms,daily,3,,,Q6805520,4,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,BN,Pelita Brunei,,,http://www.pelitabrunei.gov.bn/SitePages/Home.aspx,ms,daily,3,,,Q20449882,3,newspaper; archives,,,no place of publication/headquarters in Wikidata – fill in city
+no,BN,Brunei Direct,,,https://www.brudirect.com/,en,daily,3,,,Q113645914,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

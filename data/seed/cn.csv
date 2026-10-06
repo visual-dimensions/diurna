@@ -1,0 +1,19 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+CN,People's Daily,Beijing,,https://en.people.cn/,zh,daily,1,state,https://en.wikipedia.org/wiki/Media_of_China,39.9040,116.4075
+CN,Global Times,Beijing,,https://www.globaltimes.cn/,zh,daily,1,state,https://en.wikipedia.org/wiki/Media_of_China,39.9040,116.4075
+CN,China Daily,Beijing,,http://www.chinadaily.com.cn,en,daily,1,state,https://en.wikipedia.org/wiki/Media_of_China,39.9040,116.4075
+CN,Guangming Daily,Beijing,,https://www.gmw.cn,zh,daily,1,state,https://en.wikipedia.org/wiki/Media_of_China,39.9040,116.4075
+CN,Caixin Media,Beijing,,https://www.caixin.com/,en,online,1,,,39.9040,116.4075
+CN,Wen Hui Bao,Shanghai,,http://wenhui.news365.com.cn/,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,31.2325,121.4692
+CN,Reference News,Beijing,,https://www.cankaoxiaoxi.com/,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,,
+CN,The Beijing News,Beijing,,https://www.bjnews.com.cn/,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,39.9040,116.4075
+CN,China Youth Daily,Beijing,,https://www.cyol.com/,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,39.9040,116.4075
+CN,Jiefang Daily,Jing'an District,,https://www.jfdaily.com,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,31.2295,121.4427
+CN,Xinmin Evening News,Shanghai,,https://www.xinmin.cn/,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,31.2325,121.4692
+CN,Nanfang Daily,Guangzhou,,http://www.nfdaily.cn,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,23.1300,113.2600
+CN,Southern Metropolis Daily,Guangzhou,,http://www.oeeee.com,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,23.1300,113.2600
+CN,Guangzhou Daily,Guangzhou,,https://gzdaily.dayoo.com/,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,,
+CN,Beijing Youth Daily,Beijing,,http://bjyouth.ynet.cn,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,22.2783,114.1586
+CN,Sichuan Daily,Chengdu,,https://scdaily.cn/,zh,daily,2,state,https://en.wikipedia.org/wiki/Media_of_China,30.6600,104.0633
+CN,Xin Kuaibao,Guangzhou,,http://epaper.xkb.com.cn/,zh,daily,3,state,https://en.wikipedia.org/wiki/Media_of_China,23.1300,113.2600
+CN,Hunan Ribao,Changsha,,http://hnrb.voc.com.cn/hnrb_epaper/,zh,daily,3,state,https://en.wikipedia.org/wiki/Media_of_China,28.1987,112.9709

@@ -1,0 +1,19 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,PH,Rappler,Pasig,,https://www.rappler.com/,en,online,1,,,Q14903716,19,media company; news website; fact-checking organisation; website,14.5605,121.0765,language from country default
+yes,PH,Philippine Daily Inquirer,Makati,,http://www.inquirer.com.ph/,en,daily,1,,,Q1831242,16,daily newspaper,14.5567,121.0214,
+yes,PH,The Philippine Star,Manila,,http://www.philstar.com,en,daily,2,,,Q6489289,12,newspaper,14.5958,120.9772,
+yes,PH,Manila Standard,Makati,,http://www.thestandard.com.ph,en,daily,2,,,Q12810713,8,newspaper,14.5567,121.0214,
+yes,PH,BusinessWorld,Makati,,http://www.bworldonline.com/,en,daily,3,,,Q5001667,5,business newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,PH,MindaNews,Davao City,,https://www.mindanews.com/,en,daily,3,,,Q6863597,4,regional newspaper; fact-checking organisation; website,7.0662,125.6094,reviewed: regional outlet without a reachable feed – replaced
+no,PH,Abante,Manila,,https://www.abante.com.ph/,tl,daily,3,,,Q4663413,3,newspaper,14.5958,120.9772,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,PH,United Daily News,,,http://www.unitednews.net.ph,zh,daily,3,,,Q25339504,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,PH,Bicol Standard,,,http://www.bicolstandard.com,en,daily,3,,,Q25663268,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,PH,Filipino Mirror Media Group Corporation,Makati,,http://www.pilipinomirror.com/,tl,daily,3,,,Q7194055,2,newspaper,14.5567,121.0214,reviewed: language: Filipino; language from country default
+no,PH,Business Mirror,Makati,,https://businessmirror.com.ph/,en,daily,3,,,Q5001759,2,business newspaper,14.5567,121.0214,
+no,PH,SunStar Davao,,,https://www.sunstar.com.ph/DAVAO,en,daily,3,,,Q7638134,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,PH,Cebu Daily News,Cebu City,,https://cebudailynews.inquirer.net,en,daily,3,,,Q45185044,1,news agency; news media; local newspaper,10.2930,123.9020,language from country default
+no,PH,Newsbreak Magazine,Knoxville,US,http://newsbreak.net,en,daily,3,exile,,Q7019615,1,newspaper,35.9617,-83.9233,language from country default; newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
+no,PH,Davao Today,Davao City,,http://www.davaotoday.com/,en,magazine,3,,,Q104612787,1,online magazine; news magazine,7.0662,125.6094,language from country default; not pre-selected: magazine/online below tier 1
+no,PH,The Baguio Chronicle,Baguio,,https://thebaguiochronicle.com/,en,weekly,3,,,Q131413020,0,weekly newspaper,16.4119,120.5933,reviewed: regional outlet without a reachable feed – replaced
+no,PH,Paraluman News,Pasig,,https://www.myparaluman.ph,en,online,3,,,Q138667113,0,news media; online newsroom; news website,14.5605,121.0765,not pre-selected: magazine/online below tier 1
+no,PH,Inquirer Interactive,,,https://www.inquirer.net/,en,online,3,,,Q97657682,0,news website; business,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

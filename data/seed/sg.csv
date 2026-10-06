@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+SG,The Straits Times,Singapore,,https://www.straitstimes.com/,en,daily,1,,,,
+SG,Lianhe Zaobao,Singapore,,http://www.zaobao.com/,zh,daily,2,,,,
+SG,The New Paper,Singapore,,https://www.tnp.sg/,en,daily,3,,,,
+SG,Business Times,Singapore,,https://www.businesstimes.com.sg/,en,daily,2,,,,
+SG,Tamil Murasu,Singapore,,https://www.tamilmurasu.com.sg/,ta,daily,3,,,,

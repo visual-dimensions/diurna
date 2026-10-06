@@ -1,0 +1,146 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+IN,The Times of India,Mumbai,,http://timesofindia.indiatimes.com,en,daily,1,,,19.0758,72.8775
+IN,The Hindu,Chennai,,https://www.thehindu.com/,en,daily,1,,,13.0825,80.2750
+IN,Hindustan Times,New Delhi,,https://www.hindustantimes.com/,en,daily,1,,,28.6139,77.2089
+IN,The Indian Express,Mumbai,,https://indianexpress.com/,en,daily,1,,,19.0758,72.8775
+IN,The Economic Times,Mumbai,,http://economictimes.indiatimes.com/,en,daily,1,,,19.0758,72.8775
+IN,Dainik Bhaskar,Bhopal,,https://www.bhaskar.com/,hi,daily,1,,,23.2589,77.4125
+IN,The Statesman,Kolkata,,http://www.thestatesman.com/,en,daily,1,,,22.5675,88.3700
+IN,Dainik Jagran,Kanpur,,http://www.jagran.com/,hi,daily,1,,,26.4725,80.3311
+IN,The Telegraph,Kolkata,,http://www.telegraphindia.com/,en,daily,1,,,22.5675,88.3700
+IN,Malayala Manorama,Kottayam,,https://www.manoramaonline.com/,ml,daily,1,,,9.5917,76.5222
+IN,Deccan Herald,Bengaluru,,http://www.deccanherald.com,en,daily,1,,,12.9791,77.5913
+IN,Deccan Chronicle,Hyderabad,,http://www.deccan.com,en,daily,1,,,,
+IN,Daily News and Analysis,Mumbai,,https://www.dnaindia.com,en,daily,1,,,19.0758,72.8775
+IN,Anandabazar Patrika,Kolkata,,https://www.anandabazar.com,bn,daily,2,,,22.5675,88.3700
+IN,Bombay Samachar,Mumbai,,http://bombaysamachar.com/,gu,daily,2,,,22.5675,88.3700
+IN,The Tribune,Chandigarh,,http://www.tribuneindia.com/,en,daily,2,,,30.7333,76.7797
+IN,Outlook,New Delhi,,https://www.outlookindia.com,en,magazine,2,,,28.6139,77.2089
+IN,Amar Ujala,Noida,,https://www.amarujala.com/,hi,daily,2,,,28.5700,77.3200
+IN,Business Standard,New Delhi,,https://www.business-standard.com/,en,daily,2,,,28.6139,77.2089
+IN,The New Indian Express,Chennai,,https://www.newindianexpress.com/,en,daily,2,,,13.0825,80.2750
+IN,Kesari,Pune,,http://www.dailykesari.com/,mr,daily,2,,,28.6667,77.2167
+IN,Rajasthan Patrika,Jaipur,,https://www.patrika.com,hi,daily,2,,,26.9150,75.8200
+IN,Navbharat Times,Mumbai,,http://navbharattimes.indiatimes.com/,hi,daily,2,,,19.0758,72.8775
+IN,Mid Day,Mumbai,,http://www.mid-day.com,en,daily,2,,,19.0758,72.8775
+IN,Dina Thanthi,Chennai,,https://www.dailythanthi.com/,ta,daily,2,,,13.0825,80.2750
+IN,Eenadu,Hyderabad,,http://eenadu.net/,te,daily,2,,,17.3617,78.4747
+IN,Dinakaran,Chennai,,http://www.dinakaran.com/,ta,daily,2,,,13.0825,80.2750
+IN,Hindustan Dainik,New Delhi,,http://epaper.livehindustan.com/,hi,daily,2,,,28.6139,77.2089
+IN,The Financial Express,Noida,,http://www.financialexpress.com/,en,daily,2,,,28.5700,77.3200
+IN,National Herald,Delhi,,https://www.nationalheraldindia.com/,en,daily,2,,,28.6667,77.2167
+IN,Business Line,Chennai,,http://www.thehindubusinessline.com,en,daily,2,,,13.0825,80.2750
+IN,Saamana,Mumbai,,http://www.saamana.com/,mr,daily,2,,,19.0758,72.8775
+IN,Punjab Kesari,Jalandhar,,http://www.punjabkesari.in/,hi,daily,2,,,31.3256,75.5792
+IN,Sudharma,Mysore,,http://sudharmasanskritdaily.in,sa,daily,2,,,12.3086,76.6531
+IN,Mint,Delhi,,http://livemint.com,en,daily,2,,,28.6667,77.2167
+IN,Dinamani,Chennai,,http://www.dinamani.com/,ta,daily,2,,,11.0000,79.0000
+IN,Prajavani,Bengaluru,,https://www.prajavani.net/,kn,daily,2,,,12.9791,77.5913
+IN,The Siasat Daily,Hyderabad,,http://www.siasat.com,en,daily,2,,,,
+IN,ThePrint,New Delhi,,https://theprint.in,en,online,2,,,,
+IN,Mathrubhumi,Kozhikode,,https://www.mathrubhumi.com/,ml,daily,2,,,11.2478,75.7803
+IN,Dinamalar,Chennai,,http://www.dinamalar.com,ta,daily,2,,,13.0825,80.2750
+IN,The Assam Tribune,Guwahati,,http://www.assamtribune.com,en,daily,2,,,26.1806,91.7502
+IN,Chandrika,Kozhikode,,https://www.chandrikadaily.com/,ml,daily,2,,,11.2478,75.7803
+IN,Aajkaal,Kolkata,,http://www.aajkaal.net/,bn,daily,2,,,22.5675,88.3700
+IN,Sakshi,Hyderabad,,https://www.sakshi.com/,te,daily,2,,,17.3617,78.4747
+IN,Malai Malar,Chennai,,http://www.maalaimalar.com,ta,daily,2,,,13.0825,80.2750
+IN,Prabhat Khabar,Patna,,https://www.prabhatkhabar.com/,hi,daily,2,,,25.6100,85.1414
+IN,Maharashtra Times,Mumbai,,http://maharashtratimes.indiatimes.com/,mr,daily,2,,,19.0758,72.8775
+IN,Lokmat,Mumbai,,http://lokmat.com,mr,daily,2,,,19.0758,72.8775
+IN,The Samaja,Cuttack,,http://thesamaja.com/,or,daily,2,,,20.4500,85.8667
+IN,Andhra Prabha,Hyderabad,,https://www.prabhanews.com/,te,daily,2,,,17.3617,78.4747
+IN,Loksatta,Mumbai,,https://www.loksatta.com/,mr,daily,2,,,19.0758,72.8775
+IN,Janasadharan,Guwahati,,http://janasadharan.in/,as,daily,2,,,26.1806,91.7502
+IN,Daily Desher Katha,Agartala,,http://www.dailydesherkatha.com,bn,daily,2,,,23.8333,91.2667
+IN,Amar Asom,Guwahati,,http://amarasom.glpublications.in/,as,daily,2,,,26.1806,91.7502
+IN,Asomiya Pratidin,Guwahati,,http://www.asomiyapratidin.in/,as,daily,2,,,26.1806,91.7502
+IN,Vijaya Karnataka,Bengaluru,,http://www.vijaykarnataka.com/,kn,daily,2,,,12.9791,77.5913
+IN,Kerala Kaumudi,Thiruvananthapuram,,http://www.keralakaumudi.com/,ml,daily,2,,,8.4875,76.9525
+IN,Pudhari,Navi Mumbai,,http://www.pudhari.com/,mr,daily,2,,,19.0300,73.0100
+IN,Hind Samachar,Jalandhar,,https://www.hindsamachar.in/,ur,daily,2,,,31.3256,75.5792
+IN,Samyukta Karnataka,Hubli,,http://epaper.samyukthakarnataka.com,kn,daily,2,,,15.3550,75.1362
+IN,Niyamiya Barta,Guwahati,,http://niyamiyabarta.com/,as,daily,2,,,26.1806,91.7502
+IN,The Wire,New Delhi,,https://thewire.in/,en,online,2,,,,
+IN,Ebela,Kolkata,,http://ebela.in/,bn,daily,2,,,22.5675,88.3700
+IN,Namasthe Telangana,Hyderabad,,https://epaper.ntnews.com/,te,daily,2,,,17.3617,78.4747
+IN,Madhyamam Daily,Kozhikode,,http://www.madhyamam.com/,ml,daily,2,,,11.2478,75.7803
+IN,Nava Bharat,Nagpur,,http://navabharat.com/,hi,daily,2,,,21.1497,79.0806
+IN,Hari Bhoomi,Delhi,,http://www.haribhoomi.com,hi,daily,2,,,28.6667,77.2167
+IN,Avadhnama,Lucknow,,http://www.avadhnama.com/,ur,daily,2,,,26.8470,80.9470
+IN,Janmabhumi,Kochi,,http://www.janmabhumidaily.com/jnb//,ml,daily,2,,,,
+IN,Bartaman,Kolkata,,http://bartamanpatrika.com/,bn,daily,2,,,12.9791,77.5913
+IN,Dainik Janambhumi,Guwahati,,http://www.dainikjanambhumi.co.in/,as,daily,2,,,26.1806,91.7502
+IN,The Munsif Daily,Hyderabad,,http://www.munsifdaily.in/,en,daily,2,,,17.3617,78.4747
+IN,Prajasakti,Vijayawada,,http://www.prajasakti.com/,te,daily,2,,,16.5167,80.6167
+IN,The Hans India,Hyderabad,,https://www.thehansindia.com/,en,daily,3,,,,
+IN,Dainik Agradoot,Guwahati,,http://www.dainikagradoot.com/,as,daily,2,,,26.1806,91.7502
+IN,Dainik Navajyoti,Ajmer,,http://www.dainiknavajyoti.com,hi,daily,2,,,26.4680,74.6390
+IN,Gana Adhikar,Guwahati,,http://www.ganaadhikar.com/,as,daily,2,,,26.1806,91.7502
+IN,Tarun Bharat,Belgaum,,https://tarunbharat.com/,mr,daily,2,,,15.8569,74.5044
+IN,The Free Press Journal,Mumbai,,https://www.freepressjournal.in/,en,daily,3,,,,
+IN,The Milli Gazette,New Delhi,,http://www.milligazette.com,en,daily,2,,,28.6139,77.2089
+IN,Telangana Today,Hyderabad,,http://telanganatoday.com,en,daily,2,,,17.3617,78.4747
+IN,Sambad,Bhubaneswar,,http://www.orissasambad.com,or,daily,2,,,20.2950,85.8250
+IN,Varthabharathi,Mangaluru,,https://www.varthabharati.in/,kn,daily,2,,,12.8717,74.8425
+IN,Andhra Jyothy,Hyderabad,,http://www.andhrajyothy.com/,te,daily,2,,,,
+IN,Jansatta,New Delhi,,https://www.jansatta.com,hi,daily,3,,,,
+IN,Ei Samay Sangbadpatra,Kolkata,,http://www.eisamay.com/,bn,daily,3,,,,
+IN,Karavali Ale,Mangaluru,,http://karavaliale.net/,kn,daily,3,,,12.8717,74.8425
+IN,Janayugom,Thiruvananthapuram,,http://www.janayugomonline.com/,ml,daily,3,,,8.4875,76.9525
+IN,Kannada Prabha,Bengaluru,,http://www.kannadaprabha.com,kn,daily,3,,,12.9791,77.5913
+IN,Divya Bhaskar,Ahmedabad,,https://www.divyabhaskar.co.in,gu,daily,3,,,23.0219,72.5797
+IN,Mail Today,Delhi,,http://www.mailtoday.in/,en,daily,3,,,28.6667,77.2167
+IN,Kalantar,Kolkata,,https://bengalbyte.in/kalantar-newspaper,bn,daily,3,,,22.5675,88.3700
+IN,Sangbad Pratidin,Kolkata,,http://www.sangbadpratidin.in/pratidin/,bn,daily,3,,,22.5675,88.3700
+IN,Siraj Daily,Kozhikode,,http://www.sirajlive.com,ml,daily,3,,,11.2500,75.7700
+IN,Kashmir Times,Srinagar,,http://www.kashmirtimes.com/,en,daily,3,,,34.0911,74.8061
+IN,Nagaland Post,Dimapur,,http://nagalandpost.com/,en,daily,3,,,25.9125,93.7417
+IN,The Morung Express,Dimapur,,http://www.morungexpress.com,en,daily,3,,,25.9125,93.7417
+IN,Hosa Digantha,Bengaluru,,http://hosadigantha.in,kn,daily,3,,,12.9791,77.5913
+IN,Sanjevani,Bengaluru,,http://www.sanjevani.com,kn,daily,3,,,12.9791,77.5913
+IN,Daily Excelsior,Jammu,,https://www.dailyexcelsior.com/,en,daily,3,,,32.7333,74.8500
+IN,Sakal,Pune,,http://www.esakal.com,mr,daily,3,,,18.5211,73.8553
+IN,Star of Mysore,Mysore,,http://www.starofmysore.com/,en,daily,3,,,12.3086,76.6531
+IN,Deshdoot,Nashik,,http://www.deshdoot.com,mr,daily,3,,,20.0000,73.7833
+IN,Pragativadi,Bhubaneswar,,http://www.pragativadi.com//,or,daily,3,,,20.2950,85.8250
+IN,Dharitri,Bhubaneswar,,http://dharitri.com/,or,daily,3,,,20.2950,85.8250
+IN,Nawan Zamana,Jalandhar,,http://www.nawanzamana.in/,pa,daily,3,,,31.3256,75.5792
+IN,Gujarat Today,Ahmedabad,,http://www.gujarattoday.in,gu,daily,3,,,23.0219,72.5797
+IN,Inext,Kanpur,,https://www.inextlive.com/,hi,daily,3,,,26.4725,80.3311
+IN,Jag Bani,Jalandhar,,https://jagbani.punjabkesari.in/,pa,daily,3,,,31.3256,75.5792
+IN,Prabhasakshi,New Delhi,,https://www.prabhasakshi.com,hi,daily,3,,,28.6139,77.2089
+IN,Daily Post India,Chandigarh,,http://dailypost.in,en,daily,3,,,30.7333,76.7797
+IN,Taasir,Patna,,http://www.taasir.com,ur,daily,3,,,25.6100,85.1414
+IN,Gujarat Mitra,Surat,,http://www.gujaratmitra.in/,gu,daily,3,,,21.2050,72.8400
+IN,Rising Kashmir,Srinagar,,http://www.risingkashmir.com,en,daily,3,,,34.0911,74.8061
+IN,Eastern Mirror,Dimapur,,https://easternmirrornagaland.com/,en,daily,3,,,25.9125,93.7417
+IN,Orissa Post,Bhubaneswar,,https://www.orissapost.com/,en,daily,3,,,20.2950,85.8250
+IN,Sikkim Express,Gangtok,,http://www.sikkimexpress.com/,en,daily,3,,,27.3300,88.6200
+IN,Janam Sakshi,Hyderabad,,http://janamsakshi.org/,te,daily,3,,,17.3617,78.4747
+IN,Kashmir Observer,Srinagar,,http://kashmirobserver.net/index.php,en,daily,3,,,34.0911,74.8061
+IN,Divya Marathi,Jalgaon,,https://divyamarathi.bhaskar.com/,mr,daily,3,,,21.0167,75.5667
+IN,Xpert Times,Delhi,,https://xperttimes.com,hi,daily,3,,,28.6667,77.2167
+IN,Parichay Times,Delhi,,http://www.parichaytimes.com/,hi,daily,3,,,28.6667,77.2167
+IN,Uditvani,Jamshedpur,,https://uditvani.in/,hi,daily,3,,,22.8000,86.1833
+IN,G Plus,Guwahati,,http://www.guwahatiplus.com/,en,daily,3,,,26.1806,91.7502
+IN,Sanjhi Khabar,Zirakpur,,http://www.sanjhikhabar.com/,pa,daily,3,,,30.6500,76.8200
+IN,Andaman Chronicle,Srivijayapuram,,https://www.andamanchronicle.net/,en,daily,3,,,11.6667,92.7500
+IN,Andaman Sheekha,Srivijayapuram,,http://www.andamansheekha.com/,en,daily,3,,,11.6667,92.7500
+IN,Dainik Agniban,Indore,,https://www.agniban.com/,hi,daily,3,,,22.7186,75.8550
+IN,Dakshin Bharat Rashtramat,Bengaluru,,https://epaper.dakshinbharat.com/,hi,daily,3,,,12.9791,77.5913
+IN,Dopahar,Bhopal,,https://epaper.dopaharmetro.com/,hi,daily,3,,,23.2589,77.4125
+IN,Jansandesh Times,Varanasi,,https://www.jansandeshtimes.net/,hi,daily,3,,,25.3189,83.0128
+IN,Kashmir Monitor,Srinagar,,https://www.thekashmirmonitor.net/,en,daily,3,,,34.0911,74.8061
+IN,Khas Khabar,Jaipur,,https://www.khaskhabar.com/,hi,daily,3,,,26.9150,75.8200
+IN,Lok Tej,Surat,,https://www.loktej.com/,hi,daily,3,,,21.2050,72.8400
+IN,Rakhewal,Deesa,,https://www.rakhewaldaily.com/e-paper/,gu,daily,3,,,24.2558,72.1836
+IN,Samachar Jagat,Jaipur,,https://www.samacharjagat.com/epaper,hi,daily,3,,,26.9150,75.8200
+IN,Sanmarg Hindi,Kolkata,,https://sanmarg.in/,hi,daily,3,,,22.5675,88.3700
+IN,Tarunmitra,Lucknow,,https://www.tarunmitra.in/,hi,daily,3,,,26.8470,80.9470
+IN,Tez,Bengaluru,,https://teznews.com/,hi,daily,3,,,12.9791,77.5913
+IN,Lokshahi,Jalgaon,,https://lokshahilive.com,mr,daily,3,,,21.0167,75.5667
+IN,Nav Pradesh,Raipur,,https://navpradesh.com,hi,daily,3,,,21.2379,81.6337
+IN,Nirbhay,Bhubaneswar,,http://nirvaynews.com/,or,daily,3,,,20.2950,85.8250
+IN,Sakala,Bhubaneswar,,https://sakalaepaper.com/,or,daily,3,,,20.2950,85.8250
+IN,Nishkarsha,Bhubaneswar,,https://nishkarsha.com/,or,daily,3,,,20.2950,85.8250

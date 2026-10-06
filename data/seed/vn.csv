@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+VN,VnExpress,Hà Nội,,http://www.vnexpress.net,vi,online,1,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,21.0245,105.8412
+VN,Tuổi Trẻ (báo),Thành phố Hồ Chí Minh,,https://tuoitre.vn/,vi,daily,1,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,,
+VN,Sài Gòn Giải Phóng,Thành phố Hồ Chí Minh,,https://www.sggp.org.vn/,vi,daily,3,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,10.7756,106.7019
+VN,Le Courrier du Vietnam,Hà Nội,,http://lecourrier.vn/,fr,daily,3,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,21.0245,105.8412
+VN,Việt Nam News,Hà Nội,,https://vietnamnews.vn/,en,daily,3,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,21.0245,105.8412

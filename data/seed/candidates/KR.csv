@@ -1,0 +1,90 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,KR,The Chosun Ilbo,Seoul,,https://www.chosun.com/,ko,daily,1,,,Q483924,29,newspaper,37.5600,126.9900,
+yes,KR,The Korea Times,Seoul,,http://www.koreatimes.co.kr,en,daily,1,,,Q486950,26,periodical; newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
+no,KR,The Korea Herald,Seoul,,http://www.koreaherald.com/,en,daily,1,,,Q562824,23,newspaper,37.5600,126.9900,
+yes,KR,The Joong-ang Ilbo,Seoul,,https://www.joongang.co.kr/,ko,daily,1,,,Q483903,21,newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
+yes,KR,The Dong-a Ilbo,Seoul,,https://www.donga.com/,ko,daily,1,,,Q486086,21,newspaper,,,reviewed: place is a district/building
+no,KR,Daily NK,Seoul,,http://www.dailynk.com/chinese/,ko,daily,1,,,Q492825,18,newspaper,37.5600,126.9900,reviewed: Wikidata homepage is the Chinese edition; niche; niche; niche; niche; niche
+yes,KR,Hankook Ilbo,Seoul,,http://www.hankookilbo.com,ko,daily,1,,,Q489308,17,newspaper,37.5600,126.9900,reviewed: place filled in / above the per-city cap
+yes,KR,Korea JoongAng Daily,Seoul,,https://koreajoongangdaily.joins.com/,en,daily,2,,,Q489520,17,newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
+yes,KR,The Hankyoreh,Seoul,,https://www.hani.co.kr/,ko,daily,1,,,Q486314,16,newspaper,37.5638,126.9084,reviewed: place is a district/building
+yes,KR,Kyunghyang Shinmun,Seoul,,http://www.khan.co.kr/,ko,daily,2,,,Q497170,11,newspaper; daily newspaper,37.5600,126.9900,reviewed: place filled in / above the per-city cap
+no,KR,NK News,Seoul,,https://www.nknews.org,ko,online,2,,,Q17071886,10,news website,37.5600,126.9900,language from country default; not pre-selected: magazine/online below tier 1
+yes,KR,Korea Economic Daily,Seoul,,https://www.hankyung.com/,ko,daily,2,,,Q626241,8,periodical; newspaper,37.5559,126.9703,reviewed: place is a district/building
+yes,KR,Maeil Business Newspaper,Seoul,,http://www.mk.co.kr/,ko,daily,2,,,Q625035,8,business newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
+no,KR,Inside Edition,,,https://www.insideedition.com/,en,online,2,,,Q3151548,8,television program; news program; news website,,,reviewed: US TV programme; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,KR,Seoul Shinmun,Seoul,,https://www.seoul.co.kr/,ko,daily,2,,,Q482744,7,periodical; newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
+yes,KR,Busan Ilbo,Busan,,http://www.busan.com/,ko,daily,2,,,Q608410,7,newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
+yes,KR,No Cut News,Seoul,,https://www.nocutnews.co.kr,ko,online,3,,,Q7044078,7,newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
+yes,KR,The Kukmin Daily,Seoul,,http://www.kmib.co.kr/,ko,daily,3,,,Q10855572,7,newspaper,37.5600,126.9900,reviewed: place filled in / above the per-city cap
+yes,KR,Segye Ilbo,Seoul,,http://segye.com,ko,daily,3,,,Q624291,7,daily newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
+no,KR,Munhwa Ilbo,Seoul,,https://www.munhwa.com/,ko,daily,3,,,Q624791,5,newspaper; business,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KR,Sisa Journal,,,http://www.sisajournal.com/,ko,daily,3,,,Q3485312,5,news media; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Kyongnam Shinmun,,,http://www.knnews.co.kr/,ko,daily,3,,,Q624659,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Aju Business Daily,,,https://www.ajunews.com,ko,daily,3,,,Q16167764,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,NewsPim,Seoul,,http://www.newspim.com/,ko,daily,3,,,Q24855610,4,newspaper,37.5600,126.9900,language from country default
+no,KR,Jeonnam Ilbo,,,https://jnilbo.com/,ko,daily,3,,,Q623642,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Naeil News,,,http://www.naeil.com/,ko,daily,3,,,Q3335178,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Jeonbuk Ilbo,,,http://www.jjan.kr/,ko,daily,3,,,Q9406450,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,The Kookje Daily News,,,http://www.kookje.co.kr/,ko,daily,3,,,Q10855600,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Kangwon Domin Ilbo,,,http://www.kado.net/,ko,daily,3,,,Q12583013,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Voice of the People,,,http://www.vop.co.kr,ko,online,3,,,Q12596315,3,online newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,KR,OSEN,,,http://osen.mt.co.kr,ko,online,3,,,Q12581657,3,enterprise; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,KR,Kang Won Ilbo,Chuncheon,,http://www.kwnews.co.kr/,ko,daily,3,,,Q12583033,2,newspaper,37.5000,128.2500,reviewed: regional outlet without a reachable feed – replaced
+yes,KR,Kyeongnam Domin Ilbo,Changwon,,http://www.idomin.com/,ko,daily,3,,,Q12583576,2,newspaper,35.2281,128.6811,
+no,KR,Money Today,,,https://www.mt.co.kr/,ko,daily,3,,,Q12595017,2,media company; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,The Seoul Economic Daily,,,https://www.sedaily.com/,ko,daily,3,,,Q12601146,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Kwangju Ilbo,,,http://www.kwangju.co.kr/,ko,daily,3,,,Q16161527,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,The Electronics Times,,,https://www.etnews.com/,ko,daily,3,,,Q16174122,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,The Sportschosun,Seoul,,https://www.sportschosun.com/,ko,daily,3,,,Q16184321,2,newspaper,37.5600,126.9900,
+no,KR,Fire Prevention News,Seoul,,http://fpn119.co.kr/index.html,ko,daily,3,,,Q18550812,2,newspaper,37.5600,126.9900,
+no,KR,The Maeil Shinmun,,,http://www.imaeil.com/,ko,daily,3,,,Q11239982,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Asia Today,,,http://www.asiatoday.co.kr/,ko,daily,3,,,Q16219614,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,STARNEWS,Seoul,,https://star.mt.co.kr/,ko,online,3,,,Q97238025,2,website; online newspaper,37.5600,126.9900,not pre-selected: magazine/online below tier 1
+no,KR,경향게임스,,,http://www.khgames.co.kr,en,weekly,3,,,Q16182470,2,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Kyeonggi Ilbo,,,http://www.kyeonggi.com/,ko,daily,3,,,Q12583561,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,kyungdo sinmoon,,,http://www.kyungdosinmoon.com/,ko,daily,3,,,Q12583611,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KR,ksilbo,,,http://www.ksilbo.co.kr/,ko,daily,3,,,Q12583738,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Kyeongin Ilbo,,,http://www.kyeongin.com/,ko,daily,3,,,Q12583822,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Defence Daily,,,http://kookbang.dema.mil.kr/,ko,daily,3,,,Q12585815,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KR,The Women's News,,,http://www.womennews.co.kr/,ko,daily,3,,,Q12606879,1,newspaper; feminist newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KR,Joongbu Ilbo,,,http://www.joongboo.com/,ko,daily,3,,,Q12617610,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Halla Ilbo,,,http://www.ihalla.com/,ko,daily,3,,,Q12623966,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,의학신문,,,http://www.bosa.co.kr/,ko,daily,3,,,Q20445876,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KR,INews24,,,https://www.inews24.com/,ko,daily,3,,,Q16167205,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Daejeon Ilbo,,,http://www.daejonilbo.com/,ko,daily,3,,,Q16167732,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Yeongnam Ilbo,,,https://www.yeongnam.com/,ko,daily,3,,,Q16178885,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Jemin Ilbo,,,http://www.jemin.com/,ko,daily,3,,,Q16179775,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Daegu Ilbo,,,http://www.idaegu.com/,ko,daily,3,,,Q16219473,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Edaily,,,https://www.edaily.co.kr/,ko,daily,3,,,Q16219687,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Chungcheong Today,,,https://www.cctoday.co.kr/,ko,daily,3,,,Q21825213,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,ZDNet Korea,,,https://zdnet.co.kr/,ko,daily,3,,,Q22972675,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,ChungCheong Daily News,,,https://www.ccdailynews.com/,ko,daily,3,,,Q55735172,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Joongdo Ilbo,,,http://www.joongdo.co.kr/web/,ko,daily,3,,,Q97224889,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Jewelry Korea,,,https://jewelry-korea.com,ko,daily,3,,,Q131308998,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Wikitree,,,https://www.wikitree.co.kr,ko,online,3,,,Q12609602,1,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,KR,Ddanzi Ilbo,,,https://www.ddanzi.com/ddanziNews,ko,online,3,,,Q16188081,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,KR,Kormedi.com,,,https://kormedi.com/,ko,online,3,,,Q24858392,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,KR,Polinews,,,https://www.polinews.co.kr/,ko,online,3,,,Q61358800,1,communications media; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,KR,Maeil Labor News,Mapo District,,https://www.labortoday.co.kr/,ko,online,3,,,Q65332376,1,online newspaper,37.5638,126.9084,not pre-selected: magazine/online below tier 1
+no,KR,자연자본시대,,,https://www.nctimes.co.kr/,ko,online,3,,,Q140377487,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,KR,The Asia Business Daily,Seoul,,https://www.asiae.co.kr/,ko,daily,3,,,Q12605302,1,business newspaper,37.5600,126.9900,
+no,KR,Kwangju Daily,,,http://www.kjdaily.com/,ko,daily,3,,,Q113654994,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Moodeung Ilbo,,,http://www.mdilbo.com/,ko,daily,3,,,Q113655196,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Ulsan Daily,,,http://www.iusm.co.kr/,ko,daily,3,,,Q113655261,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Jeonbuk Domin Ilbo,,,http://www.domin.co.kr/,ko,daily,3,,,Q113655283,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Joongbu Daily,,,http://www.jbnews.com/,ko,daily,3,,,Q113655310,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Chungbuk Ilbo,,,https://www.inews365.com/,ko,daily,3,,,Q113655331,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Incheon Ilbo,,,https://www.incheonilbo.com/,ko,daily,3,,,Q116717288,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Chungnam Ilbo,,,https://www.chungnamilbo.co.kr/,ko,daily,3,,,Q117193961,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,The Guru,,,https://www.theguru.co.kr/,ko,daily,3,,,Q117193964,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,더스쿠프,,,https://www.thescoop.co.kr/,ko,daily,3,,,Q138830424,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,대한뉴스 (1995년),,,http://www.daehannews.kr/,ko,online,3,,,Q137940990,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,KR,YourKoreaLife,Busan,,https://www.yourkorea.life/,ko,online,3,,,Q139303584,0,website; online newspaper,35.1800,129.0750,language from country default; not pre-selected: magazine/online below tier 1
+no,KR,The Financial News,,,https://www.fnnews.com/,ko,daily,3,,,Q113663680,0,business newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Dailypharm,,,http://www.dailypharm.com/,ko,daily,3,,,Q115987713,0,medical newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,뉴스토마토,,,https://www.newstomato.com/,ko,daily,3,,,Q137285453,0,enterprise; business newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KR,Monthly People,,,https://www.monthlypeople.com/,ko,daily,3,,,Q116784753,0,communications media; monthly newspaper; monthly magazine,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KR,The Korea Daily,Los Angeles,US,https://www.koreadaily.com/,ko,daily,3,exile,,Q139894181,0,newspaper,34.0522,-118.2437,newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
+no,KR,Newsverse,,,https://www.newsverse.kr,ko,online,3,,,Q138770233,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,KR,FactStack,,,https://factstack.kr,ko,online,3,,,Q140552124,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

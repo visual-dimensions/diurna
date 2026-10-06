@@ -3,6 +3,24 @@ import '@fontsource-variable/noto-serif/wght.css';
 // Arabic/Persian and Hebrew headlines – unicode-range subsets, only fetched when such text is shown.
 import '@fontsource-variable/noto-naskh-arabic/wght.css';
 import '@fontsource-variable/noto-serif-hebrew/wght.css';
+// South and Southeast Asian scripts – same: tiny @font-face lists, files fetched on demand.
+// (Chinese, Japanese, Korean are loaded lazily, see ui/scriptfonts.ts.)
+import '@fontsource-variable/noto-serif-devanagari/wght.css';
+import '@fontsource-variable/noto-serif-bengali/wght.css';
+import '@fontsource-variable/noto-serif-tamil/wght.css';
+import '@fontsource-variable/noto-serif-telugu/wght.css';
+import '@fontsource-variable/noto-serif-kannada/wght.css';
+import '@fontsource-variable/noto-serif-malayalam/wght.css';
+import '@fontsource-variable/noto-serif-gujarati/wght.css';
+import '@fontsource-variable/noto-serif-gurmukhi/wght.css';
+import '@fontsource-variable/noto-serif-oriya/wght.css';
+import '@fontsource-variable/noto-serif-sinhala/wght.css';
+import '@fontsource-variable/noto-serif-thai/wght.css';
+import '@fontsource-variable/noto-serif-khmer/wght.css';
+import '@fontsource-variable/noto-serif-lao/wght.css';
+import '@fontsource-variable/noto-serif-tibetan/wght.css';
+import '@fontsource-variable/noto-sans-thaana/wght.css';
+import '@fontsource/noto-serif-myanmar/400.css';
 import '@fontsource-variable/inter/wght.css';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import './styles/tokens.css';

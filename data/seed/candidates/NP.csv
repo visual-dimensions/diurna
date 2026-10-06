@@ -1,0 +1,20 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,NP,Gorkhapatra,Kathmandu,,http://www.gorkhapatraonline.com/,ne,daily,2,state,https://en.wikipedia.org/wiki/Gorkhapatra,Q5586573,14,daily newspaper,,,reviewed: place filled in; state-owned (Gorkhapatra Corporation); state-owned (Gorkhapatra Corporation); state-owned (Gorkhapatra Corporation); state-owned (Gorkhapatra Corporation); state-owned (Gorkhapatra Corporation); no place of publication/headquarters in Wikidata – fill in city
+no,NP,The Kathmandu Post,Kathmandu,,https://kathmandupost.com,en,daily,2,,,Q3521460,13,daily newspaper,27.7100,85.3200,
+yes,NP,Kantipur,Kathmandu,,http://www.ekantipur.com,ne,daily,1,,,Q3192754,13,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,NP,The Himalayan Times,Kathmandu,,https://thehimalayantimes.com/,en,daily,2,,,Q7739720,10,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,NP,Annapurna Post,Kathmandu,,http://www.annapurnapost.com,ne,daily,2,,,Q28183932,6,daily newspaper,27.7100,85.3200,
+no,NP,Naya Patrika,,,http://www.nayapatrikadaily.com,ne,daily,3,,,Q25226694,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,NP,The Annapurna Express,Kathmandu,,https://theannapurnaexpress.com,en,daily,3,,,Q96408403,3,daily newspaper,27.7100,85.3200,
+no,NP,Nepali Times,Kathmandu,,http://nepalitimes.com,en,weekly,3,,,Q6994521,3,newspaper; weekly newspaper,27.7100,85.3200,"types: daily, weekly"
+no,NP,Himalmedia,Lalitpur,,http://himalmedia.com,ne,daily,3,,,Q16984189,2,newspaper,27.6833,85.3333,"reviewed: publisher, not an outlet; language from country default"
+no,NP,República,Kathmandu,,http://www.myrepublica.com,ne,daily,3,,,Q7314771,2,newspaper,27.7100,85.3200,language from country default
+no,NP,Janakpur Today,,,http://janakpurtoday.com.np/,ne,daily,3,,,Q28184478,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,NP,Karobar Economic Daily,,,http://www.karobardaily.com,ne,daily,3,,,Q6373004,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,NP,The Record Nepal,,,https://recordnepal.com/,en,daily,3,,,Q120063679,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,NP,Shilapatra,,,https://shilapatra.com/,ne,online,3,,,Q110695360,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NP,Onlinekhabar,,,https://www.onlinekhabar.com/,ne,online,3,,,Q113223259,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NP,The Circlepost,,,https://thecirclepost.com,ne,daily,3,,,Q88967103,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NP,Khoj Samachar,Kathmandu,,https://khojsamachar.com/,ne,online,3,,,Q138528449,0,news website,27.7100,85.3200,language from country default; not pre-selected: magazine/online below tier 1
+no,NP,Scriling,Biratchowk,,https://www.scriling.com,ne,online,3,,,Q106907516,0,news website,26.6700,87.6100,language from country default; not pre-selected: magazine/online below tier 1
+no,NP,ReetFeed,Sundarharaincha,,https://reetfeed.com,ne,online,3,,,Q110458570,0,news website,,,language from country default; not pre-selected: magazine/online below tier 1

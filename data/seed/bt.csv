@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+BT,Kuensel,Thimphu,,http://www.kuenselonline.com/,en,daily,1,state,https://en.wikipedia.org/wiki/Kuensel,27.4714,89.6337
+BT,Bhutan Times,Thimphu,,https://bhutantimes.bt,en,daily,2,,,27.4714,89.6337
+BT,The Bhutanese,Thimphu,,http://www.thebhutanese.bt/,en,daily,3,,,,

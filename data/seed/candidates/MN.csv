@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,MN,The UB Post,Ulaanbaatar,,http://theubpost.mn,en,daily,3,,,Q7863896,4,periodical; newspaper,47.9214,106.9055,reviewed: regional outlet without a reachable feed – replaced
+no,MN,Khumuun Bichig,,,http://khumuunbichig.montsame.mn/,mn,daily,3,,,Q119703576,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MN,News.mn,Ulaanbaatar,,https://news.mn/,en,online,3,,,Q114797630,0,online newspaper,47.9214,106.9055,language from country default; not pre-selected: magazine/online below tier 1

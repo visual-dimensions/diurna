@@ -1,0 +1,23 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+JP,Asahi Shimbun,Tokyo,,http://www.asahi.com,ja,daily,1,,,34.6938,135.5021
+JP,Sankei Shimbun,Tokyo,,https://www.sankei.com/,ja,daily,1,,,34.6938,135.5021
+JP,Kobe Shimbun,Kobe,,https://www.kobe-np.co.jp/,ja,daily,2,,,34.6902,135.1954
+JP,Shimbun Akahata,Tokyo,,https://www.jcp.or.jp/akahata/,ja,daily,1,,,35.6813,139.7106
+JP,Chunichi Shimbun,Nagoya,,http://www.chunichi.co.jp/,ja,daily,2,,,35.1814,136.9064
+JP,Chugoku Shimbun,Hiroshima,,http://www.chugoku-np.co.jp/index_e.html,ja,daily,2,,,34.3914,132.4519
+JP,Hokkaido Shimbun,Sapporo,,https://www.hokkaido-np.co.jp/,ja,daily,2,,,43.0619,141.3544
+JP,Nikkei Asia,Tokyo,,https://asia.nikkei.com/,en,daily,2,,,,
+JP,Shizuoka Shimbun,Shizuoka,,http://www.at-s.com/,ja,daily,2,,,34.9756,138.3825
+JP,Ryūkyū Shimpō,Naha,,http://ryukyushimpo.jp/,ja,daily,2,,,26.2122,127.6808
+JP,Kanagawa Shimbun,Yokohama,,https://www.kanaloco.jp/,ja,daily,2,,,35.4478,139.6368
+JP,The Okinawa Times,Naha,,https://www.okinawatimes.co.jp/,ja,daily,2,,,26.2122,127.6808
+JP,Kyoto Shimbun,Kyoto,,https://www.kyoto-np.co.jp/,ja,daily,2,,,,
+JP,The Tōō Nippō Press,Aomori,,https://www.toonippo.co.jp/,ja,daily,3,,,40.8228,140.7469
+JP,Miyazaki Nichinichi Shinbun,Miyazaki,,https://www.the-miyanichi.co.jp/,ja,daily,3,,,,
+JP,Nishinippon Shimbun,Fukuoka,,http://www.nishinippon.co.jp/,ja,daily,3,,,33.5901,130.4017
+JP,Akita Sakigake Shimpō,Akita,,https://www.sakigake.jp/,ja,daily,3,,,,
+JP,Hokkoku Shimbun,Kanazawa,,https://www.hokkoku.co.jp/,ja,daily,3,,,36.5950,136.6250
+JP,The Shikoku Shimbun,Takamatsu,,https://www.shikoku-np.co.jp/,ja,daily,3,,,34.3340,134.0441
+JP,Yamagata Shimbun,Yamagata,,https://www.yamagata-np.jp/,ja,daily,3,,,38.2554,140.3396
+JP,Ibaraki Shimbun,Mito,,https://ibarakinews.jp/,ja,daily,3,,,36.3417,140.4468
+JP,The Yaeyama Nippo,Ishigaki,,https://yaeyama-nippo.co.jp,ja,daily,3,,,24.3445,124.1852

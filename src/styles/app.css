@@ -948,6 +948,34 @@ body[data-view='list'] .topbar::before {
   line-height: 1.55;
 }
 
+/* Chinese, Japanese, Korean: their own serif (loaded on demand, ui/scriptfonts.ts) so that
+   kanji/hanzi/hanja take the right regional forms; no tracking; Latin parts stay in Newsreader. */
+:is(.card__headline, .livebar__headline, .ambient-label__headline):is(:lang(zh), :lang(ja), :lang(ko), :lang(yue)) {
+  letter-spacing: 0;
+  line-break: strict;
+}
+:is(.card__headline, .livebar__headline, .ambient-label__headline):lang(zh) {
+  font-family: 'Newsreader Variable', 'Noto Serif SC Variable', 'Songti SC', serif;
+}
+:is(.card__headline, .livebar__headline, .ambient-label__headline):is(:lang(zh-Hant), :lang(yue)) {
+  font-family: 'Newsreader Variable', 'Noto Serif TC Variable', 'Songti TC', serif;
+}
+:is(.card__headline, .livebar__headline, .ambient-label__headline):lang(ja) {
+  font-family: 'Newsreader Variable', 'Noto Serif JP Variable', 'Hiragino Mincho ProN', serif;
+}
+:is(.card__headline, .livebar__headline, .ambient-label__headline):lang(ko) {
+  font-family: 'Newsreader Variable', 'Noto Serif KR Variable', 'AppleMyungjo', serif;
+}
+
+/* Indic and Southeast Asian scripts: tracking breaks conjuncts and stacked vowels; they need more line height. */
+:is(.card__headline, .livebar__headline, .ambient-label__headline):is(:lang(hi), :lang(mr), :lang(ne), :lang(bn), :lang(as), :lang(ta), :lang(te), :lang(kn), :lang(ml), :lang(gu), :lang(pa), :lang(or), :lang(si), :lang(th), :lang(km), :lang(lo), :lang(my), :lang(bo), :lang(dz), :lang(dv)) {
+  letter-spacing: 0;
+  hyphens: manual;
+}
+.card__headline:is(:lang(hi), :lang(mr), :lang(ne), :lang(bn), :lang(as), :lang(ta), :lang(te), :lang(kn), :lang(ml), :lang(gu), :lang(pa), :lang(or), :lang(si), :lang(th), :lang(km), :lang(lo), :lang(my), :lang(bo), :lang(dz), :lang(dv)) {
+  line-height: 1.5;
+}
+
 .card--l1 .card__headline {
   color: var(--paper-2);
 }

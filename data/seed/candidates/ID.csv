@@ -1,0 +1,97 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,ID,The Jakarta Post,Jakarta,,http://www.thejakartapost.com,en,daily,1,,,Q2136977,21,daily newspaper,-6.1753,106.8269,
+yes,ID,Kompas,Jakarta,,http://print.kompas.com/,id,daily,2,,,Q4405665,13,newspaper; fact-checking organisation; website,-6.1928,106.7936,reviewed: place is a neighbourhood
+yes,ID,Tempo,Jakarta,,http://www.tempo.co,id,magazine,1,,,Q3517741,12,magazine; news magazine; fact-checking organisation; website,-6.1753,106.8269,reviewed: place filled in; not pre-selected: magazine/online below tier 1
+yes,ID,Media Indonesia,Jakarta,,https://www.mediaindonesia.com,id,daily,2,,,Q83737,9,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,ID,Jakarta Globe,Jakarta,,http://jakartaglobe.id,en,daily,3,,,Q367157,8,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+yes,ID,Bisnis Indonesia,Jakarta,,http://www.bisnis.com,id,daily,2,,,Q2126029,7,daily newspaper; news website; business newspaper,,,"reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+yes,ID,Republika,Jakarta,,https://www.republika.co.id,id,daily,2,,,Q2278575,6,newspaper,-6.1753,106.8269,
+yes,ID,Pikiran Rakyat,Bandung,,https://www.pikiran-rakyat.com/,id,daily,2,,,Q2727002,6,periodical; newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,ID,Jawa Pos,Surabaya,,http://www.jawapos.com,id,daily,2,,,Q7355586,6,newspaper; business; organization; media company,-7.3200,112.7314,reviewed: place is a building
+no,ID,tribunnews.com,Jakarta,,http://www.tribunnews.com/,id,online,3,,,Q12522334,5,website; online newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,Suara Karya,,,http://www.suarakarya.id/,id,daily,3,,,Q7630498,5,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,Koran Sindo,,,http://www.koran-sindo.com,id,daily,3,,,Q6377473,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,Analisa (surat kabar),,,https://analisadaily.com,id,daily,3,,,Q4751033,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,Nova (tabloid),Tanah Abang,,https://web.archive.org/web/20221208063741/https://nova.grid.id/,id,online,3,,,Q12500923,3,tabloid,-6.2028,106.8106,"not pre-selected: homepage is an archive, magazine/online below tier 1"
+no,ID,Kedaulatan Rakyat,,,http://www.krjogja.com,id,daily,3,,,Q6382551,3,newspaper,,,reviewed: regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds); no place of publication/headquarters in Wikidata – fill in city
+no,ID,Indonesia Shang Bao,,,http://www.shangbaoindonesia.com/,zh,daily,3,,,Q12486502,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,Harian Jakarta Shimbun,Jakarta,,https://www.jakartashimbun.com,id,daily,3,,,Q19646091,3,newspaper,-6.1753,106.8269,reviewed: community paper (Japanese); language from country default
+no,ID,Bintang (tabloid),Jakarta,,https://www.tabloidbintang.com,id,online,3,,,Q12476333,2,tabloid,-6.1753,106.8269,not pre-selected: magazine/online below tier 1
+no,ID,Waspada (surat kabar),,,https://www.waspada.co.id/,id,daily,3,,,Q12524187,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,Suara (surat kabar),,,http://www.suara.com.hk/,id,daily,3,,,Q96406631,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,ID,Riau Pos,Pekanbaru,,https://riaupos.jawapos.com/,id,daily,3,,,Q7417339,2,daily newspaper; online newspaper; media company,0.5333,101.4500,"types: daily, online"
+no,ID,Acehkini,,,https://kumparan.com/acehkini,id,online,3,,,Q108003979,2,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ID,merdeka.com,,,https://www.merdeka.com/,id,online,3,,,Q25455675,2,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ID,Pos Metro Batam,,,https://posmetro.co/,id,daily,3,,,Q12506259,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,Hao Bao Daily,,,https://haobaodaily.co.id/,id,daily,3,,,Q56271996,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ID,Good News From Indonesia,Tebet Barat,,https://www.goodnewsfromindonesia.id/,id,daily,3,,,Q135580006,1,newspaper; news media; website,-6.2340,106.8493,reviewed: positive-news portal
+yes,ID,Tabloid Jubi,Jayapura,,http://tabloidjubi.com,id,daily,3,,,Q123249985,1,daily newspaper,-2.5425,140.7045,language from country default
+no,ID,Tribun Kalteng,Palangka Raya,,https://kalteng.tribunnews.com/,id,daily,3,,,Q12522328,1,daily newspaper,-2.2100,113.9200,reviewed: regional outlet without a reachable feed – replaced
+no,ID,Tribun Timur,,,http://www.tribun-timur.com,id,daily,3,,,Q12522332,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ID,astaga.co,Pematang Bandar,,https://astaga.co,id,online,3,,,Q140106003,1,news media; news website; online newspaper; website,3.1140,99.2414,not pre-selected: magazine/online below tier 1
+no,ID,Otomoitif (tabloid),Tanah Abang,,https://otomotifnet.gridoto.com/,id,online,3,,,Q127206309,1,tabloid,-6.2028,106.8106,not pre-selected: magazine/online below tier 1
+yes,ID,Kalteng Pos,Palangka Raya,,https://kaltengpos.jawapos.com/,id,daily,3,,,Q12488823,1,newspaper,-2.2167,113.9167,reviewed: place is the province
+no,ID,Koran Jakarta,,,https://koran-jakarta.com/,id,daily,3,,,Q12492230,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,Tribun Jateng,,,https://jateng.tribunnews.com,id,daily,3,,,Q25461039,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ID,Pontianak Post,Pontianak,,https://www.pontianakpost.co.id/,id,daily,3,,,Q12506205,1,daily newspaper,-0.0206,109.3414,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,ID,Palembang Pos,,,http://www.palembang-pos.com,id,daily,3,,,Q25461220,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ID,Motor Plus,,,https://www.motorplus-online.com,id,daily,3,,,Q12499066,1,tabloid newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,Tabloid Pulsa,Jakarta Pusat,,https://www.tabloidpulsa.co.id,id,daily,3,,,Q19731216,1,tabloid newspaper,-6.1700,106.8200,reviewed: tech tabloid
+no,ID,Magdalene,Jakarta,,https://magdalene.co/,id,online,3,,,Q135922626,1,news website,-6.1753,106.8269,language from country default; not pre-selected: magazine/online below tier 1
+no,ID,Bangka Pos,,,https://bangka.tribunnews.com/,id,online,3,,,Q12474201,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ID,tribunjakarta.com,,,https://jakarta.tribunnews.com/,id,online,3,,,Q19744365,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,Medcom.id,,,https://www.medcom.id/,id,online,3,,,Q56416498,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ID,Tabloid Nakita,Kebon Jeruk,,https://nakita.grid.id,id,online,3,,,Q130381116,0,tabloid; website,-6.1880,106.7701,language from country default; not pre-selected: magazine/online below tier 1
+no,ID,Kalimantan Post,,,https://kalimantanpost.com/,id,daily,3,,,Q113653579,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,PROKAL.co,,,https://kaltara.prokal.co/,id,daily,3,,,Q113653701,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,JogjaJateng,,,https://jogjajateng.com,id,daily,3,,,Q137802608,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,Harian Terbit,Jakarta,,https://www.harianterbit.com/,id,daily,3,,,Q136566598,0,daily newspaper,-6.1753,106.8269,
+no,ID,Kepripedia.com,Batam,,https://kepripedia.com,id,online,3,,,Q109647691,0,website; online newspaper,1.1300,104.0531,not pre-selected: magazine/online below tier 1
+no,ID,Panduanproperti.id,,,https://panduanproperti.id,id,online,3,,,Q139819790,0,website; web portal; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,Cyrustimes,,,https://cyrustimes.com,id,online,3,,,Q139827156,0,online newspaper; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,Suara.com,,,https://www.suara.com,id,online,3,,,Q140198419,0,online newspaper; fact-checking organisation; website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ID,Kediripedia.com,Kediri,,https://kediripedia.com/,id,online,3,,,Q140243424,0,online newspaper,-7.8333,112.1667,language from country default; not pre-selected: magazine/online below tier 1
+no,ID,Gilabola.com,,,https://gilabola.com/,id,online,3,,,Q141563186,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,ID,Radar Bekasi,Bekasi,,https://radarbekasi.id/,id,daily,3,,,Q129905219,0,newspaper; business,-6.2333,107.0000,
+no,ID,Jurnal Kepri,,,https://jurnalkepri.com,id,daily,3,,,Q104630281,0,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,ID,tribunpadang.com,,,https://padang.tribunnews.com/,id,online,3,,,Q123398752,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,terasjakarta.id,,,http://terasjakarta.id/,id,online,3,,,Q124695224,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,tribunsorong.com,,,https://sorong.tribunnews.com/,id,online,3,,,Q124695369,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,tribunnewswiki.com,,,https://www.tribunnewswiki.com/,id,online,3,,,Q124706268,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,wartakotalive.com,,,https://wartakota.tribunnews.com/,id,online,3,,,Q124708333,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,tribunbekasi.com,,,https://bekasi.tribunnews.com/,id,online,3,,,Q124708396,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,tribunbanten.com,,,https://banten.tribunnews.com/,id,online,3,,,Q124708453,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,tribunnewsdepok.com,,,https://depok.tribunnews.com/,id,online,3,,,Q124708484,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ID,tribuncirebon.com,,,https://tribuncirebon.com/,id,online,3,,,Q124708502,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,Deduktif Indonesia,,,https://deduktif.id/,id,online,3,,,Q126951383,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,Project Multatuli,,,https://projectmultatuli.org/,id,online,3,,,Q126951503,0,news website; social movement,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ID,KORANSATU.ID,,,https://koransatu.id/,id,online,3,,,Q131631199,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,koranperbatasan.com,,,https://koranperbatasan.com/,id,online,3,,,Q131631233,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,haluansumatera.com,,,https://haluansumatera.com/,id,online,3,,,Q131631256,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,kendarinews.com,,,https://kendarinews.com/,id,online,3,,,Q131631270,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,emitennews.com,,,https://emitennews.com/,id,online,3,,,Q131631383,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,metroindonesia.co.id,,,https://metroindonesia.co.id/redaksi/,id,online,3,,,Q131631414,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,Bukamatanews.id,,,https://bukamatanews.id/,id,online,3,,,Q131631676,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,lensakalteng.com,,,https://lensakalteng.com/,id,online,3,,,Q131631703,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,sentralnews.com,,,https://sentralnews.com/,id,online,3,,,Q131631723,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,sinarperbatasan.com,,,https://www.sinarperbatasan.com/,id,online,3,,,Q131631762,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,otosia.com,,,https://www.otosia.com/,id,online,3,,,Q131631770,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,daulat.co,,,https://www.daulat.co/,id,online,3,,,Q131631781,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,rmollampung.id,,,https://rmollampung.id/,id,online,3,,,Q131632053,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,kabarbursa.com,,,https://www.kabarbursa.com/,id,online,3,,,Q131632092,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,pintoe.co,,,https://pintoe.co/,id,online,3,,,Q131632151,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,katakaltim.com,,,https://katakaltim.com/,id,online,3,,,Q131632177,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,RMOL.ID,,,https://rmol.id/,id,online,3,,,Q131632256,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,elnews.id,,,https://elnews.id/,id,online,3,,,Q131632332,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,NTVnews.id,,,https://www.ntvnews.id/,id,online,3,,,Q131632382,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,ikobengkulu.com,,,https://ikobengkulu.com/,id,online,3,,,Q131632484,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,heaptalk.com,,,https://heaptalk.com/,en,online,3,,,Q131632577,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,kilat.com,,,https://www.kilat.com/,id,online,3,,,Q131632621,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,fakta.com,,,https://fakta.com/,id,online,3,,,Q131632627,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,investortrust.id,,,https://investortrust.id/,id,online,3,,,Q131632674,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,bumntrack.co.id,,,https://bumntrack.co.id/,id,online,3,,,Q131693452,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,aktual.com,,,https://aktual.com/,id,online,3,,,Q131693472,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,holopis.com,,,https://holopis.com/,id,online,3,,,Q131693478,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,kabarkala.com,,,https://www.kabarkala.com/,id,online,3,,,Q133504351,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,Bola.com,,,https://www.bola.com/,id,online,3,,,Q23807253,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ID,Padangkita.com,Padang,,http://www.padangkita.com,id,online,3,,,Q112629355,0,news website; media company,-0.9556,100.3606,not pre-selected: magazine/online below tier 1

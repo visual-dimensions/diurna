@@ -2,6 +2,7 @@ import maplibregl, { type Map as MapLibreMap } from 'maplibre-gl';
 import type { Medium } from '../data/load';
 import { escapeHtml } from '../ui/format';
 import { headlineTime } from '../ui/livebar';
+import { ensureScriptFont } from '../ui/scriptfonts';
 
 const LABEL_MS = 7000;
 const TURN_MS = 240_000; // one full rotation in four minutes
@@ -120,6 +121,7 @@ export class Ambient {
     this.marker = null;
     if (m?.headline) {
       const en = m.lang !== 'en' ? m.headline.translations?.en : undefined;
+      ensureScriptFont(m.lang);
       // Outer element is positioned by MapLibre (via transform), the inner one animates.
       const el = document.createElement('div');
       el.setAttribute('aria-hidden', 'true');

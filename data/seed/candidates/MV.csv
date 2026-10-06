@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,MV,The Edition,,,https://edition.mv/,en,daily,3,,,Q116720090,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MV,Adhadhu,Malé,,https://adhadhu.com/,en,daily,3,,,Q133278745,1,newspaper; online newspaper,4.1750,73.5083,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
+no,MV,Avas,,,https://avas.mv/,en,daily,3,,,Q116780479,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

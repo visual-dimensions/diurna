@@ -1,0 +1,8 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,AF,Pajhwok Afghan News,Kabul,,http://www.Pajhwok.com,en,daily,2,,,Q3082692,12,newspaper; organization,34.5328,69.1658,
+no,AF,Daily Afghanistan,,,http://www.dailyafghanistan.com,en,daily,3,,,Q3370273,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AF,Tatobay,Kabul,,http://tatobaynews.com/,ps,daily,3,,,Q3918527,4,newspaper,34.5328,69.1658,reviewed: regional outlet without a reachable feed – replaced
+no,AF,The Daily Outlook Afghanistan,Dubai,AE,http://www.outlookafghanistan.net,en,daily,3,exile,,Q7728705,2,newspaper,25.2697,55.3094,language from country default; newsroom abroad (AE) – exile?; not pre-selected: newsroom abroad
+no,AF,ماندگار (روزنامه),,,http://www.mandegardaily.com/,en,daily,3,,,Q5679623,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AF,Hasht-e Sobh,,,http://www.8am.af,ps,daily,3,,,Q5957208,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AF,TOLOnews.com,,,https://tolonews.com/,en,online,3,,,Q113747009,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

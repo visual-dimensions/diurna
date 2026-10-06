@@ -1,0 +1,13 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,LK,The Sunday Times,Colombo,,http://www.sundaytimes.lk/,en,weekly,2,,,Q3610555,6,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,LK,The Island,Colombo,,http://www.island.lk/,en,daily,2,,,Q7742673,6,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,LK,The Sunday Leader,,,http://www.thesundayleader.lk,en,daily,3,,,Q5240811,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,LK,Rivira,,,http://www.rivira.lk/,si,daily,3,,,Q7338901,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,LK,Ravaya,,,http://www.ravaya.lk/,en,daily,3,,,Q7296335,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,LK,Lakbima News,,,http://www.lakbimanews.lk,en,daily,3,,,Q6474579,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,LK,Tamil Mirror,,,https://www.tamilmirror.lk/,ta,daily,3,,,Q11221655,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,LK,Daily FT,,,http://www.ft.lk,en,daily,3,,,Q5209255,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,LK,The Examiner,Colombo,,https://www.examiner.media/,en,daily,3,,,Q141601582,0,newspaper,6.9267,79.8606,
+no,LK,21 Mediavision,,,https://www.21mediavision.com/,en,online,3,,,Q105055468,0,online newspaper; blog; business; brand,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,LK,androidwedakarayo.com,,,https://androidwedakarayo.com,en,online,3,,,Q107015621,0,news website; publishing house,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,LK,WEBNEWS.LK,Gampaha,,http://webnews.lk,en,online,3,,,Q117021504,0,news website,7.0917,79.9997,language from country default; not pre-selected: magazine/online below tier 1

@@ -1,5 +1,6 @@
 import type { Medium } from '../data/load';
 import { countryName, escapeHtml, missingReason, relativeAge } from './format';
+import { ensureScriptFont } from './scriptfonts';
 
 /** Exile and state-ownership labels; state ownership links to its evidence. */
 function noteLine(m: Medium): string {
@@ -40,6 +41,7 @@ export function mediumCard(m: Medium, headingLevel = 3): string {
     </li>`;
   }
 
+  ensureScriptFont(m.lang);
   const kind = m.feed_kind === 'top' ? 'Top story' : 'Latest';
   const kindHint = m.feed_kind === 'top' ? 'The lead story on the front page' : 'The most recent article – the source offers no front-page feed';
   const age = m.ageMin !== null ? `<span aria-hidden="true">·</span> <span>${relativeAge(m.ageMin)}</span>` : '';

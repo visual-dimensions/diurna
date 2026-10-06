@@ -1,0 +1,7 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+TH,Bangkok Post,Bangkok,,https://www.bangkokpost.com/,en,daily,1,,,13.7081,100.5839
+TH,Thairath,Bangkok,,https://www.thairath.co.th/,th,daily,2,,,13.8286,100.5597
+TH,Daily News,Bangkok,,http://www.dailynews.co.th/,th,daily,2,,,,
+TH,Thai Post,Bangkok,,http://www.thaipost.net/,th,daily,2,,,13.7081,100.5839
+TH,Khao Sod,Bangkok,,http://www.khaosod.co.th/,th,daily,2,,,,
+TH,Matichon,Bangkok,,https://www.matichon.co.th/,th,daily,3,,,13.8286,100.5597

@@ -31,11 +31,12 @@ BEAM_SIZE = 4
 BATCH_SIZE = 16
 
 # Our `lang` codes that M2M100 names differently (all others are identical).
-M2M_LANG = {"nb": "no", "nn": "no"}
-# Languages M2M100 supports (subset relevant for Europe; see the model card for the full list).
+M2M_LANG = {"nb": "no", "nn": "no", "zh-Hant": "zh"}
+# All 100 languages of M2M100 (model card, facebook/m2m100_1.2B).
 M2M_SUPPORTED = set(
-    "af ar az be bg bs ca cs cy da de el en es et fa fi fr ga gl he hr hu hy is it ka kk "
-    "lb lt lv mk nl no pl pt ro ru sk sl sq sr sv tr uk".split()
+    "af am ar ast az ba be bg bn br bs ca ceb cs cy da de el en es et fa ff fi fr fy ga gd gl gu ha he hi "
+    "hr ht hu hy id ig ilo is it ja jv ka kk km kn ko lb lg ln lo lt lv mg mk ml mn mr ms my ne nl no ns "
+    "oc or pa pl ps pt ro ru sd si sk sl so sq sr ss su sv sw ta th tl tn tr uk ur uz vi wo xh yi yo zh zu".split()
 )
 
 

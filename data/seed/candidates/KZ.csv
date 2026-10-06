@@ -1,0 +1,23 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,KZ,MediaZona,,,https://zona.media/,ru,online,2,,,Q28135463,14,news website; news media,,,reviewed: Russian exile outlet listed under Kazakhstan; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,KZ,Egemen Qazaqstan,Astana,,https://egemen.kz,kk,daily,2,state,https://en.wikipedia.org/wiki/Egemen_Qazaqstan,Q512724,12,daily newspaper,51.1333,71.4333,reviewed: government newspaper
+yes,KZ,Kazakhstanskaya Pravda,Astana,,https://kazpravda.kz/,ru,daily,2,state,https://en.wikipedia.org/wiki/Kazakhstanskaya_Pravda,Q310742,9,periodical; newspaper,51.1333,71.4333,reviewed: government newspaper
+yes,KZ,Respublika,Almaty,,http://www.respublika-kaz.biz/,ru,daily,2,,,Q3716789,7,newspaper,43.2400,76.9150,
+no,KZ,Жетісу газеті,,,http://7-su.kz/,kk,daily,3,,,Q12544787,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,KZ,Star of Irtysh,Pavlodar,,http://irstar.kz,ru,daily,3,,,Q4189399,3,newspaper,52.3156,76.9564,
+no,KZ,Express K,,,https://www.express-k.kz/,ru,daily,3,,,Q5350589,3,newspaper; organization,,,no place of publication/headquarters in Wikidata – fill in city
+no,KZ,Қазақ әдебиеті (газет),,,http://qazaqadebieti.kz,kk,daily,3,,,Q12572988,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,KZ,Caravan (newspaper),Almaty,,https://www.caravan.kz,ru,daily,3,,,Q12548175,3,newspaper,43.2400,76.9150,language from country default
+no,KZ,Inkaraganda,,,https://www.inkaraganda.kz,ru,daily,3,,,Q4200913,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KZ,Атырау (газет),,,http://www.atr.kz/,kk,daily,3,,,Q12530667,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KZ,Zakon.kz,,,https://Zakon.kz,ru,online,3,,,Q109977987,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,KZ,Kursiv (newspaper),,,http://www.kursiv.kz,ru,daily,3,,,Q1793230,2,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,KZ,Южный Казахстан (газета),,,http://www.yujanka.kz/,ru,daily,3,,,Q4534122,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,KZ,Znamia Truda,Jambyl,SU,http://ztgzt.kz,ru,daily,3,exile,,Q12546551,2,newspaper,47.2069,71.3969,newsroom abroad (SU) – exile?; not pre-selected: newsroom abroad
+no,KZ,Костанайские новости (газета),Kostanay,,https://kstnews.kz/,ru,daily,3,,,Q4235246,1,newspaper,53.2144,63.6246,reviewed: no Latin-script name; language from country default
+no,KZ,NewTimes.kz,Astana,,https://newtimes.kz,ru,online,3,,,Q130282591,1,online newspaper,51.1333,71.4333,not pre-selected: magazine/online below tier 1
+no,KZ,Polites News,Almaty,,https://polites.news/,ru,online,3,,,Q137874551,1,organization; website; news agency; online newspaper,43.2400,76.9150,not pre-selected: magazine/online below tier 1
+no,KZ,Общественно-политическая газета «Время»,,,http://www.time.kz/,ru,daily,3,,,Q42201373,0,newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+no,KZ,REAL DIGITAL,,,https://www.realdigital.kz/,ru,online,3,,,Q140500382,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,KZ,Ulys Media,,,https://ulysmedia.kz/,ru,online,3,,,Q138042492,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,KZ,ALAU.KZ,Kostanay,,https://alau.kz/,ru,online,3,,,Q136468944,0,news website; news agency,53.2144,63.6246,not pre-selected: magazine/online below tier 1

@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,MM,New Light of Myanmar,Yangon,,https://www.gnlm.com.mm/,en,daily,3,state,https://en.wikipedia.org/wiki/The_Global_New_Light_of_Myanmar,Q4392772,5,newspaper,16.8081,96.1522,reviewed: state (junta) newspaper; English; English; English; English; English; language from country default
+no,MM,Weekly Eleven,,,http://www.news-eleven.com/,my,daily,3,,,Q1278866,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MM,Khit Thit Media,Yangon,,https://www.khitthitnews.com/,my,daily,3,,,Q97259760,3,news agency; newspaper,16.7950,96.1600,reviewed: regional outlet without a reachable feed – replaced
+no,MM,Myawady Daily,,,http://www.myawady.net.mm,my,daily,3,,,Q60741955,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MM,Duwun,Yangon,,https://www.duwun.com.mm/,my,online,3,,,Q105269082,0,online newspaper,16.7950,96.1600,not pre-selected: magazine/online below tier 1

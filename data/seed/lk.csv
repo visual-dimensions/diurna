@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+LK,The Sunday Times,Colombo,,http://www.sundaytimes.lk/,en,weekly,2,,,,
+LK,The Island,Colombo,,http://www.island.lk/,en,daily,2,,,,
+LK,The Examiner,Colombo,,https://www.examiner.media/,en,daily,3,,,6.9267,79.8606

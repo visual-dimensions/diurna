@@ -1,0 +1,38 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,MY,New Straits Times,Kuala Lumpur,,http://www.nst.com.my/,en,daily,1,,,Q1953092,17,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,MY,The Star,Petaling Jaya,,https://thestar.com.my,en,daily,1,,,Q3522843,13,online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,MY,The Malay Mail,Kuala Lumpur,,http://www.mmail.com.my,en,daily,3,,,Q4808924,8,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,MY,Malaysiakini,Kuala Lumpur,,https://www.malaysiakini.com/,en,online,2,,,Q4918709,8,newspaper; online newspaper,,,"reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+yes,MY,Free Malaysia Today,Petaling Jaya,,http://www.freemalaysiatoday.com,en,online,2,,,Q5499915,7,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,MY,Berita Harian,Kuala Lumpur,,https://www.bharian.com.my/,ms,daily,2,,,Q2211269,7,periodical; newspaper,3.1478,101.6953,
+yes,MY,Sin Chew Daily,Petaling Jaya,,https://www.sinchew.com.my/,zh,daily,2,,,Q7521499,7,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,MY,Kwong Wah Yit Poh,George Town,,http://www.kwongwah.com.my/,zh,daily,3,,,Q2192552,6,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,MY,Nanyang Siang Pau,Petaling Jaya,,https://www.enanyang.my/,zh,daily,3,,,Q6964475,6,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+yes,MY,Borneo Post,Kuching,,http://www.theborneopost.com/,en,daily,2,,,Q734581,5,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,MY,Utusan Malaysia,Kuala Lumpur,,https://www.utusan.com.my/,ms,daily,2,,,Q863351,5,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,MY,Harakah,,,https://eharakah.net.my,en,daily,3,,,Q4204533,5,newspaper; periodical,,,reviewed: party paper; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,MY,Kosmo!,Kuala Lumpur,,http://www.kosmo.com.my/,ms,daily,3,,,Q2850542,5,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,MY,The Malaysian Insider,Bangsar,,https://www.themalaysianinsight.com/,en,daily,3,,,Q7749738,5,newspaper,3.1308,101.6694,reviewed: regional outlet without a reachable feed – replaced
+no,MY,Oriental Daily News,Kuala Lumpur,,https://www.orientaldaily.com.my/,zh,daily,3,,,Q11103434,5,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,MY,Herald Malaysia,,,http://www.heraldmalaysia.com/,en,weekly,3,,,Q7739401,5,weekly newspaper; Catholic newspaper,,,"reviewed: church paper; no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, weekly; not pre-selected: alternative/religious paper"
+no,MY,New Sabah Times,,,http://www.newsabahtimes.com.my/,en,daily,3,,,Q2010136,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,MY,Malaysia Nanban,,,http://nanban.com.my/,ta,daily,3,,,Q2868155,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MY,China Press,Kuala Lumpur,,http://www.chinapress.com.my,zh,daily,3,,,Q5099860,4,newspaper,3.1478,101.6953,
+no,MY,Daily Express,Kota Kinabalu,,http://www.dailyexpress.com.my/,en,daily,3,,,Q5209248,4,newspaper,5.9750,116.0725,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,MY,Sinar Harian,Shah Alam,,http://www.sinarharian.com.my,ms,daily,3,,,Q7521805,4,newspaper,3.0833,101.5333,
+no,MY,Harian Metro,,,http://www.hmetro.com.my,ms,daily,3,,,Q5657276,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MY,The Sun,Petaling Jaya,,http://www.thesundaily.my/,en,daily,3,,,Q7767315,3,business; daily newspaper,3.1073,101.6067,
+no,MY,The Edge,,,https://www.theedgemarkets.com/,en,daily,3,,,Q14476374,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MY,The Rakyat Post,,,http://www.therakyatpost.com/,en,daily,3,,,Q24947884,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MY,The Malaysian Reserve,,,https://themalaysianreserve.com/,en,daily,3,,,Q110133530,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MY,Melaka Kini,Melaka,,http://www.mhi.com.my/,ms,daily,3,,,Q12697551,1,daily newspaper,2.2000,102.2510,reviewed: unclear outlet
+no,MY,MalaysiaNow,,,https://www.malaysianow.com/,en,daily,3,,,Q113653257,1,daily newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,MY,mStar,,,https://www.mstar.com.my/,ms,online,3,,,Q12696354,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,MY,UtusanTV,,,https://utusantv.com/,en,online,3,,,Q121289544,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,MY,Harakahdaily,,,https://harakahdaily.net/,en,online,3,,,Q123383359,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,MY,BusinessToday,,,https://www.businesstoday.com.my/,en,daily,3,,,Q119497251,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MY,Al Hijrah Online,,,https://alhijrahnews.com/,ms,online,3,,,Q113297375,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,MY,GOD55 Sports,,,https://www.god55sports.com/,en,online,3,,,Q138047785,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,MY,Oh! Media,Petaling Jaya,,https://ohmedia.my,en,online,3,,,Q141620712,0,news website,3.1073,101.6067,language from country default; not pre-selected: magazine/online below tier 1
+no,MY,Malaysia Post,,,https://themalaysiapost.com/,en,online,3,,,Q125055397,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,MY,The ASEAN Post,,,https://www.theaseanpost.com/,en,magazine,3,,,Q35282723,0,news magazine,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

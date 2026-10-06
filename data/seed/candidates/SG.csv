@@ -1,0 +1,10 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,SG,The Straits Times,Singapore,,https://www.straitstimes.com/,en,daily,1,,,Q498921,31,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,SG,Lianhe Zaobao,Singapore,,http://www.zaobao.com/,zh,daily,2,,,Q3273611,11,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,SG,The New Paper,Singapore,,https://www.tnp.sg/,en,daily,3,,,Q1304693,10,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,SG,Business Times,Singapore,,https://www.businesstimes.com.sg/,en,daily,2,,,Q2928751,8,periodical; daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,SG,Tamil Murasu,Singapore,,https://www.tamilmurasu.com.sg/,ta,daily,3,,,Q3536298,6,periodical; newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,SG,Shin Min Daily News,,,http://blog.omy.sg/shinmin/,zh,daily,2,,,Q11082830,6,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,SG,Today,Singapore,,https://www.todayonline.com/,en,daily,3,,,Q477719,5,daily newspaper; online newspaper,,,"reviewed: merged into CNA (a broadcaster); feed is CNA's; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,SG,Berita Harian,,,https://www.beritaharian.sg/,ms,daily,3,,,Q12683855,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,SG,Tabla!,,,https://www.tabla.com.sg/,en,daily,3,,,Q7673100,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

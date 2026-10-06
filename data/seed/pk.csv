@@ -1,0 +1,7 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+PK,Dawn,Karachi,,http://www.dawn.com,en,daily,1,,,24.8600,67.0100
+PK,The News International,Karachi,,http://thenews.com.pk/,en,daily,2,,,24.8600,67.0100
+PK,Daily Express,Karachi,,https://www.express.com.pk/,ur,daily,2,,,24.8600,67.0100
+PK,Pakistan Observer,Islamabad,,http://www.pakobserver.net/,en,daily,2,,,33.6989,73.0369
+PK,Pakistan Today,Lahore,,http://pakistantoday.com.pk,en,daily,2,,,31.5497,74.3436
+PK,Nawa-i-Waqt,Lahore,,http://www.nawaiwaqt.com.pk,ur,daily,3,,,31.5497,74.3436

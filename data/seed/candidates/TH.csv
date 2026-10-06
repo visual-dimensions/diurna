@@ -1,0 +1,21 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,TH,Bangkok Post,Bangkok,,https://www.bangkokpost.com/,en,daily,1,,,Q806491,25,newspaper,13.7081,100.5839,reviewed: place is a district
+no,TH,The Nation,Bangkok,,https://www.nationthailand.com/,en,daily,2,,,Q2305581,14,daily newspaper; online newspaper,13.7500,100.5167,"types: daily, online"
+yes,TH,Thairath,Bangkok,,https://www.thairath.co.th/,th,daily,2,,,Q1318400,13,newspaper,13.8286,100.5597,reviewed: place is a district
+yes,TH,Daily News,Bangkok,,http://www.dailynews.co.th/,th,daily,2,,,Q3012106,10,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,TH,Thai Post,Bangkok,,http://www.thaipost.net/,th,daily,2,,,Q3107913,7,newspaper,13.7081,100.5839,reviewed: place is a district
+yes,TH,Khao Sod,Bangkok,,http://www.khaosod.co.th/,th,daily,2,,,Q4923039,6,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,TH,Sing Sian Yer Pao Daily News,,,http://singsiandailynews.com,zh,daily,3,,,Q6577618,4,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,TH,Matichon,Bangkok,,https://www.matichon.co.th/,th,daily,3,,,Q6583778,3,newspaper,13.8286,100.5597,reviewed: place is a district
+no,TH,Kom Chad Luek,Bangkok,,https://komchadluek.net,th,daily,3,,,Q4923091,3,newspaper,13.8286,100.5597,reviewed: regional outlet without a reachable feed – replaced
+no,TH,Prachatai,,,https://prachatai.com/,th,online,3,,,Q6579863,3,online newspaper; nonprofit organization,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TH,Thailands Tidende,Pattaya,,https://www.thailandstidende.com/,no,daily,3,,,Q86060003,3,newspaper,12.9496,100.8930,reviewed: community paper (Norwegian)
+no,TH,Pattaya Blatt,,,http://www.pattayablatt.com/,de,daily,3,,,Q1274314,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,TH,Thansettakij,,,http://www.thansettakij.com/,th,daily,3,,,Q6577874,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,TH,The Thaiger,,,https://thethaiger.com/,th,online,3,,,Q117193932,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TH,The Standard,Bangkok,,https://thestandard.co/,th,online,3,,,Q97230040,1,online newspaper; news website,13.7500,100.5167,not pre-selected: magazine/online below tier 1
+no,TH,Manager online,,,https://mgronline.com/,th,online,3,,,Q61357607,1,news website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TH,Der Farang,,,https://der-farang.com/,de,daily,3,,,Q72585704,1,magazine; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,TH,Thai Enquirer,,,https://www.thaienquirer.com/,en,online,3,,,Q106179332,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,TH,Thailand Business News,,,https://www.thailand-business-news.com/,en,daily,3,,,Q120063840,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,TH,Siamnews,Bangkok,,https://www.siamnews.com/,th,online,3,,,Q141581024,0,online newspaper,13.7500,100.5167,not pre-selected: magazine/online below tier 1

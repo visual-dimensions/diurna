@@ -1,0 +1,11 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,UZ,Free Qaraqalpaqstan,Nukus,,http://erkinkarakalpak.uz/,ru,daily,2,,,Q4176406,7,newspaper,42.4647,59.6022,language from country default
+no,UZ,Pravda Vostoka,Tashkent,SU,http://www.pv.uz/,ru,daily,2,exile,,Q4375827,6,periodical; newspaper,41.3111,69.2797,reviewed: in asia_manual.csv (Wikidata place resolves to the Soviet Union); newsroom abroad (SU) – exile?; not pre-selected: newsroom abroad
+no,UZ,Mushtum,,,http://sharq.uz/en/page/mushtum,ru,daily,3,,,Q6941365,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,UZ,Ovozi Samarqand,Samarkand,,http://ovozisamarqand.uz/wp/,tg,daily,3,,,Q25604634,4,newspaper,39.6547,66.9758,reviewed: regional outlet without a reachable feed – replaced
+no,UZ,Novosti Uzbekistana,,,https://www.nuz.uz/ru/,ru,daily,3,,,Q17073013,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,UZ,Samarkandskiy vestnik,,,https://sv.zarnews.uz,ru,daily,3,,,Q60850711,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,UZ,Sports.uz,,,http://sports.uz/,ru,online,3,,,Q114567766,1,news media; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,UZ,Наш Красноярский край,Krasnoyarsk,RU,http://gnkk.ru,ru,daily,3,exile,,Q4315194,0,newspaper,56.0089,92.8719,language from country default; newsroom abroad (RU) – exile?; not pre-selected: newsroom abroad
+no,UZ,xabardor.uz,Toshkent,SU,https://xabardor.uz/,uz,online,3,exile,,Q113399034,0,news website; news media,41.3111,69.2797,"newsroom abroad (SU) – exile?; not pre-selected: newsroom abroad, magazine/online below tier 1"
+no,UZ,olamsport.com,,,https://olamsport.com/,ru,online,3,,,Q123801339,0,news media; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

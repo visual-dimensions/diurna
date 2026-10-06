@@ -780,3 +780,485 @@ SD,Q134291131,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub
 SY,Q22080795,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
 IL,Q2350278,yes,,en,,,,,homepage is the English edition
 TN,Q140519314,yes,Tunis,fr,3,online,,,language: French
+IN,Q55606421,no,,,,,,,official gazette
+IN,Q7424186,no,,,,,,,government publicity blog
+IN,Q107093395,no,,,,,,,academic journal
+IN,Q7237603,no,,,,,,,think-tank magazine
+IN,Q114061908,no,,,,,,,trade paper (agriculture)
+IN,Q7165517,no,,,,,,,party weekly
+IN,Q24947273,no,,,,,,,hosted on a website builder
+IN,Q113957901,no,,,,,,,place is a state
+IN,Q117196007,no,,,,,,,place is a district
+IN,Q5209493,no,,,,,,,place is a district
+IN,Q245607,no,,,,,,,party-affiliated weekly
+IN,Q6019415,no,,,,,,,broadcaster
+IN,Q39056034,no,,,,,,,fact-checking site
+IN,Q2768808,yes,Mumbai,,,,,,Wikidata place wrong
+IN,Q6394871,yes,Pune,,,,,,Wikidata place wrong
+IN,Q4865142,yes,Kolkata,,,,,,Wikidata place wrong
+IN,Q2732186,yes,,ml,,,,,language: Malayalam
+IN,Q19894700,yes,,te,,,,,language: Telugu
+IN,Q114840694,yes,,hi,,,,,language: Hindi
+IN,Q114859549,yes,,gu,,,,,language: Gujarati
+IN,Q114841245,yes,,gu,,,,,language: Gujarati
+IN,Q15050589,yes,,ml,,,,,language: Malayalam
+IN,Q12416299,yes,,hi,,,,,language: Hindi
+IN,Q2854935,yes,Chennai,,,,,,place is a state
+IN,Q2052218,yes,Kozhikode,,,,,,place is a district
+IN,Q2801701,yes,Kochi,,,,,,place is a station
+IN,Q1975835,yes,Hyderabad,,1,,,,place filled in
+IN,Q744661,yes,Srinagar,,2,,,,place filled in
+IN,Q2066673,yes,Hyderabad,,2,,,,place filled in
+IN,Q6935314,yes,Mumbai,,3,,,,place filled in
+IN,Q85806279,yes,New Delhi,,2,online,,,place filled in
+IN,Q39070361,yes,New Delhi,en,2,online,,,place filled in
+IN,Q1955600,yes,,,2,magazine,,,leading news magazine
+IN,Q5453524,yes,,en,3,online,,,above the per-city cap
+IN,Q5170037,yes,Hyderabad,,3,,,,place filled in
+IN,Q7735208,yes,Mumbai,,3,,,,place filled in
+IN,Q48734478,yes,Noida,en,3,online,,,place filled in
+IN,Q3032867,yes,Hyderabad,,2,,,,place filled in
+IN,Q3162089,yes,New Delhi,,3,,,,place filled in
+IN,Q3784687,yes,Kolkata,bn,3,,,,place filled in
+IN,Q7260341,yes,Chandigarh,,3,,,,place filled in
+IN,Q24590066,yes,Bengaluru,en,3,online,,,place filled in
+PK,Q30325395,no,,,,,,,community news site
+PK,Q111043431,no,,,,,,,youth portal
+PK,Q111127201,no,,,,,,,youth portal
+PK,Q19599801,no,,,,,,,unclear outlet
+PK,Q5209270,no,,,,,,,unclear outlet
+PK,Q3337348,yes,,ur,,,,,language: Urdu
+PK,Q6398798,yes,Lahore,,3,,,,place filled in
+BD,Q2156338,yes,Dhaka,,,,,,place is a neighbourhood
+BD,Q1586163,no,,,,,,,Wikidata homepage is the Bangla edition – English edition in asia_manual.csv
+BD,Q114214394,yes,Dhaka,,,,,,place is the district
+BD,Q114586015,yes,Dhaka,,,,,,place is the district
+BD,Q118115536,yes,Dhaka,,,,,,place is the district
+BD,Q116853483,yes,Dhaka,,,,,,place is an industrial area
+BD,Q4875421,yes,Dhaka,,2,online,,,place filled in / above the per-city cap
+BD,Q18602716,yes,Dhaka,,2,,,,place filled in / above the per-city cap
+BD,Q16764706,yes,Dhaka,en,2,,,,place filled in / above the per-city cap
+BD,Q28126618,yes,,,3,online,,,place filled in / above the per-city cap
+LK,Q3610555,yes,Colombo,,2,weekly,,,place filled in
+LK,Q7742673,yes,Colombo,,2,,,,place filled in
+NP,Q5586573,yes,Kathmandu,,2,,state,https://en.wikipedia.org/wiki/Gorkhapatra,place filled in; state-owned (Gorkhapatra Corporation)
+NP,Q3192754,yes,Kathmandu,,1,,,,place filled in
+NP,Q7739720,yes,Kathmandu,,2,,,,place filled in
+NP,Q16984189,no,,,,,,,"publisher, not an outlet"
+BT,Q2336154,yes,,en,,,state,https://en.wikipedia.org/wiki/Kuensel,English site; majority government-owned
+BT,Q16841426,yes,Thimphu,en,3,,,,place filled in; English
+ID,Q4405665,yes,Jakarta,,,,,,place is a neighbourhood
+ID,Q7355586,yes,Surabaya,,,,,,place is a building
+ID,Q12488823,yes,Palangka Raya,,,,,,place is the province
+ID,Q135580006,no,,,,,,,positive-news portal
+ID,Q19731216,no,,,,,,,tech tabloid
+ID,Q19646091,no,,,,,,,community paper (Japanese)
+ID,Q3517741,yes,Jakarta,,1,magazine,,,place filled in
+ID,Q83737,yes,Jakarta,,2,,,,place filled in
+ID,Q367157,yes,Jakarta,,3,,,,place filled in
+ID,Q2126029,yes,Jakarta,,2,,,,place filled in
+ID,Q2727002,yes,Bandung,,2,,,,place filled in
+ID,Q12522334,yes,Jakarta,,3,online,,,place filled in
+MY,Q1953092,yes,Kuala Lumpur,,1,,,,place filled in
+MY,Q3522843,yes,Petaling Jaya,,1,daily,,,place filled in
+MY,Q4808924,yes,Kuala Lumpur,,3,,,,place filled in
+MY,Q4918709,yes,Kuala Lumpur,,2,online,,,place filled in
+MY,Q5499915,yes,Petaling Jaya,,2,online,,,place filled in
+MY,Q7521499,yes,Petaling Jaya,,2,,,,place filled in
+MY,Q2192552,yes,George Town,,3,,,,place filled in
+MY,Q6964475,yes,Petaling Jaya,,3,,,,place filled in
+MY,Q734581,yes,Kuching,,2,,,,place filled in
+MY,Q863351,yes,Kuala Lumpur,,2,,,,place filled in
+MY,Q2850542,yes,Kuala Lumpur,,3,,,,place filled in
+MY,Q11103434,yes,Kuala Lumpur,,3,,,,place filled in
+MY,Q12697551,no,,,,,,,unclear outlet
+MY,Q4204533,no,,,,,,,party paper
+MY,Q7739401,no,,,,,,,church paper
+SG,Q498921,yes,Singapore,,1,,,,place filled in
+SG,Q3273611,yes,Singapore,zh,2,,,,place filled in
+SG,Q1304693,yes,Singapore,,3,,,,place filled in
+SG,Q2928751,yes,Singapore,,2,,,,place filled in
+SG,Q3536298,yes,Singapore,,3,,,,place filled in
+SG,Q477719,yes,Singapore,,3,,,,place filled in
+TH,Q806491,yes,Bangkok,,,,,,place is a district
+TH,Q1318400,yes,Bangkok,,,,,,place is a district
+TH,Q3107913,yes,Bangkok,,,,,,place is a district
+TH,Q6583778,yes,Bangkok,,,,,,place is a district
+TH,Q4923091,yes,Bangkok,,,,,,place is a district
+TH,Q86060003,no,,,,,,,community paper (Norwegian)
+TH,Q3012106,yes,Bangkok,,2,,,,place filled in
+TH,Q4923039,yes,Bangkok,,2,,,,place filled in
+VN,Q7399786,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,all Vietnamese press organs belong to party/state bodies (Press Law 2016)
+VN,Q3221892,yes,Hà Nội,,,,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,state; city in Vietnamese
+VN,Q7938092,yes,,en,,,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,state; English
+VN,Q10832925,yes,,,1,online,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,state; leading news site
+VN,Q7853413,yes,Thành phố Hồ Chí Minh,,1,,state,https://en.wikipedia.org/wiki/Media_of_Vietnam,state; place filled in
+PH,Q4663413,yes,,tl,,,,,language: Filipino
+PH,Q7194055,yes,,tl,,,,,language: Filipino
+PH,Q5001667,yes,Makati,,3,,,,place filled in
+MM,Q4392772,yes,Yangon,en,,,state,https://en.wikipedia.org/wiki/The_Global_New_Light_of_Myanmar,state (junta) newspaper; English
+LA,Q16841170,yes,,,,,state,https://en.wikipedia.org/wiki/Pasaxon,organ of the ruling party
+BN,Q4946070,yes,Bandar Seri Begawan,,2,,,,place filled in
+JP,Q4539663,yes,Naha,,,,,,place is a district/prefecture or second office
+JP,Q4539628,yes,Naha,,,,,,place is a district/prefecture or second office
+JP,Q840928,yes,Yokohama,,,,,,place is a district/prefecture or second office
+JP,Q11419744,yes,Takamatsu,,,,,,place is a district/prefecture or second office
+JP,Q11401312,yes,Kanazawa,,,,,,place is a district/prefecture or second office
+JP,Q11471110,yes,Matsue,,,,,,place is a district/prefecture or second office
+JP,Q11617316,yes,Mito,,,,,,place is a district/prefecture or second office
+JP,Q11504954,yes,Shunan,,,,,,place is a district/prefecture or second office
+JP,Q1186339,yes,Tokyo,,,,,,place is a district/prefecture or second office
+JP,Q720503,yes,Tokyo,,,,,,place is a district/prefecture or second office
+JP,Q1197261,yes,Tokyo,,,,,,place is a district/prefecture or second office
+JP,Q13403521,yes,,,2,,,,regional paper
+JP,Q11612949,no,,,,,,,party paper
+JP,Q11588278,no,,,,,,,party paper
+JP,Q11608206,no,,,,,,,trade paper
+JP,Q11374007,no,,,,,,,trade paper
+JP,Q11524941,no,,,,,,,no Latin-script name
+JP,Q11660485,no,,,,,,,trade paper
+JP,Q11524293,no,,,,,,,resort newsletter
+JP,Q11591026,no,,,,,,,no Latin-script name
+JP,Q11504949,no,,,,,,,no Latin-script name
+JP,Q11444857,no,,,,,,,no Latin-script name
+JP,Q8152375,no,,,,,,,sports paper
+JP,Q704192,no,,,,,,,"community paper (Korean, Chongryon)"
+JP,Q11362392,no,,,,,,,church-affiliated paper
+JP,Q10855393,no,,,,,,,party paper
+JP,Q11266651,no,,,,,,,not news
+JP,Q1190886,yes,Tokyo,en,1,,,,place filled in
+JP,Q1546976,yes,Maebashi,,3,,,,place filled in
+JP,Q17216388,yes,Tokyo,en,2,,,,place filled in
+JP,Q6452210,yes,Kyoto,,2,,,,place filled in
+JP,Q6884451,yes,Miyazaki,,3,,,,place filled in
+JP,Q11595779,yes,Akita,,3,,,,place filled in
+KR,Q492825,no,,,,,,,Wikidata homepage is the Chinese edition; niche
+KR,Q486086,yes,Seoul,,,,,,place is a district/building
+KR,Q486314,yes,Seoul,,,,,,place is a district/building
+KR,Q626241,yes,Seoul,,,,,,place is a district/building
+KR,Q12583033,yes,Chuncheon,,,,,,place is the province
+KR,Q486950,yes,Seoul,en,1,,,,place filled in / above the per-city cap
+KR,Q483903,yes,Seoul,,1,,,,place filled in / above the per-city cap
+KR,Q489308,yes,,,1,,,,place filled in / above the per-city cap
+KR,Q489520,yes,Seoul,en,2,,,,place filled in / above the per-city cap
+KR,Q497170,yes,,,2,,,,place filled in / above the per-city cap
+KR,Q625035,yes,Seoul,,2,,,,place filled in / above the per-city cap
+KR,Q482744,yes,Seoul,,2,,,,place filled in / above the per-city cap
+KR,Q608410,yes,Busan,,2,,,,place filled in / above the per-city cap
+KR,Q7044078,yes,Seoul,,3,online,,,place filled in / above the per-city cap
+KR,Q10855572,yes,,,3,,,,place filled in / above the per-city cap
+KR,Q624291,yes,Seoul,,3,,,,place filled in / above the per-city cap
+KR,Q624791,yes,Seoul,,3,,,,place filled in / above the per-city cap
+KR,Q3151548,no,,,,,,,US TV programme
+KP,Q387054,yes,,,,,state,https://en.wikipedia.org/wiki/Rodong_Sinmun,organ of the ruling party
+KP,Q11661417,yes,Pyongyang,,3,,state,https://en.wikipedia.org/wiki/Chongnyon_Jonwi,state youth-league paper
+TW,Q697429,yes,,zh-Hant,,,,,traditional Chinese
+TW,Q697462,yes,,zh-Hant,,,,,traditional Chinese
+TW,Q697153,yes,,zh-Hant,,,,,traditional Chinese
+TW,Q697337,yes,,zh-Hant,,,,,traditional Chinese
+TW,Q7676580,yes,,zh-Hant,,,,,traditional Chinese
+TW,Q6413989,yes,,zh-Hant,,,,,traditional Chinese
+TW,Q697286,yes,,,2,,,,English daily
+CN,Q1198574,no,,,,,,,Hong Kong – in asia_manual.csv
+CN,Q666349,no,,,,,,,Hong Kong – in asia_manual.csv
+CN,Q6112939,no,,,,,,,Macau paper listed under China
+CN,Q7522698,no,,,,,,,Hong Kong paper listed under China
+CN,Q15944933,no,,,,,,,sports paper
+CN,Q17030736,no,,,,,,,language-learning paper
+CN,Q97280358,no,,,,,,,student paper
+CN,Q109237592,no,,,,,,,trade paper
+CN,Q139576157,no,,,,,,,finance portal
+CN,Q117288654,no,,,,,,,finance portal
+CN,Q117813516,no,,,,,,,weekly digest
+CN,Q65050196,no,,,,,,,no Latin-script name
+CN,Q111737609,no,,,,,,,no Latin-script name
+CN,Q67932743,no,,,,,,,no Latin-script name
+CN,Q107474677,no,,,,,,,no Latin-script name
+CN,Q907111,no,,,,,,,state portal
+CN,Q1006911,yes,Beijing,,,,state,https://en.wikipedia.org/wiki/Media_of_China,Wikidata place wrong; mainland press
+CN,Q842367,yes,Guangzhou,,2,,state,https://en.wikipedia.org/wiki/Media_of_China,place filled in; mainland press
+CN,Q8034704,yes,Beijing,,3,,state,https://en.wikipedia.org/wiki/Media_of_China,place filled in; mainland press
+CN,Q7307107,yes,Beijing,,2,,state,https://en.wikipedia.org/wiki/Media_of_China,place filled in; mainland press
+CN,Q4420537,yes,Ürümqi,,3,,state,https://en.wikipedia.org/wiki/Media_of_China,place filled in; mainland press
+CN,Q54340,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q970443,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q851422,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q3102631,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q1855448,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q11081053,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q739728,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q1518038,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q1636471,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q392819,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q833881,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q2646127,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q3431653,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q10902324,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q8048552,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q15900092,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q15925681,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q15931877,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q17027966,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q17062762,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q56271700,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q10888004,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q5208788,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q11180294,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q10418825,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q10473364,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q10845999,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q11082773,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q11119784,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q15929796,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q15935395,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q17014586,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q17022660,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q67937048,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q107622413,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q108505619,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q17161227,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q56272739,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q15933572,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q9516810,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q10883999,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q10905643,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q10933526,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q16078640,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q17061239,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q19853795,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q85876481,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q106578072,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q117810823,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q108240433,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q108396145,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q110663385,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q55698153,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q10909145,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q11074643,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q60994935,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q108046259,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q110899708,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q106122460,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q108489143,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+CN,Q108599104,yes,,,,,state,https://en.wikipedia.org/wiki/Media_of_China,mainland press: every newspaper needs a state sponsoring unit
+HK,Q1198574,no,,,,,,,Hong Kong outlets in asia_manual.csv (Wikidata places resolve to mainland China)
+HK,Q5017958,no,,,,,,,Hong Kong outlets in asia_manual.csv (Wikidata places resolve to mainland China)
+HK,Q1674139,no,,,,,,,Hong Kong outlets in asia_manual.csv (Wikidata places resolve to mainland China)
+HK,Q666349,no,,,,,,,Hong Kong outlets in asia_manual.csv (Wikidata places resolve to mainland China)
+HK,Q908244,no,,,,,,,Hong Kong outlets in asia_manual.csv (Wikidata places resolve to mainland China)
+HK,Q844490,no,,,,,,,Hong Kong outlets in asia_manual.csv (Wikidata places resolve to mainland China)
+HK,Q20720631,no,,,,,,,Hong Kong outlets in asia_manual.csv (Wikidata places resolve to mainland China)
+HK,Q1507352,no,,,,,,,Hong Kong outlets in asia_manual.csv (Wikidata places resolve to mainland China)
+KZ,Q512724,yes,,,,,state,https://en.wikipedia.org/wiki/Egemen_Qazaqstan,government newspaper
+KZ,Q310742,yes,,,,,state,https://en.wikipedia.org/wiki/Kazakhstanskaya_Pravda,government newspaper
+KZ,Q4235246,no,,,,,,,no Latin-script name
+KZ,Q28135463,no,,,,,,,Russian exile outlet listed under Kazakhstan
+KG,Q28135463,no,,,,,,,Russian exile outlet listed under Kyrgyzstan
+UZ,Q4375827,no,,,,,,,in asia_manual.csv (Wikidata place resolves to the Soviet Union)
+KG,Q4423860,yes,Bishkek,,3,,state,https://en.wikipedia.org/wiki/Slovo_Kyrgyzstana,place filled in; government newspaper
+IN,Q744661,no,,,,,,,in asia_manual.csv (needs a coordinate hint: two cities named Srinagar)
+JP,Q1190886,no,,,,,,,Wikidata homepage is the subscription portal – in asia_manual.csv
+AF,Q3918527,no,,,,,,,regional outlet without a reachable feed – replaced
+HK,Q908244,no,,,,,,,regional outlet without a reachable feed – replaced
+ID,Q6382551,no,,,,,,,regional outlet without a reachable feed – replaced
+BD,Q28126618,no,,,,,,,regional outlet without a reachable feed – replaced
+BD,Q114214394,no,,,,,,,regional outlet without a reachable feed – replaced
+BD,Q97257968,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q4420537,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q3431653,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q8034704,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10902324,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q8048552,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q15900092,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q15925681,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q15931877,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q17027966,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q17062762,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q56271700,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10888004,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q5208788,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q11180294,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10418825,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10473364,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10845999,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q11119784,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q15929796,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q17014586,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q17022660,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q67937048,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q107622413,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q108505619,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q17161227,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q56272739,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q15933572,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q9516810,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10883999,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10905643,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10933526,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q16078640,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q17061239,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q19853795,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q85876481,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q106578072,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q117810823,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q108240433,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q108396145,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q110663385,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q55698153,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10909145,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q11074643,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q60994935,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q108046259,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q110899708,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q106122460,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q108489143,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q108599104,no,,,,,,,regional outlet without a reachable feed – replaced
+ID,Q367157,no,,,,,,,regional outlet without a reachable feed – replaced
+ID,Q12522334,no,,,,,,,regional outlet without a reachable feed – replaced
+ID,Q12522328,no,,,,,,,regional outlet without a reachable feed – replaced
+ID,Q12506205,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q5453524,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q6935314,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q48734478,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q3935468,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q4119047,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q2262113,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q2426836,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q2774299,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q978676,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q5531660,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q7260341,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q7375326,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q12990998,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q15702315,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q19894700,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q20984008,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q3988514,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q24590066,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q3784682,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q6123373,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q6448388,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q5209498,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q7647390,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q15050589,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q18128366,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q19894708,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q48723678,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q2676209,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q6007128,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q7208682,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q7045591,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q18111514,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q24912062,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114022318,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q4907081,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q7659461,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q16928152,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q25212712,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q109534047,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q19570906,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q122978788,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q6150847,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q6748718,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q6755049,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q28406465,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q31327285,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q31328038,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q105044549,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q17120739,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q287944,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113565520,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q132561388,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q17061011,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q19306361,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q69061911,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q116715040,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q108409195,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113675700,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113775782,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113865290,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113867115,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113950828,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113950908,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113951254,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113957906,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113977090,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114062002,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114062440,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114062672,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114840694,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114841245,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114856021,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114856195,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114859897,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114859909,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114877412,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114877678,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q122617376,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q7549774,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q124706296,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q1546976,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q639774,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q7420810,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11386181,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11045913,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11471110,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11474625,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q8047652,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11586480,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11471399,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11489835,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11493542,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11568194,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11355971,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11504954,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q110884378,no,,,,,,,regional outlet without a reachable feed – replaced
+JP,Q11672380,no,,,,,,,regional outlet without a reachable feed – replaced
+KG,Q4423860,no,,,,,,,regional outlet without a reachable feed – replaced
+KG,Q25591500,no,,,,,,,regional outlet without a reachable feed – replaced
+KP,Q11661417,no,,,,,,,regional outlet without a reachable feed – replaced
+KR,Q624791,no,,,,,,,regional outlet without a reachable feed – replaced
+KR,Q12583033,no,,,,,,,regional outlet without a reachable feed – replaced
+MM,Q97259760,no,,,,,,,regional outlet without a reachable feed – replaced
+MN,Q7863896,no,,,,,,,regional outlet without a reachable feed – replaced
+MV,Q133278745,no,,,,,,,regional outlet without a reachable feed – replaced
+MY,Q4808924,no,,,,,,,regional outlet without a reachable feed – replaced
+MY,Q2192552,no,,,,,,,regional outlet without a reachable feed – replaced
+MY,Q6964475,no,,,,,,,regional outlet without a reachable feed – replaced
+MY,Q7749738,no,,,,,,,regional outlet without a reachable feed – replaced
+MY,Q11103434,no,,,,,,,regional outlet without a reachable feed – replaced
+MY,Q5209248,no,,,,,,,regional outlet without a reachable feed – replaced
+PH,Q6863597,no,,,,,,,regional outlet without a reachable feed – replaced
+PH,Q4663413,no,,,,,,,regional outlet without a reachable feed – replaced
+PH,Q131413020,no,,,,,,,regional outlet without a reachable feed – replaced
+PK,Q6398798,no,,,,,,,regional outlet without a reachable feed – replaced
+PK,Q92400704,no,,,,,,,regional outlet without a reachable feed – replaced
+PK,Q97096183,no,,,,,,,regional outlet without a reachable feed – replaced
+TH,Q4923091,no,,,,,,,regional outlet without a reachable feed – replaced
+TW,Q7676580,no,,,,,,,regional outlet without a reachable feed – replaced
+TW,Q6413989,no,,,,,,,regional outlet without a reachable feed – replaced
+UZ,Q25604634,no,,,,,,,regional outlet without a reachable feed – replaced
+HK,Q908244,no,,,,,,,regional outlet without a reachable feed – replaced
+ID,Q6382551,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q104851211,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q10902328,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q5209496,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q6122711,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q5449582,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q7055217,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q31327996,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113950839,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q114859208,no,,,,,,,regional outlet without a reachable feed – replaced
+HK,Q908244,no,,,,,,,regional outlet without a reachable feed – replaced
+ID,Q6382551,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q28416587,no,,,,,,,regional outlet without a reachable feed – replaced
+CN,Q67934995,no,,,,,,,regional outlet without a reachable feed – replaced
+IN,Q113818057,no,,,,,,,regional outlet without a reachable feed – replaced
+HK,Q908244,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+ID,Q6382551,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+CN,Q107684894,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+CN,Q108583468,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+IN,Q113974353,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+SG,Q477719,drop,,,,,,,merged into CNA (a broadcaster); feed is CNA's
+CN,Q10873421,drop,,,,,,,military paper
+IN,Q4803506,drop,,,,,,,not news

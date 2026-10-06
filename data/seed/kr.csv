@@ -1,0 +1,16 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+KR,The Korea Times,Seoul,,http://www.koreatimes.co.kr,en,daily,1,,,,
+KR,The Joong-ang Ilbo,Seoul,,https://www.joongang.co.kr/,ko,daily,1,,,,
+KR,The Dong-a Ilbo,Seoul,,https://www.donga.com/,ko,daily,1,,,,
+KR,Hankook Ilbo,Seoul,,http://www.hankookilbo.com,ko,daily,1,,,37.5600,126.9900
+KR,Korea JoongAng Daily,Seoul,,https://koreajoongangdaily.joins.com/,en,daily,2,,,,
+KR,The Hankyoreh,Seoul,,https://www.hani.co.kr/,ko,daily,1,,,37.5638,126.9084
+KR,Kyunghyang Shinmun,Seoul,,http://www.khan.co.kr/,ko,daily,2,,,37.5600,126.9900
+KR,Korea Economic Daily,Seoul,,https://www.hankyung.com/,ko,daily,2,,,37.5559,126.9703
+KR,Maeil Business Newspaper,Seoul,,http://www.mk.co.kr/,ko,daily,2,,,,
+KR,Seoul Shinmun,Seoul,,https://www.seoul.co.kr/,ko,daily,2,,,,
+KR,Busan Ilbo,Busan,,http://www.busan.com/,ko,daily,2,,,,
+KR,No Cut News,Seoul,,https://www.nocutnews.co.kr,ko,online,3,,,,
+KR,The Kukmin Daily,Seoul,,http://www.kmib.co.kr/,ko,daily,3,,,37.5600,126.9900
+KR,Segye Ilbo,Seoul,,http://segye.com,ko,daily,3,,,,
+KR,Kyeongnam Domin Ilbo,Changwon,,http://www.idomin.com/,ko,daily,3,,,35.2281,128.6811
