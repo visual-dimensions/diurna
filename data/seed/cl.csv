@@ -1,0 +1,14 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+CL,El Mercurio,Santiago,,http://www.emol.com/,es,daily,1,,,,
+CL,El Mercurio de Valparaíso,Valparaíso,,http://www.mercuriovalpo.cl/,es,daily,2,,,-33.0461,-71.6197
+CL,La Tercera,Las Condes,,http://www.latercera.com/,es,daily,2,,,-33.4167,-70.5833
+CL,La Segunda,Santiago de Chile,,http://www.lasegunda.com/,es,daily,2,,,-33.4375,-70.6500
+CL,La Cuarta,Santiago,,http://www.lacuarta.cl/,es,daily,3,,,-33.4937,-70.6171
+CL,Las Últimas Noticias,Santiago,,https://www.lun.com/,es,daily,2,,,,
+CL,The Clinic,Santiago de Chile,,https://www.theclinic.cl/,es,daily,3,,,-33.4375,-70.6500
+CL,El Mostrador,Santiago,,http://www.elmostrador.cl,es,online,3,,,,
+CL,La Discusión,Chillán,,http://www.ladiscusion.cl/index.php,es,daily,3,,,-36.6067,-72.1033
+CL,Diario Financiero,Las Condes,,http://www.df.cl/,es,daily,3,,,-33.4167,-70.5833
+CL,El Desconcierto,Santiago,,https://www.eldesconcierto.cl,es,online,3,,,,
+CL,Las Noticias de Malleco,Victoria,,https://lasnoticiasdemalleco.cl/,es,daily,3,,,-38.2167,-72.3333
+CL,El Epicentro,Viña del Mar,,https://www.epicentrochile.com/,es,daily,3,,,-33.0245,-71.5518

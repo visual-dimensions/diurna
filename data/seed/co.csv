@@ -1,0 +1,10 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+CO,El Tiempo,Bogotá,,http://www.eltiempo.com/,es,daily,1,,,4.6097,-74.0817
+CO,Semana,Bogotá,,https://www.semana.com/,es,magazine,2,,,,
+CO,El Heraldo,Barranquilla,,https://www.elheraldo.co,es,daily,2,,,10.9833,-74.8019
+CO,El País,Cali,,http://www.elpais.com.co,es,daily,2,,,3.4400,-76.5197
+CO,El Colombiano,Medellín,,http://www.elcolombiano.com,es,daily,2,,,,
+CO,El Nuevo Siglo,Bogotá,,http://elnuevosiglo.com.co/,es,daily,3,,,4.6097,-74.0817
+CO,El Universal (Colombia),Cartagena de Indias,,https://www.eluniversal.com.co/,es,daily,3,,,10.4236,-75.5253
+CO,Vanguardia Liberal,Bucaramanga,,https://www.vanguardia.com/,es,daily,3,,,7.1186,-73.1161
+CO,La Nación,Neiva,,https://www.lanacion.com.co/,es,daily,3,,,2.9275,-75.2875

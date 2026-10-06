@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,NI,La Prensa,Managua,,https://www.laprensani.com/,es,daily,2,,,Q3211909,8,daily newspaper; online newspaper,12.1547,-86.2737,"types: daily, online"
+no,NI,Confidencial,,,https://confidencial.com.ni/,es,weekly,3,,,Q5160091,3,periodical; weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NI,La Gaceta – Diario Oficial del Gobierno de la República de Nicaragua,,,https://www.lagaceta.gob.ni/,es,daily,3,,,Q99928376,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

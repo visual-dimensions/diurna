@@ -1,0 +1,27 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,CO,El Tiempo,Bogotá,,http://www.eltiempo.com/,es,daily,1,,,Q1324658,20,daily newspaper,4.6097,-74.0817,
+no,CO,El Espectador,Bogotá,,http://elespectador.com/,es,daily,1,,,Q1324151,16,newspaper,4.6097,-74.0817,
+yes,CO,Semana,Bogotá,,https://www.semana.com/,es,magazine,2,,,Q3128936,9,magazine; news magazine,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,CO,El Heraldo,Barranquilla,,https://www.elheraldo.co,es,daily,2,,,Q3049972,7,daily newspaper; regional newspaper,10.9833,-74.8019,
+yes,CO,El País,Cali,,http://www.elpais.com.co,es,daily,2,,,Q391530,6,newspaper,3.4400,-76.5197,
+no,CO,Noticias Caracol,,,https://noticias.caracoltv.com,es,online,2,,,Q7063018,6,news; news program; digital media; online newspaper,,,reviewed: broadcaster; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CO,La República,Bogotá,,https://www.larepublica.co/,es,daily,3,,,Q735264,5,newspaper; daily newspaper,4.6097,-74.0817,
+yes,CO,El Colombiano,Medellín,,http://www.elcolombiano.com,es,daily,2,,,Q403038,5,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,CO,El Nuevo Siglo,Bogotá,,http://elnuevosiglo.com.co/,es,daily,3,,,Q3050132,4,daily newspaper,4.6097,-74.0817,reviewed: above the per-city cap
+yes,CO,El Universal (Colombia),Cartagena de Indias,,https://www.eluniversal.com.co/,es,daily,3,,,Q3050292,4,daily newspaper,10.4236,-75.5253,
+yes,CO,Vanguardia Liberal,Bucaramanga,,https://www.vanguardia.com/,es,daily,3,,,Q3554580,4,daily newspaper,7.1186,-73.1161,
+no,CO,El Mundo,Medellín,,http://www.elmundo.com/,es,daily,3,,,Q10918911,4,daily newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,CO,Colombia Reports,,,http://colombiareports.com/,en,online,3,,,Q5147884,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CO,La Silla Vacía (medio digital),Colombia,,http://lasillavacia.com/,es,online,3,,,Q6465288,2,online newspaper; mass media; website; fact-checking organisation,4.0000,-73.2500,not pre-selected: magazine/online below tier 1
+no,CO,El Bogotano,Bogotá,,https://elbogotano.com.co/,es,daily,3,,,Q65048578,1,newspaper,4.6097,-74.0817,
+no,CO,Pulzo,Bogotá,,https://www.pulzo.com/,es,online,3,,,Q62129644,1,online newspaper,4.6097,-74.0817,not pre-selected: magazine/online below tier 1
+no,CO,Vorágine (medio digital),,,https://voragine.co/,es,online,3,,,Q116979883,1,online newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CO,Diario de América,Los Ángeles,US,http://www.diariodeamerica.com,es,daily,3,exile,,Q5271867,1,newspaper,34.0522,-118.2437,newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
+no,CO,Gol Caracol,,,https://gol.caracoltv.com,es,daily,3,,,Q5861390,1,journalism; daily newspaper; website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CO,La Nación,Neiva,,https://www.lanacion.com.co/,es,daily,3,,,Q130266979,0,newspaper; online newspaper; daily newspaper,2.9275,-75.2875,"language from country default; types: daily, online"
+no,CO,Ahora In,Cartagena de Indias,,https://ahorain.com/,es,daily,3,,,Q113624407,0,daily newspaper,10.4236,-75.5253,reviewed: regional outlet without a reachable feed – replaced
+no,CO,Boyacá Digital,Sogamoso,,https://www.boyacadigital.com,es,online,3,,,Q140398679,0,online newspaper; news website,5.7148,-72.9279,not pre-selected: magazine/online below tier 1
+no,CO,Cambio,Bogotá,,https://cambio.com.co/,es,online,3,,,Q140990336,0,online newspaper; nonprofit organization,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CO,Noticias Católicas - The Catholics News Time,,,https://thecatholictimesnews.com/,es,daily,3,,,Q107102396,0,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CO,IFM Noticias,Medellín,,https://ifmnoticias.com/,es,online,3,,,Q141374294,0,news website,6.2502,-75.5676,not pre-selected: magazine/online below tier 1
+no,CO,Nos Cogió La Noche,Medellín,,https://noscogiolanoche.com/,es,online,3,,,Q141387507,0,news website,6.2502,-75.5676,not pre-selected: magazine/online below tier 1

@@ -1,0 +1,11 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+VE,La Patilla,Caracas,,https://www.lapatilla.com/,es,online,2,,,,
+VE,Efecto Cocuyo,Caracas,,https://efectococuyo.com,es,online,3,,,,
+VE,El Informador (Venezuela),Barquisimeto,,https://www.elinformadorve.com,es,daily,3,,,10.0678,-69.3467
+VE,Diario 2001,Caracas,,https://www.2001online.com,es,daily,3,,,10.5061,-66.9144
+VE,El Tiempo (Anzoátegui),Puerto La Cruz,,http://www.eltiempo.com.ve,es,daily,3,,,10.2167,-64.6167
+VE,El Impulso (Venezuela),Barquisimeto,,http://www.elimpulso.com,es,daily,3,,,10.0678,-69.3467
+VE,La Verdad (Zulia),Maracaibo,,http://www.laverdad.com,es,daily,3,,,10.6333,-71.6333
+VE,Correo del Caroní,Ciudad Guayana,,http://www.correodelcaroni.com/,es,daily,3,,,8.3224,-62.6897
+VE,Diario Avance,Los Teques,,http://diarioavance.com/,es,daily,3,,,10.3411,-67.0406
+VE,El Periódico de Monagas,Monagas,,https://elperiodicodemonagas.com.ve/,es,daily,3,,,9.4167,-63.0667

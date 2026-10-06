@@ -1,0 +1,7 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,BO,El Diario (Bolivia),La Paz,,https://www.eldiario.net/,es,daily,2,,,Q1324064,7,newspaper; newspaper of record,-17.0569,-64.9912,reviewed: Wikidata place is the country
+no,BO,La Razón,La Paz,,http://www.larazon.bo/,es,daily,3,,,Q6464783,4,daily newspaper,-16.4958,-68.1333,reviewed: regional outlet without a reachable feed – replaced
+yes,BO,Opinión (Bolivia),Cochabamba,,https://www.opinion.com.bo/,es,daily,3,,,Q7098285,3,newspaper,-17.3935,-66.1570,
+no,BO,Bolivia,La Paz,,http://www.cambio.bo/,es,daily,3,,,Q75330375,3,newspaper,-16.4958,-68.1333,reviewed: regional outlet without a reachable feed – replaced
+no,BO,La Prensa,La Paz,,https://laprensa.bo/,es,daily,3,,,Q140677704,1,daily newspaper,-16.4958,-68.1333,reviewed: regional outlet without a reachable feed – replaced
+no,BO,La Región (Bolivia),Santa Cruz de la Sierra,,https://www.laregion.bo/,es,online,3,,,Q122425599,1,online newspaper,-17.7892,-63.1975,not pre-selected: magazine/online below tier 1

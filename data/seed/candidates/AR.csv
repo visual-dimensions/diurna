@@ -1,0 +1,92 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,AR,Clarín,Buenos Aires,,https://www.clarin.com/,es,daily,1,,,Q878108,28,daily newspaper; tabloid media,-34.5997,-58.3819,
+no,AR,La Nación,Buenos Aires,,http://www.lanacion.com,es,daily,1,,,Q1507630,28,daily newspaper; newspaper of record,-34.5997,-58.3819,
+no,AR,La Prensa,Buenos Aires,,https://www.laprensa.com.ar/,es,daily,2,,,Q1632268,12,daily newspaper; media company,-34.5997,-58.3819,
+yes,AR,Página/12,Buenos Aires,,http://www.pagina12.com.ar/,es,daily,1,,,Q1731205,12,daily newspaper,-34.5997,-58.3819,reviewed: leading national daily – above the per-city cap
+yes,AR,Infobae,Buenos Aires,,https://www.infobae.com,es,online,1,,,Q5915760,10,website; online newspaper,-34.5997,-58.3819,reviewed: leading news site – above the per-city cap; not pre-selected: magazine/online below tier 1
+yes,AR,Diario Democracia,Junín,,http://www.diariodemocracia.com/index.asp,es,daily,2,,,Q1209142,6,newspaper,-34.5833,-60.9500,
+yes,AR,La Capital,Rosario,,http://www.lacapital.com.ar/,es,daily,2,,,Q4810370,6,newspaper,-32.9575,-60.6394,
+no,AR,Argentinisches Tageblatt,Buenos Aires,,https://www.tageblatt.com.ar/,de,daily,3,,,Q325193,5,periodical; newspaper,-34.5997,-58.3819,
+no,AR,La Voz del Interior,Córdoba,,https://www.lavoz.com.ar/,es,daily,3,,,Q924518,5,newspaper,-31.4167,-64.1833,reviewed: regional outlet without a reachable feed – replaced
+yes,AR,El Día,La Plata,,https://www.eldia.com/,es,daily,3,,,Q3393926,5,newspaper,-34.9333,-57.9500,
+no,AR,Prensa Obrera,Buenos Aires,,https://prensaobrera.com/,es,weekly,3,,,Q6085235,5,newspaper; online newspaper; weekly newspaper,-34.5997,-58.3819,"types: daily, online, weekly"
+yes,AR,Ámbito Financiero,Buenos Aires,,http://www.ambito.com/,es,daily,2,,,Q251490,5,daily newspaper,-34.5997,-58.3819,reviewed: national business daily – above the per-city cap
+no,AR,Billiken,,,https://billiken.lat/,es,daily,3,,,Q4911902,5,youth media; magazine,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AR,Diario Los Andes,Mendoza,,http://www.losandes.com.ar/,es,daily,3,,,Q1632856,5,newspaper; publication by electronic means,-32.8897,-68.8444,
+no,AR,La Vanguardia,Buenos Aires,,http://www.vanguardiaps.blogspot.com/,es,daily,3,,,Q6465642,5,newspaper,-34.5997,-58.3819,
+yes,AR,El Cronista,Buenos Aires,,https://www.cronista.com/,es,daily,2,,,Q778813,4,newspaper,-34.5997,-58.3819,reviewed: national business daily – above the per-city cap
+no,AR,Diario Popular,Buenos Aires,,http://www.popularonline.com.ar/,es,daily,3,,,Q1209139,4,newspaper,-34.5997,-58.3819,
+yes,AR,El Litoral,Santa Fe,,http://www.ellitoral.com/,es,daily,3,,,Q5351521,4,daily newspaper,-31.6333,-60.7000,
+no,AR,La Izquierda Diario,,,http://www.laizquierdadiario.com/,es,online,3,,,Q65163526,4,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,AR,Diario Río Negro,General Roca,,https://www.rionegro.com.ar/,es,daily,3,,,Q429592,3,newspaper,-39.0333,-67.5833,
+yes,AR,La Gaceta,San Miguel de Tucumán,,http://www.lagaceta.com.ar/,es,daily,3,,,Q4819957,3,newspaper,-26.8167,-65.2167,
+yes,AR,El Siglo - Tucumán,San Miguel de Tucumán,,http://www.elsigloweb.com/,es,daily,3,,,Q4820079,3,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,AR,La Capital,Mar del Plata,,https://www.lacapitalmdp.com/,es,daily,3,,,Q5962678,3,newspaper,-38.0000,-57.5500,reviewed: regional outlet without a reachable feed – replaced
+yes,AR,El Tribuno,Salta,,http://www.eltribuno.info,es,daily,3,,,Q5352281,3,newspaper,-24.7883,-65.4106,
+no,AR,Սարտարապատ,Buenos Aires,,https://www.sardarabad.com.ar/,es,daily,3,,,Q7423757,3,newspaper,-34.5997,-58.3819,
+no,AR,El Economista,Buenos Aires,,https://eleconomista.com.ar/,es,daily,3,,,Q104715135,3,newspaper,-34.5997,-58.3819,language from country default
+no,AR,La Derecha Diario,,,https://derechadiario.com.ar,es,online,3,,,Q136658631,3,online newspaper; news media,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,AR,Diario Crónica,Buenos Aires,,https://www.cronica.com.ar/,es,daily,3,,,Q5191494,3,newspaper,-34.5997,-58.3819,reviewed: regional outlet without a reachable feed – replaced
+no,AR,El Liberal,Ciudad de Santiago del Estero,,https://www.elliberal.com.ar/,es,daily,3,,,Q5822302,3,newspaper,-27.7844,-64.2669,reviewed: regional outlet without a reachable feed – replaced
+yes,AR,Norte (diario),Resistencia,,http://www.diarionorte.com,es,daily,3,,,Q5271856,2,newspaper; periodical,-27.4514,-58.9867,
+yes,AR,El Ancasti,San Fernando del Valle de Catamarca,,http://www.elancasti.com.ar/,es,daily,3,,,Q5350755,2,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AR,Buenos Aires Económico,Buenos Aires,,https://www.baenegocios.com/,es,daily,3,,,Q5735181,2,newspaper,-34.5997,-58.3819,
+no,AR,Diario Hoy (Argentina),,,http://www.diariohoy.net/,es,daily,3,,,Q5805293,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AR,El Diario (Paraná),Paraná,,https://www.eldiario.com.ar/,es,daily,3,,,Q5821730,2,newspaper,-31.7331,-60.5297,reviewed: regional outlet without a reachable feed – replaced
+no,AR,Boletim Oficial do Mercosul,,,http://www.mercosur.int/msweb/portal%20intermediario/pt/publica/bo.html,pt,daily,3,,,Q20049614,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AR,El Debate,Zárate,,https://www.eldebate.com.ar/,es,daily,3,,,Q113995871,2,newspaper,-34.0833,-59.0333,
+no,AR,L'Italiano,,,http://www.litaliano.it,it,daily,3,,,Q16569719,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AR,El Sureño,Río Grande,,https://www.surenio.com.ar/,es,daily,3,,,Q98515337,2,daily newspaper; online newspaper,-53.7833,-67.7000,"types: daily, online"
+no,AR,Noticias (Argentina),,,http://www.noticias.uol.com.ar/,es,daily,3,,,Q3344509,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AR,Diario El Chubut,Trelew,,http://www.elchubut.com.ar/,es,daily,3,,,Q5805268,2,newspaper,-43.2533,-65.3094,reviewed: regional outlet without a reachable feed – replaced
+yes,AR,Diario Patagónico,Comodoro Rivadavia,,http://www.elpatagonico.net,es,daily,3,,,Q5805334,2,newspaper,-45.8667,-67.5000,
+no,AR,Tiempo Argentino,Buenos Aires,,http://www.tiempoar.com.ar,es,daily,3,,,Q6146480,2,newspaper,-34.5997,-58.3819,
+yes,AR,Misiones Online,Posadas,,http://www.misionesonline.net/,es,daily,3,,,Q6875675,2,newspaper,-27.3667,-55.8969,
+no,AR,Veintitrés,,,https://www.veintitres.com.ar/,es,magazine,3,,,Q971594,2,news magazine,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AR,Suplemento Literario Télam,,,http://slt.telam.com.ar/,es,daily,3,,,Q6136047,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AR,Comercio y Justicia,,,http://www.comercioyjusticia.info,es,daily,3,,,Q5778964,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AR,Diario Diagonales,La Plata,,http://www.diagonales.com/,es,daily,3,,,Q5805259,1,newspaper,-34.9333,-57.9500,
+no,AR,Diario La Opinión (Pergamino),Pergamino,,http://www.laopinionpergamino.com.ar,es,daily,3,,,Q5805304,1,newspaper,-33.8836,-60.5669,reviewed: regional outlet without a reachable feed – replaced
+no,AR,Diario La Unión,,,http://www.launion.com.ar/,es,daily,3,,,Q5805308,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AR,Diario de Cuyo,San Juan,,http://www.diariodecuyo.com.ar,es,daily,3,,,Q5805375,1,newspaper,-31.5375,-68.5364,
+no,AR,El Constructor,,,http://www.elconstructor.com/,es,daily,3,,,Q5821557,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AR,Українське слово (Аргентина),,,http://www.prosvita.org.ar/,uk,daily,3,,,Q12164020,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,AR,Diario Puntal,Río Cuarto,,http://www.puntal.com.ar,es,daily,3,,,Q19847588,1,newspaper,-33.1230,-64.3478,
+no,AR,Diario La Voz del Pueblo,,,https://www.lavozdelpueblo.com.ar/,es,daily,3,,,Q20819472,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AR,Política Obrera,Buenos Aires,,https://politicaobrera.com,es,daily,3,,,Q67520227,1,newspaper; online newspaper,-34.5997,-58.3819,"types: daily, online"
+no,AR,Diario Sirio-Libanés,Buenos Aires,,https://www.diariosiriolibanes.com.ar,es,daily,3,,,Q124606072,1,daily newspaper; online newspaper; online database; online service,-34.5997,-58.3819,"types: daily, online"
+no,AR,Diario El Oeste,Esquel,,http://www.diarioeloeste.com.ar/,es,daily,3,,,Q5805276,1,newspaper,-42.9000,-71.3167,reviewed: regional outlet without a reachable feed – replaced
+no,AR,Diario Jornada,Trelew,,http://www.diariojornada.com.ar/,es,daily,3,,,Q5805300,1,newspaper,-43.2533,-65.3094,reviewed: regional outlet without a reachable feed – replaced
+no,AR,Diario La Prensa de Santa Cruz,Caleta Olivia,,http://laprensadesantacruz.info,es,daily,3,,,Q5805306,1,newspaper,-46.4333,-67.5333,reviewed: regional outlet without a reachable feed – replaced
+no,AR,El Diario del Fin del Mundo,Ushuaia,,http://www.eldiariodelfindelmundo.com/,es,daily,3,,,Q5821748,1,newspaper,-54.8072,-68.3081,reviewed: regional outlet without a reachable feed – replaced
+no,AR,El Territorio,Posadas,,http://www.elterritorio.com.ar,es,daily,3,,,Q5823514,1,newspaper,-27.3667,-55.8969,reviewed: only a crime-section feed – not representative
+no,AR,La Mañana (diario),Formosa,,http://www.lamañanaonline.com.ar,es,daily,3,,,Q5964317,1,newspaper,-26.1847,-58.1758,reviewed: regional outlet without a reachable feed – replaced
+yes,AR,La Mañana de Córdoba,Córdoba,,http://www.lmcordoba.com.ar,es,daily,3,,,Q5964322,1,newspaper,-31.4167,-64.1833,
+no,AR,Semanario El Tiempo,Pergamino,,http://www.eltiemposemanario.com.ar,es,daily,3,,,Q6124660,1,newspaper,-33.8836,-60.5669,reviewed: regional outlet without a reachable feed – replaced
+no,AR,Kids News,Buenos Aires,,http://www.kidsnews.com.ar/www.aula365.com.ar,es,daily,3,,,Q16586646,1,newspaper,-34.5997,-58.3819,
+yes,AR,Diario Primera Edición,Posadas,,http://www.primeraedicion.com.ar,es,daily,3,,,Q16941702,1,newspaper,-27.3667,-55.8969,
+no,AR,Nueva Sion,,,http://www.nuevasion.com.ar,es,magazine,3,,,Q29877528,1,news magazine; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, magazine; not pre-selected: magazine/online below tier 1"
+no,AR,Nuevo Diario de Santiago del Estero,Ciudad de Santiago del Estero,,https://nuevodiarioweb.com.ar,es,daily,3,,,Q125889180,1,newspaper; online newspaper,-27.7844,-64.2669,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
+no,AR,Revista Contexto Tucumán,San Miguel de Tucumán,,https://www.contextotucuman.com/,es,online,3,,,Q110436376,1,online newspaper; website,-26.8167,-65.2167,not pre-selected: magazine/online below tier 1
+no,AR,Centro de Información Judicial,,,http://www.cij.gov.ar,es,online,3,,,Q18418422,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,AR,Iton Gadol,Buenos Aires,,http://itongadol.com.ar,es,weekly,3,,,Q20015548,0,Jewish newspaper; weekly newspaper; online newspaper,-34.5997,-58.3819,"types: daily, online, weekly; not pre-selected: alternative/religious paper"
+no,AR,MDZ Online,Mendoza,,http://www.mdzol.com/,es,online,3,,,Q16916360,0,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AR,Diario Armenia,Buenos Aires,,https://www.diarioarmenia.org.ar,es,daily,3,,,Q105716072,0,newspaper; news website,-34.5997,-58.3819,"types: daily, online"
+yes,AR,El Tribuno de Jujuy,San Salvador de Jujuy,,https://eltribunodejujuy.com/,es,daily,3,,,Q135812278,0,daily newspaper; online newspaper,-24.1856,-65.2994,"language from country default; types: daily, online"
+no,AR,Meteored Argentina,,,https://www.meteored.com.ar/,es,online,3,,,Q137367974,0,online newspaper; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AR,InfoNegocios,Córdoba,,https://infonegocios.info,es,online,3,,,Q138656101,0,online newspaper,-31.4167,-64.1833,language from country default; not pre-selected: magazine/online below tier 1
+no,AR,El Tucumano,Provincia de Tucumán,,https://www.eltucumano.com/,es,online,3,,,Q141055419,0,online newspaper,-27.0000,-65.5000,not pre-selected: magazine/online below tier 1
+yes,AR,elDiarioAR,Buenos Aires,,https://www.eldiarioar.com/,es,online,3,,,Q101152914,0,online newspaper,-34.5997,-58.3819,reviewed: above the per-city cap; not pre-selected: magazine/online below tier 1
+no,AR,NODAL,,,https://www.nodal.am,es,online,3,,,Q121505421,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AR,New View,Provincia de Córdoba,,https://newview.ar,es,daily,3,,,Q122226142,0,digital newspaper; website; online newspaper,-32.0000,-64.0000,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
+yes,AR,El Ciudadano (Rosario),Rosario,,https://www.elciudadanoweb.com/,es,daily,3,,,Q98561757,0,daily newspaper; mass media,-32.9575,-60.6394,
+yes,AR,La Opinión Austral,Río Gallegos,,https://laopinionaustral.com.ar/,es,daily,3,,,Q104876742,0,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AR,El Atlántico,,,https://diarioelatlantico.com.ar/,es,daily,3,,,Q136328878,0,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AR,El Ciudadano (Mendoza),Mendoza,,https://www.ciudadanodiario.com.ar/,es,daily,3,,,Q98563931,0,digital newspaper,-32.8897,-68.8444,reviewed: regional outlet without a reachable feed – replaced
+yes,AR,El1,San Justo,,https://www.el1digital.com.ar/,es,weekly,3,,,Q127413247,0,weekly newspaper; university newspaper; local newspaper,-34.6833,-58.5500,"types: daily, weekly"
+no,AR,El editor platense,,,https://eleditorplatense.com.ar/,es,online,3,,,Q118238998,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,AR,La Página Millonaria,Copenhague,DK,https://lapaginamillonaria.com/,es,online,3,exile,,Q136863322,0,periodical; sports news website; news website,55.6761,12.5689,"language from country default; newsroom abroad (DK) – exile?; not pre-selected: newsroom abroad, magazine/online below tier 1"
+no,AR,Soy del Millo,,,https://soydelmillo.com/,es,online,3,,,Q141609515,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AR,El Aconquija,,,https://elaconquija.com/,es,online,3,,,Q141609527,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AR,Elintra.com.ar,,,https://elintra.com.ar/,es,online,3,,,Q141609529,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AR,Salta 4400,,,https://salta4400.com/,es,online,3,,,Q141609532,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

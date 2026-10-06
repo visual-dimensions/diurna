@@ -420,3 +420,188 @@ US,Q7019405,drop,,,,,,,regional outlet without a reachable feed – not replaced
 US,Q7707345,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
 US,Q7750763,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
 US,Q7972060,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+BR,Q3283333,yes,Brasília,,2,,,,place filled in (Wikidata has none)
+BR,Q3058830,yes,Belo Horizonte,,2,,,,place filled in
+BR,Q958931,yes,São Paulo,,2,,,,place filled in
+BR,Q10278872,yes,Rio de Janeiro,,3,,,,place filled in
+BR,Q12344592,yes,Salvador,,2,,,,place filled in
+BR,Q3480197,yes,Recife,,2,,,,place filled in
+BR,Q5172828,yes,Porto Alegre,,2,,,,place filled in
+BR,Q3347781,yes,Rio de Janeiro,,3,,,,place filled in
+BR,Q2819844,yes,Joinville,,3,,,,place filled in
+BR,Q56350071,yes,Brasília,,3,,,,place filled in
+BR,Q1886657,yes,São Paulo,,1,magazine,,,place filled in; leading news magazine
+BR,Q63728975,yes,Brasília,,3,,,,place filled in
+BR,Q10283211,yes,Recife,,3,,,,place filled in
+BR,Q10308383,yes,Goiânia,,3,,,,place filled in
+BR,Q1343828,no,,,,,,,music magazine
+BR,Q2749177,no,,,,,,,sports paper
+BR,Q6278997,no,,,,,,,sports paper
+BR,Q11324439,no,,,,,,,diaspora paper (Japanese)
+BR,Q112670404,no,,,,,,,university news
+MX,Q2473369,yes,Ciudad de México,,1,,,,place filled in
+MX,Q29427132,yes,Ciudad de México,,3,online,,,place filled in
+MX,Q61998946,yes,Ciudad de México,,3,online,,,place filled in
+MX,Q87401928,yes,Ciudad Juárez,,3,,,,place filled in
+MX,Q5351109,yes,Culiacán,,3,,,,place filled in
+AR,Q1731205,yes,,,1,,,,leading national daily – above the per-city cap
+AR,Q5915760,yes,,,1,online,,,leading news site – above the per-city cap
+AR,Q251490,yes,,,2,,,,national business daily – above the per-city cap
+AR,Q778813,yes,,,2,,,,national business daily – above the per-city cap
+AR,Q5191494,yes,,,3,,,,above the per-city cap
+AR,Q101152914,yes,,,3,online,,,above the per-city cap
+AR,Q16916360,yes,Mendoza,,3,online,,,place filled in
+AR,Q5350755,yes,San Fernando del Valle de Catamarca,,3,,,,place filled in
+AR,Q104876742,yes,Río Gallegos,,3,,,,place filled in
+AR,Q4820079,yes,San Miguel de Tucumán,,3,,,,place filled in
+CL,Q1324321,yes,Santiago,,1,,,,place filled in
+CL,Q6492760,yes,Santiago,,2,,,,place filled in
+CL,Q5822569,yes,Santiago,,3,online,,,place filled in
+CL,Q5805251,yes,Concepción,,3,,,,place filled in
+CL,Q81744655,yes,Santiago,,3,online,,,place filled in
+CL,Q16592806,no,,,,,,,"Peruvian paper (Puno), listed under Chile"
+CL,Q18712763,no,,,,,,,architecture site
+CL,Q3208005,yes,Santiago,,,,,,Wikidata place is a street
+CL,Q5352213,yes,Concepción,,,,,,Wikidata place is a street
+CO,Q3128936,yes,Bogotá,,2,magazine,,,place filled in
+CO,Q403038,yes,Medellín,,2,,,,place filled in
+CO,Q10918911,yes,Medellín,,3,,,,place filled in
+CO,Q3050132,yes,,,3,,,,above the per-city cap
+CO,Q140990336,yes,Bogotá,,3,online,,,place filled in
+CO,Q7063018,no,,,,,,,broadcaster
+PE,Q4846176,yes,Lima,,2,,,,place filled in
+PE,Q104743815,yes,Lima,,2,,,,place filled in
+PE,Q5805253,yes,,,3,,,,above the per-city cap
+PE,Q66371861,yes,Lima,,3,,,,place filled in
+PE,Q101237399,yes,Lima,,3,,,,place filled in
+PE,Q6460243,yes,Trujillo,,3,,,,place filled in
+PE,Q21573251,yes,Chiclayo,,3,,,,place filled in
+PE,Q104870007,yes,,,3,online,,,investigative outlet
+PE,Q105967298,yes,Lima,,3,online,,,place filled in
+PE,Q97300559,yes,Piura,,3,,,,place filled in
+PE,Q112945402,yes,Arequipa,,3,,,,place filled in
+PE,Q16592806,yes,Puno,,3,,,,place filled in
+VE,Q17063841,yes,Caracas,,2,online,,,place filled in
+VE,Q20647196,yes,Caracas,,3,online,,,place filled in
+VE,Q5271849,yes,,,3,,,,above the per-city cap
+CU,Q1130158,yes,La Habana,,,,state,https://www.constituteproject.org/constitution/Cuba_2019,Wikidata place is the country; state-owned per constitution
+CU,Q820908,yes,,,,,state,https://www.constituteproject.org/constitution/Cuba_2019,state-owned per constitution
+CU,Q3997077,yes,,,,,state,https://www.constituteproject.org/constitution/Cuba_2019,state-owned per constitution
+CU,Q4696289,yes,,,,,state,https://www.constituteproject.org/constitution/Cuba_2019,state-owned per constitution
+CU,Q18343421,yes,,,3,,,,independent online daily
+EC,Q909209,yes,Quito,,2,,,,place filled in
+EC,Q63986901,yes,Quito,,3,online,,,place filled in
+GT,Q3402308,yes,Guatemala,,1,,,,place filled in
+GT,Q84960846,yes,Guatemala,,3,online,,,place filled in
+GY,Q7595795,yes,Georgetown,,2,,,,place filled in
+GY,Q5622728,yes,Georgetown,,3,,state,https://en.wikipedia.org/wiki/Guyana_Chronicle,place filled in; state-owned
+DO,Q16576317,yes,Santo Domingo,,3,,,,place filled in
+DO,Q138244907,yes,Santo Domingo,,3,,,,place filled in
+CR,Q116985926,yes,San José,,3,online,,,place filled in
+CR,Q63170851,yes,San José,,3,online,,,place filled in
+PA,Q6826983,yes,Panamá,,3,,,,place filled in
+PA,Q61679620,yes,Panamá,,3,,,,place filled in
+PA,Q5352175,yes,Panamá,,3,,,,place filled in
+UY,Q5005254,yes,Montevideo,,2,weekly,,,place filled in
+UY,Q111737068,yes,,,3,online,,,above the per-city cap
+UY,Q1156383,no,,,,,,,community paper (Jewish)
+SV,Q5271850,yes,,,3,,,,above the per-city cap
+SR,Q4821610,yes,Paramaribo,,3,,,,place filled in
+AG,Q115407515,yes,St. John's,,3,,,,place filled in
+BO,Q1324064,yes,La Paz,,,,,,Wikidata place is the country
+BS,Q133857740,yes,Nassau,,,,,,Wikidata place is the country
+CR,Q116985926,no,,,,,,,moved to latam_manual.csv (needs a coordinate hint)
+CR,Q63170851,no,,,,,,,moved to latam_manual.csv (needs a coordinate hint)
+VE,Q62566462,drop,,,,,,,"place is a state, not a city"
+AR,Q924518,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5962678,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5191494,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5822302,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5821730,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5805268,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5805304,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5805276,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5805300,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5805306,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5821748,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5964317,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q6124660,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q125889180,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q16916360,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q122226142,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q98563931,no,,,,,,,regional outlet without a reachable feed – replaced
+BO,Q6464783,no,,,,,,,regional outlet without a reachable feed – replaced
+BO,Q75330375,no,,,,,,,regional outlet without a reachable feed – replaced
+BR,Q5190345,no,,,,,,,regional outlet without a reachable feed – replaced
+BR,Q10384591,no,,,,,,,regional outlet without a reachable feed – replaced
+BR,Q10339855,no,,,,,,,regional outlet without a reachable feed – replaced
+BR,Q73319678,no,,,,,,,regional outlet without a reachable feed – replaced
+BR,Q65161582,no,,,,,,,regional outlet without a reachable feed – replaced
+BR,Q10308383,no,,,,,,,regional outlet without a reachable feed – replaced
+BR,Q10384608,no,,,,,,,regional outlet without a reachable feed – replaced
+BS,Q41714731,no,,,,,,,regional outlet without a reachable feed – replaced
+CL,Q5352213,no,,,,,,,regional outlet without a reachable feed – replaced
+CL,Q5351973,no,,,,,,,regional outlet without a reachable feed – replaced
+CL,Q5351252,no,,,,,,,regional outlet without a reachable feed – replaced
+CL,Q6464594,no,,,,,,,regional outlet without a reachable feed – replaced
+CL,Q5577262,no,,,,,,,regional outlet without a reachable feed – replaced
+CL,Q5805251,no,,,,,,,regional outlet without a reachable feed – replaced
+CO,Q10918911,no,,,,,,,regional outlet without a reachable feed – replaced
+CO,Q113624407,no,,,,,,,regional outlet without a reachable feed – replaced
+CO,Q140990336,no,,,,,,,regional outlet without a reachable feed – replaced
+CU,Q3997077,no,,,,,,,regional outlet without a reachable feed – replaced
+CU,Q4696289,no,,,,,,,regional outlet without a reachable feed – replaced
+EC,Q5351582,no,,,,,,,regional outlet without a reachable feed – replaced
+EC,Q5823488,no,,,,,,,regional outlet without a reachable feed – replaced
+GT,Q7512204,no,,,,,,,regional outlet without a reachable feed – replaced
+GY,Q5622728,no,,,,,,,regional outlet without a reachable feed – replaced
+HN,Q5352248,no,,,,,,,regional outlet without a reachable feed – replaced
+HN,Q5965374,no,,,,,,,regional outlet without a reachable feed – replaced
+LC,Q124422149,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q5271871,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q7753916,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q24263797,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q7739408,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q5351109,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q6137740,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q6465909,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q8079383,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q29427132,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q111310474,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q5822471,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116215,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116212,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116219,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116226,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116296,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116311,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116331,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116590,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116612,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87116701,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87119317,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87119403,no,,,,,,,regional outlet without a reachable feed – replaced
+MX,Q87122376,no,,,,,,,regional outlet without a reachable feed – replaced
+PA,Q5352175,no,,,,,,,regional outlet without a reachable feed – replaced
+PE,Q6460243,no,,,,,,,regional outlet without a reachable feed – replaced
+PE,Q66371861,no,,,,,,,regional outlet without a reachable feed – replaced
+PE,Q21573251,no,,,,,,,regional outlet without a reachable feed – replaced
+PE,Q16592806,no,,,,,,,regional outlet without a reachable feed – replaced
+PE,Q101237399,no,,,,,,,regional outlet without a reachable feed – replaced
+SV,Q3211907,no,,,,,,,regional outlet without a reachable feed – replaced
+SV,Q16492368,no,,,,,,,regional outlet without a reachable feed – replaced
+SV,Q5822044,no,,,,,,,regional outlet without a reachable feed – replaced
+SV,Q5271850,no,,,,,,,regional outlet without a reachable feed – replaced
+TT,Q7842386,no,,,,,,,regional outlet without a reachable feed – replaced
+UY,Q5352232,no,,,,,,,regional outlet without a reachable feed – replaced
+UY,Q111737068,no,,,,,,,regional outlet without a reachable feed – replaced
+VE,Q5271858,no,,,,,,,regional outlet without a reachable feed – replaced
+VE,Q16979942,no,,,,,,,regional outlet without a reachable feed – replaced
+VE,Q6046687,no,,,,,,,regional outlet without a reachable feed – replaced
+VE,Q59334604,no,,,,,,,regional outlet without a reachable feed – replaced
+VE,Q59335640,no,,,,,,,regional outlet without a reachable feed – replaced
+VE,Q63184744,no,,,,,,,regional outlet without a reachable feed – replaced
+VE,Q63625687,no,,,,,,,regional outlet without a reachable feed – replaced
+BO,Q140677704,no,,,,,,,regional outlet without a reachable feed – replaced
+AR,Q5823514,drop,,,,,,,only a crime-section feed – not representative
+HT,Q3128933,drop,,,,,,,"feed lists issue numbers only, no headlines"

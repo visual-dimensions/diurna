@@ -1,0 +1,48 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+MX,El Universal,Ciudad de México,,http://www.eluniversal.com.mx/,es,daily,1,,,19.3538,-99.1359
+MX,La Jornada,Ciudad de México,,https://www.jornada.com.mx/,es,daily,2,,,19.3538,-99.1359
+MX,Excélsior,Cuauhtémoc,,http://www.excelsior.com.mx/,es,daily,2,,,19.4431,-99.1447
+MX,Reforma,Ciudad de México,,http://www.reforma.com/,es,daily,1,,,,
+MX,Milenio Diario,Monterrey,,https://www.milenio.com/,es,daily,2,,,25.6844,-100.3181
+MX,El Siglo de Torreón,Torreón,,http://www.elsiglodetorreon.com.mx/,es,daily,2,,,25.5439,-103.4190
+MX,El Informador,Guadalajara,,http://www.informador.mx,es,daily,3,,,20.6764,-103.3422
+MX,Diario de Yucatán,Mérida,,https://yucatan.com.mx/,es,daily,3,,,20.9700,-89.6200
+MX,El Norte,Monterrey,,http://www.elnorte.com/,es,daily,3,,,25.6844,-100.3181
+MX,El Occidental,Guadalajara,,http://www.eloccidental.com.mx/,es,daily,3,,,20.6764,-103.3422
+MX,La Razón,Monterrey,,http://www.razon.com.mx/,es,daily,3,,,25.6844,-100.3181
+MX,El Sol de Puebla,Heroica Puebla de Zaragoza,,http://www.elsoldepuebla.com.mx,es,daily,3,,,19.0514,-98.2178
+MX,La Extra,Morelia,,http://www.laextra.mx,es,daily,3,,,19.7028,-101.1922
+MX,El Porvenir de Monterrey,Monterrey,,http://www.elporvenir.mx/,es,daily,3,,,25.6844,-100.3181
+MX,El Siglo de Durango,Victoria de Durango,,https://www.elsiglodedurango.com.mx,es,daily,3,,,24.0228,-104.6544
+MX,El Heraldo de Juárez,Ciudad Juárez,,http://www.elheraldodejuarez.com.mx/,es,daily,3,,,31.6685,-106.4200
+MX,El Sol de Hidalgo,Pachuca de Soto,,http://www.oem.com.mx/elsoldehidalgo/,es,daily,3,,,20.1225,-98.7361
+MX,El Sol de Tampico,Tampico,,http://www.elsoldetampico.com.mx,es,daily,3,,,22.2372,-97.8700
+MX,El Sol de Toluca,Toluca de Lerdo,,http://www.elsoldetoluca.com.mx/,es,daily,3,,,19.2922,-99.6539
+MX,Juárez Hoy,Ciudad Juárez,,http://juarezhoy.com.mx/,es,daily,3,,,31.6685,-106.4200
+MX,El Imparcial,Hermosillo,,http://www.elimparcial.com/,es,daily,3,,,29.0750,-110.9583
+MX,El Heraldo de Chihuahua,Chihuahua,,http://www.elheraldodechihuahua.com.mx/,es,daily,3,,,28.6369,-106.0769
+MX,Diario de Morelos,Municipio de Cuernavaca,,https://www.diariodemorelos.com/noticias/,es,daily,3,,,18.9250,-99.2500
+MX,El Diario de Juárez,Ciudad Juárez,,https://diario.mx/,es,daily,3,,,,
+MX,El Diario de Chihuahua,Chihuahua,,https://www.eldiariodechihuahua.mx/,es,daily,3,,,28.6369,-106.0769
+MX,El Heraldo de Saltillo,Saltillo,,http://www.elheraldodesaltillo.mx/,es,daily,3,,,25.4231,-100.9919
+MX,El Sol del Bajio,Municipio de Celaya,,https://www.elsoldelbajio.com.mx/,es,daily,3,,,20.5200,-100.7500
+MX,El Sol de Tijuana,Tijuana,,http://www.elsoldetijuana.com.mx/,es,daily,3,,,32.5364,-117.0372
+MX,El Sol de Tlaxcala,Municipio de Tlaxcala,,https://www.elsoldetlaxcala.com.mx/,es,daily,3,,,19.3169,-98.2382
+MX,El Sol De Zacatecas,Municipio de Zacatecas,,http://www.elsoldezacatecas.com.mx/,es,daily,3,,,22.7389,-102.7022
+MX,El Sol de Acapulco,Acapulco de Juárez,,https://www.elsoldeacapulco.com.mx/,es,daily,3,,,16.8629,-99.8870
+MX,La Voz del Sureste,Tuxtla Gutiérrez,,http://www.diariolavozdelsureste.com/,es,daily,3,,,16.7531,-93.1156
+MX,La Jornada de Oriente,Heroica Puebla de Zaragoza,,http://www.jornada.unam.mx/,es,daily,3,,,19.0514,-98.2178
+MX,La Voz de la Frontera,Mexicali,,http://www.lavozdelafrontera.com.mx/,es,daily,3,,,32.6360,-115.4759
+MX,Noticias de Chiapas,Tapachula de Córdova y Ordóñez,,http://noticiasdechiapas.com.mx/,es,daily,3,,,14.9111,-92.2643
+MX,Periódico Correo,Municipio de Guanajuato,,http://periodicocorreo.com.mx/,es,daily,3,,,21.0333,-101.2417
+MX,Diario de Xalapa,Xalapa-Enríquez,,http://www.diariodexalapa.com.mx/,es,daily,3,,,19.5312,-96.9159
+MX,Diario de Querétaro,Municipio de Querétaro,,http://www.diariodequeretaro.com.mx/,es,daily,3,,,20.7200,-100.4500
+MX,Tribuna de Campeche,San Francisco de Campeche,,http://www.tribunacampeche.com/,es,daily,3,,,19.8448,-90.5396
+MX,Tribuna de Los Cabos,San José del Cabo,,http://www.tribunadeloscabos.com.mx/,es,daily,3,,,23.0617,-109.7114
+MX,Vanguardia- Saltillo,Saltillo,,http://www.vanguardia.com.mx/,es,daily,3,,,25.4231,-100.9919
+MX,El Sol de Sinaloa,Municipio de Culiacán,,http://www.elsoldesinaloa.com.mx/,es,daily,3,,,24.6667,-107.4311
+MX,Cuarto Poder,Tuxtla Gutiérrez,,http://www.cuarto-poder.com.mx/,es,daily,3,,,16.7531,-93.1156
+MX,El Vigía,Ensenada,,http://www.elvigia.net/,es,daily,3,,,31.8578,-116.6058
+MX,SDPNoticias,México,,https://www.sdpnoticias.com/,es,daily,3,,,23.0000,-102.0000
+MX,El Universal Hidalgo,Pachuca de Soto,,https://www.eluniversalhidalgo.com.mx/,es,daily,3,,,20.1225,-98.7361
+MX,Aristegui Noticias,Ciudad de México,,http://www.aristeguinoticias.com,es,online,3,,,,

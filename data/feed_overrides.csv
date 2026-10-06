@@ -29,3 +29,13 @@ vecer,https://vecer.com/sitemaps/articles.xml,latest,"no RSS; Google News sitema
 thewashingtonpost,https://feeds.washingtonpost.com/rss/national,latest,"national news feed; homepage times out for our user agent"
 axios,https://api.axios.com/feed/,latest,
 thebuffalonews,https://buffalonews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,latest,"BLOX CMS search feed"
+eldiariobolivia,https://www.eldiario.net/portal/feed/,latest,
+elcolombiano,https://www.elcolombiano.com/rss/colombia.xml,latest,"national section feed; no general feed found"
+laprensa-hn,https://www.laprensa.hn/rss/portada,top,"front-page feed"
+elheraldo,https://www.elheraldo.hn/rss/portada,top,"front-page feed"
+lajornada,https://www.jornada.com.mx/rss/edicion.xml?v=1,latest,"daily edition feed"
+lajornadadeoriente,https://www.lajornadadeoriente.com.mx/feed/,latest,"own feed (overview page pointed to La Jornada's)"
+eltiempo-co,https://www.eltiempo.com/rss/colombia.xml,latest,"national section; general feeds 404 or abandoned"
+diariopuntal,https://www.puntal.com.ar/rss/pages/home.xml,top,"home page feed"
+gazetadopovo,https://www.gazetadopovo.com.br/feed/rss/ultimas-noticias.xml,latest,
+amandala,https://amandala.com.bz/news/feed/,latest,"skip_pattern drops issue entries"

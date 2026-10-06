@@ -1,0 +1,9 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,DO,Listín Diario,Santo Domingo,,http://www.listindiario.com,es,daily,3,,,Q3834936,4,newspaper,18.4625,-69.9361,language from country default
+yes,DO,Hoy,Santo Domingo,,https://hoy.com.do/,es,daily,3,,,Q16576317,2,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,DO,Acento.com.do,Santo Domingo,,http://acento.com.do,es,online,3,,,Q5656428,1,online newspaper,18.4625,-69.9361,not pre-selected: magazine/online below tier 1
+no,DO,Montecristi News,,,https://www.montecristinews.com,es,daily,3,,,Q106603520,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,DO,Ranking Latinos,,,https://www.rankinglatinos.es,es,daily,3,,,Q136465440,0,award; newspaper; brand,,,no place of publication/headquarters in Wikidata – fill in city
+yes,DO,El Día,Santo Domingo,,https://eldia.com.do/,es,daily,3,,,Q138244907,0,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,DO,Atardecer.com.do,,,https://atardecer.com.do,es,online,3,,,Q133523151,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,DO,Noticia.do,Santiago de los Caballeros,,https://noticia.do/,es,daily,3,,,Q139254993,0,digital newspaper,19.4500,-70.7000,

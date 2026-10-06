@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,TT,Trinidad and Tobago Guardian,Port of Spain,,https://www.guardian.co.tt/,en,daily,2,,,Q7842420,6,newspaper,10.6667,-61.5167,language from country default
+no,TT,Trinidad Express Newspapers,Port of Spain,,https://www.trinidadexpress.com,en,daily,3,,,Q7842386,5,newspaper,10.6667,-61.5167,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,TT,Catholic News,,,https://catholictt.org/catholicnewstt/,en,daily,3,,,Q126490028,0,Catholic newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: alternative/religious paper

@@ -368,6 +368,15 @@ Ziel: von ~150 Medien in Europa zu einigen Tausend weltweit – ohne die Prinzip
 - Auch Nachrücker brauchen einen Blick: Diaspora-, Kirchen-, Uni- und Alternativblätter, und Hearst-Lokalblätter, deren Feed Agentur-Sportmeldungen statt Lokalnachrichten liefert.
 - Samoa/Tonga: keine Wikidata-Einträge – nur per Handrecherche.
 - Startansicht folgt der Zeitzone des Browsers (America/… → Nordamerika, Australia/… → Australien), ohne Standortabfrage.
+**Welle 2 (Lateinamerika & Karibik) – übernommen 2026-10-06:** 219 Medien aus 29 Ländern (MX 48, BR 40, AR 30, CL 13, VE 12, …), davon 199 mit Feed (33 Aufmacher); die 20 ohne Feed sind Tier 1/2 (u. a. El Mercurio, El País UY, Proceso, Zero Hora). Erkenntnisse:
+- Wikidata ist hier dünn: oft kein Erscheinungsort, Kandidatenlisten nach einer Austauschrunde erschöpft (94 Regionalblätter ohne Feed → nur 8 Nachrücker). Belize, Barbados, Grenada, Dominica ohne Kandidaten.
+- Import-Fix: Medien, die in Wikidata als Zeitung **und** News-Website erfasst sind, gelten als `daily` (vorher `online` → nicht vorausgewählt; traf Excélsior, Milenio, El Universal VE, La Prensa NI).
+- Hauptstadt-Presse ist stark konzentriert: Leitmedien über der Höchstzahl pro Stadt per `yes` in `decisions.csv` (Página/12, Infobae, Ámbito …).
+- Medien, die Wikidata nicht als Nachrichtenmedium kennt (El Nacional, Le Nouvelliste, Jamaica Observer, Zero Hora …), stehen in der Handliste `data/seed/latam_manual.csv`; `hint_lat`/`hint_lon` dort für mehrdeutige Städte (San José).
+- Kuba: alle Medien außer 14ymedio `state` (Verfassung 2019, Art. 55). Guyana Chronicle `state`. Confidencial (Nicaragua) `exile` in San José, Costa Rica.
+- `skip_pattern` erstmals genutzt (Amandala: Ausgabe-Einträge überspringen).
+- Rechtslage: Brasilien diskutiert Vergütung journalistischer Inhalte (PL 2.370) nur für große Plattformen (> 2 Mio. Nutzer); Titel + Link unberührt.
+
 Jede Welle mit derselben Abnahme wie Phase 1/2 (Report geprüft, eine Woche Laufbetrieb) plus Schrift- und Übersetzungstest:
 1. Nordamerika & Ozeanien (Englisch, viele Feeds)
 2. Lateinamerika (Spanisch/Portugiesisch)

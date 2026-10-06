@@ -80,6 +80,9 @@ const ambientButton = app.querySelector<HTMLButtonElement>('.ambient-toggle')!;
  */
 function homeCenter(): [number, number] {
   const tz = Intl.DateTimeFormat().resolvedOptions().timeZone ?? '';
+  // South America first: its zones share the America/ prefix with North America.
+  if (/^(Brazil|Chile)\/|^America\/(Argentina|Sao_Paulo|Santiago|Punta_Arenas|Lima|Bogota|Caracas|La_Paz|Asuncion|Montevideo|Guayaquil|Guyana|Paramaribo|Cayenne|Manaus|Recife|Fortaleza|Belem|Bahia|Maceio|Araguaina|Santarem|Cuiaba|Campo_Grande|Porto_Velho|Boa_Vista|Rio_Branco|Eirunepe|Noronha)/.test(tz)) return [-62, -18];
+  if (/^America\/(Mexico_City|Cancun|Merida|Monterrey|Matamoros|Bahia_Banderas|Chihuahua|Mazatlan|Hermosillo|Guatemala|Belize|El_Salvador|Tegucigalpa|Managua|Costa_Rica|Panama|Havana|Santo_Domingo|Port-au-Prince|Jamaica|Puerto_Rico|Port_of_Spain|Barbados|Nassau|St_|Grenada|Antigua|Dominica)/.test(tz)) return [-82, 17];
   if (/^(America|US|Canada)\//.test(tz)) return [-95, 42];
   if (/^Australia\//.test(tz)) return [137, -28];
   if (/^Pacific\/(Auckland|Chatham)/.test(tz)) return [172, -41];

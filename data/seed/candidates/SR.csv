@@ -1,0 +1,7 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,SR,De Ware Tijd,Paramaribo,,http://dwtonline.com,nl,daily,3,,,Q4413480,4,periodical; newspaper,5.8667,-55.1667,
+yes,SR,De West,Paramaribo,,http://dagbladdewest.com/,nl,daily,3,,,Q4821610,3,periodical; daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,SR,Waterkant,Rotterdam,NL,https://www.waterkant.net,nl,online,3,exile,,Q55478148,1,online newspaper,51.9200,4.4800,"newsroom abroad (NL) – exile?; not pre-selected: newsroom abroad, magazine/online below tier 1"
+no,SR,DAGonline,,,https://www.dagonline.nl/,nl,online,3,,,Q55478221,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,SR,GFC Nieuws,,,https://gfcnieuws.com/,nl,online,3,,,Q56165591,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,SR,Chung Fa Dagblad,,,http://www.chungfadaily.com,zh,daily,3,,,Q13467477,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city

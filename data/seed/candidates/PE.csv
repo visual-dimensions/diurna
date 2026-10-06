@@ -1,0 +1,34 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,PE,El Comercio,Lima,,http://elcomercio.pe,es,daily,1,,,Q1324020,15,daily newspaper; online newspaper,-12.0600,-77.0375,"types: daily, online"
+no,PE,Diario Oficial El Peruano,Lima,,http://www.elperuano.com.pe,es,daily,2,,,Q1949576,9,newspaper,-12.0600,-77.0375,
+no,PE,La República,Lima,,https://larepublica.pe/,es,daily,2,,,Q1330217,8,periodical; newspaper; fact-checking organisation; website,-12.0600,-77.0375,
+yes,PE,Perú.21,Lima,,https://peru21.pe/,es,daily,2,,,Q4846176,5,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,PE,Agencia ANDINA,Lima,,https://andina.pe/agencia/,es,online,3,,,Q4033029,5,news agency; online newspaper,-12.0600,-77.0375,not pre-selected: magazine/online below tier 1
+yes,PE,Diario Correo,Lima,,http://diariocorreo.pe/,es,daily,3,,,Q5805253,3,periodical; newspaper,-12.0600,-77.0375,reviewed: above the per-city cap
+no,PE,La Industria (Trujillo),Trujillo,,http://laindustria.pe/,es,daily,3,,,Q6460243,3,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+yes,PE,IDL-Reporteros,Lima,,https://www.idl-reporteros.pe/,es,online,3,,,Q104870007,3,online newspaper,-12.0600,-77.0375,reviewed: investigative outlet; not pre-selected: magazine/online below tier 1
+yes,PE,Wayka,Lima,,https://wayka.pe/,es,online,3,,,Q105967298,3,online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PE,Diario Expreso,Lima,,https://www.expreso.com.pe/,es,daily,3,,,Q66371861,3,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,PE,Diario Ojo,,,https://ojo.pe/,es,daily,3,,,Q64691541,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,PE,La Industria,Chiclayo,,http://laindustriadechiclayo.pe/,es,daily,3,,,Q21573251,1,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,PE,La Nación,,,https://www.lanacionperu.com/,es,daily,3,,,Q6460445,1,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,PE,El Tiempo,Piura,,https://eltiempo.pe/,es,daily,3,,,Q97300559,1,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,PE,La Lupa,Ica,,https://lalupa.pe,es,online,3,,,Q141369991,1,online newspaper,-14.0667,-75.7333,not pre-selected: magazine/online below tier 1
+yes,PE,El Pueblo,Arequipa,,https://diarioelpueblo.com.pe/,es,daily,3,,,Q112945402,1,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,PE,Lamula.pe,,,https://lamula.pe/,es,online,3,,,Q110928301,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PE,Perfil,,,https://www.diarioperfil.pe,es,online,3,,,Q56641787,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PE,Los Andes,Puno,,http://www.losandes.com.pe/,es,daily,3,,,Q16592806,1,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+yes,PE,Gestión,Lima,,https://gestion.pe/,es,daily,2,,,Q104743815,1,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,PE,Hildebrant en sus trece,,,https://www.hildebrandtensustrece.com/,es,daily,3,,,Q111476174,1,newspaper; magazine,,,no place of publication/headquarters in Wikidata – fill in city
+no,PE,Diario UNO,,,https://diariouno.pe/,es,daily,3,,,Q108300904,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,PE,La Razón,,,https://larazon.pe/,es,daily,3,,,Q121872870,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,PE,Depor,,,https://depor.com/,es,daily,3,,,Q123523525,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,PE,Diario Trome,Lima,,http://trome.pe,es,daily,3,,,Q101237399,1,tabloid newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,PE,Diario Ahora,Huánuco,,https://ahora.com.pe,es,daily,3,,,Q138578409,0,newspaper,-9.9294,-76.2397,
+no,PE,Crónica viva,,,https://www.cronicaviva.com.pe/,es,online,3,,,Q111476283,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PE,Sudaca,,,https://sudaca.pe/,es,online,3,,,Q113333803,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,PE,Diario El Sol del Cusco,Cusco,,https://diarioelsolcusco.pe/,es,daily,3,,,Q111476167,0,newspaper,-13.5169,-71.9786,
+no,PE,El Bocón,,,https://elbocon.pe/,es,online,3,,,Q111476157,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PE,El Heraldo,,,https://www2.congreso.gob.pe/Sicr/Prensa/heraldo.nsf/,es,online,3,,,Q111476161,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PE,voz.pe,,,https://voz.pe,es,online,3,,,Q140421788,0,social networking service; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PE,Cafetoons,,,https://cafetoons.net,es,online,3,,,Q83389389,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

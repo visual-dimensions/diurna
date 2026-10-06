@@ -1,0 +1,5 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,CR,La Nación,San José,,http://www.nacion.com,es,daily,2,,,Q1460840,8,daily newspaper,9.9327,-84.0796,
+no,CR,CRHoy.com,San José,,http://www.crhoy.com,es,online,3,,,Q116985926,1,online newspaper,,,reviewed: moved to latam_manual.csv (needs a coordinate hint); no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CR,Delfino.cr,San José,,https://www.delfino.cr,es,online,3,,,Q63170851,1,online newspaper,,,reviewed: moved to latam_manual.csv (needs a coordinate hint); no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CR,The Costa Rica News,San José,,https://thecostaricanews.com/,en,online,3,,,Q126494508,0,online newspaper,9.9327,-84.0796,not pre-selected: magazine/online below tier 1

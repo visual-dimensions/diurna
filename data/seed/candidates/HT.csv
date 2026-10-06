@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,HT,Le Matin,Pétion-Ville,,http://www.lematinhaiti.com,fr,daily,2,,,Q3118980,7,daily newspaper; newspaper,18.5098,-72.2856,
+no,HT,Balistrad,Port-au-Prince,,https://balistrad.com/,fr,online,2,,,Q105620930,6,media company; online newspaper; mass media; organization,18.5469,-72.3403,not pre-selected: magazine/online below tier 1
+no,HT,Haïti Progrès,Port-au-Prince,,http://www.haitiprogres.com/,fr,daily,3,,,Q3128933,5,newspaper,18.5469,-72.3403,"reviewed: feed lists issue numbers only, no headlines"
+no,HT,Hebdo24,,,https://hebdo24.com,fr,daily,3,,,Q107081001,3,communications media; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,HT,Juno7,Port-au-Prince,,https://juno7.ht/actualite-haiti-2/,fr,online,3,,,Q137708354,1,mass media; news website,18.5469,-72.3403,not pre-selected: magazine/online below tier 1

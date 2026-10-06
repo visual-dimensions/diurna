@@ -1,0 +1,7 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,EC,El Comercio,Quito,,http://elcomercio.com/,es,daily,2,,,Q909209,9,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,EC,El Universo,Guayaquil,,http://eluniverso.com/,es,daily,2,,,Q926303,8,daily newspaper; newspaper,-2.1900,-79.8875,
+no,EC,El Mercurio,Cuenca,,http://www.elmercurio.com.ec/,es,daily,3,,,Q5351582,4,daily newspaper,-2.8974,-79.0045,reviewed: regional outlet without a reachable feed – replaced
+no,EC,El Telégrafo,Guayaquil,,http://www.eltelegrafo.com.ec/,es,daily,3,,,Q5823488,3,daily newspaper,-2.1900,-79.8875,reviewed: regional outlet without a reachable feed – replaced
+no,EC,La Posta,Quito,,https://www.laposta.ec/,es,online,3,,,Q57768245,1,online newspaper; website,-0.2200,-78.5125,language from country default; not pre-selected: magazine/online below tier 1
+yes,EC,Primicias,Quito,,https://www.primicias.ec,es,online,3,,,Q63986901,1,online newspaper; news media; communications media; website,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

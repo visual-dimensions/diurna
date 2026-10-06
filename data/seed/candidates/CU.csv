@@ -1,0 +1,7 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,CU,Granma,La Habana,,http://www.granma.cu/,es,daily,1,state,https://www.constituteproject.org/constitution/Cuba_2019,Q1130158,30,daily newspaper; newspaper,22.0000,-79.5000,reviewed: Wikidata place is the country; state-owned per constitution; state-owned per constitution; state-owned per constitution
+yes,CU,Juventud Rebelde,La Habana,,http://www.juventudrebelde.cu/,es,daily,2,state,https://www.constituteproject.org/constitution/Cuba_2019,Q820908,7,daily newspaper,23.1367,-82.3589,reviewed: state-owned per constitution
+no,CU,Trabajadores,La Habana,,http://www.trabajadores.cu,es,daily,3,state,https://www.constituteproject.org/constitution/Cuba_2019,Q3997077,4,newspaper,23.1367,-82.3589,reviewed: regional outlet without a reachable feed – replaced
+yes,CU,14ymedio,La Habana,,http://www.14ymedio.com,es,daily,3,,,Q18343421,3,newspaper; online newspaper,23.1367,-82.3589,"reviewed: independent online daily; types: daily, online"
+no,CU,¡Ahora!,Holguín,,http://www.ahora.cu/,es,weekly,3,state,https://www.constituteproject.org/constitution/Cuba_2019,Q4696289,2,periodical; weekly newspaper,20.8872,-76.2631,reviewed: regional outlet without a reachable feed – replaced
+no,CU,El Vigía de Cuba,,,https://elvigiadecuba.com/,es,daily,3,,,Q138307283,0,newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"

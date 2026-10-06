@@ -1,0 +1,7 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,SV,La Prensa Gráfica,San Salvador,,https://www.laprensagrafica.com/,es,daily,3,,,Q3211907,5,daily newspaper,13.6976,-89.1912,reviewed: regional outlet without a reachable feed – replaced
+no,SV,El Mundo,San Salvador,,http://elmundo.sv,es,daily,3,,,Q16492368,4,newspaper,13.6976,-89.1912,reviewed: regional outlet without a reachable feed – replaced
+no,SV,El Gráfico,Antiguo Cuscatlán,,http://www.elgrafico.com/,es,daily,3,,,Q5822044,3,newspaper,13.6733,-89.2416,reviewed: regional outlet without a reachable feed – replaced
+yes,SV,El Diario de Hoy,San Salvador,,http://www.elsalvador.com,es,daily,3,,,Q3049831,3,daily newspaper,13.6976,-89.1912,
+no,SV,Diario Co Latino,San Salvador,,http://nuevaweb.diariocolatino.com/,es,daily,3,,,Q5271850,3,daily newspaper,13.6976,-89.1912,reviewed: regional outlet without a reachable feed – replaced
+no,SV,Diario Oficial,,,https://www.diariooficial.gob.sv,es,daily,3,,,Q64226268,0,government gazette; newspaper,,,no place of publication/headquarters in Wikidata – fill in city

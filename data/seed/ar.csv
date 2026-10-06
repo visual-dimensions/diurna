@@ -1,0 +1,30 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+AR,Página/12,Buenos Aires,,http://www.pagina12.com.ar/,es,daily,1,,,-34.5997,-58.3819
+AR,Infobae,Buenos Aires,,https://www.infobae.com,es,online,1,,,-34.5997,-58.3819
+AR,Diario Democracia,Junín,,http://www.diariodemocracia.com/index.asp,es,daily,2,,,-34.5833,-60.9500
+AR,La Capital,Rosario,,http://www.lacapital.com.ar/,es,daily,2,,,-32.9575,-60.6394
+AR,El Día,La Plata,,https://www.eldia.com/,es,daily,3,,,-34.9333,-57.9500
+AR,Ámbito Financiero,Buenos Aires,,http://www.ambito.com/,es,daily,2,,,-34.5997,-58.3819
+AR,Diario Los Andes,Mendoza,,http://www.losandes.com.ar/,es,daily,3,,,-32.8897,-68.8444
+AR,El Cronista,Buenos Aires,,https://www.cronista.com/,es,daily,2,,,-34.5997,-58.3819
+AR,El Litoral,Santa Fe,,http://www.ellitoral.com/,es,daily,3,,,-31.6333,-60.7000
+AR,Diario Río Negro,General Roca,,https://www.rionegro.com.ar/,es,daily,3,,,-39.0333,-67.5833
+AR,La Gaceta,San Miguel de Tucumán,,http://www.lagaceta.com.ar/,es,daily,3,,,-26.8167,-65.2167
+AR,El Siglo - Tucumán,San Miguel de Tucumán,,http://www.elsigloweb.com/,es,daily,3,,,,
+AR,El Tribuno,Salta,,http://www.eltribuno.info,es,daily,3,,,-24.7883,-65.4106
+AR,Norte (diario),Resistencia,,http://www.diarionorte.com,es,daily,3,,,-27.4514,-58.9867
+AR,El Ancasti,San Fernando del Valle de Catamarca,,http://www.elancasti.com.ar/,es,daily,3,,,,
+AR,El Debate,Zárate,,https://www.eldebate.com.ar/,es,daily,3,,,-34.0833,-59.0333
+AR,El Sureño,Río Grande,,https://www.surenio.com.ar/,es,daily,3,,,-53.7833,-67.7000
+AR,Diario Patagónico,Comodoro Rivadavia,,http://www.elpatagonico.net,es,daily,3,,,-45.8667,-67.5000
+AR,Misiones Online,Posadas,,http://www.misionesonline.net/,es,daily,3,,,-27.3667,-55.8969
+AR,Diario Diagonales,La Plata,,http://www.diagonales.com/,es,daily,3,,,-34.9333,-57.9500
+AR,Diario de Cuyo,San Juan,,http://www.diariodecuyo.com.ar,es,daily,3,,,-31.5375,-68.5364
+AR,Diario Puntal,Río Cuarto,,http://www.puntal.com.ar,es,daily,3,,,-33.1230,-64.3478
+AR,La Mañana de Córdoba,Córdoba,,http://www.lmcordoba.com.ar,es,daily,3,,,-31.4167,-64.1833
+AR,Diario Primera Edición,Posadas,,http://www.primeraedicion.com.ar,es,daily,3,,,-27.3667,-55.8969
+AR,El Tribuno de Jujuy,San Salvador de Jujuy,,https://eltribunodejujuy.com/,es,daily,3,,,-24.1856,-65.2994
+AR,elDiarioAR,Buenos Aires,,https://www.eldiarioar.com/,es,online,3,,,-34.5997,-58.3819
+AR,El Ciudadano (Rosario),Rosario,,https://www.elciudadanoweb.com/,es,daily,3,,,-32.9575,-60.6394
+AR,La Opinión Austral,Río Gallegos,,https://laopinionaustral.com.ar/,es,daily,3,,,,
+AR,El1,San Justo,,https://www.el1digital.com.ar/,es,weekly,3,,,-34.6833,-58.5500

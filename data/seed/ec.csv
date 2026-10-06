@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+EC,El Comercio,Quito,,http://elcomercio.com/,es,daily,2,,,,
+EC,El Universo,Guayaquil,,http://eluniverso.com/,es,daily,2,,,-2.1900,-79.8875
+EC,Primicias,Quito,,https://www.primicias.ec,es,online,3,,,,

@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+GT,Prensa libre,Guatemala,,http://www.prensalibre.com/,es,daily,1,,,,
+GT,La Hora,Ciudad de Guatemala,,http://www.lahora.com.gt/,es,daily,3,,,14.6417,-90.5133
+GT,Soy502,Guatemala,,https://www.soy502.com/,es,online,3,,,,

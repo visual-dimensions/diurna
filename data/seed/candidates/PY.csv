@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,PY,ABC Color,Asunción,,http://www.abc.com.py/,es,daily,2,,,Q2065725,11,newspaper,-25.2800,-57.6344,
+yes,PY,Última Hora,Asunción,,http://www.ultimahora.com/,es,daily,2,,,Q6175024,7,newspaper,-25.2800,-57.6344,
+no,PY,Diario Extra,,,https://www.extra.com.py/,es,daily,3,,,Q114249592,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default

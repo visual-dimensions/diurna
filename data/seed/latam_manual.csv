@@ -1,0 +1,29 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+VE,El Nacional,Caracas,,https://www.elnacional.com,es,online,1,,,,
+VE,El Pitazo,Caracas,,https://elpitazo.net,es,online,3,,,,
+MX,Proceso,Ciudad de México,,https://www.proceso.com.mx,es,magazine,2,,,,
+AR,Perfil,Buenos Aires,,https://www.perfil.com,es,daily,2,,,,
+BR,GZH (Zero Hora),Porto Alegre,,https://gauchazh.clicrbs.com.br,pt,daily,2,,,,
+BR,O Povo,Fortaleza,,https://www.opovo.com.br,pt,daily,3,,,,
+BR,Jornal do Commercio,Recife,,https://jc.uol.com.br,pt,daily,3,,,,
+NI,Confidencial,San José,CR,https://confidencial.digital,es,online,2,exile,,9.9333,-84.0833
+JM,Jamaica Observer,Kingston,,https://www.jamaicaobserver.com,en,daily,2,,,,
+GY,Kaieteur News,Georgetown,,https://www.kaieteurnewsonline.com,en,daily,3,,,,
+BB,Nation News,Bridgetown,,https://www.nationnews.com,en,daily,2,,,,
+BB,Barbados Today,Bridgetown,,https://barbadostoday.bb,en,online,3,,,,
+BZ,Amandala,Belize City,,https://amandala.com.bz,en,weekly,3,,,,
+HT,Le Nouvelliste,Port-au-Prince,,https://lenouvelliste.com,fr,daily,1,,,,
+HN,El Heraldo,Tegucigalpa,,https://www.elheraldo.hn,es,daily,2,,,,
+CR,Diario Extra,San José,,https://www.diarioextra.com,es,daily,3,,,9.9333,-84.0833
+DO,Diario Libre,Santo Domingo,,https://www.diariolibre.com,es,daily,2,,,,
+BO,El Deber,Santa Cruz de la Sierra,,https://eldeber.com.bo,es,daily,2,,,,
+BO,Los Tiempos,Cochabamba,,https://www.lostiempos.com,es,daily,2,,,,
+PY,La Nación,Asunción,,https://www.lanacion.com.py,es,daily,3,,,,
+UY,la diaria,Montevideo,,https://ladiaria.com.uy,es,daily,2,,,,
+TT,Newsday,Port of Spain,,https://newsday.co.tt,en,daily,2,,,,
+SR,Starnieuws,Paramaribo,,https://www.starnieuws.com,nl,online,3,,,,
+PA,La Estrella de Panamá,Panamá,,https://www.laestrella.com.pa,es,daily,2,,,,
+PA,Panamá América,Panamá,,https://www.panamaamerica.com.pa,es,daily,3,,,,
+EC,Expreso,Guayaquil,,https://www.expreso.ec,es,daily,3,,,,
+CR,CRHoy.com,San José,,http://www.crhoy.com,es,online,3,,,9.9333,-84.0833
+CR,Delfino.cr,San José,,https://www.delfino.cr,es,online,3,,,9.9333,-84.0833

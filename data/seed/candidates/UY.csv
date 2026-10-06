@@ -1,0 +1,9 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,UY,El País,Montevideo,,http://www.elpais.com.uy/,es,daily,1,,,Q933854,15,daily newspaper,-34.9059,-56.1913,
+yes,UY,El Observador,Montevideo,,https://www.elobservador.com.uy/,es,daily,2,,,Q892935,11,daily newspaper,-34.9059,-56.1913,
+yes,UY,Búsqueda,Montevideo,,http://www.busqueda.com.uy/,es,weekly,2,,,Q5005254,6,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,UY,El Telégrafo,Paysandú,,http://www.eltelegrafo.com,es,daily,3,,,Q5352232,5,newspaper,-32.3218,-58.0892,reviewed: regional outlet without a reachable feed – replaced
+no,UY,Semanario Hebreo,Montevideo,,http://www.semanariohebreojai.com,es,daily,3,,,Q1156383,3,newspaper,-34.9059,-56.1913,reviewed: community paper (Jewish); language from country default
+no,UY,Montevideo Portal,Montevideo,,https://www.montevideo.com.uy/,es,online,3,,,Q111737068,1,online newspaper,-34.9059,-56.1913,reviewed: regional outlet without a reachable feed – replaced; not pre-selected: magazine/online below tier 1
+no,UY,Udigital - Portal,,,https://970universal.com/,es,daily,3,,,Q66360804,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,UY,La Onda Digital,,,https://www.laondadigital.com.uy/,es,online,3,,,Q126165392,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

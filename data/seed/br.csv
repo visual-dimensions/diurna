@@ -1,0 +1,38 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+BR,O Globo,Rio de Janeiro,,http://www.oglobo.com.br/,pt,daily,1,,,-22.9111,-43.2056
+BR,Folha de S. Paulo,São Paulo,,http://www.folha.com.br/,pt,daily,1,,,-23.5504,-46.6339
+BR,O Estado de S. Paulo,São Paulo,,http://www.estadao.com.br,pt,daily,1,,,-23.5504,-46.6339
+BR,Veja,São Paulo,,http://veja.abril.com.br,pt,magazine,1,,,,
+BR,Gazeta do Povo,Curitiba,,https://www.gazetadopovo.com.br,pt,daily,2,,,-25.4297,-49.2719
+BR,Correio Braziliense,Brasília,,http://www.correiobraziliense.com.br/,pt,daily,2,,,,
+BR,Jornal do Brasil,Rio de Janeiro,,http://www.jb.com.br,pt,daily,2,,,-22.9111,-43.2056
+BR,Diario de Pernambuco,Recife,,http://www.diariodepernambuco.com.br,pt,daily,2,,,,
+BR,Estado de Minas,Belo Horizonte,,http://www.em.com.br/,pt,daily,2,,,,
+BR,Valor Econômico,São Paulo,,http://www.valor.com.br,pt,daily,2,,,,
+BR,A Tarde,Salvador,,http://www.atarde.com.br,pt,daily,2,,,,
+BR,Extra,Rio de Janeiro,,http://extra.globo.com/,pt,daily,3,,,,
+BR,O Liberal,Belém,,https://www.oliberal.com,pt,daily,3,,,-1.4558,-48.5039
+BR,Gazeta Mercantil,São Paulo,,https://gazetamercantil.com,pt,daily,3,,,-23.5504,-46.6339
+BR,Correio do Povo,Porto Alegre,,http://www.correiodopovo.com.br,pt,daily,2,,,,
+BR,O Dia,Rio de Janeiro,,http://odia.ig.com.br/,pt,daily,3,,,,
+BR,A Notícia,Joinville,,http://www.an.com.br,pt,daily,3,,,,
+BR,Correio,Salvador,,https://www.correio24horas.com.br/,pt,daily,3,,,-12.9831,-38.4928
+BR,Metrópoles,Brasília,,https://www.metropoles.com/,pt,online,3,,,,
+BR,Diário do Pará,Belém,,http://www.diariodopara.com.br/,pt,daily,3,,,-1.4558,-48.5039
+BR,A Gazeta,Vitória,,https://www.agazeta.com.br/,pt,daily,3,,,-20.3106,-40.2972
+BR,Jornal do Comércio,Porto Alegre,,http://jcrs.uol.com.br/,pt,daily,3,,,-30.0328,-51.2300
+BR,Correio Lageano,Lages,,https://clmais.com.br/,pt,daily,3,,,-27.8158,-50.3258
+BR,Folha da Região,Araçatuba,,https://sampi.net.br/aracatuba,pt,daily,3,,,-21.2089,-50.4328
+BR,Folha de Pernambuco,Recife,,http://www.folhape.com.br/,pt,daily,3,,,,
+BR,Tribuna do Norte,Natal,,http://www.tribunadonorte.com.br,pt,daily,3,,,-5.7950,-35.2089
+BR,A Província do Pará,Belém,,http://www.aprovinciadopara.com.br/,pt,daily,3,,,-1.4558,-48.5039
+BR,The Rio Times,Rio de Janeiro,,https://www.riotimesonline.com/,en,daily,3,,,-22.9111,-43.2056
+BR,O Imparcial,São Luís,,https://oimparcial.com.br/,pt,daily,3,,,-2.5300,-44.3028
+BR,Poder360,Brasília,,https://www.poder360.com.br,pt,online,3,,,,
+BR,Jornal Opção,Goiânia,,https://www.jornalopcao.com.br/,pt,daily,3,,,-16.6806,-49.2564
+BR,Ururau Notícias,Campos dos Goytacazes,,https://www.ururau.com.br,pt,daily,3,,,-21.7539,-41.3239
+BR,Folha de Goiás,Goiânia,,https://folhadegoias.info/,pt,daily,3,,,-16.6806,-49.2564
+BR,Opinião Goiás,Goiânia,,https://opiniaogoias.com.br,pt,daily,3,,,-16.6806,-49.2564
+BR,Folha do Estado de Goiás,Goiânia,,https://folhadoestadodegoias.com.br,pt,daily,3,,,-16.6806,-49.2564
+BR,Jornal JA7,Goiânia,,https://ja7.com.br/,pt,daily,3,,,-16.6806,-49.2564
+BR,O Liberal Regional,Araçatuba,,https://lr1.com.br/,pt,daily,3,,,-21.2089,-50.4328

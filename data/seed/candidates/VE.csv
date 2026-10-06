@@ -1,0 +1,44 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,VE,El Universal,Caracas,,http://www.eluniversal.com/,es,daily,2,,,Q1324688,11,newspaper; online newspaper,10.5061,-66.9144,"types: daily, online"
+no,VE,Tal Cual,Caracas,,http://www.talcualdigital.com,es,weekly,3,,,Q3514406,5,newspaper; weekly newspaper,10.5061,-66.9144,"types: daily, weekly"
+no,VE,Nuevo Mundo Israelita,,,http://www.nmidigital.com,es,daily,3,,,Q5243515,5,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,VE,La Patilla,Caracas,,https://www.lapatilla.com/,es,online,2,,,Q17063841,4,website; news website,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,VE,Efecto Cocuyo,Caracas,,https://efectococuyo.com,es,online,3,,,Q20647196,4,website; news website; fact-checking organisation,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,VE,Últimas Noticias,Caracas,,http://www.ultimasnoticias.com.ve,es,daily,3,,,Q368292,3,newspaper,10.5061,-66.9144,language from country default
+no,VE,Diario Panorama,Maracaibo,,https://www.panorama.com.ve,es,daily,3,,,Q5271858,3,newspaper,10.6333,-71.6333,reviewed: regional outlet without a reachable feed – replaced
+no,VE,Meridiano (diario),Caracas,,http://www.meridiano.net,es,daily,3,,,Q5271857,3,newspaper,10.5061,-66.9144,
+yes,VE,El Informador (Venezuela),Barquisimeto,,https://www.elinformadorve.com,es,daily,3,,,Q5351439,3,newspaper; periodical,10.0678,-69.3467,
+no,VE,El Mundo,Caracas,,http://www.elmundo.com.ve/,es,daily,3,,,Q5351658,3,newspaper; online newspaper,10.5061,-66.9144,"language from country default; types: daily, online"
+no,VE,Tribuna Popular,,,https://issuu.com/tribuna_popular,es,daily,3,,,Q11704725,3,newspaper; publication by electronic means,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,VE,Diario 2001,Caracas,,https://www.2001online.com,es,daily,3,,,Q5271849,2,newspaper,10.5061,-66.9144,reviewed: above the per-city cap
+no,VE,El Nuevo País,Caracas,,http://elnuevopais.net,es,daily,3,,,Q5351705,2,newspaper; publication by electronic means,10.5061,-66.9144,
+yes,VE,El Tiempo (Anzoátegui),Puerto La Cruz,,http://www.eltiempo.com.ve,es,daily,3,,,Q5352246,2,newspaper,10.2167,-64.6167,
+yes,VE,El Impulso (Venezuela),Barquisimeto,,http://www.elimpulso.com,es,daily,3,,,Q5822174,2,newspaper; publication by electronic means,10.0678,-69.3467,
+yes,VE,La Verdad (Zulia),Maracaibo,,http://www.laverdad.com,es,daily,3,,,Q6465698,2,newspaper; publication by electronic means,10.6333,-71.6333,
+no,VE,Diario de los Andes,Mérida,,http://www.diariodelosandes.com/,es,daily,3,,,Q16979942,2,newspaper; daily newspaper,8.5167,-71.2667,reviewed: regional outlet without a reachable feed – replaced
+no,VE,Diario El Clarín,,,http://www.elclarinweb.com,es,daily,3,,,Q63490164,2,newspaper; daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,VE,Diario VEA,Caracas,,http://diariovea.com.ve/,es,daily,3,,,Q5271864,2,periodical; daily newspaper,10.5061,-66.9144,
+no,VE,Ciudad Caracas (Ciudad CCS),Caracas,,http://www.ciudadccs.info,es,daily,3,,,Q5124137,2,newspaper; periodical; daily newspaper,10.5061,-66.9144,
+yes,VE,Correo del Caroní,Ciudad Guayana,,http://www.correodelcaroni.com/,es,daily,3,,,Q5789313,1,newspaper; publication by electronic means,8.3224,-62.6897,
+no,VE,El Luchador,,,https://elluchador.info/web/,es,daily,3,,,Q5803569,1,newspaper; publication by electronic means,,,no place of publication/headquarters in Wikidata – fill in city
+no,VE,La Nación,,,https://lanacionweb.com/,es,daily,3,,,Q5964485,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,VE,Nueva Prensa de Guayana,Ciudad Guayana,,http://www.soynuevaprensadigital.com,es,daily,3,,,Q6046687,1,daily newspaper; digital newspaper,8.3224,-62.6897,reviewed: regional outlet without a reachable feed – replaced
+no,VE,Contrapunto,Caracas,,http://www.contrapunto.com,es,online,3,,,Q21000745,1,online newspaper,10.5061,-66.9144,language from country default; not pre-selected: magazine/online below tier 1
+no,VE,Diario La Antena,,,http://www.diariolaantena.com.ve/,es,daily,3,,,Q5961986,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,VE,Líder (diario),Caracas,,http://www.liderendeportes.com/,es,daily,3,,,Q5985332,1,daily newspaper; online newspaper,10.5061,-66.9144,"language from country default; types: daily, online"
+no,VE,Las Noticias de Cojedes,Cojedes,,http://www.lasnoticiasdecojedes.com/,es,daily,3,,,Q59334604,0,publication by electronic means; newspaper,9.3500,-68.3167,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,VE,Diario Sol de Margarita,,,http://www.elsoldemargarita.com.ve,es,weekly,3,,,Q59334852,0,newspaper; weekly newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, weekly"
+no,VE,La Jornada (Venezuela),,,https://lajornadadeguarico.com,es,daily,3,,,Q59335451,0,publication by electronic means; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,VE,Diario El Oriental,,,http://www.elorientaldemonagas.com/,es,daily,3,,,Q59335548,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,VE,Notidiario,Ciudad Guayana,,https://www.notidiariove.wordpress.com/,es,daily,3,,,Q59335640,0,publication by electronic means; newspaper,8.3224,-62.6897,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,VE,Diario de Frente,Estado Barinas,,http://www.defrentebarinas.info,es,daily,3,,,Q63184744,0,newspaper; daily newspaper,8.1333,-69.4167,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,VE,Versión Final,,,http://versionfinal.com.ve,es,daily,3,,,Q59333856,0,publication by electronic means; daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,VE,El regional del Zulia,Zulia,,http://www.elregionaldelzulia.com,es,daily,3,,,Q62566462,0,daily newspaper,9.8333,-72.2500,"reviewed: place is a state, not a city"
+no,VE,Maduradas,,,https://maduradas.com/,es,online,3,,,Q112576888,0,website; online newspaper; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,VE,Diario El Guayanés,,,https://prensaguayanes.wordpress.com/,es,daily,3,,,Q59334633,0,publication by electronic means; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,VE,Diario El Expreso,,,https://www.diarioelexpreso.com.ve/,es,daily,3,,,Q59334856,0,publication by electronic means; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,VE,El Diario de Guayana,,,https://www.eldiariodeguayana.com.ve/,es,daily,3,,,Q59335650,0,newspaper; publication by electronic means,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,VE,Diario Avance,Los Teques,,http://diarioavance.com/,es,daily,3,,,Q62276634,0,newspaper,10.3411,-67.0406,language from country default
+no,VE,Diario La Calle,,,http://lacalle.com.ve/,es,daily,3,,,Q63492730,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,VE,El Falconiano,Coro,,http://elfalconiano.com/,es,daily,3,,,Q63625687,0,newspaper,11.3950,-69.6816,reviewed: regional outlet without a reachable feed – replaced
+yes,VE,El Periódico de Monagas,Monagas,,https://elperiodicodemonagas.com.ve/,es,daily,3,,,Q63645128,0,newspaper,9.4167,-63.0667,

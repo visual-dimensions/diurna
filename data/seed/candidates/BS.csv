@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,BS,The Nassau Guardian,Nassau,,https://thenassauguardian.com,en,daily,3,,,Q41714731,3,newspaper,25.0781,-77.3386,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,BS,The Tribune,Nassau,,https://www.tribune242.com,en,daily,3,,,Q133857740,1,newspaper,25.0000,-77.4000,reviewed: Wikidata place is the country; language from country default

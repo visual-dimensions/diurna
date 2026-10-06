@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,HN,La Prensa,San Pedro Sula,,http://www.laprensa.hn,es,daily,2,,,Q3211908,7,daily newspaper,15.5053,-88.0251,
+no,HN,El Tiempo (Honduras),San Pedro Sula,,http://www.tiempo.hn,es,daily,3,,,Q5352248,3,newspaper,15.5053,-88.0251,reviewed: regional outlet without a reachable feed – replaced
+no,HN,La Tribuna (Honduras),Tegucigalpa,,http://www.latribuna.hn,es,daily,3,,,Q5965374,3,periodical; newspaper,14.1058,-87.2047,reviewed: regional outlet without a reachable feed – replaced
+no,HN,El Periódico,,,http://elperiodico.hn/,es,daily,3,,,Q5351826,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,HN,La Gaceta,,,http://www.lagaceta.hn/,es,daily,3,,,Q5963488,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,PA,La Prensa,Ciudad de Panamá,,http://Prensa.com,es,daily,3,,,Q1799040,5,newspaper,8.9711,-79.5347,
+yes,PA,Mi Diario,Panamá,,https://www.midiario.com/,es,daily,3,,,Q6826983,3,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,PA,El siglo (Panamá),Panamá,,http://www.elsiglo.com/,es,daily,3,,,Q5352175,2,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,PA,My Press,Ciudad de México,MX,https://www.mypress.mx,es,daily,3,exile,,Q30084315,2,newspaper,19.3538,-99.1359,newsroom abroad (MX) – exile?; not pre-selected: newsroom abroad
+yes,PA,Crítica Libre,Panamá,,https://www.critica.com.pa,es,daily,3,,,Q61679620,1,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city

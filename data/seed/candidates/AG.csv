@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,AG,Antigua Observer,St. John's,,https://antiguaobserver.com/,en,online,3,,,Q115407515,1,online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,AG,CoinGeek,,,https://coingeek.com/,en,online,3,,,Q138824255,0,online newspaper; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+CU,Granma,La Habana,,http://www.granma.cu/,es,daily,1,state,https://www.constituteproject.org/constitution/Cuba_2019,22.0000,-79.5000
+CU,Juventud Rebelde,La Habana,,http://www.juventudrebelde.cu/,es,daily,2,state,https://www.constituteproject.org/constitution/Cuba_2019,23.1367,-82.3589
+CU,14ymedio,La Habana,,http://www.14ymedio.com,es,daily,3,,,23.1367,-82.3589

@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,GT,Prensa libre,Guatemala,,http://www.prensalibre.com/,es,daily,1,,,Q3402308,8,daily newspaper; business activity,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,GT,Siglo 21,Guatemala,,http://www.s21.com.gt/,es,daily,3,,,Q7512204,3,newspaper; periodical,15.5000,-90.2500,reviewed: regional outlet without a reachable feed – replaced
+yes,GT,La Hora,Ciudad de Guatemala,,http://www.lahora.com.gt/,es,daily,3,,,Q1384387,2,periodical; daily newspaper,14.6417,-90.5133,
+no,GT,El Siglo,,,https://elsiglo.com.gt/,es,online,3,,,Q126910685,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,GT,Soy502,Guatemala,,https://www.soy502.com/,es,online,3,,,Q84960846,0,website; business; online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

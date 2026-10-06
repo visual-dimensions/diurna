@@ -1,0 +1,38 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,CL,El Mercurio,Santiago,,http://www.emol.com/,es,daily,1,,,Q1324321,11,daily newspaper; newspaper of record,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,CL,El Mercurio de Valparaíso,Valparaíso,,http://www.mercuriovalpo.cl/,es,daily,2,,,Q3050097,10,newspaper,-33.0461,-71.6197,
+yes,CL,La Tercera,Las Condes,,http://www.latercera.com/,es,daily,2,,,Q2601390,10,daily newspaper,-33.4167,-70.5833,
+no,CL,ArchDaily,,,http://www.archdaily.com,es,online,2,,,Q18712763,7,website; blog; news website,,,reviewed: architecture site; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,CL,La Segunda,Santiago de Chile,,http://www.lasegunda.com/,es,daily,2,,,Q1751826,6,newspaper,-33.4375,-70.6500,
+yes,CL,La Cuarta,Santiago,,http://www.lacuarta.cl/,es,daily,3,,,Q3208005,5,newspaper,-33.4937,-70.6171,reviewed: Wikidata place is a street
+no,CL,El Sur,Concepción,,http://www.elsur.cl,es,daily,3,,,Q5352213,4,newspaper,-36.8253,-73.0474,reviewed: regional outlet without a reachable feed – replaced
+yes,CL,Las Últimas Noticias,Santiago,,https://www.lun.com/,es,daily,2,,,Q6492760,4,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,CL,The Clinic,Santiago de Chile,,https://www.theclinic.cl/,es,daily,3,,,Q10695465,4,newspaper,-33.4375,-70.6500,
+no,CL,El Rancagüino,Rancagua,,http://www.elrancaguino.cl/,es,daily,3,,,Q5351973,4,newspaper,-34.1654,-70.7398,reviewed: regional outlet without a reachable feed – replaced
+yes,CL,El Mostrador,Santiago,,http://www.elmostrador.cl,es,online,3,,,Q5822569,3,online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CL,El Expreso de la Costa,Pichilemu,,http://www.expresodelacosta.cl,es,daily,3,,,Q5351252,3,newspaper,-34.3850,-72.0050,reviewed: regional outlet without a reachable feed – replaced
+no,CL,El Siglo (Chile),,,http://www.elsiglo.cl,es,daily,3,,,Q5352174,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CL,El Día,,,http://www.diarioeldia.cl,es,daily,3,,,Q5473937,3,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CL,La Prensa,Curicó,,http://www.diariolaprensa.cl/,es,daily,3,,,Q6464594,3,newspaper,-34.9854,-71.2394,reviewed: regional outlet without a reachable feed – replaced
+yes,CL,La Discusión,Chillán,,http://www.ladiscusion.cl/index.php,es,daily,3,,,Q5404722,2,newspaper,-36.6067,-72.1033,
+no,CL,The Santiago Times,Santiago de Chile,,http://www.santiagotimes.cl/,es,daily,3,,,Q5577262,2,newspaper,-33.4375,-70.6500,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,CL,Diario Financiero,Las Condes,,http://www.df.cl/,es,daily,3,,,Q5805291,2,periodical; newspaper,-33.4167,-70.5833,
+no,CL,Diario VI Región,,,http://www.diarioviregion.cl/,es,daily,3,,,Q17629045,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CL,El Mercurio de Calama,,,http://www.mercuriocalama.cl/,es,daily,3,,,Q5822460,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CL,La Voz de la Región,,,https://lavozdelaregion.cl,es,daily,3,,,Q17118731,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CL,Los Andes,,,http://www.losandes.com.pe/,es,daily,3,,,Q16592806,1,newspaper,,,"reviewed: Peruvian paper (Puno), listed under Chile; no place of publication/headquarters in Wikidata – fill in city"
+yes,CL,El Desconcierto,Santiago,,https://www.eldesconcierto.cl,es,online,3,,,Q81744655,1,communications media; online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CL,La Voz de Maipú,Maipú,,https://www.lavozdemaipu.cl/,es,online,3,,,Q92076508,1,online newspaper,-33.5167,-70.7667,not pre-selected: magazine/online below tier 1
+no,CL,Diario Concepción,Concepción,,http://www.diariodeconcepcion.cl/,es,daily,3,,,Q5805251,1,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,CL,La Región,,,https://www.diariolaregion.cl/,es,daily,3,,,Q5965055,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CL,La Palabra Israelita,,,https://www.lapalabraisraelita.cl/,es,daily,3,,,Q126585000,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,CL,Las Noticias de Malleco,Victoria,,https://lasnoticiasdemalleco.cl/,es,daily,3,,,Q137807361,1,newspaper,-38.2167,-72.3333,language from country default
+no,CL,El Marino,Pichilemu,,http://www.diarioelmarino.cl,es,online,3,,,Q18445392,1,online newspaper,-34.3850,-72.0050,not pre-selected: magazine/online below tier 1
+no,CL,Redgol,Santiago de Chile,,https://redgol.cl/,es,online,3,,,Q137287142,1,sports news website; sports magazine,-33.4375,-70.6500,language from country default; not pre-selected: magazine/online below tier 1
+yes,CL,El Epicentro,Viña del Mar,,https://www.epicentrochile.com/,es,daily,3,,,Q140824150,0,newspaper,-33.0245,-71.5518,language from country default
+no,CL,El Baker,,,https://www.elbaker.cl,es,online,3,,,Q62071405,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CL,Interferencia,,,https://interferencia.cl,es,online,3,,,Q133043703,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CL,Meteored Chile,,,https://www.meteored.cl/,es,online,3,,,Q137439607,0,online newspaper; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CL,pichilemunews,Pichilemu,,http://www.pichilemunews.cl,es,online,3,,,Q7190655,0,online newspaper,-34.3850,-72.0050,not pre-selected: magazine/online below tier 1
+no,CL,weasnews.cl,,,https://weasnews.cl/,es,online,3,,,Q137783201,0,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CL,Página 7,,,https://www.pagina7.cl/,es,online,3,,,Q141085978,0,communications media; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

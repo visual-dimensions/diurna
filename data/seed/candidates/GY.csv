@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,GY,Stabroek News,Georgetown,,http://www.stabroeknews.com/,en,daily,2,,,Q7595795,7,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,GY,Guyana Chronicle,Georgetown,,http://www.guyanachronicleonline.com/,en,daily,3,state,https://en.wikipedia.org/wiki/Guyana_Chronicle,Q5622728,5,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; state-owned; no place of publication/headquarters in Wikidata – fill in city
+yes,GY,Guyana Times,Georgetown,,https://guyanatimesgy.com/,en,daily,3,,,Q108540636,2,newspaper; online newspaper,6.8058,-58.1508,"types: daily, online"

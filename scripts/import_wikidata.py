@@ -310,7 +310,9 @@ def build(cc: str, closure: dict[str, str], disqualifying: set[str], no_preselec
         if city_cc != cc:
             remarks.append(f"newsroom abroad ({city_cc}) – exile?")
         tier = next(t for threshold, t in TIER_BY_SITELINKS if it["sitelinks"] >= threshold)
-        types = it["types"] - {"daily"} or {"daily"}
+        # A newspaper that is also recorded as a news website is a newspaper with a website.
+        types = it["types"] - {"online"} if it["types"] & {"daily", "weekly"} else it["types"]
+        types = types - {"daily"} or {"daily"}
         hold = []  # reasons not to pre-select (the row stays in the list)
         if city_cc != cc:
             hold.append("newsroom abroad")

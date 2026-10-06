@@ -1,0 +1,10 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+PE,Perú.21,Lima,,https://peru21.pe/,es,daily,2,,,,
+PE,Diario Correo,Lima,,http://diariocorreo.pe/,es,daily,3,,,-12.0600,-77.0375
+PE,IDL-Reporteros,Lima,,https://www.idl-reporteros.pe/,es,online,3,,,-12.0600,-77.0375
+PE,Wayka,Lima,,https://wayka.pe/,es,online,3,,,,
+PE,El Tiempo,Piura,,https://eltiempo.pe/,es,daily,3,,,,
+PE,El Pueblo,Arequipa,,https://diarioelpueblo.com.pe/,es,daily,3,,,,
+PE,Gestión,Lima,,https://gestion.pe/,es,daily,2,,,,
+PE,Diario Ahora,Huánuco,,https://ahora.com.pe,es,daily,3,,,-9.9294,-76.2397
+PE,Diario El Sol del Cusco,Cusco,,https://diarioelsolcusco.pe/,es,daily,3,,,-13.5169,-71.9786
