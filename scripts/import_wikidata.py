@@ -377,8 +377,10 @@ def select(cc: str, rows: list[dict], limit: int) -> None:
 
     # Pre-select the best-known outlets up to the quota (seeded and manual yes count towards it),
     # with at most per_city_cap() per city for regional spread.
-    taken = sum(r["include"] in ("seeded", "yes") or r.pop("dropped", False) for r in rows)
-    per_city = Counter(r["city"] for r in rows if r["include"] in ("seeded", "yes"))
+    # A dropped outlet keeps its slot – in the country quota and in its city.
+    held = [r for r in rows if r["include"] in ("seeded", "yes") or r.pop("dropped", False)]
+    taken = len(held)
+    per_city = Counter(r["city"] for r in held)
     cap = per_city_cap(limit)
     for r in rows:
         if r["include"] == "" and taken < limit and r["city"] and "not pre-selected" not in r["remark"] and per_city[r["city"]] < cap:
