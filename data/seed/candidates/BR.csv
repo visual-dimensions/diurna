@@ -4,7 +4,7 @@ yes,BR,Folha de S. Paulo,São Paulo,,http://www.folha.com.br/,pt,daily,1,,,Q1435
 yes,BR,O Estado de S. Paulo,São Paulo,,http://www.estadao.com.br,pt,daily,1,,,Q1628345,15,daily newspaper; newspaper of record; newspaper publisher; fact-checking organisation,-23.5504,-46.6339,
 no,BR,Billboard Brasil,São Paulo,,https://billboard.com.br/,pt,daily,2,,,Q1343828,11,newspaper,-23.5504,-46.6339,reviewed: music magazine
 no,BR,Terra,São Paulo,,https://www.terra.com.br/,pt,online,2,,,Q1135120,11,business; website; news website; online newspaper,-23.5504,-46.6339,language from country default; not pre-selected: magazine/online below tier 1
-yes,BR,Veja,São Paulo,,http://veja.abril.com.br,pt,magazine,1,,,Q1886657,11,magazine; news website,,,reviewed: place filled in; leading news magazine; leading news magazine; leading news magazine; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,BR,Veja,São Paulo,,http://veja.abril.com.br,pt,magazine,1,,,Q1886657,11,magazine; news website,,,reviewed: place filled in; leading news magazine; leading news magazine; leading news magazine; leading news magazine; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 yes,BR,Gazeta do Povo,Curitiba,,https://www.gazetadopovo.com.br,pt,daily,2,,,Q10288580,10,newspaper,-25.4297,-49.2719,language from country default
 no,BR,g1,Rio de Janeiro,,https://g1.globo.com,pt,online,2,,,Q5512664,10,website; news website; online newspaper,-22.9111,-43.2056,language from country default; not pre-selected: magazine/online below tier 1
 yes,BR,Correio Braziliense,Brasília,,http://www.correiobraziliense.com.br/,pt,daily,2,,,Q3283333,9,daily newspaper; website,,,reviewed: place filled in (Wikidata has none); no place of publication/headquarters in Wikidata – fill in city
@@ -31,7 +31,7 @@ no,BR,Jornal dos Sports,Rio de Janeiro,,http://jsports.uol.com.br/,pt,daily,3,,,
 no,BR,Diário de S. Paulo,,,http://www.diariosp.com.br/,pt,daily,3,,,Q10267618,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,BR,Tribuna da Bahia,Salvador,,https://www.trbn.com.br/,pt,daily,3,,,Q10384591,3,newspaper,-12.9831,-38.4928,reviewed: regional outlet without a reachable feed – replaced
 no,BR,A Nova Democracia,,,https://anovademocracia.com.br,pt,daily,3,,,Q85868301,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-yes,BR,A Notícia,Joinville,,http://www.an.com.br,pt,daily,3,,,Q2819844,3,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,BR,A Notícia,Joinville,,http://www.an.com.br,pt,daily,3,,,Q2819844,3,daily newspaper,,,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions); no place of publication/headquarters in Wikidata – fill in city; language from country default
 no,BR,Destak,,,http://www.destak.pt/,pt,daily,3,,,Q4819656,3,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 yes,BR,Correio,Salvador,,https://www.correio24horas.com.br/,pt,daily,3,,,Q10260811,3,daily newspaper; online newspaper,-12.9831,-38.4928,"types: daily, online"
 no,BR,Globo.com,,,http://www.globo.com,pt,online,3,,,Q5571068,3,website; web portal; organization; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
@@ -99,7 +99,7 @@ no,BR,Jornal da USP,São Paulo,,https://jornal.usp.br,pt,daily,3,,,Q112670404,0,
 no,BR,Jornal da Universidade,,,https://www.ufrgs.br/jornal/memoria-ju/,pt,daily,3,,,Q118133034,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
 no,BR,Jornal da Metrópole,,,https://www.metro1.com.br/jornais,pt,daily,3,,,Q118351695,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,BR,InfoMoney,,,https://www.infomoney.com.br,pt,daily,3,,,Q121141771,0,newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
-yes,BR,Jornal Opção,Goiânia,,https://www.jornalopcao.com.br/,pt,daily,3,,,Q131722519,0,newspaper,-16.6806,-49.2564,language from country default
+no,BR,Jornal Opção,Goiânia,,https://www.jornalopcao.com.br/,pt,daily,3,,,Q131722519,0,newspaper,-16.6806,-49.2564,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions); language from country default
 no,BR,Central da Toca,,,https://centraldatoca.com.br/,pt,daily,3,,,Q132642858,0,newspaper; daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
 no,BR,VincoNews,,,https://www.vinconews.com.br,pt,daily,3,,,Q141624367,0,website; newspaper; 1003 Lilofee,,,no place of publication/headquarters in Wikidata – fill in city
 yes,BR,Ururau Notícias,Campos dos Goytacazes,,https://www.ururau.com.br,pt,daily,3,,,Q140411541,0,newspaper,-21.7539,-41.3239,language from country default
@@ -107,9 +107,9 @@ yes,BR,Folha de Goiás,Goiânia,,https://folhadegoias.info/,pt,daily,3,,,Q140814
 yes,BR,Opinião Goiás,Goiânia,,https://opiniaogoias.com.br,pt,daily,3,,,Q140814577,0,online newspaper; news website; newspaper; daily newspaper,-16.6806,-49.2564,"language from country default; types: daily, online"
 no,BR,Núcleo,,,https://nucleo.jor.br/,pt,daily,3,,,Q140814788,0,online newspaper; news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
 yes,BR,Folha do Estado de Goiás,Goiânia,,https://folhadoestadodegoias.com.br,pt,daily,3,,,Q140814904,0,newspaper; online newspaper; news website; daily newspaper,-16.6806,-49.2564,"language from country default; types: daily, online"
-yes,BR,Jornal JA7,Goiânia,,https://ja7.com.br/,pt,daily,3,,,Q140815059,0,newspaper; online newspaper; news website; daily newspaper,-16.6806,-49.2564,"language from country default; types: daily, online"
-no,BR,Jornal VER7,Goiânia,,https://ver7.com.br/,pt,daily,3,,,Q140816356,0,newspaper; online newspaper; news website; daily newspaper,-16.6806,-49.2564,"language from country default; types: daily, online"
-no,BR,Agronegócio Notícias,Goiânia,,https://agronegocionoticias.com.br,pt,daily,3,,,Q140836488,0,newspaper; online newspaper; daily newspaper,-16.6806,-49.2564,"language from country default; types: daily, online"
+no,BR,Jornal JA7,Goiânia,,https://ja7.com.br/,pt,daily,3,,,Q140815059,0,newspaper; online newspaper; news website; daily newspaper,-16.6806,-49.2564,"reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions); language from country default; types: daily, online"
+yes,BR,Jornal VER7,Goiânia,,https://ver7.com.br/,pt,daily,3,,,Q140816356,0,newspaper; online newspaper; news website; daily newspaper,-16.6806,-49.2564,"language from country default; types: daily, online"
+yes,BR,Agronegócio Notícias,Goiânia,,https://agronegocionoticias.com.br,pt,daily,3,,,Q140836488,0,newspaper; online newspaper; daily newspaper,-16.6806,-49.2564,"language from country default; types: daily, online"
 no,BR,Doctor Brasil,Goiânia,,https://doctorbrasil.com.br/,pt,daily,3,,,Q140836627,0,newspaper; online newspaper; daily newspaper; news website,-16.6806,-49.2564,"language from country default; types: daily, online"
 no,BR,Portal Dicas de Saúde,Goiânia,,https://portaldicasdesaude.com.br/,pt,daily,3,,,Q140836702,0,newspaper; online newspaper; daily newspaper; news website,-16.6806,-49.2564,"language from country default; types: daily, online"
 no,BR,Diário Carioca,Rio de Janeiro,,https://diariocarioca.com/,pt,daily,3,,,Q137601682,0,newspaper; online newspaper,-22.0333,-42.7000,"language from country default; types: daily, online"

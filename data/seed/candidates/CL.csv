@@ -7,7 +7,7 @@ yes,CL,La Segunda,Santiago de Chile,,http://www.lasegunda.com/,es,daily,2,,,Q175
 yes,CL,La Cuarta,Santiago,,http://www.lacuarta.cl/,es,daily,3,,,Q3208005,5,newspaper,-33.4937,-70.6171,reviewed: Wikidata place is a street
 no,CL,El Sur,Concepción,,http://www.elsur.cl,es,daily,3,,,Q5352213,4,newspaper,-36.8253,-73.0474,reviewed: regional outlet without a reachable feed – replaced
 yes,CL,Las Últimas Noticias,Santiago,,https://www.lun.com/,es,daily,2,,,Q6492760,4,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
-yes,CL,The Clinic,Santiago de Chile,,https://www.theclinic.cl/,es,daily,3,,,Q10695465,4,newspaper,-33.4375,-70.6500,
+no,CL,The Clinic,Santiago de Chile,,https://www.theclinic.cl/,es,daily,3,,,Q10695465,4,newspaper,-33.4375,-70.6500,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions)
 no,CL,El Rancagüino,Rancagua,,http://www.elrancaguino.cl/,es,daily,3,,,Q5351973,4,newspaper,-34.1654,-70.7398,reviewed: regional outlet without a reachable feed – replaced
 yes,CL,El Mostrador,Santiago,,http://www.elmostrador.cl,es,online,3,,,Q5822569,3,online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,CL,El Expreso de la Costa,Pichilemu,,http://www.expresodelacosta.cl,es,daily,3,,,Q5351252,3,newspaper,-34.3850,-72.0050,reviewed: regional outlet without a reachable feed – replaced

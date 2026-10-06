@@ -605,3 +605,10 @@ VE,Q63625687,no,,,,,,,regional outlet without a reachable feed – replaced
 BO,Q140677704,no,,,,,,,regional outlet without a reachable feed – replaced
 AR,Q5823514,drop,,,,,,,only a crime-section feed – not representative
 HT,Q3128933,drop,,,,,,,"feed lists issue numbers only, no headlines"
+BR,Q2819844,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+MX,Q61998946,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+MX,Q87119383,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+BR,Q140815059,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+BR,Q131722519,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+DO,Q139254993,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+CL,Q10695465,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)

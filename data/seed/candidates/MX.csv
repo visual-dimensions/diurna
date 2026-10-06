@@ -10,7 +10,7 @@ no,MX,Blog del Narco,,,https://blogdelnarcomexico.top,es,daily,2,,,Q4927359,6,ne
 yes,MX,El Informador,Guadalajara,,http://www.informador.mx,es,daily,3,,,Q5351440,5,daily newspaper; news website; newspaper,20.6764,-103.3422,"types: daily, online"
 no,MX,Nexos,,,http://www.nexos.com.mx/,es,online,3,,,Q6107065,5,periodical; magazine; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 yes,MX,Diario de Yucatán,Mérida,,https://yucatan.com.mx/,es,daily,3,,,Q5271872,4,periodical; newspaper,20.9700,-89.6200,
-no,MX,La Prensa (México),Ciudad de México,,http://www.la-prensa.com.mx,es,daily,3,,,Q5964916,4,newspaper; news website,19.3538,-99.1359,"types: daily, online"
+yes,MX,La Prensa (México),Ciudad de México,,http://www.la-prensa.com.mx,es,daily,3,,,Q5964916,4,newspaper; news website,19.3538,-99.1359,"types: daily, online"
 no,MX,El Economista,Ciudad de México,,http://www.economista.com.mx/,es,daily,3,,,Q1324106,3,newspaper; news website,19.3538,-99.1359,"types: daily, online"
 yes,MX,El Norte,Monterrey,,http://www.elnorte.com/,es,daily,3,,,Q5351698,3,newspaper; news website,25.6844,-100.3181,"types: daily, online"
 no,MX,La Crónica de Hoy,Ciudad de México,,http://www.cronica.com.mx/noticias.php,es,daily,3,,,Q6462111,3,daily newspaper; news website; newspaper,19.3538,-99.1359,"types: daily, online"
@@ -102,7 +102,7 @@ no,MX,Sintesis,,,https://sintesis.com.mx/hidalgo/,es,daily,3,,,Q87119344,0,news 
 no,MX,AM (Mexico),,,http://www.am.com.mx/,es,daily,3,,,Q87119349,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
 yes,MX,Cuarto Poder,Tuxtla Gutiérrez,,http://www.cuarto-poder.com.mx/,es,daily,3,,,Q87119370,0,news website; newspaper,16.7531,-93.1156,"types: daily, online"
 no,MX,Diario del Sur,,,https://www.diariodelsur.com.mx/,es,daily,3,,,Q87119379,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
-yes,MX,El Vigía,Ensenada,,http://www.elvigia.net/,es,daily,3,,,Q87119383,0,news website; newspaper,31.8578,-116.6058,"language from country default; types: daily, online"
+no,MX,El Vigía,Ensenada,,http://www.elvigia.net/,es,daily,3,,,Q87119383,0,news website; newspaper,31.8578,-116.6058,"reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions); language from country default; types: daily, online"
 no,MX,Diario Imagen,,,http://www.diarioimagenqroo.mx,es,daily,3,,,Q87119381,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
 no,MX,Liberal del Sur,Coatzacoalcos,,http://www.liberal.com.mx/,es,daily,3,,,Q87119403,0,news website; newspaper,18.1375,-94.4333,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
 no,MX,Plaza Juárez,,,http://www.plazajuarez.mx/,es,daily,3,,,Q87119412,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
@@ -116,7 +116,7 @@ no,MX,El Ecuánime,,,https://elecuanime.com/,es,online,3,,,Q119833070,0,online n
 no,MX,Reporte Indigo,,,https://www.reporteindigo.com/,es,online,3,,,Q86493820,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 no,MX,Territorio,,,https://territorio.mx/,es,online,3,,,Q107095691,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,MX,Emsavalles,,,http://emsavalles.com/,es,online,3,,,Q112762195,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
-yes,MX,Aristegui Noticias,Ciudad de México,,http://www.aristeguinoticias.com,es,online,3,,,Q61998946,0,online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,MX,Aristegui Noticias,Ciudad de México,,http://www.aristeguinoticias.com,es,online,3,,,Q61998946,0,online newspaper,,,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions); no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,MX,Meteored México,,,https://www.meteored.mx/,es,online,3,,,Q137323573,0,online newspaper; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,MX,El Zenit,Quintana Roo,,https://elzenit.com/,es,online,3,,,Q140381419,0,online newspaper,19.6000,-87.9167,not pre-selected: magazine/online below tier 1
 no,MX,Estrella Digital,Madrid,ES,https://www.estrelladigital.es/,es,daily,3,exile,,Q98959437,0,daily newspaper,40.4169,-3.7033,language from country default; newsroom abroad (ES) – exile?; not pre-selected: newsroom abroad

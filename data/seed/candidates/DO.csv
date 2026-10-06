@@ -6,4 +6,4 @@ no,DO,Montecristi News,,,https://www.montecristinews.com,es,daily,3,,,Q106603520
 no,DO,Ranking Latinos,,,https://www.rankinglatinos.es,es,daily,3,,,Q136465440,0,award; newspaper; brand,,,no place of publication/headquarters in Wikidata – fill in city
 yes,DO,El Día,Santo Domingo,,https://eldia.com.do/,es,daily,3,,,Q138244907,0,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
 no,DO,Atardecer.com.do,,,https://atardecer.com.do,es,online,3,,,Q133523151,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
-yes,DO,Noticia.do,Santiago de los Caballeros,,https://noticia.do/,es,daily,3,,,Q139254993,0,digital newspaper,19.4500,-70.7000,
+no,DO,Noticia.do,Santiago de los Caballeros,,https://noticia.do/,es,daily,3,,,Q139254993,0,digital newspaper,19.4500,-70.7000,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions)
