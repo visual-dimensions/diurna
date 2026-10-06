@@ -1,5 +1,5 @@
 include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
 yes,KH,The Cambodia Daily,Phnom Penh,,https://www.cambodiadaily.com/,en,daily,2,,,Q3057820,14,newspaper; news website; newspaper of record,11.5696,104.9210,"types: daily, online"
 yes,KH,The Phnom Penh Post,Phnom Penh,,https://www.phnompenhpost.com/,en,daily,2,,,Q921095,11,daily newspaper; news website,11.5696,104.9210,"types: daily, online"
-yes,KH,Khmer Times,Phnom Penh,,https://www.khmertimeskh.com/,en,daily,3,,,Q55615930,5,newspaper,11.5696,104.9210,
+no,KH,Khmer Times,Phnom Penh,,https://www.khmertimeskh.com/,en,daily,3,,,Q55615930,5,newspaper,11.5696,104.9210,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions)
 no,KH,The Cambodia China Times,,,https://cc-times.com/,km,online,3,,,Q130757719,1,news website; mobile app,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

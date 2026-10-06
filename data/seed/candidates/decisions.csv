@@ -1262,3 +1262,25 @@ IN,Q113974353,drop,,,,,,,regional outlet without a reachable feed – not replac
 SG,Q477719,drop,,,,,,,merged into CNA (a broadcaster); feed is CNA's
 CN,Q10873421,drop,,,,,,,military paper
 IN,Q4803506,drop,,,,,,,not news
+IN,Q17054122,drop,,,,,,,"feed lists e-paper editions, not headlines"
+IN,Q113865335,drop,,,,,,,"feed lists e-paper editions, not headlines"
+IN,Q113867240,drop,,,,,,,"feed lists e-paper editions, not headlines"
+IN,Q113977263,drop,,,,,,,"feed lists e-paper editions, not headlines"
+IN,Q123004626,drop,,,,,,,"feed lists e-paper editions, not headlines"
+IN,Q3809312,drop,,,,,,,"feed lists e-paper editions, not headlines"
+IN,Q114878379,drop,,,,,,,site serves casino spam (domain apparently taken over)
+KZ,Q12548175,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+PH,Q45185044,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+BD,Q118115536,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+PH,Q7194055,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+IN,Q3162089,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+KH,Q55615930,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+IN,Q114062451,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)
+BD,Q4875421,yes,,en,,,,,language of the feed: en
+IN,Q2685557,yes,,en,,,,,language of the feed: en
+IN,Q14914767,yes,,en,,,,,language of the feed: en
+IN,Q122616790,yes,,en,,,,,language of the feed: en
+IN,Q140868292,yes,,en,,,,,language of the feed: en
+IN,Q2747390,yes,,hi,,,,,language of the feed: hi
+IN,Q24937075,yes,,pa,,,,,language of the feed: pa
+JP,Q1186339,drop,,,,,,,party paper; feed is the party website's topics

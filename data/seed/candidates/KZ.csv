@@ -7,7 +7,7 @@ no,KZ,Жетісу газеті,,,http://7-su.kz/,kk,daily,3,,,Q12544787,4,newsp
 yes,KZ,Star of Irtysh,Pavlodar,,http://irstar.kz,ru,daily,3,,,Q4189399,3,newspaper,52.3156,76.9564,
 no,KZ,Express K,,,https://www.express-k.kz/,ru,daily,3,,,Q5350589,3,newspaper; organization,,,no place of publication/headquarters in Wikidata – fill in city
 no,KZ,Қазақ әдебиеті (газет),,,http://qazaqadebieti.kz,kk,daily,3,,,Q12572988,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-yes,KZ,Caravan (newspaper),Almaty,,https://www.caravan.kz,ru,daily,3,,,Q12548175,3,newspaper,43.2400,76.9150,language from country default
+no,KZ,Caravan (newspaper),Almaty,,https://www.caravan.kz,ru,daily,3,,,Q12548175,3,newspaper,43.2400,76.9150,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions); language from country default
 no,KZ,Inkaraganda,,,https://www.inkaraganda.kz,ru,daily,3,,,Q4200913,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
 no,KZ,Атырау (газет),,,http://www.atr.kz/,kk,daily,3,,,Q12530667,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,KZ,Zakon.kz,,,https://Zakon.kz,ru,online,3,,,Q109977987,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

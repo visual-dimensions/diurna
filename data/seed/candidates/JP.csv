@@ -6,7 +6,7 @@ no,JP,Nihon Keizai Shimbun,Tokyo,,https://www.nikkei.com/,ja,daily,1,,,Q1077694,
 no,JP,The Japan Times,Tokyo,,http://club.japantimes.co.jp/,en,daily,1,,,Q1190886,23,daily newspaper; publishing house,,,reviewed: Wikidata homepage is the subscription portal – in asia_manual.csv; no place of publication/headquarters in Wikidata – fill in city
 yes,JP,Sankei Shimbun,Tokyo,,https://www.sankei.com/,ja,daily,1,,,Q1197261,22,daily newspaper,34.6938,135.5021,reviewed: place is a district/prefecture or second office
 yes,JP,Kobe Shimbun,Kobe,,https://www.kobe-np.co.jp/,ja,daily,2,,,Q13403521,19,daily newspaper; business,34.6902,135.1954,reviewed: regional paper
-yes,JP,Shimbun Akahata,Tokyo,,https://www.jcp.or.jp/akahata/,ja,daily,1,,,Q1186339,16,daily newspaper; party newspaper; communist newspaper,35.6813,139.7106,reviewed: place is a district/prefecture or second office
+no,JP,Shimbun Akahata,Tokyo,,https://www.jcp.or.jp/akahata/,ja,daily,1,,,Q1186339,16,daily newspaper; party newspaper; communist newspaper,35.6813,139.7106,reviewed: party paper; feed is the party website's topics
 no,JP,Kono Manga ga Sugoi!,,,http://konomanga.jp/,ja,daily,2,,,Q11266651,13,mook,,,reviewed: not news; no place of publication/headquarters in Wikidata – fill in city; language from country default
 yes,JP,Chunichi Shimbun,Nagoya,,http://www.chunichi.co.jp/,ja,daily,2,,,Q904678,11,daily newspaper; local newspaper; block newspaper,35.1814,136.9064,
 no,JP,Tokyo Shimbun,Tokyo,,https://www.tokyo-np.co.jp/,ja,daily,2,,,Q766032,11,daily newspaper,35.6894,139.6917,

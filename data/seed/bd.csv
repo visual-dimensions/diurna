@@ -1,9 +1,8 @@
 country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
 BD,The Daily Prothom Alo,Dhaka,,http://www.prothomalo.com/,bn,daily,2,,,23.7539,90.3925
-BD,bdnews24.com,Dhaka,,https://bdnews24.com/,bn,online,2,,,,
+BD,bdnews24.com,Dhaka,,https://bdnews24.com/,en,online,2,,,,
 BD,Bangladesh Pratidin,Dhaka,,http://www.bd-pratidin.com/index.php,bn,daily,2,,,,
 BD,New Age,Dhaka,,http://www.newagebd.net,en,daily,2,,,,
 BD,Ajker Patrika,Dhaka,,http://ajkerpatrika.com,bn,daily,3,,,23.7487,90.3921
 BD,The Daily Dinkal,Dhaka,,https://dainikdinkal.net/,bn,daily,3,,,23.7611,90.4083
 BD,Daily Sabuj Sylhet,Sylhet,,https://www.sobujsylhet.com/,bn,daily,3,,,24.9000,91.8667
-BD,Daily Ajker Darpon,Dhaka,,https://ajkerdarpon.com/,bn,daily,3,,,23.7487,90.3921

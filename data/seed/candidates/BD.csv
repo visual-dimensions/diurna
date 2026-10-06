@@ -2,7 +2,7 @@ include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,
 no,BD,Amar Desh,,,https://dailyamardesh.com/,bn,daily,2,,,Q4740012,14,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 yes,BD,The Daily Prothom Alo,Dhaka,,http://www.prothomalo.com/,bn,daily,2,,,Q2156338,13,newspaper,23.7539,90.3925,reviewed: place is a neighbourhood; language from country default
 no,BD,The Daily Star,Dhaka,,http://www.thedailystar.net/bangla/,en,daily,2,,,Q1586163,12,daily newspaper; newspaper of record,23.7289,90.3944,reviewed: Wikidata homepage is the Bangla edition – English edition in asia_manual.csv
-yes,BD,bdnews24.com,Dhaka,,https://bdnews24.com/,bn,online,2,,,Q4875421,8,newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,BD,bdnews24.com,Dhaka,,https://bdnews24.com/,en,online,2,,,Q4875421,8,newspaper,,,reviewed: language of the feed: en; no place of publication/headquarters in Wikidata – fill in city; language from country default
 yes,BD,Bangladesh Pratidin,Dhaka,,http://www.bd-pratidin.com/index.php,bn,daily,2,,,Q18602716,7,newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
 yes,BD,New Age,Dhaka,,http://www.newagebd.net,en,daily,2,,,Q16764706,6,newspaper,,,reviewed: place filled in / above the per-city cap; no place of publication/headquarters in Wikidata – fill in city
 no,BD,Bangla Tribune,Dhaka,,http://www.banglatribune.com,bn,online,3,,,Q28126618,6,online newspaper,23.7289,90.3944,reviewed: regional outlet without a reachable feed – replaced; not pre-selected: magazine/online below tier 1
@@ -33,7 +33,7 @@ no,BD,The Daily Karatoa,Dhaka,,https://www.dailykaratoa.com/,bn,daily,3,,,Q31725
 yes,BD,Daily Sabuj Sylhet,Sylhet,,https://www.sobujsylhet.com/,bn,daily,3,,,Q97257978,1,newspaper,24.9000,91.8667,
 no,BD,Dainik Janata,,,http://www.dainikjanata.net,bn,daily,3,,,Q61359761,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,BD,Amar Sangbad,,,https://www.amarsangbad.com/,bn,daily,3,,,Q105080667,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-yes,BD,Daily Ajker Darpon,Dhaka,,https://ajkerdarpon.com/,bn,daily,3,,,Q118115536,1,newspaper,23.7487,90.3921,reviewed: place is the district
+no,BD,Daily Ajker Darpon,Dhaka,,https://ajkerdarpon.com/,bn,daily,3,,,Q118115536,1,newspaper,23.7487,90.3921,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions)
 no,BD,Protidiner Bangladesh,Dhaka,,https://protidinerbangladesh.com/,bn,daily,3,,,Q134592302,1,newspaper,23.7289,90.3944,
 no,BD,Sheershanews.com,Dhaka,,http://www.sheershanews.com/m/,bn,online,3,,,Q134640856,1,online newspaper,23.7289,90.3944,not pre-selected: magazine/online below tier 1
 no,BD,Just News BD,Dhaka,,https://justnewsbd.com,bn,online,3,,,Q134803135,1,online newspaper,23.7289,90.3944,not pre-selected: magazine/online below tier 1

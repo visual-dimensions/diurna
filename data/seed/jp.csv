@@ -2,7 +2,6 @@ country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat
 JP,Asahi Shimbun,Tokyo,,http://www.asahi.com,ja,daily,1,,,34.6938,135.5021
 JP,Sankei Shimbun,Tokyo,,https://www.sankei.com/,ja,daily,1,,,34.6938,135.5021
 JP,Kobe Shimbun,Kobe,,https://www.kobe-np.co.jp/,ja,daily,2,,,34.6902,135.1954
-JP,Shimbun Akahata,Tokyo,,https://www.jcp.or.jp/akahata/,ja,daily,1,,,35.6813,139.7106
 JP,Chunichi Shimbun,Nagoya,,http://www.chunichi.co.jp/,ja,daily,2,,,35.1814,136.9064
 JP,Chugoku Shimbun,Hiroshima,,http://www.chugoku-np.co.jp/index_e.html,ja,daily,2,,,34.3914,132.4519
 JP,Hokkaido Shimbun,Sapporo,,https://www.hokkaido-np.co.jp/,ja,daily,2,,,43.0619,141.3544

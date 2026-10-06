@@ -48,7 +48,7 @@ IN,Malai Malar,Chennai,,http://www.maalaimalar.com,ta,daily,2,,,13.0825,80.2750
 IN,Prabhat Khabar,Patna,,https://www.prabhatkhabar.com/,hi,daily,2,,,25.6100,85.1414
 IN,Maharashtra Times,Mumbai,,http://maharashtratimes.indiatimes.com/,mr,daily,2,,,19.0758,72.8775
 IN,Lokmat,Mumbai,,http://lokmat.com,mr,daily,2,,,19.0758,72.8775
-IN,The Samaja,Cuttack,,http://thesamaja.com/,or,daily,2,,,20.4500,85.8667
+IN,The Samaja,Cuttack,,http://thesamaja.com/,en,daily,2,,,20.4500,85.8667
 IN,Andhra Prabha,Hyderabad,,https://www.prabhanews.com/,te,daily,2,,,17.3617,78.4747
 IN,Loksatta,Mumbai,,https://www.loksatta.com/,mr,daily,2,,,19.0758,72.8775
 IN,Janasadharan,Guwahati,,http://janasadharan.in/,as,daily,2,,,26.1806,91.7502
@@ -67,7 +67,7 @@ IN,Namasthe Telangana,Hyderabad,,https://epaper.ntnews.com/,te,daily,2,,,17.3617
 IN,Madhyamam Daily,Kozhikode,,http://www.madhyamam.com/,ml,daily,2,,,11.2478,75.7803
 IN,Nava Bharat,Nagpur,,http://navabharat.com/,hi,daily,2,,,21.1497,79.0806
 IN,Hari Bhoomi,Delhi,,http://www.haribhoomi.com,hi,daily,2,,,28.6667,77.2167
-IN,Avadhnama,Lucknow,,http://www.avadhnama.com/,ur,daily,2,,,26.8470,80.9470
+IN,Avadhnama,Lucknow,,http://www.avadhnama.com/,hi,daily,2,,,26.8470,80.9470
 IN,Janmabhumi,Kochi,,http://www.janmabhumidaily.com/jnb//,ml,daily,2,,,,
 IN,Bartaman,Kolkata,,http://bartamanpatrika.com/,bn,daily,2,,,12.9791,77.5913
 IN,Dainik Janambhumi,Guwahati,,http://www.dainikjanambhumi.co.in/,as,daily,2,,,26.1806,91.7502
@@ -84,9 +84,7 @@ IN,Telangana Today,Hyderabad,,http://telanganatoday.com,en,daily,2,,,17.3617,78.
 IN,Sambad,Bhubaneswar,,http://www.orissasambad.com,or,daily,2,,,20.2950,85.8250
 IN,Varthabharathi,Mangaluru,,https://www.varthabharati.in/,kn,daily,2,,,12.8717,74.8425
 IN,Andhra Jyothy,Hyderabad,,http://www.andhrajyothy.com/,te,daily,2,,,,
-IN,Jansatta,New Delhi,,https://www.jansatta.com,hi,daily,3,,,,
 IN,Ei Samay Sangbadpatra,Kolkata,,http://www.eisamay.com/,bn,daily,3,,,,
-IN,Karavali Ale,Mangaluru,,http://karavaliale.net/,kn,daily,3,,,12.8717,74.8425
 IN,Janayugom,Thiruvananthapuram,,http://www.janayugomonline.com/,ml,daily,3,,,8.4875,76.9525
 IN,Kannada Prabha,Bengaluru,,http://www.kannadaprabha.com,kn,daily,3,,,12.9791,77.5913
 IN,Divya Bhaskar,Ahmedabad,,https://www.divyabhaskar.co.in,gu,daily,3,,,23.0219,72.5797
@@ -103,14 +101,13 @@ IN,Daily Excelsior,Jammu,,https://www.dailyexcelsior.com/,en,daily,3,,,32.7333,7
 IN,Sakal,Pune,,http://www.esakal.com,mr,daily,3,,,18.5211,73.8553
 IN,Star of Mysore,Mysore,,http://www.starofmysore.com/,en,daily,3,,,12.3086,76.6531
 IN,Deshdoot,Nashik,,http://www.deshdoot.com,mr,daily,3,,,20.0000,73.7833
-IN,Pragativadi,Bhubaneswar,,http://www.pragativadi.com//,or,daily,3,,,20.2950,85.8250
+IN,Pragativadi,Bhubaneswar,,http://www.pragativadi.com//,en,daily,3,,,20.2950,85.8250
 IN,Dharitri,Bhubaneswar,,http://dharitri.com/,or,daily,3,,,20.2950,85.8250
 IN,Nawan Zamana,Jalandhar,,http://www.nawanzamana.in/,pa,daily,3,,,31.3256,75.5792
-IN,Gujarat Today,Ahmedabad,,http://www.gujarattoday.in,gu,daily,3,,,23.0219,72.5797
 IN,Inext,Kanpur,,https://www.inextlive.com/,hi,daily,3,,,26.4725,80.3311
 IN,Jag Bani,Jalandhar,,https://jagbani.punjabkesari.in/,pa,daily,3,,,31.3256,75.5792
 IN,Prabhasakshi,New Delhi,,https://www.prabhasakshi.com,hi,daily,3,,,28.6139,77.2089
-IN,Daily Post India,Chandigarh,,http://dailypost.in,en,daily,3,,,30.7333,76.7797
+IN,Daily Post India,Chandigarh,,http://dailypost.in,pa,daily,3,,,30.7333,76.7797
 IN,Taasir,Patna,,http://www.taasir.com,ur,daily,3,,,25.6100,85.1414
 IN,Gujarat Mitra,Surat,,http://www.gujaratmitra.in/,gu,daily,3,,,21.2050,72.8400
 IN,Rising Kashmir,Srinagar,,http://www.risingkashmir.com,en,daily,3,,,34.0911,74.8061
@@ -120,7 +117,7 @@ IN,Sikkim Express,Gangtok,,http://www.sikkimexpress.com/,en,daily,3,,,27.3300,88
 IN,Janam Sakshi,Hyderabad,,http://janamsakshi.org/,te,daily,3,,,17.3617,78.4747
 IN,Kashmir Observer,Srinagar,,http://kashmirobserver.net/index.php,en,daily,3,,,34.0911,74.8061
 IN,Divya Marathi,Jalgaon,,https://divyamarathi.bhaskar.com/,mr,daily,3,,,21.0167,75.5667
-IN,Xpert Times,Delhi,,https://xperttimes.com,hi,daily,3,,,28.6667,77.2167
+IN,Xpert Times,Delhi,,https://xperttimes.com,en,daily,3,,,28.6667,77.2167
 IN,Parichay Times,Delhi,,http://www.parichaytimes.com/,hi,daily,3,,,28.6667,77.2167
 IN,Uditvani,Jamshedpur,,https://uditvani.in/,hi,daily,3,,,22.8000,86.1833
 IN,G Plus,Guwahati,,http://www.guwahatiplus.com/,en,daily,3,,,26.1806,91.7502
@@ -128,19 +125,13 @@ IN,Sanjhi Khabar,Zirakpur,,http://www.sanjhikhabar.com/,pa,daily,3,,,30.6500,76.
 IN,Andaman Chronicle,Srivijayapuram,,https://www.andamanchronicle.net/,en,daily,3,,,11.6667,92.7500
 IN,Andaman Sheekha,Srivijayapuram,,http://www.andamansheekha.com/,en,daily,3,,,11.6667,92.7500
 IN,Dainik Agniban,Indore,,https://www.agniban.com/,hi,daily,3,,,22.7186,75.8550
-IN,Dakshin Bharat Rashtramat,Bengaluru,,https://epaper.dakshinbharat.com/,hi,daily,3,,,12.9791,77.5913
-IN,Dopahar,Bhopal,,https://epaper.dopaharmetro.com/,hi,daily,3,,,23.2589,77.4125
-IN,Jansandesh Times,Varanasi,,https://www.jansandeshtimes.net/,hi,daily,3,,,25.3189,83.0128
 IN,Kashmir Monitor,Srinagar,,https://www.thekashmirmonitor.net/,en,daily,3,,,34.0911,74.8061
 IN,Khas Khabar,Jaipur,,https://www.khaskhabar.com/,hi,daily,3,,,26.9150,75.8200
-IN,Lok Tej,Surat,,https://www.loktej.com/,hi,daily,3,,,21.2050,72.8400
 IN,Rakhewal,Deesa,,https://www.rakhewaldaily.com/e-paper/,gu,daily,3,,,24.2558,72.1836
 IN,Samachar Jagat,Jaipur,,https://www.samacharjagat.com/epaper,hi,daily,3,,,26.9150,75.8200
 IN,Sanmarg Hindi,Kolkata,,https://sanmarg.in/,hi,daily,3,,,22.5675,88.3700
 IN,Tarunmitra,Lucknow,,https://www.tarunmitra.in/,hi,daily,3,,,26.8470,80.9470
-IN,Tez,Bengaluru,,https://teznews.com/,hi,daily,3,,,12.9791,77.5913
 IN,Lokshahi,Jalgaon,,https://lokshahilive.com,mr,daily,3,,,21.0167,75.5667
 IN,Nav Pradesh,Raipur,,https://navpradesh.com,hi,daily,3,,,21.2379,81.6337
-IN,Nirbhay,Bhubaneswar,,http://nirvaynews.com/,or,daily,3,,,20.2950,85.8250
-IN,Sakala,Bhubaneswar,,https://sakalaepaper.com/,or,daily,3,,,20.2950,85.8250
+IN,Nirbhay,Bhubaneswar,,http://nirvaynews.com/,en,daily,3,,,20.2950,85.8250
 IN,Nishkarsha,Bhubaneswar,,https://nishkarsha.com/,or,daily,3,,,20.2950,85.8250
