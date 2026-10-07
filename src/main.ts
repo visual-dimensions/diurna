@@ -23,6 +23,9 @@ import '@fontsource-variable/noto-sans-thaana/wght.css';
 import '@fontsource/noto-serif-myanmar/400.css';
 // Ethiopic (Amharic, Tigrinya).
 import '@fontsource-variable/noto-serif-ethiopic/wght.css';
+// Georgian, Armenian.
+import '@fontsource-variable/noto-serif-georgian/wght.css';
+import '@fontsource-variable/noto-serif-armenian/wght.css';
 import '@fontsource-variable/inter/wght.css';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import './styles/tokens.css';

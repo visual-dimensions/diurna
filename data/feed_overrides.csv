@@ -60,3 +60,16 @@ timeslive,https://www.timeslive.co.za/arc/outboundfeeds/rss/?outputType=xml,late
 mmegi,https://www.mmegi.bw/rssFeed/0,latest,"general feed (auto-pick was a photo gallery)"
 thesowetan,http://sowetan.co.za/arc/outboundfeeds/rss/,latest,"general Arc feed, not a front-page feed"
 lesothotimes,https://lestimes.com/?feed=rss2,latest,"main feed (auto-pick was the comments feed)"
+civilge,https://civil.ge/feed,latest,
+netgazeti,https://netgazeti.ge/feed/,latest,
+newsam,https://news.am/arm/rss/,latest,
+hetq,https://hetq.am/hy/rss,latest,
+reportaz,https://report.az/rss/,latest,
+azernews,https://www.azernews.az/feed.php,latest,
+meydantv,https://www.meydan.tv/az/rss/,latest,
+sudantribune,https://sudantribune.net/feed/,latest,
+vaticannews,https://www.vaticannews.va/en.rss.xml,latest,
+matangitonga,https://matangitonga.to/rss.xml,latest,
+ikonmn,https://ikon.mn/rss,latest,
+goobjoognews,https://goobjoog.com/feed/,latest,
+thephnompenhpost,https://www.phnompenhpost.com/feed,latest,

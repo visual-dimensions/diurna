@@ -307,7 +307,7 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
 - ~~Projektname~~ → **Diurna** (entschieden). Domain noch offen.
 - Abgrenzung: Wochenzeitungen, Nachrichtenmagazine, reine Online-Medien dabei? (Startliste enthält einzelne, über `type` gekennzeichnet und filterbar.)
 - Exilmedien (z. B. russische/belarussische Redaktionen in Riga oder Vilnius): am Redaktionsort zeigen und kennzeichnen – so in der Startliste vorgesehen.
-- Transkontinentale Länder (Georgien, Armenien, Aserbaidschan) und Russland jenseits Moskaus: später.
+- ~~Transkontinentale Länder (Georgien, Armenien, Aserbaidschan)~~ → aufgenommen 2026-10-07 (Lückenschluss). Russland jenseits Moskaus: später.
 - ~~Vanilla TS oder Svelte~~ → **Vanilla TypeScript** (entschieden nach dem Design-Spike).
 - ~~Sprache der Website~~ → **Englisch** (UI-Texte, Kennzeichnungen wie „Top story“ / „Latest“). Headlines bleiben in Originalsprache.
 - ~~Stadtnamen~~ → **Landessprache**, wie in der Seed-Liste (Praha, København, Athina).
@@ -416,7 +416,16 @@ Jede Welle mit derselben Abnahme wie Phase 1/2 (Report geprüft, eine Woche Lauf
 4. Süd- & Ostasien (CJK- und indische Schriften – Schriftgröße als Ladezeit-Thema; Noto-Familien mit `unicode-range`, nur bei Bedarf geladen)
 5. Afrika südlich der Sahara (viele Sprachen, wenige Feeds, mehr Handarbeit)
 
-Stand nach Welle 5: **1.165 Medien aus 173 Ländern und Gebieten.** Offen: eine Woche Laufbetrieb je Welle; Länder ohne Medium (Jemen, Sudan, Somalia, Zentralafrikanische Republik, Äquatorialguinea, Timor-Leste, Mongolei, Turkmenistan); Russland jenseits Moskaus, Kaukasus.
+Stand nach Welle 5: 1.165 Medien aus 173 Ländern und Gebieten.
+
+**Lückenschluss – 2026-10-07:** 38 Medien von Hand (`data/seed/gaps_manual.csv`), jeweils Feed vorher mit `check_feeds.py` getestet. Neu vertreten: Georgien, Armenien, Aserbaidschan, Dominica, Grenada, St. Lucia, Samoa, Tonga, Vanuatu, Salomonen, Palau, Somalia, Zentralafrikanische Republik, Äquatorialguinea, Sudan, Jemen, Timor-Leste, Mongolei, Turkmenistan, Vatikan. Neue Feeds für bisher nur graue Länder: Albanien, Brunei, Kambodscha, Komoren, Laos, Sierra Leone.
+- Exilmedien mit belegtem Redaktionsort: Meydan TV (Aserbaidschan → Berlin), Sudan Tribune (→ Paris), Diario Rombe (Äquatorialguinea → Madrid), Chronicles of Turkmenistan (→ Wien). Ohne belegten Ort **nicht** aufgenommen: Zerkalo (Belarus), Hasht-e Subh (Afghanistan).
+- Nicht aufgenommen: Nachrichtenagenturen (Tatoli, Montsame, APA, Trend), Regierungs-Infodienste (SKNIS), Sender (Amu TV), kirchliche Medien (Newsbook Malta). Vatican News als `state` (Medium des Heiligen Stuhls).
+- Schriften: Noto Serif Georgian und Armenian (statisch, je < 0,5 KB CSS).
+- Feed-Suche robuster: relative Sitemap-Pfade in `robots.txt` werden aufgelöst; eine ungültige Kandidaten-URL bricht den Lauf nicht mehr ab.
+- Weiterhin ohne Medium: St. Kitts und Nevis, Kiribati, Marshallinseln, Mikronesien, Nauru, Tuvalu (kein Feed gefunden). Nur graue Punkte: Afghanistan, Belarus, Eritrea, Fidschi, Liechtenstein, Malta, Nordkorea, Seychellen, Trinidad und Tobago, Samoa, Vanuatu.
+
+Offen: eine Woche Laufbetrieb je Welle; Russland jenseits Moskaus.
 
 ### Bekannte Risiken
 - **Übersetzung:** weltweit ~150–250 Mio. Zeichen/Monat. Mit dem offenen Modell machbar, aber Minuten pro Lauf; ggf. nur Tier 1–2 übersetzen. Sprachen außerhalb von M2M100 bleiben unübersetzt.

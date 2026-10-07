@@ -137,7 +137,7 @@ def age_hours(value: datetime | None) -> float | None:
 async def check_feed(client: httpx.AsyncClient, cand: Candidate) -> None:
     try:
         resp = await client.get(cand.url)
-    except httpx.HTTPError as exc:
+    except (httpx.HTTPError, ValueError) as exc:  # ValueError: malformed URL from a page or robots.txt
         cand.status = type(exc).__name__
         return
     cand.status = str(resp.status_code)
@@ -256,7 +256,8 @@ async def news_sitemaps_from_robots(client: httpx.AsyncClient, base_url: str) ->
         return []
     if resp.status_code != 200:
         return []
-    urls = re.findall(r"(?im)^\s*sitemap:\s*(\S+)", resp.text)
+    # Some robots.txt list sitemaps with relative paths ("/news_sitemap.xml.gz").
+    urls = [urljoin(str(resp.url), u) for u in re.findall(r"(?im)^\s*sitemap:\s*(\S+)", resp.text)]
     return [u for u in dict.fromkeys(urls) if "news" in u.lower()][:3]
 
 
