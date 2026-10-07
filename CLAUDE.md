@@ -307,7 +307,7 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
 - ~~Projektname~~ → **Diurna** (entschieden). Domain noch offen.
 - Abgrenzung: Wochenzeitungen, Nachrichtenmagazine, reine Online-Medien dabei? (Startliste enthält einzelne, über `type` gekennzeichnet und filterbar.)
 - Exilmedien (z. B. russische/belarussische Redaktionen in Riga oder Vilnius): am Redaktionsort zeigen und kennzeichnen – so in der Startliste vorgesehen.
-- ~~Transkontinentale Länder (Georgien, Armenien, Aserbaidschan)~~ → aufgenommen 2026-10-07 (Lückenschluss). Russland jenseits Moskaus: später.
+- ~~Transkontinentale Länder (Georgien, Armenien, Aserbaidschan)~~ → aufgenommen 2026-10-07 (Lückenschluss). ~~Russland jenseits Moskaus~~ → aufgenommen 2026-10-07.
 - ~~Vanilla TS oder Svelte~~ → **Vanilla TypeScript** (entschieden nach dem Design-Spike).
 - ~~Sprache der Website~~ → **Englisch** (UI-Texte, Kennzeichnungen wie „Top story“ / „Latest“). Headlines bleiben in Originalsprache.
 - ~~Stadtnamen~~ → **Landessprache**, wie in der Seed-Liste (Praha, København, Athina).
@@ -426,12 +426,22 @@ Stand nach Welle 5: 1.165 Medien aus 173 Ländern und Gebieten.
 - Feed-Suche robuster: relative Sitemap-Pfade in `robots.txt` werden aufgelöst; eine ungültige Kandidaten-URL bricht den Lauf nicht mehr ab.
 - Weiterhin ohne Medium: St. Kitts und Nevis, Kiribati, Marshallinseln, Mikronesien, Nauru, Tuvalu (kein Feed gefunden). Nur graue Punkte: Afghanistan, Belarus, Eritrea, Fidschi, Liechtenstein, Malta, Nordkorea, Seychellen, Trinidad und Tobago, Samoa, Vanuatu.
 
-Offen: eine Woche Laufbetrieb je Welle; Russland jenseits Moskaus.
+**Russland – 2026-10-07:** 42 Medien in 25 Städten (vorher 4: Kommersant, Rossijskaja Gaseta, Meduza, Nowaja Gaseta Europa), davon 38 mit Feed. Moskauer Leitmedien (Novaya Gazeta, Vedomosti, RBC, MK, Komsomolskaja Prawda, Vzglyad) plus Regionen von Kaliningrad bis Wladiwostok, Minderheitensprachen (Tatarisch, Tschetschenisch, Kabardinisch, Tabassaranisch). Handliste `data/seed/russia_manual.csv`. Erkenntnisse:
+- **EU-Sanktionen (Verordnung 833/2014, Art. 2f, Anhang XV):** Verbot, Inhalte gelisteter Medien zu verbreiten oder dazu beizutragen – laut Kommissions-FAQ im weitesten Sinn, auch Nachrichtenmeldungen online; Ausnahme nur für einordnende journalistische Berichterstattung. Automatisch angezeigte Schlagzeilen + Links fallen darunter. Deshalb `data/sanctioned_media.csv` (Domain, Name, Rechtsgrundlage): `build_sources.py` lässt diese Medien aus jeder Seed-Datei weg, der Import wählt sie nicht vor. **Rossijskaja Gaseta wurde dadurch entfernt.** Liste bei neuen Sanktionspaketen nachpflegen (EUR-Lex, konsolidierte Fassung von Anhang XV).
+- **Staatseigentum belegt über die russische Wikipedia:** Gründer-Feld (учредитель) automatisch ausgelesen; `state` nur, wenn es eine Behörde oder staatliche/kommunale Einrichtung nennt (Правительство, администрация, ГУП, ГАУ, МАУ …). Beleg = Wikipedia-Artikel.
+- Krim (Krymskaja Prawda, Sewastopolskaja Gaseta, Pobeda Feodossija): **nicht** unter Russland aufgenommen.
+- Import: Ein Ort mit mehreren Staaten (Moskau: Russland und Sowjetunion) gehört zum Importland; kyrillische Namen ohne lateinische Bezeichnung werden transliteriert (BGN/PCGN-Stil, wie „Dzerkalo Tyzhnia“).
+- Netzwerk-Feeds: Die Stadtportale eines Netzes (NGS24, 161.ru, 59.ru, 63.ru) liefern dieselbe Schlagzeile → nur NGS behalten.
+- Kaum Nachrücker: Wikidata kennt wenige russische Regionalblätter mit Ort; 43 ohne Feed ersatzlos gestrichen.
+
+**Stadtnamen vereinheitlicht (alle Wellen):** Medien am selben GeoNames-Ort bekommen denselben Stadtnamen – aus `europe.csv`, wenn vorhanden (zweisprachig beide: „Brussel / Bruxelles“), sonst den häufigsten (vorher doppelt: Wien/Vienna, Moskva/Moscow, Hà Nội/Hanoi, Montréal/Montreal …). `build_sources.py` warnt, wenn ein Ort unter mehreren Namen auftaucht; verbleibende Warnungen sind echte Nachbarstädte (Makati/Manila, Viña del Mar/Valparaíso). Stadtteile als Ort (Cuauhtémoc, Mushin, East Perth …) per Entscheidung auf die Stadt gesetzt; dabei bisher ausgewählte Medien in AU/MX per `yes` festgehalten, damit die Stadt-Höchstzahl sie nicht verdrängt.
+
+Offen: eine Woche Laufbetrieb je Welle.
 
 ### Bekannte Risiken
 - **Übersetzung:** weltweit ~150–250 Mio. Zeichen/Monat. Mit dem offenen Modell machbar, aber Minuten pro Lauf; ggf. nur Tier 1–2 übersetzen. Sprachen außerhalb von M2M100 bleiben unübersetzt.
 - **Blockaden:** mehr Seiten sperren Rechenzentrums-IPs (GitHub). Mehr ausgegraute Medien akzeptieren – oder Abruf später als Cloudflare-Cron, der nur JSON-Dateien schreibt (bewusst entscheiden, Prinzip 1).
-- **Recht:** Titel + Link bleibt die Regel; Rechtslage für kurze Auszüge unterscheidet sich je Land – vor jeder Welle kurz prüfen.
+- **Recht:** Titel + Link bleibt die Regel; Rechtslage für kurze Auszüge unterscheidet sich je Land – vor jeder Welle kurz prüfen. EU-Sanktionen gegen Medien beachten (`data/sanctioned_media.csv`).
 
 ---
 

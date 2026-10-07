@@ -37,6 +37,9 @@ CANDIDATES_DIR = SEED_DIR / "candidates"
 # Manual review decisions by Wikidata ID – survive re-imports (data, not code):
 # country,qid,include,city,tier,type,note,note_source,reason   (empty fields = keep)
 DECISIONS_FILE = CANDIDATES_DIR / "decisions.csv"
+# Outlets under the EU dissemination ban (Reg. 833/2014 Annex XV) – never pre-selected; build_sources.py drops them anyway.
+_SANCTIONS = ROOT / "data" / "sanctioned_media.csv"
+SANCTIONED = {r["domain"].lower() for r in csv.DictReader(_SANCTIONS.open(encoding="utf-8"))} if _SANCTIONS.exists() else set()
 DECISION_FIELDS = ["country", "qid", "include", "city", "lang", "tier", "type", "note", "note_source", "reason"]
 
 USER_AGENT = "Diurna/0.1 (+https://github.com/visual-dimensions/diurna; candidate import)"
@@ -233,6 +236,25 @@ def is_latin(text: str) -> bool:
     return bool(letters) and all(unicodedata.name(c, "").startswith("LATIN") for c in letters)
 
 
+# Cyrillic → Latin (BGN/PCGN-style, as in the hand-made seeds: "Dzerkalo Tyzhnia", "24 Chasa"),
+# for outlets and places whose Wikidata entry has no Latin-script label at all.
+CYRILLIC = dict(zip("абвгдеёжзийклмнопрстуфхцчшщъыьэюяіїєґўәөүңҗһ",
+    ["a", "b", "v", "g", "d", "e", "yo", "zh", "z", "i", "y", "k", "l", "m", "n", "o", "p", "r", "s", "t", "u", "f",
+     "kh", "ts", "ch", "sh", "shch", "", "y", "", "e", "yu", "ya", "i", "yi", "ye", "g", "w", "a", "o", "u", "ng", "zh", "h"]))
+
+
+def transliterate(text: str) -> str:
+    out = []
+    for ch in text:
+        low = ch.lower()
+        if low in CYRILLIC:
+            t = CYRILLIC[low]
+            out.append(t.capitalize() if ch != low else t)
+        else:
+            out.append(ch)
+    return "".join(out).replace("«", "").replace("»", "").strip()
+
+
 def label(entity: dict | None, langs: list[str]) -> str:
     """Label in the outlet's language – in Latin script, like the hand-made seeds
     (Kathimerini, Athina): a label in another script gives way to the `mul`/English one."""
@@ -245,7 +267,9 @@ def label(entity: dict | None, langs: list[str]) -> str:
         if lang in labels and is_latin(labels[lang]["value"]):
             return labels[lang]["value"]
     if order:
-        return labels[order[0]]["value"]
+        first = labels[order[0]]["value"]
+        latin = transliterate(first)
+        return latin if is_latin(latin) else first
     return next(iter(labels.values()))["value"] if labels else ""
 
 
@@ -308,7 +332,9 @@ def build(cc: str, closure: dict[str, str], disqualifying: set[str], no_preselec
         langs = sorted(it["langs"], key=rank) or default_lang
         lang = langs[0] if langs else ""
         place = it.get("place")
-        city_cc = next((iso[c] for c in place_countries.get(place, []) if c in iso), cc) if place else cc
+        # A place can carry several countries (Moscow: Russia and the Soviet Union) – the import country wins if it is one of them.
+        place_isos = [iso[c] for c in place_countries.get(place, []) if c in iso]
+        city_cc = (cc if cc in place_isos else next(iter(place_isos), cc)) if place else cc
         state_owners = [o for o in it["owners"] if set(claim_ids(ents.get(o), "P31")) & STATE_OWNER_CLASSES]
         lat = lon = ""
         coords = [c["mainsnak"]["datavalue"]["value"] for c in (ents.get(place) or {}).get("claims", {}).get("P625", []) if c["mainsnak"].get("datavalue")]
@@ -334,6 +360,8 @@ def build(cc: str, closure: dict[str, str], disqualifying: set[str], no_preselec
             hold.append("newsroom abroad")
         if any(dom == a or dom.endswith("." + a) for a in ARCHIVE_DOMAINS):
             hold.append("homepage is an archive")
+        if any(dom == b or dom.endswith("." + b) for b in SANCTIONED):
+            hold.append("EU sanctions list (data/sanctioned_media.csv)")
         if it["no_preselect"]:
             hold.append("alternative/religious paper")
         if types & {"magazine", "online"} and tier > 1:

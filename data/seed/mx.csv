@@ -1,7 +1,7 @@
 country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
 MX,El Universal,Ciudad de México,,http://www.eluniversal.com.mx/,es,daily,1,,,19.3538,-99.1359
 MX,La Jornada,Ciudad de México,,https://www.jornada.com.mx/,es,daily,2,,,19.3538,-99.1359
-MX,Excélsior,Cuauhtémoc,,http://www.excelsior.com.mx/,es,daily,2,,,19.4431,-99.1447
+MX,Excélsior,Ciudad de México,,http://www.excelsior.com.mx/,es,daily,2,,,19.4431,-99.1447
 MX,Reforma,Ciudad de México,,http://www.reforma.com/,es,daily,1,,,,
 MX,Milenio Diario,Monterrey,,https://www.milenio.com/,es,daily,2,,,25.6844,-100.3181
 MX,El Siglo de Torreón,Torreón,,http://www.elsiglodetorreon.com.mx/,es,daily,2,,,25.5439,-103.4190

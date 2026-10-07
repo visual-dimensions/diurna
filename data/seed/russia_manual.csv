@@ -1,0 +1,11 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+RU,The Insider,Rīga,LV,https://theins.ru,ru,online,1,exile,,,
+RU,iStories,Rīga,LV,https://istories.media,ru,online,2,exile,,,
+RU,The Moscow Times,Amsterdam,NL,https://www.themoscowtimes.com,en,online,1,exile,,,
+RU,BUSINESS Online,Kazan,,https://www.business-gazeta.ru,ru,online,2,,,,
+RU,Realnoe Vremya,Kazan,,https://realnoevremya.ru,ru,online,3,,,,
+RU,URA.ru,Yekaterinburg,,https://ura.news,ru,online,2,,,,
+RU,NGS,Novosibirsk,,https://ngs.ru,ru,online,2,,,,
+RU,VL.ru,Vladivostok,,https://www.newsvl.ru,ru,online,3,,,,
+RU,Klops,Kaliningrad,,https://klops.ru,ru,online,3,,,,
+RU,7x7,Syktyvkar,,https://semnasem.org,ru,online,3,,,,

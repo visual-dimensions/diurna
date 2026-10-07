@@ -1,6 +1,6 @@
 include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
 no,KW,Kuwait Times,Kuwait,,https://www.kuwaittimes.net/,en,daily,3,,,Q6448883,4,newspaper,29.1667,47.6000,reviewed: regional outlet without a reachable feed – replaced
-yes,KW,Arab Times,Shuwaikh Port,,http://www.arabtimesonline.com,en,daily,3,,,Q4783255,4,newspaper,29.3500,47.9500,
+yes,KW,Arab Times,Kuwait City,,http://www.arabtimesonline.com,en,daily,3,,,Q4783255,4,newspaper,29.3500,47.9500,reviewed: Wikidata place is a district of the city
 yes,KW,Al-Anba,Kuwait City,,http://www.alanba.com.kw/newspaper/,ar,daily,3,,,Q4702198,3,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
 no,KW,Al-Qabas,Kuwait City,,https://www.alqabas.com,ar,daily,3,,,Q4703049,3,newspaper,29.3750,47.9800,reviewed: regional outlet without a reachable feed – replaced
 no,KW,Annahar,Kuwait City,,http://www.annaharkw.com,ar,daily,3,,,Q4767787,3,newspaper,29.3750,47.9800,reviewed: regional outlet without a reachable feed – replaced

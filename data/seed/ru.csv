@@ -1,0 +1,30 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+RU,Novaya Gazeta,Moscow,,https://novayagazeta.ru/,ru,daily,1,,,,
+RU,Moskovskij Komsomolets,Moscow,,https://www.mk.ru/,ru,daily,1,,,,
+RU,Trud,Moscow,,http://www.trud.ru/,ru,daily,2,,,55.7625,37.6133
+RU,Vedomosti,Moscow,,https://www.vedomosti.ru/,ru,daily,1,,,55.7506,37.6175
+RU,Kodima,Petrozavodsk,,http://kodima.rkperiodika.ru,ru,daily,2,,,61.7833,34.3500
+RU,Birobidzhaner Shtern,Birobidzhan,,http://www.gazetaeao.ru/gazetiy/birobidjaner-shtern.html,ru,daily,2,,,48.7833,132.9333
+RU,RBK daily,Moscow,,http://www.rbc.ru,ru,online,1,,,,
+RU,Karjalan Sanomat,Petroskoi,,http://karjalansanomat.ru/,fi,daily,2,,,61.7833,34.3500
+RU,Adyge psale,Nalchik,,https://apkbr.ru/,ru,daily,3,,,43.4833,43.6167
+RU,Vzglyad,Moscow,,http://vz.ru/,ru,online,2,,,55.7506,37.6175
+RU,fontanka.ru,Saint Petersburg,,http://www.fontanka.ru/,ru,online,2,,,59.9301,30.3349
+RU,Vatanym Tatarstan,Kazan,,http://www.vatantat.ru,tt,daily,3,,,55.7908,49.1144
+RU,Zamana,Makhachkala,,https://zamana.info,ru,daily,3,,,42.9825,47.5050
+RU,Daimohk,Grozny,,http://daymohk-gazet.ru/,ce,daily,3,,,43.3125,45.6986
+RU,Delovoy Peterburg,Saint Petersburg,,http://www.dp.ru/,ru,daily,3,,,59.9500,30.3167
+RU,Tabasarandin nurar,Makhachkala,,http://zoritabasarana.ru/,ru,daily,3,,,42.9825,47.5050
+RU,Ingushetia,Nazran,,http://gazetaingush.ru,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D1%83%D1%88%D0%B5%D1%82%D0%B8%D1%8F_%28%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%29,43.2167,44.7667
+RU,Oblastnaya gazeta,Yekaterinburg,,https://www.oblgazeta.ru/,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0,56.8356,60.6128
+RU,Tyumen region today,Tyumen,,http://www.tumentoday.ru/,ru,daily,3,,,57.1500,65.5333
+RU,Surgutskaya tribuna,Surgut,,https://stribuna.ru/,ru,daily,3,,,61.2500,73.4333
+RU,Gorodskiye izvestiya (Kursk),Kursk,,https://gi-kursk.ru,ru,daily,3,,,51.7372,36.1872
+RU,Chelninskie izvestiya,Naberezhnye Chelny,,http://chelny-izvest.ru,ru,daily,3,,,55.7149,52.3697
+RU,Molodyozh Altaya,Barnaul,,http://altapress.ru/ma/,ru,daily,3,,,53.3567,83.7872
+RU,The Northern Worker (Severodvinsk),Severodvinsk,,http://nworker.ru,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9_%28%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%2C_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%29,64.5667,39.8500
+RU,The Pacific Star,Khabarovsk,,https://toz.su/,ru,daily,3,,,48.4833,135.0667
+RU,Tyumenskie izvestiya,Tyumen,,https://t-i.ru/,ru,daily,3,,,57.1500,65.5333
+RU,Vyborg,Vyborg,,https://gazetavyborg.ru/,ru,daily,3,,,60.7106,28.7497
+RU,Svetlyy put,Naberezhnye Chelny,,https://tukai-rt.ru/,ru,daily,3,,,55.7149,52.3697
+RU,Roslavlskaya pravda,Roslavl,,http://ropravda.ru/,ru,daily,3,,,53.9492,32.8569

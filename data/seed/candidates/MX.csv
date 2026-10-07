@@ -1,53 +1,53 @@
 include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
 no,MX,Epoch Times Español,Nueva York,US,https://www.epochtimes.com/,es,daily,1,exile,,Q584472,27,daily newspaper,40.7128,-74.0061,language from country default; newsroom abroad (US) – exile?; not pre-selected: newsroom abroad
-yes,MX,El Universal,Ciudad de México,,http://www.eluniversal.com.mx/,es,daily,1,,,Q1321495,16,daily newspaper; news website; newspaper,19.3538,-99.1359,"types: daily, online"
-yes,MX,La Jornada,Ciudad de México,,https://www.jornada.com.mx/,es,daily,2,,,Q2496821,14,daily newspaper; newspaper,19.3538,-99.1359,
-yes,MX,Excélsior,Cuauhtémoc,,http://www.excelsior.com.mx/,es,daily,2,,,Q3347987,13,daily newspaper; news website; newspaper,19.4431,-99.1447,"types: daily, online"
+yes,MX,El Universal,Ciudad de México,,http://www.eluniversal.com.mx/,es,daily,1,,,Q1321495,16,daily newspaper; news website; newspaper,19.3538,-99.1359,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,La Jornada,Ciudad de México,,https://www.jornada.com.mx/,es,daily,2,,,Q2496821,14,daily newspaper; newspaper,19.3538,-99.1359,reviewed: keep: above the per-city cap after district fixes
+yes,MX,Excélsior,Ciudad de México,,http://www.excelsior.com.mx/,es,daily,2,,,Q3347987,13,daily newspaper; news website; newspaper,19.4431,-99.1447,"reviewed: Wikidata place is a district of the city; types: daily, online"
 yes,MX,Reforma,Ciudad de México,,http://www.reforma.com/,es,daily,1,,,Q2473369,11,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
-yes,MX,Milenio Diario,Monterrey,,https://www.milenio.com/,es,daily,2,,,Q2273191,9,daily newspaper; news website; newspaper,25.6844,-100.3181,"types: daily, online"
-yes,MX,El Siglo de Torreón,Torreón,,http://www.elsiglodetorreon.com.mx/,es,daily,2,,,Q500197,6,periodical; news website; newspaper,25.5439,-103.4190,"types: daily, online"
+yes,MX,Milenio Diario,Monterrey,,https://www.milenio.com/,es,daily,2,,,Q2273191,9,daily newspaper; news website; newspaper,25.6844,-100.3181,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,El Siglo de Torreón,Torreón,,http://www.elsiglodetorreon.com.mx/,es,daily,2,,,Q500197,6,periodical; news website; newspaper,25.5439,-103.4190,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,Blog del Narco,,,https://blogdelnarcomexico.top,es,daily,2,,,Q4927359,6,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-yes,MX,El Informador,Guadalajara,,http://www.informador.mx,es,daily,3,,,Q5351440,5,daily newspaper; news website; newspaper,20.6764,-103.3422,"types: daily, online"
+yes,MX,El Informador,Guadalajara,,http://www.informador.mx,es,daily,3,,,Q5351440,5,daily newspaper; news website; newspaper,20.6764,-103.3422,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,Nexos,,,http://www.nexos.com.mx/,es,online,3,,,Q6107065,5,periodical; magazine; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
-yes,MX,Diario de Yucatán,Mérida,,https://yucatan.com.mx/,es,daily,3,,,Q5271872,4,periodical; newspaper,20.9700,-89.6200,
+yes,MX,Diario de Yucatán,Mérida,,https://yucatan.com.mx/,es,daily,3,,,Q5271872,4,periodical; newspaper,20.9700,-89.6200,reviewed: keep: selected before; per-city cap must not displace it
 no,MX,La Prensa (México),Ciudad de México,,http://www.la-prensa.com.mx,es,daily,3,,,Q5964916,4,newspaper; news website,19.3538,-99.1359,"types: daily, online"
 no,MX,El Economista,Ciudad de México,,http://www.economista.com.mx/,es,daily,3,,,Q1324106,3,newspaper; news website,19.3538,-99.1359,"types: daily, online"
-yes,MX,El Norte,Monterrey,,http://www.elnorte.com/,es,daily,3,,,Q5351698,3,newspaper; news website,25.6844,-100.3181,"types: daily, online"
+yes,MX,El Norte,Monterrey,,http://www.elnorte.com/,es,daily,3,,,Q5351698,3,newspaper; news website,25.6844,-100.3181,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,La Crónica de Hoy,Ciudad de México,,http://www.cronica.com.mx/noticias.php,es,daily,3,,,Q6462111,3,daily newspaper; news website; newspaper,19.3538,-99.1359,"types: daily, online"
 no,MX,El Heraldo de México,Ciudad de México,,https://heraldodemexico.com.mx/,es,daily,3,,,Q65047709,3,newspaper,19.3538,-99.1359,
 no,MX,Diario Oficial de la Federación,México,,http://dof.gob.mx/,es,online,3,,,Q7079510,3,government gazette; news website,23.0000,-102.0000,not pre-selected: magazine/online below tier 1
 no,MX,unomásuno,,,http://www.unomasuno.com.mx,es,daily,3,,,Q6157218,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,MX,Diario de Morelia,Morelia,,http://www.diariodemorelia.mx,es,daily,3,,,Q5271871,2,newspaper,19.7028,-101.1922,reviewed: regional outlet without a reachable feed – replaced
-yes,MX,El Occidental,Guadalajara,,http://www.eloccidental.com.mx/,es,daily,3,,,Q5351713,2,newspaper; news website,20.6764,-103.3422,"types: daily, online"
-yes,MX,La Razón,Monterrey,,http://www.razon.com.mx/,es,daily,3,,,Q5561077,2,newspaper; news website,25.6844,-100.3181,"types: daily, online"
-yes,MX,El Sol de Puebla,Heroica Puebla de Zaragoza,,http://www.elsoldepuebla.com.mx,es,daily,3,,,Q5823387,2,newspaper; news website,19.0514,-98.2178,"types: daily, online"
-yes,MX,La Extra,Morelia,,http://www.laextra.mx,es,daily,3,,,Q6462377,2,newspaper,19.7028,-101.1922,
+yes,MX,El Occidental,Guadalajara,,http://www.eloccidental.com.mx/,es,daily,3,,,Q5351713,2,newspaper; news website,20.6764,-103.3422,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,La Razón,Monterrey,,http://www.razon.com.mx/,es,daily,3,,,Q5561077,2,newspaper; news website,25.6844,-100.3181,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,El Sol de Puebla,Heroica Puebla de Zaragoza,,http://www.elsoldepuebla.com.mx,es,daily,3,,,Q5823387,2,newspaper; news website,19.0514,-98.2178,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,La Extra,Morelia,,http://www.laextra.mx,es,daily,3,,,Q6462377,2,newspaper,19.7028,-101.1922,reviewed: keep: selected before; per-city cap must not displace it
 no,MX,The News,Mexico City,,http://www.thenews.com.mx/,en,daily,3,,,Q7753916,2,newspaper,19.3538,-99.1359,reviewed: regional outlet without a reachable feed – replaced
 no,MX,Hidrocálido,Aguascalientes,,http://www.hidrocalidodigital.com/,es,daily,3,,,Q24263797,2,news website; newspaper,21.8808,-102.2961,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
 no,MX,My Press,Ciudad de México,,https://www.mypress.mx,es,daily,3,,,Q30084315,2,newspaper,19.3538,-99.1359,
-yes,MX,El Porvenir de Monterrey,Monterrey,,http://www.elporvenir.mx/,es,daily,3,,,Q30598669,2,newspaper; news website,25.6844,-100.3181,"language from country default; types: daily, online"
+yes,MX,El Porvenir de Monterrey,Monterrey,,http://www.elporvenir.mx/,es,daily,3,,,Q30598669,2,newspaper; news website,25.6844,-100.3181,"reviewed: keep: selected before; per-city cap must not displace it; language from country default; types: daily, online"
 no,MX,El Financiero,Ciudad de México,,http://www.elfinanciero.com.mx/,es,daily,3,,,Q42911288,2,daily newspaper; news website; newspaper,19.3538,-99.1359,"types: daily, online"
-yes,MX,El Siglo de Durango,Victoria de Durango,,https://www.elsiglodedurango.com.mx,es,daily,3,,,Q65032582,2,news website; newspaper,24.0228,-104.6544,"types: daily, online"
+yes,MX,El Siglo de Durango,Victoria de Durango,,https://www.elsiglodedurango.com.mx,es,daily,3,,,Q65032582,2,news website; newspaper,24.0228,-104.6544,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,The Herald Mexico,Mexico City,,http://www.mexiconews.com.mx/,en,daily,3,,,Q7739408,2,newspaper,19.3538,-99.1359,reviewed: regional outlet without a reachable feed – replaced
-yes,MX,El Heraldo de Juárez,Ciudad Juárez,,http://www.elheraldodejuarez.com.mx/,es,daily,3,,,Q106478296,2,newspaper; news website,31.6685,-106.4200,"language from country default; types: daily, online"
+yes,MX,El Heraldo de Juárez,Ciudad Juárez,,http://www.elheraldodejuarez.com.mx/,es,daily,3,,,Q106478296,2,newspaper; news website,31.6685,-106.4200,"reviewed: keep: selected before; per-city cap must not displace it; language from country default; types: daily, online"
 no,MX,El Debate,Culiacán,,http://www.debate.com.mx,es,online,3,,,Q5351109,2,periodical; news website,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,MX,Lado B,,,https://www.ladobe.com.mx/,es,online,3,,,Q65159376,2,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,MX,riodoce.mx,,,http://riodoce.mx/,es,weekly,3,,,Q1982980,1,magazine; weekly newspaper; news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online, weekly"
-yes,MX,El Sol de Hidalgo,Pachuca de Soto,,http://www.oem.com.mx/elsoldehidalgo/,es,daily,3,,,Q5823380,1,newspaper,20.1225,-98.7361,
+yes,MX,El Sol de Hidalgo,Pachuca de Soto,,http://www.oem.com.mx/elsoldehidalgo/,es,daily,3,,,Q5823380,1,newspaper,20.1225,-98.7361,reviewed: keep: selected before; per-city cap must not displace it
 no,MX,El Sol de México,Ciudad de México,,http://www.elsoldemexico.com.mx,es,daily,3,,,Q5823385,1,newspaper,19.3538,-99.1359,
-yes,MX,El Sol de Tampico,Tampico,,http://www.elsoldetampico.com.mx,es,daily,3,,,Q5823390,1,newspaper,22.2372,-97.8700,
-yes,MX,El Sol de Toluca,Toluca de Lerdo,,http://www.elsoldetoluca.com.mx/,es,daily,3,,,Q5823395,1,newspaper; news website,19.2922,-99.6539,"types: daily, online"
+yes,MX,El Sol de Tampico,Tampico,,http://www.elsoldetampico.com.mx,es,daily,3,,,Q5823390,1,newspaper,22.2372,-97.8700,reviewed: keep: selected before; per-city cap must not displace it
+yes,MX,El Sol de Toluca,Toluca de Lerdo,,http://www.elsoldetoluca.com.mx/,es,daily,3,,,Q5823395,1,newspaper; news website,19.2922,-99.6539,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,Esto (diario),Ciudad de México,,http://www.esto.com.mx,es,daily,3,,,Q5849477,1,newspaper,19.3538,-99.1359,
 no,MX,Tabasco Hoy,Villahermosa,,http://www.tabascohoy.com.mx,es,daily,3,,,Q6137740,1,newspaper,17.9878,-92.9194,reviewed: regional outlet without a reachable feed – replaced
-yes,MX,Juárez Hoy,Ciudad Juárez,,http://juarezhoy.com.mx/,es,daily,3,,,Q6319227,1,newspaper,31.6685,-106.4200,
+yes,MX,Juárez Hoy,Ciudad Juárez,,http://juarezhoy.com.mx/,es,daily,3,,,Q6319227,1,newspaper,31.6685,-106.4200,reviewed: keep: selected before; per-city cap must not displace it
 no,MX,vozdemichoacan.com.mx,Municipio de Morelia,,http://www.vozdemichoacan.com.mx/,es,daily,3,,,Q6465909,1,newspaper; news website,19.6361,-101.2589,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
 no,MX,Última Hora,Nuevo Laredo,,http://www.ultimahora.com.mx/,es,daily,3,,,Q8079383,1,newspaper,27.4774,-99.5252,reviewed: regional outlet without a reachable feed – replaced; language from country default
-yes,MX,El Imparcial,Hermosillo,,http://www.elimparcial.com/,es,daily,3,,,Q54823820,1,news website; newspaper,29.0750,-110.9583,"language from country default; types: daily, online"
+yes,MX,El Imparcial,Hermosillo,,http://www.elimparcial.com/,es,daily,3,,,Q54823820,1,news website; newspaper,29.0750,-110.9583,"reviewed: keep: selected before; per-city cap must not displace it; language from country default; types: daily, online"
 no,MX,Madera,Ciudad de México,,http://movimientosarmados.colmex.mx/items/browse?collection=1,es,daily,3,,,Q56872842,1,newspaper,19.3538,-99.1359,
-yes,MX,El Heraldo de Chihuahua,Chihuahua,,http://www.elheraldodechihuahua.com.mx/,es,daily,3,,,Q87116221,1,news website; newspaper,28.6369,-106.0769,"types: daily, online"
-yes,MX,Diario de Morelos,Municipio de Cuernavaca,,https://www.diariodemorelos.com/noticias/,es,daily,3,,,Q87116591,1,news website; newspaper,18.9250,-99.2500,"language from country default; types: daily, online"
+yes,MX,El Heraldo de Chihuahua,Chihuahua,,http://www.elheraldodechihuahua.com.mx/,es,daily,3,,,Q87116221,1,news website; newspaper,28.6369,-106.0769,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,Diario de Morelos,Municipio de Cuernavaca,,https://www.diariodemorelos.com/noticias/,es,daily,3,,,Q87116591,1,news website; newspaper,18.9250,-99.2500,"reviewed: keep: selected before; per-city cap must not displace it; language from country default; types: daily, online"
 yes,MX,El Diario de Juárez,Ciudad Juárez,,https://diario.mx/,es,daily,3,,,Q87401928,1,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
-yes,MX,El Diario de Chihuahua,Chihuahua,,https://www.eldiariodechihuahua.mx/,es,daily,3,,,Q90427682,1,newspaper,28.6369,-106.0769,
+yes,MX,El Diario de Chihuahua,Chihuahua,,https://www.eldiariodechihuahua.mx/,es,daily,3,,,Q90427682,1,newspaper,28.6369,-106.0769,reviewed: keep: selected before; per-city cap must not displace it
 no,MX,Periódico ABC,Monterrey,,https://abcnoticias.mx/,es,daily,3,,,Q78352993,1,newspaper; news website,25.6844,-100.3181,"types: daily, online"
 no,MX,EjeCentral,Ciudad de México,,https://www.ejecentral.com.mx/,es,daily,3,,,Q130287426,1,company; newspaper; news website,19.3538,-99.1359,"language from country default; types: daily, online"
 no,MX,Pie de Página,,,https://piedepagina.mx/,es,online,3,,,Q115653270,1,web portal; communications media; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
@@ -62,45 +62,45 @@ no,MX,El Heraldo de Aguascalientes,Aguascalientes,,http://heraldo.mx/,es,daily,3
 no,MX,El Orbe,Tapachula de Córdova y Ordóñez,,http://elorbe.com/,es,daily,3,,,Q87116212,0,news website; newspaper,14.9111,-92.2643,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
 no,MX,El Regio,Monterrey,,http://elregio.com/,es,daily,3,,,Q87116213,0,news website; newspaper,25.6844,-100.3181,"language from country default; types: daily, online"
 no,MX,El Diario de Coahuila,Saltillo,,http://www.eldiariodecoahuila.com.mx/,es,daily,3,,,Q87116219,0,news website; newspaper,25.4231,-100.9919,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
-yes,MX,El Heraldo de Saltillo,Saltillo,,http://www.elheraldodesaltillo.mx/,es,daily,3,,,Q87116222,0,news website; newspaper,25.4231,-100.9919,"types: daily, online"
+yes,MX,El Heraldo de Saltillo,Saltillo,,http://www.elheraldodesaltillo.mx/,es,daily,3,,,Q87116222,0,news website; newspaper,25.4231,-100.9919,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,El Independiente de Hidalgo,Municipio de Pachuca de Soto,,http://www.elindependientedehidalgo.com.mx/,es,daily,3,,,Q87116226,0,news website; newspaper,20.1058,-98.7775,"reviewed: regional outlet without a reachable feed – replaced; language from country default; types: daily, online"
 no,MX,El Mercurio de Tamaulipas,,,http://www.elmercurio.com.mx/,es,daily,3,,,Q87116240,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
 no,MX,El Sol del Centro,,,http://www.elsoldelcentro.com.mx/,es,daily,3,,,Q87116255,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
-yes,MX,El Sol del Bajio,Municipio de Celaya,,https://www.elsoldelbajio.com.mx/,es,daily,3,,,Q87116253,0,news website; newspaper,20.5200,-100.7500,"types: daily, online"
+yes,MX,El Sol del Bajio,Municipio de Celaya,,https://www.elsoldelbajio.com.mx/,es,daily,3,,,Q87116253,0,news website; newspaper,20.5200,-100.7500,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,El Sol de Parral,,,https://www.elsoldeparral.com.mx/,es,daily,3,,,Q87116264,0,news website; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
-yes,MX,El Sol de Tijuana,Tijuana,,http://www.elsoldetijuana.com.mx/,es,daily,3,,,Q87116270,0,news website; newspaper,32.5364,-117.0372,"types: daily, online"
+yes,MX,El Sol de Tijuana,Tijuana,,http://www.elsoldetijuana.com.mx/,es,daily,3,,,Q87116270,0,news website; newspaper,32.5364,-117.0372,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,El Sol de San Juan del Río,,,http://www.elsoldesanjuandelrio.com.mx/,es,daily,3,,,Q87116269,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
-yes,MX,El Sol de Tlaxcala,Municipio de Tlaxcala,,https://www.elsoldetlaxcala.com.mx/,es,daily,3,,,Q87116272,0,news website; newspaper,19.3169,-98.2382,"types: daily, online"
-yes,MX,El Sol De Zacatecas,Municipio de Zacatecas,,http://www.elsoldezacatecas.com.mx/,es,daily,3,,,Q87116276,0,news website; newspaper,22.7389,-102.7022,"types: daily, online"
+yes,MX,El Sol de Tlaxcala,Municipio de Tlaxcala,,https://www.elsoldetlaxcala.com.mx/,es,daily,3,,,Q87116272,0,news website; newspaper,19.3169,-98.2382,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,El Sol De Zacatecas,Municipio de Zacatecas,,http://www.elsoldezacatecas.com.mx/,es,daily,3,,,Q87116276,0,news website; newspaper,22.7389,-102.7022,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,El Sur de Campeche,San Francisco de Campeche,,http://www.elsur.com.mx/,es,daily,3,,,Q87116296,0,news website; newspaper,19.8448,-90.5396,"reviewed: regional outlet without a reachable feed – replaced; language from country default; types: daily, online"
-yes,MX,El Sol de Acapulco,Acapulco de Juárez,,https://www.elsoldeacapulco.com.mx/,es,daily,3,,,Q87116307,0,news website; newspaper,16.8629,-99.8870,"types: daily, online"
+yes,MX,El Sol de Acapulco,Acapulco de Juárez,,https://www.elsoldeacapulco.com.mx/,es,daily,3,,,Q87116307,0,news website; newspaper,16.8629,-99.8870,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,La Jornada de Zacatecas,Municipio de Guadalupe,,http://ljz.mx/,es,daily,3,,,Q87116311,0,news website; newspaper,30.8833,-105.5833,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
 no,MX,La Voz de Monclova,,,http://periodicolavoz.com.mx/secciones/monclova/,es,daily,3,,,Q87116312,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
-yes,MX,La Voz del Sureste,Tuxtla Gutiérrez,,http://www.diariolavozdelsureste.com/,es,daily,3,,,Q87116327,0,news website; newspaper,16.7531,-93.1156,"language from country default; types: daily, online"
+yes,MX,La Voz del Sureste,Tuxtla Gutiérrez,,http://www.diariolavozdelsureste.com/,es,daily,3,,,Q87116327,0,news website; newspaper,16.7531,-93.1156,"reviewed: keep: selected before; per-city cap must not displace it; language from country default; types: daily, online"
 no,MX,La Unión de Morelos,Municipio de Cuernavaca,,http://www.launion.com.mx/,es,daily,3,,,Q87116331,0,news website; newspaper,18.9250,-99.2500,"reviewed: regional outlet without a reachable feed – replaced; language from country default; types: daily, online"
-yes,MX,La Jornada de Oriente,Heroica Puebla de Zaragoza,,http://www.jornada.unam.mx/,es,daily,3,,,Q87116329,0,news website; newspaper,19.0514,-98.2178,"types: daily, online"
-yes,MX,La Voz de la Frontera,Mexicali,,http://www.lavozdelafrontera.com.mx/,es,daily,3,,,Q87116333,0,news website; newspaper,32.6360,-115.4759,"types: daily, online"
+yes,MX,La Jornada de Oriente,Heroica Puebla de Zaragoza,,http://www.jornada.unam.mx/,es,daily,3,,,Q87116329,0,news website; newspaper,19.0514,-98.2178,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,La Voz de la Frontera,Mexicali,,http://www.lavozdelafrontera.com.mx/,es,daily,3,,,Q87116333,0,news website; newspaper,32.6360,-115.4759,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,Enfoque Informativo de Nayarit,,,https://enfoquenayarit.com/,es,daily,3,,,Q87116341,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
 no,MX,Novedades Acapulco,,,https://novedadesaca.mx/,es,daily,3,,,Q87116523,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
 no,MX,Diario de Palenque,,,http://diariodepalenque.com.mx/,es,daily,3,,,Q87116531,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
-yes,MX,Noticias de Chiapas,Tapachula de Córdova y Ordóñez,,http://noticiasdechiapas.com.mx/,es,daily,3,,,Q87116556,0,news website; newspaper,14.9111,-92.2643,"language from country default; types: daily, online"
-yes,MX,Periódico Correo,Municipio de Guanajuato,,http://periodicocorreo.com.mx/,es,daily,3,,,Q87116561,0,news website; newspaper,21.0333,-101.2417,"types: daily, online"
+yes,MX,Noticias de Chiapas,Tapachula de Córdova y Ordóñez,,http://noticiasdechiapas.com.mx/,es,daily,3,,,Q87116556,0,news website; newspaper,14.9111,-92.2643,"reviewed: keep: selected before; per-city cap must not displace it; language from country default; types: daily, online"
+yes,MX,Periódico Correo,Municipio de Guanajuato,,http://periodicocorreo.com.mx/,es,daily,3,,,Q87116561,0,news website; newspaper,21.0333,-101.2417,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,Realidades,,,http://realidadesperiodico.com/,es,daily,3,,,Q87116567,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
 no,MX,Diario de Colima,Colima,,http://www.diariodecolima.com/,es,daily,3,,,Q87116590,0,news website; newspaper,19.2429,-103.7281,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
-yes,MX,Diario de Xalapa,Xalapa-Enríquez,,http://www.diariodexalapa.com.mx/,es,daily,3,,,Q87116595,0,news website; newspaper,19.5312,-96.9159,"types: daily, online"
-yes,MX,Diario de Querétaro,Municipio de Querétaro,,http://www.diariodequeretaro.com.mx/,es,daily,3,,,Q87116593,0,news website; newspaper,20.7200,-100.4500,"types: daily, online"
+yes,MX,Diario de Xalapa,Xalapa-Enríquez,,http://www.diariodexalapa.com.mx/,es,daily,3,,,Q87116595,0,news website; newspaper,19.5312,-96.9159,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,Diario de Querétaro,Municipio de Querétaro,,http://www.diariodequeretaro.com.mx/,es,daily,3,,,Q87116593,0,news website; newspaper,20.7200,-100.4500,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,Diario de Quintana Roo,Chetumal,,http://www.dqr.com.mx/,es,daily,3,,,Q87116612,0,news website; newspaper,18.4939,-88.2979,"reviewed: regional outlet without a reachable feed – replaced; language from country default; types: daily, online"
 no,MX,Novedades Campeche,San Francisco de Campeche,,http://www.novedadescampeche.com.mx/,es,daily,3,,,Q87116701,0,news website; newspaper,19.8448,-90.5396,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
 no,MX,Quintana Roo Hoy,,,http://www.quintanaroohoy.com/,es,daily,3,,,Q87116727,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
-yes,MX,Tribuna de Campeche,San Francisco de Campeche,,http://www.tribunacampeche.com/,es,daily,3,,,Q87116731,0,news website; newspaper,19.8448,-90.5396,"types: daily, online"
-yes,MX,Tribuna de Los Cabos,San José del Cabo,,http://www.tribunadeloscabos.com.mx/,es,daily,3,,,Q87116734,0,news website; newspaper,23.0617,-109.7114,"types: daily, online"
-yes,MX,Vanguardia- Saltillo,Saltillo,,http://www.vanguardia.com.mx/,es,daily,3,,,Q87116736,0,news website; newspaper,25.4231,-100.9919,"types: daily, online"
+yes,MX,Tribuna de Campeche,San Francisco de Campeche,,http://www.tribunacampeche.com/,es,daily,3,,,Q87116731,0,news website; newspaper,19.8448,-90.5396,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,Tribuna de Los Cabos,San José del Cabo,,http://www.tribunadeloscabos.com.mx/,es,daily,3,,,Q87116734,0,news website; newspaper,23.0617,-109.7114,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
+yes,MX,Vanguardia- Saltillo,Saltillo,,http://www.vanguardia.com.mx/,es,daily,3,,,Q87116736,0,news website; newspaper,25.4231,-100.9919,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,El Popular,,,http://www.elpopular.mx/,es,daily,3,,,Q87119319,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
 no,MX,El Mañana,Municipio de Nuevo Laredo,,https://elmanana.com.mx,es,daily,3,,,Q87119317,0,news website; newspaper,27.4667,-99.6750,"reviewed: regional outlet without a reachable feed – replaced; language from country default; types: daily, online"
-yes,MX,El Sol de Sinaloa,Municipio de Culiacán,,http://www.elsoldesinaloa.com.mx/,es,daily,3,,,Q87119323,0,news website; newspaper,24.6667,-107.4311,"types: daily, online"
+yes,MX,El Sol de Sinaloa,Municipio de Culiacán,,http://www.elsoldesinaloa.com.mx/,es,daily,3,,,Q87119323,0,news website; newspaper,24.6667,-107.4311,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,Sintesis,,,https://sintesis.com.mx/hidalgo/,es,daily,3,,,Q87119344,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
 no,MX,AM (Mexico),,,http://www.am.com.mx/,es,daily,3,,,Q87119349,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
-yes,MX,Cuarto Poder,Tuxtla Gutiérrez,,http://www.cuarto-poder.com.mx/,es,daily,3,,,Q87119370,0,news website; newspaper,16.7531,-93.1156,"types: daily, online"
+yes,MX,Cuarto Poder,Tuxtla Gutiérrez,,http://www.cuarto-poder.com.mx/,es,daily,3,,,Q87119370,0,news website; newspaper,16.7531,-93.1156,"reviewed: keep: selected before; per-city cap must not displace it; types: daily, online"
 no,MX,Diario del Sur,,,https://www.diariodelsur.com.mx/,es,daily,3,,,Q87119379,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
 no,MX,El Vigía,Ensenada,,http://www.elvigia.net/,es,daily,3,,,Q87119383,0,news website; newspaper,31.8578,-116.6058,"reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions); language from country default; types: daily, online"
 no,MX,Diario Imagen,,,http://www.diarioimagenqroo.mx,es,daily,3,,,Q87119381,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
@@ -108,9 +108,9 @@ no,MX,Liberal del Sur,Coatzacoalcos,,http://www.liberal.com.mx/,es,daily,3,,,Q87
 no,MX,Plaza Juárez,,,http://www.plazajuarez.mx/,es,daily,3,,,Q87119412,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
 no,MX,Publimetro México,,,https://www.publimetro.com.mx,es,daily,3,,,Q87119416,0,news website; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
 no,MX,La Opinión De Poza Rica,Municipio de Poza Rica de Hidalgo,,http://www.laopinion.com.mx/,es,daily,3,,,Q87122376,0,news website; newspaper,20.5357,-97.4335,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
-yes,MX,SDPNoticias,México,,https://www.sdpnoticias.com/,es,daily,3,,,Q100700987,0,daily newspaper; newspaper,23.0000,-102.0000,language from country default
+yes,MX,SDPNoticias,México,,https://www.sdpnoticias.com/,es,daily,3,,,Q100700987,0,daily newspaper; newspaper,23.0000,-102.0000,reviewed: keep: selected before; per-city cap must not displace it; language from country default
 no,MX,El Sol de Chiapas,,,https://www.elsoldechiapas.com,es,daily,3,,,Q104145530,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-yes,MX,El Universal Hidalgo,Pachuca de Soto,,https://www.eluniversalhidalgo.com.mx/,es,daily,3,,,Q140763952,0,newspaper,20.1225,-98.7361,
+yes,MX,El Universal Hidalgo,Pachuca de Soto,,https://www.eluniversalhidalgo.com.mx/,es,daily,3,,,Q140763952,0,newspaper,20.1225,-98.7361,reviewed: keep: selected before; per-city cap must not displace it
 no,MX,MedioTiempo,,,https://www.mediotiempo.com/,es,daily,3,,,Q137942576,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
 no,MX,El Ecuánime,,,https://elecuanime.com/,es,online,3,,,Q119833070,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
 no,MX,Reporte Indigo,,,https://www.reporteindigo.com/,es,online,3,,,Q86493820,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

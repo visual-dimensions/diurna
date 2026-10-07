@@ -31,6 +31,7 @@ import sys
 import unicodedata
 import urllib.request
 import zipfile
+from urllib.parse import urlsplit
 from collections import Counter
 from pathlib import Path
 
@@ -169,9 +170,40 @@ def read_seed() -> list[dict]:
     return rows
 
 
+SANCTIONS_FILE = Path(__file__).resolve().parent.parent / "data" / "sanctioned_media.csv"
+
+
+def sanctioned_domains() -> dict[str, str]:
+    """Outlets under the EU ban on disseminating their content (Reg. 833/2014 Art. 2f, Annex XV).
+
+    Showing their headlines and links would contribute to that dissemination, so they are
+    never listed – whichever seed file they come from. Data, not code: data/sanctioned_media.csv.
+    """
+    if not SANCTIONS_FILE.exists():
+        return {}
+    with SANCTIONS_FILE.open(encoding="utf-8", newline="") as f:
+        return {r["domain"].lower(): r["name"] for r in csv.DictReader(f)}
+
+
+def host_of(url: str) -> str:
+    host = urlsplit(url if "://" in url else "http://" + url).hostname or ""
+    return re.sub(r"^(www\d?|m)\.", "", host.lower())
+
+
+def is_sanctioned(url: str, banned: dict[str, str]) -> str:
+    host = host_of(url)
+    return next((name for dom, name in banned.items() if host == dom or host.endswith("." + dom)), "")
+
+
 def main() -> int:
     gazetteers = {name: load_geonames(name) for name in GEONAMES_DATASETS}
-    seed = read_seed()
+    banned = sanctioned_domains()
+    seed = []
+    for row in read_seed():
+        if hit := is_sanctioned(row["homepage"], banned):
+            print(f"excluded ({row['_origin']}): {row['name']} – EU sanctions list ({hit})", file=sys.stderr)
+            continue
+        seed.append(row)
     existing = {}
     if SOURCES_FILE.exists():
         existing = {s["id"]: s for s in json.loads(SOURCES_FILE.read_text(encoding="utf-8"))}
@@ -182,6 +214,7 @@ def main() -> int:
     known_ids = {(s["name"], s["country"]): s["id"] for s in existing.values()}
     used = set(existing)
     sources, report, problems = [], [], 0
+    origins: list[str] = []
 
     for row in seed:
         sid = row.get("id") or known_ids.get((row["name"], row["country"]))
@@ -224,6 +257,7 @@ def main() -> int:
             print(f"WARN {row['_origin']} {row['name']} ({row['city']}, {row['country']}): {'; '.join(errors)}", file=sys.stderr)
             continue
 
+        origins.append(row["_origin"])
         source = {
             "id": sid,
             "name": row["name"],
@@ -252,6 +286,31 @@ def main() -> int:
     if duplicates:
         print(f"ERROR duplicate ids: {duplicates}", file=sys.stderr)
         return 1
+
+    # One GeoNames place, one city name: seeds spell the same city differently (Wien/Vienna,
+    # Hà Nội/Hanoi, Moskva/Moscow). Outlets geocoded to exactly the same place get the name
+    # from the hand-made europe.csv if it has one (both, if it uses two), else the most common one.
+    by_place: dict[tuple, list[tuple[dict, str]]] = {}
+    for src, origin in zip(sources, origins):
+        by_place.setdefault((src["lat"], src["lon"], src["city_country"]), []).append((src, origin))
+    for group in by_place.values():
+        names = Counter(src["city"] for src, _ in group)
+        if len(names) < 2:
+            continue
+        preferred = sorted({src["city"] for src, origin in group if origin.startswith("europe.csv")})
+        # A bilingual city named both ways in the hand-made list keeps both: "Brussel / Bruxelles".
+        canonical = " / ".join(preferred) if preferred else names.most_common(1)[0][0]
+        for src, _ in group:
+            src["city"] = canonical
+
+    # The frontend groups outlets by city name: one place under two names (Moscow/Moskva,
+    # Petrozavodsk/Petroskoi) would become two cities on the same spot.
+    names_at: dict[tuple, set[str]] = {}
+    for src in sources:
+        names_at.setdefault((round(src["lat"], 1), round(src["lon"], 1), src["city_country"]), set()).add(src["city"])
+    for (lat, lon, cc), names in sorted(names_at.items()):
+        if len(names) > 1:
+            print(f"WARNING one place, several city names ({cc} {lat},{lon}): {', '.join(sorted(names))}", file=sys.stderr)
 
     payload = json.dumps(sources, ensure_ascii=False, indent=2) + "\n"
     SOURCES_FILE.parent.mkdir(parents=True, exist_ok=True)

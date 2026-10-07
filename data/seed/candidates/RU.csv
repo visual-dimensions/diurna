@@ -1,0 +1,312 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,RU,Izvestia,Moscow,,http://www.izvestia.ru/,ru,daily,1,,,Q753932,38,government gazette; newspaper,55.7506,37.6175,
+yes,RU,Novaya Gazeta,Moscow,,https://novayagazeta.ru/,ru,daily,1,,,Q170135,37,newspaper; online newspaper,,,"reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,RU,Komsomolskaya Pravda,Moscow,,https://www.kp.ru/,ru,daily,1,,,Q849047,35,daily newspaper,55.7506,37.6175,
+seeded,RU,Kommersant,Moscow,,https://www.kommersant.ru/,ru,daily,1,,,Q1780189,34,daily newspaper,55.7506,37.6175,
+no,RU,The Moscow Times,Amsterdam,NL,https://www.themoscowtimes.com/,ru,daily,1,exile,,Q1202611,30,newspaper; news website; daily newspaper; organization,52.3667,4.8833,"types: daily, online; newsroom abroad (NL) – exile?; not pre-selected: newsroom abroad"
+no,RU,Krasnaya Zvezda,Khoroshovskoye highway,,http://www.redstar.ru,ru,daily,1,,,Q739387,27,periodical; military newspaper,55.7761,37.5331,not pre-selected: EU sanctions list (data/sanctioned_media.csv)
+seeded,RU,Rossiyskaya Gazeta,,,https://rg.ru/,ru,daily,1,,,Q1853433,25,periodical; website; newspaper; government gazette,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: EU sanctions list (data/sanctioned_media.csv)
+no,RU,Literaturnaya gazeta,,,https://lgz.ru/,ru,daily,1,,,Q1865276,22,literary newspaper; newspaper,,,reviewed: literary weekly; no place of publication/headquarters in Wikidata – fill in city
+no,RU,Nezavisimaya Gazeta,Moscow,,https://www.ng.ru/,ru,daily,1,,,Q946366,21,newspaper,55.7506,37.6175,
+no,RU,Russia Beyond,Moscow,,https://www.rbth.com/,en,daily,1,,,Q4048611,21,newspaper; website,55.7506,37.6175,not pre-selected: EU sanctions list (data/sanctioned_media.csv)
+no,RU,Lenta.ru,Moscow,,https://lenta.ru/,ru,online,1,,,Q658909,21,online newspaper,55.7506,37.6175,not pre-selected: EU sanctions list (data/sanctioned_media.csv)
+yes,RU,Moskovskij Komsomolets,Moscow,,https://www.mk.ru/,ru,daily,1,,,Q1062623,20,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,RU,The Insider,Moscow,,https://theins.ru,ru,online,1,,,Q48940439,20,news website,55.7506,37.6175,
+yes,RU,Trud,Moscow,,http://www.trud.ru/,ru,daily,2,,,Q1195809,17,newspaper,55.7625,37.6133,reviewed: Wikidata place is a street
+no,RU,Russkiy Mir Foundation,Moscow,,https://russkiymir.ru/,ru,online,1,,,Q1584496,17,organization; foundation; online newspaper,55.7506,37.6175,language from country default
+yes,RU,Vedomosti,Moscow,,https://www.vedomosti.ru/,ru,daily,1,,,Q2304119,16,daily newspaper,55.7506,37.6175,reviewed: leading business daily
+yes,RU,Kodima,Petrozavodsk,,http://kodima.rkperiodika.ru,ru,daily,2,,,Q985193,14,newspaper,61.7833,34.3500,
+no,RU,MediaZona,,,https://zona.media/,ru,online,2,,,Q28135463,14,news website; news media,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Limonka,Moscow,,http://limonka.nbp-info.com/,ru,daily,2,,,Q2494397,13,newspaper,55.7506,37.6175,reviewed: party paper
+no,RU,gazeta.ru,,,https://www.gazeta.ru/,ru,online,2,,,Q595181,12,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,The Bookmaker Ratings,Moscow,,https://bookmaker-ratings.ru,ru,online,2,,,Q28739789,11,organization; website; news agency; online newspaper,55.7506,37.6175,reviewed: betting site; not pre-selected: magazine/online below tier 1
+yes,RU,Birobidzhaner Shtern,Birobidzhan,,http://www.gazetaeao.ru/gazetiy/birobidjaner-shtern.html,ru,daily,2,,,Q905507,10,newspaper,48.7833,132.9333,
+no,RU,Caucasian Knot,Moscow,,https://www.kavkaz-uzel.media/,ru,online,2,,,Q16829008,10,website; online newspaper,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,Proekt,,,https://www.proekt.media/,ru,online,2,,,Q105301670,10,website; online newspaper; organization; mass media,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,metaratings.ru,Moscow,,https://metaratings.ru,ru,online,2,,,Q100742812,9,organization; news agency; website; online newspaper,55.7506,37.6175,reviewed: betting site; not pre-selected: magazine/online below tier 1
+no,RU,Vechernyaya Moskva,Moscow,,https://vm.ru/,ru,daily,2,,,Q2614109,8,newspaper,55.7506,37.6175,
+yes,RU,RBK daily,Moscow,,http://www.rbc.ru,ru,online,1,,,Q4386462,8,newspaper,,,reviewed: place filled in; RBC news portal; RBC news portal; RBC news portal; RBC news portal; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,iStories,Latvia,LV,https://istories.media/,ru,online,2,exile,,Q105322853,8,news website,57.0000,25.0000,"newsroom abroad (LV) – exile?; not pre-selected: newsroom abroad, magazine/online below tier 1"
+no,RU,Zavtra,,,http://zavtra.ru/,ru,daily,2,,,Q4183309,7,newspaper,,,reviewed: political weekly; no place of publication/headquarters in Wikidata – fill in city
+no,RU,Rosbalt,,,http://www.rosbalt.ru,ru,online,2,,,Q4397735,7,news agency; website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,RU,Karjalan Sanomat,Petroskoi,,http://karjalansanomat.ru/,fi,daily,2,,,Q2010714,7,newspaper,61.7833,34.3500,
+no,RU,Civic Chamber of the Russian Federation,,,https://oprf.ru/,ru,online,2,,,Q1518687,7,institution; organization; news website,,,reviewed: state body; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Moskauer Deutsche Zeitung,Moscow,,http://www.mdz-moskau.eu/,ru,daily,2,,,Q283570,6,newspaper,55.7506,37.6175,reviewed: community paper (German)
+no,RU,Ilchi,,,https://ilchi.info/,ru,daily,2,,,Q2509208,6,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Novy Vzglyad,Moscow,,http://www.newlookmedia.ru/,ru,daily,2,,,Q2044030,6,newspaper,55.7506,37.6175,
+no,RU,Groznensky Rabochy,,,http://grozrab.org/,ru,daily,2,,,Q4150087,6,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Newizv,Artamonova Street,,https://newizv.ru,ru,online,2,,,Q2377626,6,website; online newspaper,55.7189,37.4569,not pre-selected: magazine/online below tier 1
+no,RU,The Moscow News,,,http://themoscownews.com/,en,daily,2,,,Q16269733,6,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,RU,Adyge psale,Nalchik,,https://apkbr.ru/,ru,daily,3,,,Q3760353,5,newspaper,43.4833,43.6167,language from country default
+no,RU,Khypar,Cheboksary,,http://hypar.ru/,cv,daily,3,,,Q1393659,5,newspaper,56.1333,47.2500,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Gudok,Moscow,,http://www.gudok.ru/,ru,daily,3,,,Q4151629,5,newspaper,55.7506,37.6175,reviewed: trade paper (railways)
+no,RU,Magadanskaya Pravda,Magadan,,http://magadanpravda.ru,ru,daily,3,,,Q48955677,5,newspaper,59.5667,150.8000,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Interlocutor,Moscow,,http://sobesednik.ru,ru,daily,3,,,Q22999268,5,newspaper,55.7506,37.6175,
+no,RU,Moskovskaya Pravda,Ulitsa 1905 Goda,,http://www.mospravda.ru,ru,daily,3,,,Q3324817,5,daily newspaper,55.7650,37.5617,reviewed: Moscow city paper – outside this round
+no,RU,ukraina.ru,,,http://ukraina.ru/,ru,online,3,,,Q30890847,5,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,RU,Vzglyad,Moscow,,http://vz.ru/,ru,online,2,,,Q1970600,5,website; online newspaper,55.7506,37.6175,reviewed: established news site; not pre-selected: magazine/online below tier 1
+yes,RU,fontanka.ru,Saint Petersburg,,http://www.fontanka.ru/,ru,online,2,,,Q4491769,5,website; online newspaper,59.9301,30.3349,reviewed: Wikidata place is a building; not pre-selected: magazine/online below tier 1
+no,RU,Crimean truth,Simferopol,,http://c-pravda.ru,ru,daily,3,,,Q4242920,5,newspaper,44.9484,34.1000,reviewed: occupied territory (Crimea) – not listed under Russia
+no,RU,The Russia Journal,,,http://www.russiajournal.com,ru,daily,3,,,Q2430578,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,On the life’s way,Alikovo,,"http://www.smi21.ru/?mode=branch&path=branch,orgs&branch=1&orgs=15",cv,daily,3,state,https://ru.wikipedia.org/wiki/%D0%9F%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D1%83_%D0%BF%D1%83%D1%82%D0%B8,Q1393682,4,newspaper,55.7371,46.7506,reviewed: regional outlet without a reachable feed – replaced
+yes,RU,Vatanym Tatarstan,Kazan,,http://www.vatantat.ru,tt,daily,3,,,Q4105264,4,newspaper,55.7908,49.1144,
+yes,RU,Zamana,Makhachkala,,https://zamana.info,ru,daily,3,,,Q4185645,4,newspaper,42.9825,47.5050,language from country default
+no,RU,Nogai davysy,Cherkessk,,http://nogay-davysy.smi09.ru/,ru,daily,3,,,Q4326944,4,newspaper,44.2222,42.0575,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Kultura,Moscow,,https://portal-kultura.ru/,ru,daily,3,,,Q4426345,4,newspaper,55.7506,37.6175,reviewed: culture weekly
+no,RU,kasparov.ru,,,https://www.kasparov.ru/,ru,daily,3,,,Q17051126,4,website; newspaper,,,reviewed: political website; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Kiske Ufa,,,http://kiskeufa.ru,ba,daily,3,,,Q13055935,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Pereslavl Week,,,http://www.pereslavl.ru/pn/,ru,daily,3,,,Q16271771,4,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Mash,,,http://mash.ru,ru,online,3,,,Q48954641,4,online newspaper,,,reviewed: Telegram channel; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,The Village,,,https://www.the-village.ru/,ru,online,3,,,Q106765711,4,online newspaper,,,reviewed: lifestyle site; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,pravda.ru,,,http://www.pravda.ru/,ru,online,3,,,Q4375795,4,website; online newspaper,,,reviewed: tabloid site; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,The Russian Public Opinion Herald,Moscow,,http://www.levada.ru,ru,daily,3,,,Q946127,4,newspaper,55.7506,37.6175,reviewed: polling institute
+yes,RU,Daimohk,Grozny,,http://daymohk-gazet.ru/,ce,daily,3,,,Q4154069,3,newspaper,43.3125,45.6986,
+yes,RU,Delovoy Peterburg,Saint Petersburg,,http://www.dp.ru/,ru,daily,3,,,Q4157215,3,newspaper; periodical,59.9500,30.3167,
+no,RU,Inkery,,,http://www.inkeri.ru,ru,daily,3,,,Q4201119,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Magnitogorskii Rabochii,Magnitogorsk,,http://mr-info.ru,ru,daily,3,,,Q4274104,3,newspaper,53.3833,59.0333,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Hammer,Rostov-on-Don,,http://www.molotro.ru,ru,daily,3,,,Q4300909,3,newspaper,47.2225,39.7100,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,RU,Tabasarandin nurar,Makhachkala,,http://zoritabasarana.ru/,ru,daily,3,,,Q4449210,3,newspaper,42.9825,47.5050,language from country default
+no,RU,Pavlovo-Posadskiye izvestiya,,,http://ia42.mosoblonline.ru/,ru,daily,3,,,Q18342176,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Mirninsky Rabochy,Mirny,,https://www.mirrab.ru,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%80%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9,Q20625572,3,newspaper; periodical,62.5333,113.9500,reviewed: regional outlet without a reachable feed – replaced; founder per Russian Wikipedia: ГАУ РС (Я) «Сахапечать»; founder per Russian Wikipedia: ГАУ РС (Я) «Сахапечать»; founder per Russian Wikipedia: ГАУ РС (Я) «Сахапечать»
+no,RU,New Medical Gazette,,,http://nmgazette.narod.ru,ru,daily,3,,,Q23797734,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Znamya,,,http://znamkaluga.ru/,ru,daily,3,,,Q27924254,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Krasnoe znamya,Ruza,,http://inruza.ru/,ru,daily,3,,,Q107103414,3,newspaper,55.6989,36.1953,reviewed: district paper of the Moscow Oblast media network – very local
+no,RU,Vremya,Shchyolkovo,,http://in-schelkovo.ru/,ru,daily,3,,,Q107379518,3,newspaper,55.9167,38.0000,reviewed: district paper of the Moscow Oblast media network – very local; language from country default
+no,RU,Yakut-Sakha Information Agency,Yakutsk,,https://ysia.ru,ru,daily,3,,,Q130571825,3,news agency; online newspaper; newspaper,62.0272,129.7319,"reviewed: news agency; types: daily, online"
+no,RU,Russia Insider,,,http://russia-insider.com/en,ru,online,3,,,Q23680148,3,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Znak.com,,,http://znak.com,ru,online,3,,,Q28666321,3,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,GorodBRYANSK24,Bryansk,,http://gorodbryansk.info,ru,online,3,,,Q62071523,3,online newspaper; website,53.2425,34.3667,not pre-selected: magazine/online below tier 1
+no,RU,Odds.ru,Moscow,,https://odds.ru,ru,online,3,,,Q101094190,3,organization; news agency; website; online newspaper,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,Moscow region today,Moscow,,https://mosregtoday.ru/,ru,online,3,,,Q106988248,3,website; online newspaper,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,EurAsia Daily,,,https://eadaily.com,ru,online,3,,,Q115766948,3,online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; not pre-selected: EU sanctions list (data/sanctioned_media.csv), magazine/online below tier 1"
+no,RU,Republic,Moscow,,https://republic.ru/,ru,online,3,,,Q4049621,3,magazine; website; online newspaper,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,Canoner,Saint Petersburg,,http://kanoner.com/,ru,online,3,,,Q4215892,3,website; online newspaper,59.9500,30.3167,language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Russian Journal,,,http://russ.ru,ru,online,3,,,Q4400767,3,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Respublika Bashkortostan (gazeta),Ufa,,http://www.resbash.ru/,ru,daily,3,,,Q4393592,3,newspaper,54.7261,55.9475,reviewed: regional outlet without a reachable feed – replaced
+yes,RU,Ingushetia,Nazran,,http://gazetaingush.ru,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D1%83%D1%88%D0%B5%D1%82%D0%B8%D1%8F_%28%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%29,Q28478535,3,newspaper,43.2167,44.7667,reviewed: founder per Russian Wikipedia: ГАУ редакция газеты «Ингушетия»; language from country default
+no,RU,Tuvinskaja pravda,,,https://tuvapravda.ru/,ru,daily,3,,,Q60851908,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Panorama Information Agency,,,https://panorama.pub/,ru,online,3,,,Q86680550,3,website; nonprofit organization; fake news website; satire,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,168 Hours,,,http://www.168.ru,ru,daily,3,,,Q4029118,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Arseniev's News,Vladivostok,,http://arsvest.ru,ru,daily,3,,,Q4070051,2,newspaper,43.1150,131.8853,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Vecherny Chelny,Naberezhnye Chelny,,http://v-chelny.ru,ru,daily,3,,,Q4110175,2,newspaper,55.7149,52.3697,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Volgogradskaya Pravda,Volgograd,,http://www.vpravda.ru/,ru,daily,3,,,Q4122942,2,newspaper,48.7086,44.5147,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Book Review,,,http://www.knigoboz.ru/,ru,daily,3,,,Q4224707,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Musical Truth,Moscow,,http://text.newlookmedia.ru/?cat=1382,ru,daily,3,,,Q4306614,2,newspaper,55.7506,37.6175,language from country default
+no,RU,Our Version,Moscow,,http://www.versia.ru/,ru,daily,3,,,Q4315215,2,newspaper,55.7506,37.6175,language from country default
+no,RU,Nezavisimoye Voyennoye Obozreniye,Moscow,,http://www.nvo.ng.ru/,ru,daily,3,,,Q4316258,2,newspaper,55.7506,37.6175,
+yes,RU,Oblastnaya gazeta,Yekaterinburg,,https://www.oblgazeta.ru/,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0,Q4329284,2,newspaper,56.8356,60.6128,"reviewed: founder per Russian Wikipedia: Губернатор Свердловской области, Законодательное собрание Свердловской области; language from country default"
+no,RU,Orlovskaya pravda,,,https://regionorel.ru/,ru,daily,3,,,Q4336858,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Rural life (newspaper),Moscow,,http://www.sgazeta.ru/,ru,daily,3,,,Q4414011,2,newspaper,55.7506,37.6175,
+no,RU,Special Forces of Russia (newspaper),Moscow,,http://www.specnaz.ru/,ru,daily,3,,,Q4431115,2,newspaper,55.7506,37.6175,language from country default
+no,RU,Terskiye Vedomosti,Vladikavkaz,,http://www.terskievedomosti.ru,ru,daily,3,,,Q4456292,2,newspaper,43.0400,44.6775,reviewed: regional outlet without a reachable feed – replaced
+yes,RU,Tyumen region today,Tyumen,,http://www.tumentoday.ru/,ru,daily,3,,,Q4467485,2,newspaper,57.1500,65.5333,language from country default
+no,RU,Evenkijskaja žizn,Tura,,http://www.evenkya.ru/infoeg/,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B5%D0%BD%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C,Q4529628,2,newspaper,64.2833,100.2167,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Ömet,Ulyanovsk,,https://emet73.ru/,tt,daily,3,,,Q4531630,2,newspaper,54.3167,48.3667,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Yerkramas,Krasnodar,,https://yerkramas.org,ru,daily,3,,,Q8052612,2,newspaper; online newspaper,45.0333,38.9833,"reviewed: community paper (Armenian); types: daily, online"
+no,RU,The native land,,,http://www.tavan-en.ru,ru,daily,3,,,Q13210795,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Vesti the republic,Grozny,,http://vesti95.ru,ru,daily,3,,,Q15971579,2,newspaper,43.3125,45.6986,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Youth change,Grozny,,http://msmena.ru/,ru,daily,3,,,Q15977494,2,newspaper,43.3125,45.6986,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Northern truth,,,http://www.севернаяправда.рф/,ru,daily,3,,,Q16271798,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,RU,Surgutskaya tribuna,Surgut,,https://stribuna.ru/,ru,daily,3,,,Q16271821,2,newspaper; online newspaper,61.2500,73.4333,"types: daily, online"
+no,RU,Yaik,Bashkortostan,,https://yaikrb.com/,ba,daily,3,,,Q42883856,2,newspaper,54.4667,56.2667,reviewed: place is the republic
+no,RU,Karelskaya Gubernia,,,http://www.rep.ru/,ru,daily,3,,,Q21640113,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Sovetskaya Sibir,,,http://www.sovsibir.ru/,ru,daily,3,,,Q30887823,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,RU,Gorodskiye izvestiya (Kursk),Kursk,,https://gi-kursk.ru,ru,daily,3,,,Q130526736,2,newspaper; online newspaper; enterprise,51.7372,36.1872,"types: daily, online"
+no,RU,VC.ru,,,https://vc.ru,ru,online,3,,,Q17271303,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Debri-DV,Khabarovsk,,http://debri-dv.com,ru,online,3,,,Q28666937,2,website; online newspaper,48.4833,135.0667,not pre-selected: magazine/online below tier 1
+no,RU,ForPost,Sevastopol,,https://sevastopol.su,ru,online,3,,,Q57305993,2,online newspaper,44.6050,33.5225,not pre-selected: magazine/online below tier 1
+no,RU,Online Vologda,Vologda,,http://onlinevologda.ru,ru,online,3,,,Q63385915,2,online newspaper; news website,59.2167,39.9000,not pre-selected: magazine/online below tier 1
+no,RU,KrymPRESS,Sevastopol,,https://crimeapress.info,ru,online,3,,,Q63385947,2,online newspaper,44.6050,33.5225,not pre-selected: magazine/online below tier 1
+no,RU,Obshchestvennoe Mnenie,Saratov,,https://om-saratov.ru,ru,online,3,,,Q63430809,2,journal; online newspaper,51.5300,46.0350,not pre-selected: magazine/online below tier 1
+no,RU,53 novosti,Veliky Novgorod,,https://53news.ru/,ru,online,3,,,Q63433863,2,online newspaper; business; website,58.5210,31.2758,not pre-selected: magazine/online below tier 1
+no,RU,Novosti Saratova,Saratov,,http://novosti-saratova.ru,ru,online,3,,,Q64026963,2,online newspaper,51.5300,46.0350,not pre-selected: magazine/online below tier 1
+no,RU,rewizor.ru,,,http://www.rewizor.ru/,ru,online,3,,,Q97143791,2,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Baza,,,https://baza.io/,ru,online,3,,,Q103982633,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Takie dela,,,https://takiedela.ru/,ru,online,3,,,Q106472939,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,News.ru,,,https://news.ru/,ru,online,3,,,Q108257697,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Idel.Realities,Prague,CZ,https://idelreal.org,ru,online,3,exile,,Q109731240,2,online newspaper,50.0875,14.4214,"newsroom abroad (CZ) – exile?; not pre-selected: newsroom abroad, magazine/online below tier 1"
+no,RU,Stena.Online,Digital Technologies Academy of Saint Petersburg,,https://stena.online/,ru,online,3,,,Q115168492,2,website; online newspaper,,,not pre-selected: magazine/online below tier 1
+no,RU,Vyorstka,,,https://verstka.media/,ru,online,3,,,Q120931664,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,WellNews,Anapa,,https://www.wellnews.ru/,ru,online,3,,,Q126949921,2,online newspaper; enterprise,44.8944,37.3167,language from country default; not pre-selected: magazine/online below tier 1
+no,RU,The Penza Post,Penza,,https://penza-post.ru,ru,online,3,,,Q130268070,2,online newspaper,53.2000,45.0000,not pre-selected: magazine/online below tier 1
+no,RU,SMI58,Penza,,https://smi58.ru,ru,online,3,,,Q130268760,2,online newspaper,53.2000,45.0000,not pre-selected: magazine/online below tier 1
+no,RU,Info24,Donskoy District,,https://info24.ru,ru,online,3,,,Q130269752,2,online newspaper,55.7064,37.5997,not pre-selected: magazine/online below tier 1
+no,RU,Euromag,Akademichesky District,,https://www.euromag.ru,ru,online,3,,,Q130498186,2,magazine; online newspaper,55.6897,37.5731,not pre-selected: magazine/online below tier 1
+no,RU,7info,Ryazan,,https://7info.ru,ru,online,3,,,Q130504058,2,online newspaper; news agency,54.6300,39.7425,not pre-selected: magazine/online below tier 1
+no,RU,Bolshoy Rostov,Rostov-on-Don,,https://big-rostov.ru,ru,online,3,,,Q130525353,2,online newspaper,47.2225,39.7100,not pre-selected: magazine/online below tier 1
+no,RU,YakutiaMedia,Vladivostok,,https://yakutiamedia.ru,ru,online,3,,,Q130525977,2,online newspaper; news agency,43.1150,131.8853,not pre-selected: magazine/online below tier 1
+no,RU,62info.ru,Ryazan,,https://62info.ru,ru,online,3,,,Q130533785,2,news agency; online newspaper,54.6300,39.7425,not pre-selected: magazine/online below tier 1
+no,RU,hornews.com,Magnitogorsk,,https://hornews.com,ru,online,3,,,Q130537338,2,online newspaper,53.3833,59.0333,not pre-selected: magazine/online below tier 1
+no,RU,V gorode N,Nizhny Novgorod,,https://www.vgoroden.ru,ru,online,3,,,Q130540177,2,online newspaper; news agency,56.3269,44.0075,not pre-selected: magazine/online below tier 1
+no,RU,SarBC,Saratov,,https://www.sarbc.ru,ru,online,3,,,Q130545071,2,news agency; online newspaper,51.5300,46.0350,not pre-selected: magazine/online below tier 1
+no,RU,live24.ru,Moscow,,https://live24.ru/,ru,online,3,,,Q134883563,2,online newspaper,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,Crimean newspaper,,,https://gazetacrimea.ru/,ru,daily,3,,,Q112306179,2,printed matter; daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Priokskaya pravda,Ryazan,,http://priopravda.ru,ru,daily,3,,,Q125134094,2,daily newspaper,54.6300,39.7425,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Evropeysko-Aziatskie Novosti,,,http://EANews.ru,ru,online,3,,,Q4173332,2,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Polit.ru,,,http://www.polit.ru,ru,online,3,,,Q4370035,2,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Svobodnaya Pressa,Moscow,,http://svpressa.ru,ru,online,3,,,Q4411093,2,website; online newspaper,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,Volzhskaya pravda,,,http://www.vpgazeta.ru/,ru,daily,3,,,Q4123112,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,"Vybor (gazeta, Salavat)",Salavat,,http://sgvibor.ru/,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80_%28%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%2C_%D0%A1%D0%B0%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%29,Q4128511,2,newspaper,53.3667,55.9333,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Gusevskie vesti,,,http://www.vesti33.pro,ru,daily,3,,,Q4152741,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Moyo!,,,http://www.moe-online.ru/,ru,daily,3,,,Q4305485,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Express Gazeta,,,http://eg.ru,ru,daily,3,,,Q48941316,2,newspaper; tabloid,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+yes,RU,Chelninskie izvestiya,Naberezhnye Chelny,,http://chelny-izvest.ru,ru,daily,3,,,Q4508438,2,newspaper,55.7149,52.3697,
+no,RU,Mariyskaya pravda,Yoshkar-Ola,,http://www.marpravda.ru/,ru,daily,3,,,Q19910666,2,newspaper,56.6328,47.8958,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Donetsk Polytechnic,Donetsk,SU,https://donpol.donntu.ru,ru,daily,3,exile,,Q133883832,2,newspaper,48.0158,37.8028,newsroom abroad (SU) – exile?; not pre-selected: newsroom abroad
+no,RU,Theatre,,,http://www.oteatre.info/,ru,online,3,,,Q4453395,2,magazine; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,The Flow,,,https://the-flow.ru/,ru,online,3,,,Q96379008,2,website; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Gaudeamus (newspaper),,,http://www.gaude.ru/,ru,daily,3,,,Q4039290,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Action (newspaper),,,http://akzia.ru,ru,daily,3,,,Q4060299,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Evening Barnaul,Barnaul,,http://вечернийбарнаул.рф,ru,daily,3,,,Q4110178,1,newspaper,53.3567,83.7872,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Evening Orenburg,,,http://www.vecherniyorenburg.ru/,ru,daily,3,,,Q4110189,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Sunrise,Ishimbay,,http://voshod-news.ru/,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%85%D0%BE%D0%B4_%28%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%29,Q4126709,1,newspaper,53.4500,56.0333,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Vyatskiy nablyudatel,,,http://nabludatel.ru/,ru,daily,3,,,Q4130495,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Voice of the Motherland,Moscow,,http://www.association-rodina.ru,ru,daily,3,,,Q4142143,1,newspaper,55.7506,37.6175,language from country default
+no,RU,Drug dlya druga,,,http://www.dddkursk.ru/,ru,daily,3,,,Q4168625,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,A life,Moscow,,https://zhizn.ru/,ru,daily,3,,,Q4180171,1,newspaper; tabloid,55.7506,37.6175,"language from country default; types: daily, online"
+no,RU,The Zanbaikalian worker,,,https://zabrab75.ru/,ru,daily,3,,,Q4182336,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Zeya Lights,,,http://www.gzt-sv.ru/,ru,daily,3,,,Q4190202,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Banner of Labor,Timashevsk,,http://www.timashevsk-zt.ru,ru,daily,3,,,Q4192916,1,newspaper,45.3667,39.4333,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Kirovskaya pravda,,,http://kirovpravda.ru/,ru,daily,3,,,Q4221624,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Kommuna,,,http://www.communa.ru/,ru,daily,3,,,Q4229816,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Krasnoe znamya,Yelets,,https://kznam.ru/,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_%D0%B7%D0%BD%D0%B0%D0%BC%D1%8F_%28%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%2C_%D0%95%D0%BB%D0%B5%D1%86%29,Q4238703,1,newspaper,52.6167,38.4667,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Krasnoe znamya,,,http://komikz.ru,ru,daily,3,,,Q4238705,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Kuban News,,,http://www.kubnews.ru,ru,daily,3,,,Q4243499,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Kurskaya pravda,,,http://www.kpravda.ru,ru,daily,3,,,Q4248835,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,RU,Molodyozh Altaya,Barnaul,,http://altapress.ru/ma/,ru,daily,3,,,Q4300846,1,newspaper,53.3567,83.7872,language from country default
+no,RU,Musical Review,Moscow,,http://www.muzobozrenie.ru/,ru,daily,3,,,Q4306637,1,newspaper,55.7506,37.6175,
+no,RU,Hope (newspaper),,,http://nadezhda.me,ru,daily,3,,,Q4311861,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Novomoskovskaya truth,,,http://nov-pravda.ru/,ru,daily,3,,,Q4324580,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Novyy kompanon,,,https://www.newsko.ru/,ru,daily,3,,,Q4326902,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Open newspaper,,,https://www.opengaz.ru/,ru,daily,3,,,Q4339598,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Retsj,,,http://35media.ru/media/rech/,ru,daily,3,,,Q4394047,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Russian Herald (newspaper),Moscow,,http://www.rv.ru/,ru,daily,3,,,Q4400742,1,newspaper,55.7506,37.6175,language from country default
+no,RU,Free course,Barnaul,,http://kurs.altapress.ru/,ru,daily,3,,,Q4411174,1,newspaper,53.3567,83.7872,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,RU,The Northern Worker (Severodvinsk),Severodvinsk,,http://nworker.ru,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9_%28%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%2C_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%29,Q4412404,1,newspaper,64.5667,39.8500,reviewed: founder per Russian Wikipedia: ООО «Северный рабочий» и управление печати и массовой информации администрации Архангельск
+no,RU,Tekhnopolis,,,http://technopolis.susu.ru/,ru,daily,3,,,Q4456912,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,RU,The Pacific Star,Khabarovsk,,https://toz.su/,ru,daily,3,,,Q4458739,1,newspaper,48.4833,135.0667,language from country default
+no,RU,Tulskie izvestiya,,,http://ti71.ru/,ru,daily,3,,,Q4465229,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Economy and life,,,http://www.eg-online.ru/,ru,daily,3,,,Q4530393,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Bezneñ gäcit,Kazan,,https://beznen.ru/,tt,daily,3,,,Q13202864,1,newspaper,55.7908,49.1144,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Karera,,,http://gazetakariera.ru,ru,daily,3,,,Q16271734,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Nashe vremya,Rostov-on-Don,,http://www.nvgazeta.ru/,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%88%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%28%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%29,Q16271750,1,newspaper,47.2225,39.7100,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Tyumen truth,,,http://tyum-pravda.ru,ru,daily,3,,,Q16271842,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Podolskiy rabochiy,Podolsk,,http://inpodolsk.ru/,ru,daily,3,,,Q48947100,1,newspaper,55.4311,37.5456,reviewed: district paper of the Moscow Oblast media network – very local
+no,RU,Madani Zhomga,Kazan,,https://madanizhomga.ru/,tt,daily,3,,,Q20587457,1,newspaper,55.8266,49.0844,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Юлдаш,,,https://iuldash-t.ru/,ru,weekly,3,,,Q20596885,1,newspaper; organization; weekly newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, weekly"
+no,RU,Kanash,,,http://gov.cap.ru/?gov_id=588,ru,daily,3,,,Q22918072,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Lestok,Gorno-Altaysk,,http://листок.рф,ru,daily,3,,,Q25395825,1,newspaper,51.9600,85.9600,reviewed: regional outlet without a reachable feed – replaced
+yes,RU,Tyumenskie izvestiya,Tyumen,,https://t-i.ru/,ru,daily,3,,,Q56307469,1,newspaper,57.1500,65.5333,language from country default
+no,RU,Fakt,Balashikha,,http://inbalashikha.ru,ru,daily,3,,,Q108276100,1,newspaper,55.8000,37.9500,reviewed: district paper of the Moscow Oblast media network – very local
+no,RU,Serp i molot,Klin,,http://inklincity.ru/,ru,daily,3,,,Q108340373,1,newspaper,56.3339,36.7125,reviewed: district paper of the Moscow Oblast media network – very local
+no,RU,Krasnogorskie vesti,Krasnogorsk,,http://inkrasnogorsk.ru/,ru,daily,3,,,Q108347291,1,newspaper,55.8217,37.3386,reviewed: district paper of the Moscow Oblast media network – very local
+no,RU,gazeta Egorevskogo rayona Moskovskoy oblasti,Yegoryevsk,,http://inegorievsk.ru/,ru,daily,3,,,Q108398026,1,newspaper,55.3667,39.0167,reviewed: district paper of the Moscow Oblast media network – very local
+no,RU,Lyuberetskaya panorama,Lyubertsy,,http://inlubertsy.ru/,ru,daily,3,,,Q108418322,1,newspaper,55.6783,37.8944,reviewed: district paper of the Moscow Oblast media network – very local
+no,RU,Dmitrovskiy vestnik,,,http://in-dmitrov.ru/,ru,daily,3,,,Q108430639,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Rural News,Ramensky District,,http://inlotoshino.ru/,ru,daily,3,,,Q108756035,1,newspaper,55.5667,38.2333,reviewed: district paper of the Moscow Oblast media network – very local
+yes,RU,Vyborg,Vyborg,,https://gazetavyborg.ru/,ru,daily,3,,,Q121338784,1,newspaper,60.7106,28.7497,
+no,RU,Donetskoe vremya,Donetsk,SU,https://dontimes.ru/,ru,daily,3,exile,,Q124758517,1,newspaper; electronic publishing,48.0158,37.8028,language from country default; newsroom abroad (SU) – exile?; not pre-selected: newsroom abroad
+no,RU,Saint Petersburg Vedomosti,Saint Petersburg,,https://spbvedomosti.ru/,ru,daily,3,,,Q124758528,1,newspaper; online newspaper,59.9500,30.3167,"reviewed: regional outlet without a reachable feed – replaced; types: daily, online"
+no,RU,Yuldash,Saransk,,https://www.yuldash-sputnik.ru/,ru,daily,3,,,Q126726721,1,newspaper,54.1833,45.1833,reviewed: regional outlet without a reachable feed – replaced
+yes,RU,Svetlyy put,Naberezhnye Chelny,,https://tukai-rt.ru/,ru,daily,3,,,Q126727802,1,newspaper; organization,55.7149,52.3697,
+no,RU,Kabardino-Balkarskaya pravda,Nalchik,,https://www.kbpravda.ru/,ru,daily,3,,,Q130380411,1,newspaper,43.4833,43.6167,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Pobeda (gazeta),Feodosiia,,https://pobedagazeta.ru,ru,daily,3,,,Q135526827,1,newspaper,45.0489,35.3792,reviewed: occupied territory (Crimea) – not listed under Russia; language from country default
+no,RU,Business Online,Kazan,,https://www.business-gazeta.ru/,ru,online,3,,,Q30888680,1,online newspaper,55.7908,49.1144,not pre-selected: magazine/online below tier 1
+no,RU,USA Really,,,https://usareally.com,ru,online,3,,,Q60971634,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Pskovskoe Agenstvo Informatsii,Pskov,,https://informpskov.ru,ru,online,3,,,Q63421745,1,online newspaper,57.8167,28.3333,not pre-selected: magazine/online below tier 1
+no,RU,Intertat,,,https://intertat.tatar/,tt,online,3,,,Q65300994,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,SRSLY,,,https://srsly.ru,ru,online,3,,,Q108199739,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,NEWSmuz.com,,,https://newsmuz.com,ru,online,3,,,Q110628786,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,NN.ru,,,https://www.nn.ru/,ru,online,3,,,Q120261575,1,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Groza,Kazan,,https://groza.media,ru,online,3,,,Q125163899,1,online newspaper,55.7908,49.1144,not pre-selected: magazine/online below tier 1
+no,RU,T—J,Moscow,,https://t-j.ru/,ru,online,3,,,Q125692276,1,online newspaper; news website,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,NIA Samara,Samara,,https://www.niasam.ru,ru,online,3,,,Q130275231,1,online newspaper,53.1833,50.1167,not pre-selected: magazine/online below tier 1
+no,RU,Public Chamber of the Chuvash Republic,Cheboksary,,https://opchr21.ru,ru,online,3,,,Q130326081,1,non-governmental organization; online newspaper,56.1333,47.2500,not pre-selected: magazine/online below tier 1
+no,RU,InnovaNews,Kazan,,https://innovanews.ru,ru,online,3,,,Q130629378,1,online newspaper,55.7908,49.1144,not pre-selected: magazine/online below tier 1
+no,RU,Zolotoy Rog,Vladivostok,,http://zrpress.ru,ru,daily,3,,,Q18936342,1,business newspaper,43.1150,131.8853,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Severnyy kray,Yaroslavl,,http://www.sevkray.ru/,ru,daily,3,,,Q2613963,1,newspaper,57.6267,39.8818,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Amurskaya pravda,,,http://www.ampravda.ru,ru,daily,3,,,Q4064571,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Arzamasskaya pravda,Arzamas,,http://www.a-pravda.ru,ru,daily,3,,,Q4069140,1,newspaper,55.3833,43.8000,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Magnitogorskiy metall,Magnitogorsk,,https://magmetall.ru,ru,daily,3,,,Q4274099,1,newspaper,53.3833,59.0333,reviewed: company newspaper (steelworks)
+no,RU,Nizhegorodskaya Pravda,Nizhny Novgorod,,http://www.pravda-nn.ru,ru,daily,3,state,https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0,Q4318632,1,newspaper,56.3269,44.0075,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Polyarnaya pravda,Murmansk,,http://www.polar-pravda.ru,ru,daily,3,,,Q4371592,1,newspaper,68.9667,33.0833,"reviewed: feed lists TV programmes, not news"
+no,RU,Business class,,,http://www.business-class.su/,ru,daily,3,,,Q16271706,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Pyatigorskaya pravda,,,http://pravda-kmv.ru,ru,daily,3,,,Q16271784,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Можга иворъёс,,,https://можгинские-вести.рф/,ru,daily,3,,,Q25686284,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Rabochiy kray,,,https://rk37.ru/,ru,daily,3,,,Q97162266,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Military Industrial Courier,,,http://www.vpk-news.ru,ru,daily,3,,,Q63965828,1,magazine; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Za novuyu zhizn,Zaraysk,,http://inzaraisk.ru,ru,daily,3,,,Q108373220,1,newspaper,54.7653,38.8836,reviewed: district paper of the Moscow Oblast media network – very local
+no,RU,Domodedovskie vesti,,,http://in-domodedovo.ru/,ru,daily,3,,,Q108487756,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Sergievskie vedomosti,,,http://insergposad.ru/,ru,daily,3,,,Q108490750,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Vesti Dubny,,,http://indubnacity.ru/,ru,daily,3,,,Q108512991,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Aviagrad Zhukovskiy,,,http://inzhukovskiy.ru/,ru,daily,3,,,Q108523458,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Pushchinskaya sreda,,,http://inpushchino.ru/,ru,daily,3,,,Q108524445,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Vidnovskie vesti,,,https://vesti-vidnoe.ru/,ru,daily,3,,,Q108528342,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,RU,Vperyod,,,http://vperedsp.ru/,ru,daily,3,,,Q108536539,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Lobnya,,,http://inlobnya.ru/,ru,daily,3,,,Q108537115,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Istrinskie vesti,,,http://in-istra.ru/,ru,daily,3,,,Q108539078,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Odintsovskaya nedelya,,,https://odinweek.ru/,ru,daily,3,,,Q108545781,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Novye rubezhi,,,http://inodintsovo.ru/,ru,daily,3,,,Q108550729,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Mayak,,,http://inpushkino.ru/,ru,daily,3,,,Q108551904,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Sputnik,,,http://in-korolev.ru/,ru,daily,3,,,Q108555600,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Russkaya vesna,,,https://rusvesna.su,ru,daily,3,,,Q124758542,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Olonia,Olonets,,https://газета-олония.рф,ru,daily,3,,,Q137911166,1,municipal newsletter; newspaper,60.9833,32.9667,reviewed: regional outlet without a reachable feed – replaced
+no,RU,kinometro.ru,,,http://www.kinometro.ru/,ru,online,3,,,Q4101477,1,website; periodical; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Holod,Moscow,,https://holod.media/,ru,online,3,,,Q108839367,1,online newspaper,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,Vyksunskiy rabochiy,Vyksa,,https://vr-vyksa.ru,ru,weekly,3,,,Q136410067,1,weekly newspaper,55.3194,42.1731,reviewed: regional outlet without a reachable feed – replaced
+no,RU,ASTRA,,,https://astra.press/,ru,online,3,,,Q140739609,1,news website; news media,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,The Blueprint,,,https://theblueprint.ru/,ru,online,3,,,Q136682324,1,news website; news media,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,透视俄罗斯,,,http://tsrus.cn,ru,online,3,,,Q10887400,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Kino Mail,,,https://kino.mail.ru/,ru,online,3,,,Q16534697,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Forbes Russia,,,https://www.forbes.ru/,ru,online,3,,,Q48945044,1,magazine; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Socio-political weekly Young Far East 21st century,,,http://khabarovsk.md/,ru,weekly,3,,,Q30909585,0,newspaper; weekly newspaper; online newspaper; mass media,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online, weekly"
+no,RU,Weekly Young Far East,,,http://www.mdgazet.ru/,ru,weekly,3,,,Q30910423,0,newspaper; weekly newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online, weekly"
+no,RU,The newspaper Khabarovsk express,,,http://www.habex.ru/paper/,ru,daily,3,,,Q30911332,0,newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+no,RU,Newspaper Amur Meridian,,,http://province.ru/habarovsk/,ru,daily,3,,,Q30912368,0,newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+no,RU,Newspaper MK Khabarovsk,,,http://hab.mk.ru/,ru,daily,3,,,Q30913282,0,newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+yes,RU,Roslavlskaya pravda,Roslavl,,http://ropravda.ru/,ru,daily,3,,,Q62571830,0,newspaper,53.9492,32.8569,
+no,RU,Borovichskie Vedomosti,Borovichi,,https://borvedomosti.ru,ru,daily,3,,,Q63430792,0,newspaper,58.4000,33.9167,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Nomer odin,,,https://gazeta-n1.ru,ru,daily,3,,,Q63981693,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Klakson,,,https://klaxonnew.ru,ru,daily,3,,,Q116889944,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Tyumenskiy kurer,,,http://tm-courier.ru/,ru,daily,3,,,Q105582923,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Königsberger Express,Kaliningrad,,https://koenigsberger-express.com,ru,daily,3,,,Q120500840,0,newspaper,54.7167,20.5000,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,Ogni Kavkaza,Belorechensk,,https://ognikavkaza.ru,ru,daily,3,,,Q131729383,0,newspaper,44.7667,39.8667,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Butik 64,,,http://butik64.ru,ru,online,3,,,Q63430848,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Super.ru,,,https://super.ru,ru,online,3,,,Q112134546,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Real Time,Kazan,,http://realnoevremya.ru,ru,online,3,,,Q113284092,0,online newspaper,55.7908,49.1144,not pre-selected: magazine/online below tier 1
+no,RU,Euro-football.ru,Moscow,,https://www.euro-football.ru,ru,online,3,,,Q113633134,0,online newspaper,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,RusNews,,,https://rus.news/,ru,online,3,,,Q116841296,0,news media; online newspaper; web portal,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Lenreactiv,Saint Petersburg,,https://lenreactiv.ru/,ru,online,3,,,Q125001609,0,chemical company; online newspaper,59.9500,30.3167,language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Public Chamber of the City District of Podolsk,Podolsk,,https://www.op-podolsk.ru,ru,online,3,,,Q127653176,0,non-governmental organization; online newspaper,55.4311,37.5456,language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Prmira,,,https://Prmira.ru,ru,online,3,,,Q130331340,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Kursdela.biz,,,https://Kursdela.biz,ru,online,3,,,Q130331341,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,KubanPress,,,https://KubanPress.ru,ru,online,3,,,Q130331345,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Transsibinfo,,,https://Transsibinfo.com,ru,online,3,,,Q130331366,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Atas.Info,,,https://atas.info/,ru,online,3,,,Q130331370,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Muksun.fm,,,https://muksun.fm/,ru,online,3,,,Q130331368,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Gorod55,,,https://gorod55.ru/,ru,online,3,,,Q130331373,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,56orb,,,https://56orb.ru/,ru,online,3,,,Q130331382,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Rostovgazeta,,,https://rostovgazeta.ru/,ru,online,3,,,Q130331383,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Oilcapital,,,https://oilcapital.ru/,ru,online,3,,,Q130331380,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Inkazan,,,https://inkazan.ru/,ru,online,3,,,Q130331413,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Mkset,,,https://mkset.ru/,ru,online,3,,,Q130331417,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,NewsNN,,,https://newsnn.ru/,ru,online,3,,,Q130331420,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Newstracker,,,https://newstracker.ru/,ru,online,3,,,Q130331421,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,ProPerm,,,https://properm.ru/,ru,online,3,,,Q130331430,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Bel.ru,,,https://bel.ru/,ru,online,3,,,Q130331431,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Vostokmedia,,,https://vostokmedia.com/,ru,online,3,,,Q130331435,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Nashgorod,,,https://nashgorod.ru/,ru,online,3,,,Q130331437,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,NovostiVolgograda,,,https://novostivolgograda.ru/,ru,online,3,,,Q130331440,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Karelinform,,,https://karelinform.ru/,ru,online,3,,,Q130331444,0,website; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Techdigest,,,https://techdgst.ru/,ru,online,3,,,Q139255024,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RU,Gorod,Smolensk,,http://gorodnews.ru/gorod/,ru,weekly,3,,,Q77434944,0,weekly newspaper,54.7828,32.0453,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Mordoviya,,,http://mordovia-news.ru/,ru,weekly,3,,,Q93287719,0,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,RU,Sevastopolskaya gazeta,Sevastopol,,http://sevastopol.press,ru,weekly,3,,,Q57312468,0,weekly newspaper,44.6050,33.5225,reviewed: occupied territory (Crimea) – not listed under Russia
+no,RU,Ponedelnik,Tolyatti,,http://ponedelnik.info/,ru,daily,3,,,Q106679715,0,newspaper,53.5167,49.4167,reviewed: regional outlet without a reachable feed – replaced
+no,RU,Elektrik,Cheboksary,,https://www.cheaz.ru/press/newspaper/,ru,daily,3,,,Q136290252,0,newspaper,56.1333,47.2500,reviewed: company newspaper
+no,RU,"Informatsionno-prosvetitelskaya gazeta ""Vremya""",Yekaterinburg,,https://укбки.рф/category/g-vremya/,ru,daily,3,,,Q137609325,0,newspaper,56.8356,60.6128,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,RU,"Dubna: nauka, sodruzhestvo, progress",Dubna,,https://jinrmag.jinr.ru/,ru,weekly,3,,,Q136360012,0,weekly newspaper,56.7364,37.1625,reviewed: institute newspaper
+no,RU,Tourprom,Moscow,,https://www.tourprom.ru/,ru,online,3,,,Q138975315,0,news website,55.7506,37.6175,not pre-selected: magazine/online below tier 1
+no,RU,VL.ru,,,https://www.vl.ru/,ru,online,3,,,Q107661919,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Trashbox.ru,,,https://trashbox.ru/,ru,online,3,,,Q117745588,0,news website; software,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,RU,Vsyo o stroyke,,,https://xn--b1agapfwapgcl.xn--p1ai/,ru,online,3,,,Q141260287,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
