@@ -1,0 +1,11 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+ZA,Die Burger,Cape Town,,http://www.dieburger.com/,af,daily,2,,,-33.9253,18.4239
+ZA,Isolezwe,Durban,,https://isolezwe.co.za,zu,daily,3,,,,
+ZA,City Press,Johannesburg,,https://city-press.news24.com/,en,daily,2,,,-26.2044,28.0416
+ZA,The Sowetan,Johannesburg,,https://www.sowetanlive.co.za/,en,daily,2,,,-26.2044,28.0416
+ZA,Daily Maverick,Johannesburg,,https://www.dailymaverick.co.za/,en,online,1,,,-26.2044,28.0416
+ZA,Independent Online,Cape Town,,https://www.iol.co.za/,en,online,2,,,,
+ZA,Daily Sun,Johannesburg,,http://www.dailysun.co.za/,en,daily,3,,,-26.2044,28.0416
+ZA,TimesLIVE,Johannesburg,,http://www.timeslive.co.za/,en,online,2,,,-26.2044,28.0416
+ZA,Netwerk24,Cape Town,,https://www.netwerk24.com/,af,daily,2,,,,
+ZA,Maroela Media,Pretoria,,https://maroelamedia.co.za/,af,online,3,,,-25.7464,28.1881

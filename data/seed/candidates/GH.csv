@@ -1,0 +1,19 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,GH,The Ghanaian Times,Accra,,https://www.ghanaiantimes.com.gh,en,daily,2,state,https://en.wikipedia.org/wiki/The_Ghanaian_Times,Q5555470,6,newspaper,5.5560,-0.1969,reviewed: state-owned daily
+yes,GH,Daily Graphic,Accra,,https://www.graphic.com.gh/,en,daily,1,state,https://www.wikidata.org/wiki/Q2410669,Q2410669,4,periodical; newspaper,5.5560,-0.1969,reviewed: leading daily (state-owned per Wikidata); owner: Government of Ghana
+no,GH,Accra Daily Mail,Accra,,https://theaccradailymail.com/,en,daily,3,,,Q4672819,4,periodical; newspaper; organization; mass media,5.5560,-0.1969,
+yes,GH,The Ghanaian Chronicle,Accra,,https://thechronicle.com.gh/,en,daily,3,,,Q7736248,3,periodical; newspaper,5.5560,-0.1969,reviewed: established daily
+no,GH,Business and Financial Times,Accra,,https://thebftonline.com/about-us/,en,daily,3,,,Q59505566,3,business newspaper; newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,GH,Daily Guide,Accra,,https://dailyguidenetwork.com/,en,daily,3,,,Q16248537,1,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,GH,The Statesman Newspaper,,,http://www.thestatesmanonline.com/index.php,en,daily,3,,,Q30688745,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,GH,GhanaWeb,Accra,,https://www.ghanaweb.com/,en,online,2,,,Q83495671,1,website; newspaper,,,reviewed: leading news portal; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,GH,The Finder,Accra,,https://thefindernews.com/,en,daily,3,,,Q125936177,0,newspaper,5.5560,-0.1969,
+no,GH,Pulse Ghana,East Legon,,https://www.pulse.com.gh/,en,online,3,,,Q102146997,0,online newspaper,5.6360,-0.1590,reviewed: entertainment portal; not pre-selected: magazine/online below tier 1
+no,GH,Daily Accra,Accra,,https://www.dailyaccra.com,en,online,3,,,Q56384197,0,online newspaper,5.5560,-0.1969,language from country default; not pre-selected: magazine/online below tier 1
+no,GH,The Independent,Accra,,https://theindependentghana.com/,en,daily,3,,,Q125936187,0,newspaper,5.5560,-0.1969,
+no,GH,Catholic Standard,Accra,,https://catholicstandardghana.com/,en,daily,3,,,Q125936198,0,newspaper,5.5560,-0.1969,reviewed: church paper
+no,GH,Daily Searchlight,Accra,,https://www.thedailysearchlight.com,en,daily,3,,,Q140729669,0,newspaper,5.5560,-0.1969,
+no,GH,Weekly Spectator,Accra,,https://spectator.com.gh/,en,daily,3,,,Q125936211,0,newspaper,5.5560,-0.1969,language from country default
+no,GH,Modern Ghana,Accra,,https://www.modernghana.com/,en,online,3,,,Q125936214,0,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,GH,Graphic Showbiz,,,https://corporate.graphic.com.gh/about-us-page/history-of-graphic-communications-group.html,en,daily,3,,,Q125936213,0,newspaper,,,reviewed: entertainment paper; no place of publication/headquarters in Wikidata – fill in city
+no,GH,Citi Business News,,,https://citibusinessnews.com/,en,online,3,,,Q96144662,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

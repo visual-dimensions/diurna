@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,AO,Jornal de Angola,Luanda,,https://www.jornaldeangola.ao/,pt,daily,2,state,https://en.wikipedia.org/wiki/Jornal_de_Angola,Q1704026,9,daily newspaper; newspaper; state media,-8.8383,13.2344,reviewed: state daily
+no,AO,Hold On Angola,,,https://holdonangola.com,pt,online,3,,,Q137756361,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,MG,L'Écho du Sud,,,https://www.lechodusud.com,fr,weekly,2,,,Q115574358,9,weekly newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MG,Parotsa,,,https://www.parotsa.com,fr,online,3,,,Q140931167,0,online newspaper; news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

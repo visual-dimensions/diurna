@@ -1,0 +1,50 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,NG,Vanguard (Nigeria),Lagos,,http://www.vanguardngr.com/,en,daily,2,,,Q7914812,11,newspaper,6.4561,3.3936,
+no,NG,This Day,Lagos,,https://www.thisdaylive.com,en,daily,2,,,Q527612,9,newspaper,6.4561,3.3936,
+no,NG,Daily Times of Nigeria,Lagos,,https://dailytimesng.com,en,daily,2,,,Q5209383,7,newspaper,6.4561,3.3936,
+no,NG,The Guardian,Lagos,,http://www.guardian.ng/,en,daily,2,,,Q7738431,7,newspaper,6.4561,3.3936,
+yes,NG,The Nation,Mushin,,http://www.thenationonlineng.net,en,daily,2,,,Q7753130,7,newspaper,6.5333,3.3500,language from country default
+yes,NG,The Punch,Lagos,,http://www.punchng.com,en,daily,1,,,Q7758737,6,newspaper,,,reviewed: place filled in; leading daily; leading daily; leading daily; leading daily; leading daily; no place of publication/headquarters in Wikidata – fill in city
+yes,NG,Premium Times,Abuja,,https://premiumtimesng.com,en,daily,2,,,Q16943304,6,newspaper,9.0556,7.4914,
+no,NG,Media Trust,Abuja,,https://www.dailytrust.com.ng/,en,daily,3,,,Q6805557,5,newspaper; organization,9.0556,7.4914,reviewed: publisher – Daily Trust is listed separately
+no,NG,Independent Nigeria,Lagos,,http://dailyindependentnig.com/,en,daily,3,,,Q7728661,5,newspaper,6.4561,3.3936,language from country default
+yes,NG,The Sun,Lagos,,https://www.sunnewsonline.com/,en,daily,2,,,Q7767316,5,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,NG,New Telegraph,Lagos,,http://newtelegraphonline.com,en,daily,3,,,Q17109191,5,newspaper,6.4561,3.3936,reviewed: regional outlet without a reachable feed – replaced; language from country default
+yes,NG,Leadership,Abuja,,http://leadership.ng,en,daily,3,,,Q6508643,5,newspaper,9.0556,7.4914,
+yes,NG,The Nigerian Observer,Benin City,,http://nigerianobservernews.com,en,daily,3,,,Q7033001,4,newspaper,6.3176,5.6145,
+no,NG,Sahara Reporters,,,http://saharareporters.com/,en,daily,3,,,Q7399506,4,newspaper; news agency,,,no place of publication/headquarters in Wikidata – fill in city
+no,NG,Prime 9ja Online,Edo State,,https://www.prime9ja.com.ng,en,daily,3,,,Q114267317,4,newspaper,6.5000,6.0000,reviewed: blog
+yes,NG,The Will,Lagos,,https://thewillnews.com/,en,weekly,3,,,Q107547953,4,weekly newspaper; online newspaper,6.5833,3.7500,"reviewed: place is the state; types: online, weekly"
+no,NG,Business Day,Lagos,,http://www.businessdayonline.com/,en,daily,3,,,Q16733394,4,daily newspaper; business newspaper; organization; classified advertising,6.5833,3.7500,reviewed: regional outlet without a reachable feed – replaced
+yes,NG,Blueprint Newspaper,Abuja,,http://www.blueprint.ng/,en,daily,3,,,Q4930412,3,newspaper,9.0556,7.4914,language from country default
+no,NG,Daily Champion,Lagos,,http://www.championnews.com.ng/,en,daily,3,,,Q5209233,3,newspaper,6.4561,3.3936,
+no,NG,National Mirror,,,http://www.nationalmirroronline.net/,en,daily,3,,,Q16259432,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NG,Urhobo vanguard,Delta State,,http://www.urhobovanguard.com,en,daily,3,,,Q17042398,3,newspaper,5.5000,6.0000,reviewed: ethnic community paper; language from country default
+no,NG,Entertainment Express Nigeria,,,http://e-expressnigeria.com,en,daily,3,,,Q18353684,3,newspaper; magazine,,,reviewed: entertainment paper; no place of publication/headquarters in Wikidata – fill in city
+yes,NG,TheCable,Lagos,,https://www.thecable.ng/,en,online,2,,,Q48803445,3,newspaper; online newspaper; fact-checking organisation; website,,,"reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+no,NG,Thinkers Newspaper,Abuja,,http://www.thinkersnewsng.com/,en,daily,3,,,Q22350740,3,periodical; newspaper,9.0556,7.4914,reviewed: unclear outlet; language from country default
+no,NG,Muslim News Nigeria,,,https://muslimnews.com.ng/,en,daily,3,,,Q84816547,3,newspaper,,,reviewed: religious paper; no place of publication/headquarters in Wikidata – fill in city
+no,NG,Business Hallmark,Lagos,,http://hallmarknews.com,en,daily,3,,,Q5001728,2,newspaper,6.4561,3.3936,
+no,NG,Nigerian Compass,,,http://www.compassnewspaper.com.ng/,en,daily,3,,,Q7032887,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,NG,Nigerian Tribune,Ibadan,,http://www.tribuneonlineng.com/,en,daily,3,,,Q7033024,2,newspaper,7.3775,3.9058,
+no,NG,Osun Defender,Osogbo,,http://www.osundefender.org/,en,daily,3,,,Q7108020,2,newspaper,7.7667,4.5667,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,NG,Tell Magazine,,,http://www.tell.ng/,en,daily,3,,,Q7697428,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,NG,The Tide,Port Harcourt,,http://www.thetidenewsonline.com/,en,daily,3,,,Q17109416,2,newspaper,4.7655,7.0163,
+no,NG,Stears News,,,https://www.stears.co/,en,daily,3,,,Q30594856,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NG,Politics Nigeria,Lagos,,https://politicsnigeria.com/,en,daily,3,,,Q55630186,2,newspaper,6.4561,3.3936,language from country default
+yes,NG,Daily Post,Lagos,,https://dailypost.ng/,en,online,3,,,Q24196073,2,newspaper; news website,,,"reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,NG,Daylight Nigeria,,,http://www.daylight.ng/,en,daily,3,,,Q24911630,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,NG,Ripples Nigeria,Lagos,,https://www.ripplesnigeria.com,en,daily,3,,,Q57614340,2,online newspaper; news agency; newspaper,6.4561,3.3936,"types: daily, online"
+no,NG,The Nigeria Standard,Jos,,https://thenigeriastandard.ng,en,daily,3,,,Q92600466,2,newspaper,9.5667,9.0833,reviewed: regional outlet without a reachable feed – replaced
+no,NG,Next,,,http://234next.com/,en,daily,3,,,Q7020936,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NG,The Authority (newspaper),,,http://www.authorityngr.com,en,daily,3,,,Q23931913,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,NG,Idoma Voice Newspaper,Benue State,,https://idomavoice.com,en,daily,3,,,Q138504052,1,newspaper,7.3333,8.7500,reviewed: ethnic community paper
+no,NG,The News Journal,,,http://www.newsjournal.com.ng/,en,weekly,3,,,Q17109197,0,weekly newspaper; newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, weekly"
+yes,NG,Daily Trust,Abuja,,https://dailytrust.com/,en,daily,2,,,Q106181847,0,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,NG,The Point,,,https://www.thepointng.com/,en,daily,3,,,Q115223617,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NG,Pulse Nigeria,Lagos,,https://www.pulse.ng/,en,online,3,,,Q102146283,0,online newspaper; magazine,6.4561,3.3936,reviewed: entertainment portal; not pre-selected: magazine/online below tier 1
+no,NG,Brands.Ng,,,https://brands.ng,en,online,3,,,Q139936075,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NG,TODAY,,,https://www.today.ng/,en,online,3,,,Q103658360,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NG,Kemi Filani News,,,https://www.kemifilani.ng/,en,online,3,,,Q115224044,0,news website,,,reviewed: gossip blog; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NG,DGR News,Ogun State,,https://dgrnews.com.ng/,en,online,3,,,Q141514046,0,news website; business,7.1200,3.3725,language from country default; not pre-selected: magazine/online below tier 1
+no,NG,Wifey News,,,https://wifeynews.com/,en,online,3,,,Q141541179,0,news website,,,reviewed: gossip blog; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

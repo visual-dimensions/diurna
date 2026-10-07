@@ -56,3 +56,6 @@ divyabhaskar,https://www.divyabhaskar.co.in/rss-v1--category-970.xml,latest,"Guj
 divyamarathi,https://divyamarathi.bhaskar.com/rss-v1--category-5495.xml,latest,"national news category"
 vnexpress,https://vnexpress.net/rss/thoi-su.rss,latest,"current affairs (auto-pick was world)"
 vietnamnews,https://vietnamnews.vn/rss/politics-laws.rss,latest,
+timeslive,https://www.timeslive.co.za/arc/outboundfeeds/rss/?outputType=xml,latest,"own feed (auto-pick was the Sunday Times')"
+mmegi,https://www.mmegi.bw/rssFeed/0,latest,"general feed (auto-pick was a photo gallery)"
+thesowetan,http://sowetan.co.za/arc/outboundfeeds/rss/,latest,"general Arc feed, not a front-page feed"

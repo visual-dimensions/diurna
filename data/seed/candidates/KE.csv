@@ -1,0 +1,7 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,KE,Daily Nation,Nairobi,,https://nation.africa/,en,daily,2,,,Q1768677,8,newspaper,-1.2864,36.8172,
+yes,KE,The Standard,Nairobi,,https://www.standardmedia.co.ke/,en,daily,2,,,Q7766218,7,newspaper,-1.2864,36.8172,
+no,KE,The Star,Nairobi,,http://www.the-star.co.ke,en,daily,3,,,Q16955760,1,newspaper,-1.2864,36.8172,reviewed: regional outlet without a reachable feed – replaced; language from country default
+no,KE,Pambazuka News,Nairobi,,https://www.pambazuka.org/,en,online,3,,,Q17073851,1,news website,-1.2864,36.8172,language from country default; not pre-selected: magazine/online below tier 1
+no,KE,Pulse Kenya,Nairobi,,https://www.pulselive.co.ke/,en,online,3,,,Q102138942,0,online newspaper,-1.2864,36.8172,reviewed: entertainment portal; not pre-selected: magazine/online below tier 1
+no,KE,Swahili Today,Nairobi,,https://todaysw.com,en,online,3,,,Q139913876,0,news media; news website,-1.2864,36.8172,not pre-selected: magazine/online below tier 1

@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,ET,Addis Admass,Addis Ababa,,http://www.addisadmassnews.com/,am,daily,3,,,Q48733716,3,newspaper,9.0358,38.7525,reviewed: regional outlet without a reachable feed – replaced
+yes,ET,Addis Fortune,Addis Ababa,,http://addisfortune.com/,en,weekly,2,,,Q2824150,2,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,ET,Capital Ethiopia,Addis Ababa,,http://www.capitalethiopia.com,en,weekly,3,,,Q2937392,2,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+yes,ET,Ethiopia Insight,Addis Ababa,,https://www.ethiopia-insight.com,en,online,3,,,Q141568488,0,news media; online newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ET,Ethiopian Monitor,,,https://ethiopiamonitor.com,en,online,3,,,Q141659068,0,news media; online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

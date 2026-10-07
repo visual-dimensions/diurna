@@ -1,0 +1,17 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,BJ,La Nouvelle Tribune,Cotonou,,http://www.lanouvelletribune.info,fr,daily,3,,,Q3211145,4,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,BJ,La Nation,Cotonou,,https://lanation.bj/,fr,daily,3,state,https://en.wikipedia.org/wiki/La_Nation_(Benin),Q18344583,4,newspaper; daily newspaper,6.3667,2.4167,reviewed: regional outlet without a reachable feed – replaced
+no,BJ,L'Événement précis,Cotonou,,https://levenementprecis.com/,fr,daily,3,,,Q107020918,3,daily newspaper; online newspaper; newspaper,6.3667,2.4167,"types: daily, online"
+no,BJ,La Croix du Bénin,Cotonou,,http://www.lacroixdubenin.com/,fr,daily,3,,,Q3207978,2,periodical; newspaper,6.3667,2.4167,reviewed: church paper
+yes,BJ,Le Matinal,Cotonou,,https://lematinal.bj/,fr,daily,3,,,Q79644823,2,newspaper,6.3667,2.4167,reviewed: established daily
+no,BJ,La Gazette du Golfe,Cotonou,,https://golfegroupe.com,fr,weekly,3,,,Q106858675,2,newspaper; weekly newspaper,6.3667,2.4167,"types: daily, weekly"
+yes,BJ,Matin Libre,Cotonou,,https://matinlibre.com/,fr,daily,3,,,Q107020904,2,daily newspaper; newspaper,6.3667,2.4167,reviewed: established daily
+yes,BJ,24 Heures au Bénin,Cotonou,,https://www.24haubenin.info/,fr,daily,3,,,Q108920872,2,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,BJ,Le Progrès,,,https://leprogresinfo.net/,fr,daily,3,,,Q109042949,2,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,BJ,Fraternité,Cotonou,,https://www.fraternitebj.info/,fr,daily,3,,,Q107054352,1,newspaper; daily newspaper; online newspaper,6.3667,2.4167,"reviewed: established daily; types: daily, online"
+no,BJ,Crystal news,Porto-Novo,,https://infos229.groupecrytalnews.com/,fr,online,3,,,Q139504013,1,newspaper publisher; online newspaper; electronic journal,6.4833,2.6167,language from country default; not pre-selected: magazine/online below tier 1
+no,BJ,Islam Hebdo,Cotonou,,https://islamhebdonews.net/,fr,weekly,3,,,Q119886991,0,newspaper; weekly newspaper,6.3667,2.4167,"reviewed: religious paper; types: daily, weekly"
+no,BJ,Banouto,,,https://www.banouto.bj/,fr,daily,3,,,Q119889397,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,BJ,L'autre vision,Cotonou,,https://www.Lautrevisionmag.com,fr,daily,3,,,Q107057496,0,newspaper; daily newspaper; online newspaper,6.3667,2.4167,"types: daily, online"
+no,BJ,Boulevard des Infos,,,https://boulevard-des-infos.com/,fr,daily,3,,,Q121338136,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,BJ,Bénin Intelligent,,,https://www.beninintelligent.com/,fr,daily,3,,,Q124466726,0,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

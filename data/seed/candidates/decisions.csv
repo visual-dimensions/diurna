@@ -1284,3 +1284,173 @@ IN,Q140868292,yes,,en,,,,,language of the feed: en
 IN,Q2747390,yes,,hi,,,,,language of the feed: hi
 IN,Q24937075,yes,,pa,,,,,language of the feed: pa
 JP,Q1186339,drop,,,,,,,party paper; feed is the party website's topics
+MR,Q135973576,yes,Nouakchott,,2,online,,,leading news portal; place filled in
+MR,Q137116168,yes,,,3,online,,,established outlet
+MR,Q135981521,yes,Nouakchott,ar,3,online,,,place filled in; Arabic
+SN,Q3227255,yes,,,2,,state,https://en.wikipedia.org/wiki/Le_Soleil_(Senegal),state majority-owned daily
+SN,Q3226202,yes,Dakar,,2,,,,place filled in
+SN,Q3204389,yes,Dakar,,3,,,,place filled in
+SN,Q105269594,no,,,,,,,entertainment portal
+SN,Q105977461,no,,,,,,,news agency
+GN,Q5616624,yes,,,2,online,,,leading news portal
+GN,Q132871998,yes,,,3,online,,,news portal
+GN,Q136719999,yes,,,3,online,,,news portal
+GN,Q25388214,yes,Conakry,,3,,state,https://en.wikipedia.org/wiki/Horoya,place filled in; state daily
+GN,Q98831632,yes,Conakry,,3,,,,place filled in
+GN,Q138588544,yes,Conakry,,3,,,,place filled in
+GN,Q106199630,no,,,,,,,sports portal
+CI,Q3086698,yes,,,2,,state,https://en.wikipedia.org/wiki/Fraternit%C3%A9_Matin,state daily
+CI,Q125400271,no,,,,,,,religious paper
+CI,Q3488957,yes,Abidjan,,2,online,,,place filled in
+CI,Q3204249,no,,,,,,,same site as Linfodrome
+CI,Q3204248,yes,Abidjan,,3,,,,place filled in
+CI,Q3225051,yes,Abidjan,,3,,,,place filled in
+CI,Q3344753,yes,Abidjan,,3,,,,place filled in
+ML,Q3236504,yes,Bamako,,3,,,,place filled in
+ML,Q137116751,yes,Bamako,,2,online,,,leading news portal; place filled in
+ML,Q135982026,yes,Bamako,,2,online,,,leading news portal; place filled in
+ML,Q137104482,yes,Bamako,,3,online,,,place filled in
+BF,Q2282052,yes,,,,,state,https://en.wikipedia.org/wiki/Sidwaya,state daily
+BF,Q21129743,yes,,,2,online,,,leading news portal
+BF,Q2928499,yes,,,3,online,,,news portal
+BF,Q117842856,yes,,,3,online,,,news portal
+GH,Q2410669,yes,,,1,,,,leading daily (state-owned per Wikidata)
+GH,Q5555470,yes,,,,,state,https://en.wikipedia.org/wiki/The_Ghanaian_Times,state-owned daily
+GH,Q7736248,yes,,,3,,,,established daily
+GH,Q59505566,yes,Accra,,3,,,,place filled in
+GH,Q16248537,yes,Accra,,3,,,,place filled in
+GH,Q83495671,yes,Accra,,2,online,,,leading news portal
+GH,Q125936214,yes,Accra,,3,online,,,place filled in
+GH,Q125936198,no,,,,,,,church paper
+GH,Q125936213,no,,,,,,,entertainment paper
+GH,Q102146997,no,,,,,,,entertainment portal
+TG,Q115236251,yes,,,,,state,https://en.wikipedia.org/wiki/Togo-Presse,state daily
+TG,Q125935680,yes,Lomé,,3,,,,place filled in
+BJ,Q18344583,yes,,,,,state,https://en.wikipedia.org/wiki/La_Nation_(Benin),state daily
+BJ,Q3207978,no,,,,,,,church paper
+BJ,Q119886991,no,,,,,,,religious paper
+BJ,Q79644823,yes,,,3,,,,established daily
+BJ,Q107020904,yes,,,3,,,,established daily
+BJ,Q107054352,yes,,,3,,,,established daily
+BJ,Q3211145,yes,Cotonou,,3,,,,place filled in
+BJ,Q108920872,yes,Cotonou,,3,,,,place filled in
+NE,Q15825440,yes,Niamey,fr,2,,state,https://en.wikipedia.org/wiki/Le_Sahel_(newspaper),place filled in; French; state daily
+NG,Q114267317,no,,,,,,,blog
+NG,Q17042398,no,,,,,,,ethnic community paper
+NG,Q138504052,no,,,,,,,ethnic community paper
+NG,Q22350740,no,,,,,,,unclear outlet
+NG,Q6805557,no,,,,,,,publisher – Daily Trust is listed separately
+NG,Q102146283,no,,,,,,,entertainment portal
+NG,Q115224044,no,,,,,,,gossip blog
+NG,Q141541179,no,,,,,,,gossip blog
+NG,Q18353684,no,,,,,,,entertainment paper
+NG,Q84816547,no,,,,,,,religious paper
+NG,Q107547953,yes,Lagos,,,,,,place is the state
+NG,Q16733394,yes,Lagos,,,,,,place is the state
+NG,Q92600466,yes,Jos,,,,,,place filled in
+NG,Q7758737,yes,Lagos,,1,,,,place filled in; leading daily
+NG,Q7767316,yes,Lagos,,2,,,,place filled in
+NG,Q106181847,yes,Abuja,,2,,,,place filled in
+NG,Q17109191,yes,,,3,,,,established daily
+NG,Q48803445,yes,Lagos,,2,online,,,place filled in
+NG,Q24196073,yes,Lagos,,3,online,,,place filled in
+CV,Q4801128,no,,,,,,,hosted on a blog platform
+CM,Q2934787,yes,Yaoundé,,2,,state,https://en.wikipedia.org/wiki/Cameroon_Tribune,place filled in; state daily
+TD,Q140367151,yes,N'Djamena,,3,,,,place filled in
+GA,Q3204803,yes,Libreville,fr,2,,state,https://en.wikipedia.org/wiki/L%27Union_(Gabon),place filled in; state-controlled daily
+CD,Q678560,yes,Kinshasa,,3,,,,place filled in / above the per-city cap
+CD,Q3078624,yes,Kinshasa,,3,,,,place filled in / above the per-city cap
+CD,Q3204392,yes,Kinshasa,,3,,,,place filled in / above the per-city cap
+CD,Q3212575,yes,Kinshasa,,3,,,,place filled in / above the per-city cap
+CD,Q3213078,yes,Kinshasa,,3,,,,place filled in / above the per-city cap
+AO,Q1704026,yes,,,,,state,https://en.wikipedia.org/wiki/Jornal_de_Angola,state daily
+ST,Q141594963,yes,São Tomé,,3,online,,,place filled in
+ET,Q2824150,yes,Addis Ababa,,2,weekly,,,place filled in
+ET,Q2937392,yes,Addis Ababa,,3,weekly,,,place filled in
+ET,Q141568488,yes,Addis Ababa,,3,online,,,place filled in
+DJ,Q20726245,yes,Djibouti,fr,2,,state,https://en.wikipedia.org/wiki/Media_of_Djibouti,place filled in; French; state daily
+SO,Q127607494,yes,Mogadishu,,3,online,,,place filled in
+KE,Q16955760,yes,,en,,,,,language: English
+KE,Q102138942,no,,,,,,,entertainment portal
+UG,Q520214,yes,,,1,,state,https://en.wikipedia.org/wiki/New_Vision,government majority (Vision Group)
+UG,Q17070912,yes,Kampala,,3,magazine,,,place filled in
+UG,Q16848841,yes,Kampala,,3,,state,https://en.wikipedia.org/wiki/New_Vision,place filled in; Vision Group (government majority)
+RW,Q135034584,yes,Kigali,,2,online,,,leading news portal; place filled in
+RW,Q135034643,yes,Kigali,,3,online,,,place filled in
+RW,Q135034929,yes,Kigali,en,3,online,,,place filled in; English
+TZ,Q1759921,yes,,,2,,state,https://en.wikipedia.org/wiki/Daily_News_(Tanzania),state daily (TSN)
+TZ,Q11227627,yes,Dar es Salaam,,2,,,,place filled in
+TZ,Q123377450,no,,,,,,,tabloid
+SS,Q7723136,yes,Juba,,3,,,,place filled in
+MZ,Q1583268,yes,,,2,,state,https://en.wikipedia.org/wiki/Not%C3%ADcias_(Mozambique),state-controlled daily
+ZW,Q13034443,yes,,,2,,state,https://en.wikipedia.org/wiki/Zimpapers,Zimpapers (government majority)
+ZW,Q126500906,yes,,,,,state,https://en.wikipedia.org/wiki/Zimpapers,Zimpapers (government majority)
+ZW,Q623811,yes,Harare,,2,,,,place filled in
+ZW,Q3012093,yes,Harare,,2,,,,place filled in
+BW,Q7772963,yes,Francistown,,3,,,,place filled in
+NA,Q493500,yes,Windhoek,,,,,,place is a suburb
+NA,Q1215779,yes,,af,,,,,language: Afrikaans
+ZA,Q1211828,yes,Cape Town,,,,,,Afrikaans city label
+ZA,Q5001709,yes,Johannesburg,,,,,,place is a suburb
+ZA,Q25614725,no,,,,,,,tiny local paper
+ZA,Q7673172,no,,,,,,,free community weekly
+ZA,Q6189925,no,,,,,,,community paper (Jewish)
+ZA,Q139714657,no,,,,,,,special-interest site (LGBT)
+ZA,Q113629927,no,,,,,,,business section of News24
+ZA,Q2937255,no,,,,,,,Wikidata homepage wrong
+ZA,Q2937243,yes,Cape Town,,3,,,,place filled in
+ZA,Q3046933,yes,Durban,zu,3,,,,place filled in; isiZulu
+ZA,Q1093990,yes,,,2,,,,established weekly
+ZA,Q262625,yes,,,2,,,,established daily
+ZA,Q6794160,yes,,,1,online,,,leading news site
+ZA,Q6016901,yes,Cape Town,,2,online,,,place filled in
+ZA,Q5209375,yes,,,3,,,,established daily
+ZA,Q7769392,yes,,,2,online,,,leading news site
+ZA,Q31739997,yes,Cape Town,af,2,,,,place filled in; Afrikaans
+ZA,Q19623442,yes,,,3,online,,,Afrikaans news site
+SZ,Q24329410,yes,Mbabane,,3,,,,place filled in
+MU,Q3224416,yes,Port Louis,,2,,,,place filled in
+KM,Q12205284,yes,,,,,state,https://en.wikipedia.org/wiki/Al-Watwan,state daily
+BF,Q2282052,no,,,,,,,regional outlet without a reachable feed – replaced
+BJ,Q18344583,no,,,,,,,regional outlet without a reachable feed – replaced
+BW,Q30674769,no,,,,,,,regional outlet without a reachable feed – replaced
+BW,Q7772963,no,,,,,,,regional outlet without a reachable feed – replaced
+CD,Q3078624,no,,,,,,,regional outlet without a reachable feed – replaced
+CD,Q3212575,no,,,,,,,regional outlet without a reachable feed – replaced
+CD,Q3213078,no,,,,,,,regional outlet without a reachable feed – replaced
+CG,Q3212773,no,,,,,,,regional outlet without a reachable feed – replaced
+CI,Q3344753,no,,,,,,,regional outlet without a reachable feed – replaced
+CI,Q3204248,no,,,,,,,regional outlet without a reachable feed – replaced
+CV,Q4038455,no,,,,,,,regional outlet without a reachable feed – replaced
+CV,Q6278980,no,,,,,,,regional outlet without a reachable feed – replaced
+DJ,Q12191255,no,,,,,,,regional outlet without a reachable feed – replaced
+ET,Q48733716,no,,,,,,,regional outlet without a reachable feed – replaced
+GH,Q59505566,no,,,,,,,regional outlet without a reachable feed – replaced
+GH,Q125936214,no,,,,,,,regional outlet without a reachable feed – replaced
+GN,Q25388214,no,,,,,,,regional outlet without a reachable feed – replaced
+GN,Q138588544,no,,,,,,,regional outlet without a reachable feed – replaced
+KE,Q16955760,no,,,,,,,regional outlet without a reachable feed – replaced
+LS,Q7764264,no,,,,,,,regional outlet without a reachable feed – replaced
+ML,Q3236504,no,,,,,,,regional outlet without a reachable feed – replaced
+ML,Q137104482,no,,,,,,,regional outlet without a reachable feed – replaced
+MU,Q3203396,no,,,,,,,regional outlet without a reachable feed – replaced
+NG,Q17109191,no,,,,,,,regional outlet without a reachable feed – replaced
+NG,Q16733394,no,,,,,,,regional outlet without a reachable feed – replaced
+NG,Q7108020,no,,,,,,,regional outlet without a reachable feed – replaced
+NG,Q92600466,no,,,,,,,regional outlet without a reachable feed – replaced
+RW,Q135034643,no,,,,,,,regional outlet without a reachable feed – replaced
+SN,Q3204389,no,,,,,,,regional outlet without a reachable feed – replaced
+SO,Q127607494,no,,,,,,,regional outlet without a reachable feed – replaced
+SO,Q7079792,no,,,,,,,regional outlet without a reachable feed – replaced
+SS,Q7723136,no,,,,,,,regional outlet without a reachable feed – replaced
+TG,Q118524810,no,,,,,,,regional outlet without a reachable feed – replaced
+TG,Q125935680,no,,,,,,,regional outlet without a reachable feed – replaced
+UG,Q16848841,no,,,,,,,regional outlet without a reachable feed – replaced
+ZA,Q2937243,no,,,,,,,regional outlet without a reachable feed – replaced
+ZA,Q1955204,no,,,,,,,regional outlet without a reachable feed – replaced
+ZA,Q5001709,no,,,,,,,regional outlet without a reachable feed – replaced
+ZW,Q126500906,no,,,,,,,regional outlet without a reachable feed – replaced
+CD,Q3202688,no,,,,,,,regional outlet without a reachable feed – replaced
+TG,Q126871027,no,,,,,,,regional outlet without a reachable feed – replaced
+CD,Q338587,no,,,,,,,regional outlet without a reachable feed – replaced
+CD,Q600425,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)

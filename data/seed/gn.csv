@@ -1,0 +1,5 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+GN,Guinéenews,Conakry,,https://guineenews.org/,fr,online,2,,,9.5092,-13.7122
+GN,Guinée matin,Conakry,,https://guineematin.com/,fr,online,3,,,9.5092,-13.7122
+GN,Mediaguinee,Conakry,,https://mediaguinee.org/,fr,daily,3,,,,
+GN,Africaguinee,Conakry,,https://www.africaguinee.com/,fr,online,3,,,9.5092,-13.7122

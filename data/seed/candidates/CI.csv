@@ -1,0 +1,13 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,CI,Fraternité Matin,Abidjan,,https://www.fratmat.info/,fr,daily,2,state,https://en.wikipedia.org/wiki/Fraternit%C3%A9_Matin,Q3086698,4,periodical; newspaper,5.3364,-4.0267,reviewed: state daily
+no,CI,Notre Voie,Abidjan,,http://www.notrevoie.com/,fr,daily,3,,,Q3344753,2,daily newspaper; newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,CI,L'Inter,,,http://www.linfodrome.ci/,fr,daily,3,,,Q3204249,1,periodical; newspaper,,,reviewed: same site as Linfodrome; no place of publication/headquarters in Wikidata – fill in city
+no,CI,Le Jour Plus,,,http://www.lejourplus.com/,fr,daily,3,,,Q3223690,1,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CI,Linfodrome,Abidjan,,http://www.linfodrome.com,fr,online,2,,,Q3488957,1,periodical; newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,CI,Gbich,,,http://www.gbich.com/,fr,daily,3,,,Q3099984,1,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CI,L'Intelligent d'Abidjan,Abidjan,,http://www.lintelligentdabidjan.org,fr,daily,3,,,Q3204248,1,periodical; newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,CI,La Nouvelle République,,,http://www.nordsudmedia.info,fr,daily,3,,,Q3211141,1,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,CI,Le Front,,,http://www.lefront.com,fr,daily,3,,,Q3222974,1,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CI,Le Nouveau Réveil,Abidjan,,http://www.lenouveaureveil.com,fr,daily,3,,,Q3225051,1,periodical; newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,CI,Nord-Sud,Abidjan,,https://www.nordsud.info/,fr,daily,3,,,Q124714640,0,newspaper; daily newspaper; online newspaper,5.3364,-4.0267,"types: daily, online"
+no,CI,Islam Info,Abidjan,,https://islaminfo.org/,fr,weekly,3,,,Q125400271,0,newspaper; weekly newspaper,5.3364,-4.0267,"reviewed: religious paper; types: daily, weekly"

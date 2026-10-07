@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,TG,L'Alternative,Lomé,,https://lalternative.info/,fr,daily,3,,,Q118524810,1,newspaper,6.1300,1.2158,reviewed: regional outlet without a reachable feed – replaced
+no,TG,Liberté (journal),Lomé,,https://libertetogo.info/,fr,daily,3,,,Q125935680,1,newspaper; monthly magazine; printed press,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,TG,Forum de la Semaine,,,https://forumdelasemaine.tg/,fr,daily,3,,,Q125935617,0,newspaper; bisemanal,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,TG,Togo - Presse,Lomé,,https://togopresse.tg/,fr,daily,3,state,https://en.wikipedia.org/wiki/Togo-Presse,Q115236251,0,daily newspaper; online newspaper; newspaper,6.1300,1.2158,"reviewed: state daily; types: daily, online"
+no,TG,Sika'a,Lomé,,https://www.sikaajournal.tg/,fr,daily,3,,,Q126871027,0,newspaper,6.1300,1.2158,reviewed: regional outlet without a reachable feed – replaced; language from country default

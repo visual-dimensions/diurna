@@ -1,0 +1,30 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,ZA,Die Burger,Cape Town,,http://www.dieburger.com/,af,daily,2,,,Q1211828,10,newspaper,-33.9253,18.4239,reviewed: Afrikaans city label
+no,ZA,Mail & Guardian,Johannesburg,,http://mg.co.za/,en,weekly,2,,,Q1509944,9,weekly newspaper,-26.2044,28.0416,
+no,ZA,The Citizen,Johannesburg,,https://www.citizen.co.za/,en,daily,2,,,Q2750599,6,newspaper,-26.2044,28.0416,
+no,ZA,The Sunday Times,Johannesburg,,http://www.sundaytimes.co.za/,en,daily,3,,,Q657155,5,newspaper,-26.2044,28.0416,
+no,ZA,Cape Argus,Cape Town,,http://www.capeargus.co.za/,en,daily,3,,,Q2937243,5,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+yes,ZA,Isolezwe,Durban,,https://isolezwe.co.za,zu,daily,3,,,Q3046933,5,newspaper,,,reviewed: place filled in; isiZulu; isiZulu; isiZulu; isiZulu; isiZulu; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,ZA,City Press,Johannesburg,,https://city-press.news24.com/,en,daily,2,,,Q1093990,5,newspaper,-26.2044,28.0416,reviewed: established weekly
+yes,ZA,The Sowetan,Johannesburg,,https://www.sowetanlive.co.za/,en,daily,2,,,Q262625,4,newspaper,-26.2044,28.0416,reviewed: established daily; language from country default
+no,ZA,Cape Times,,,http://www.saarf.co.za,en,daily,3,,,Q2937255,4,newspaper,,,reviewed: Wikidata homepage wrong; no place of publication/headquarters in Wikidata – fill in city
+yes,ZA,Daily Maverick,Johannesburg,,https://www.dailymaverick.co.za/,en,online,1,,,Q6794160,4,newspaper,-26.2044,28.0416,reviewed: leading news site
+no,ZA,The Mercury,Durban,,http://www.themercury.co.za,en,daily,3,,,Q1955204,3,newspaper,-29.8583,31.0250,reviewed: regional outlet without a reachable feed – replaced
+no,ZA,The Continent,,,https://www.thecontinent.org/,en,daily,3,,,Q111914405,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,ZA,Independent Online,Cape Town,,https://www.iol.co.za/,en,online,2,,,Q6016901,3,periodical; online newspaper; news website; state media,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,ZA,Daily Sun,Johannesburg,,http://www.dailysun.co.za/,en,daily,3,,,Q5209375,2,newspaper,-26.2044,28.0416,reviewed: established daily
+no,ZA,Jewish Report,,,http://www.sajewishreport.co.za,en,daily,3,,,Q6189925,2,newspaper,,,reviewed: community paper (Jewish); no place of publication/headquarters in Wikidata – fill in city
+yes,ZA,TimesLIVE,Johannesburg,,http://www.timeslive.co.za/,en,online,2,,,Q7769392,2,newspaper; news website; online newspaper,-26.2044,28.0416,"reviewed: leading news site; language from country default; types: daily, online"
+no,ZA,Business Day,Johannesburg,,https://www.bdlive.co.za/,en,daily,3,,,Q5001709,2,daily newspaper; business newspaper,-33.9556,18.4742,reviewed: regional outlet without a reachable feed – replaced
+no,ZA,Somerset Budget & Pearston Advocate,KwaNojoli,,http://www.somersetbudget.co.za/,en,daily,3,,,Q25614725,1,community newspaper,-32.7167,25.5833,reviewed: tiny local paper
+no,ZA,MambaOnline,,,https://www.mambaonline.com/,en,online,3,,,Q139714657,1,LGBTQI online newspaper,,,reviewed: special-interest site (LGBT); no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ZA,Table Talk,Cape Town,,http://www.theinc.co.za/publication_info.php?paper_ID=39,en,daily,3,,,Q7673172,1,newspaper,-33.9253,18.4239,reviewed: free community weekly; language from country default
+no,ZA,The Independent on Saturday,,,http://www.independentonsaturday.co.za,en,daily,3,,,Q7741828,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,ZA,Netwerk24,Cape Town,,https://www.netwerk24.com/,af,daily,2,,,Q31739997,1,newspaper,,,reviewed: place filled in; Afrikaans; Afrikaans; Afrikaans; Afrikaans; Afrikaans; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,ZA,Maroela Media,Pretoria,,https://maroelamedia.co.za/,af,online,3,,,Q19623442,1,online newspaper,-25.7464,28.1881,reviewed: Afrikaans news site; not pre-selected: magazine/online below tier 1
+no,ZA,EBNewsDaily,,,https://www.ebnewsdaily.co.za/,en,online,3,,,Q113674619,1,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ZA,Weekend Post,,,https://www.heraldlive.co.za/weekend-post/your-weekend/,en,daily,3,,,Q13036357,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ZA,African Climate Wire,,,https://africanclimatewire.org,en,online,3,,,Q141528909,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ZA,The African Mirror,,,https://theafricanmirror.africa/,en,online,3,,,Q112844992,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ZA,Fin24,,,https://www.news24.com/fin24,en,online,3,,,Q113629927,0,news website,,,reviewed: business section of News24; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ZA,The Public News Hub,,,https://www.publicnewshub.com,en,online,3,,,Q137883131,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

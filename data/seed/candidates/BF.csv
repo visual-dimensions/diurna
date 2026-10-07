@@ -1,0 +1,15 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,BF,Le Pays,Ouagadougou,,https://lepays.bf,fr,daily,3,,,Q1810032,5,daily newspaper,12.3686,-1.5275,
+no,BF,Sidwaya,Ouagadougou,,https://www.sidwaya.info/,fr,daily,3,state,https://en.wikipedia.org/wiki/Sidwaya,Q2282052,4,periodical; daily newspaper,12.3686,-1.5275,reviewed: regional outlet without a reachable feed – replaced
+no,BF,L'Observateur Paalga,Ouagadougou,,http://www.lobservateur.bf,fr,daily,3,,,Q1880658,3,daily newspaper,12.3686,-1.5275,
+yes,BF,Burkina 24,Ouagadougou,,https://burkina24.com/,fr,online,3,,,Q2928499,2,online newspaper,12.3686,-1.5275,reviewed: news portal; not pre-selected: magazine/online below tier 1
+yes,BF,LeFaso.net,Ouagadougou,,https://lefaso.net/,fr,online,2,,,Q21129743,2,online newspaper,12.3686,-1.5275,reviewed: leading news portal; not pre-selected: magazine/online below tier 1
+no,BF,Journal du Jeudi,,,http://www.journaldujeudi.com,fr,daily,3,,,Q1265804,2,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,BF,Faso7,Ouagadougou,,https://faso7.com,fr,online,3,,,Q124051144,1,online newspaper,12.3686,-1.5275,not pre-selected: magazine/online below tier 1
+no,BF,L'Autre Regard,Ouagadougou,,https://lautregard.info/,fr,daily,3,,,Q113584826,0,newspaper; monthly newspaper,12.3686,-1.5275,
+yes,BF,Wakat Séra,Ouagadougou,,https://www.wakatsera.com/,fr,online,3,,,Q117842856,0,online newspaper,12.3686,-1.5275,reviewed: news portal; not pre-selected: magazine/online below tier 1
+no,BF,Faso Actu,,,https://faso-actu.info/,fr,online,3,,,Q125464316,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,BF,Infowakat,,,https://infowakat.net/,fr,online,3,,,Q125472612,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,BF,L'Evènement,Ouagadougou,,https://www.evenement-bf.net/,fr,daily,3,,,Q116877541,0,newspaper; bimonthly,12.3686,-1.5275,
+no,BF,Mutations,Ouagadougou,,https://mutationsbf.net/,fr,daily,3,,,Q117854439,0,newspaper; bimonthly,12.3686,-1.5275,
+no,BF,San Finna,Ouagadougou,,http://www.sanfinna.com/,fr,weekly,3,,,Q117851281,0,weekly newspaper,12.3686,-1.5275,

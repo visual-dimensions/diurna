@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,MU,L'Express,Port-Louis,,http://www.lexpress.mu,fr,daily,3,,,Q3203396,3,daily newspaper,-20.1619,57.4989,reviewed: regional outlet without a reachable feed – replaced
+yes,MU,Le Mauricien,Port Louis,,http://lemauricien.com/mauricien,fr,daily,2,,,Q3224416,3,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city

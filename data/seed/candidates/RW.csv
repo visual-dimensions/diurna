@@ -1,0 +1,10 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,RW,The New Times,Kigali,,http://www.newtimes.co.rw,en,daily,2,,,Q3057375,9,daily newspaper; online newspaper; media company,-1.9525,30.1150,"types: daily, online"
+yes,RW,Igihe,Kigali,,https://www.igihe.com,rw,online,2,,,Q135034584,0,online newspaper,,,reviewed: leading news portal; place filled in; place filled in; place filled in; place filled in; place filled in; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RW,Kigali Today,Kigali,,https://www.kigalitoday.com/,rw,online,3,,,Q135034643,0,online newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RW,Umuseke,,,https://umuseke.rw/,rw,online,3,,,Q135034731,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RW,Imvaho Nshya,Kigali,,https://imvahonshya.co.rw/,rw,online,3,,,Q135034746,0,online newspaper,-1.9525,30.1150,not pre-selected: magazine/online below tier 1
+no,RW,Taarifa,,,https://taarifa.rw/,rw,online,3,,,Q135034771,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RW,Umuryango,,,https://umuryango.rw/,rw,online,3,,,Q135034789,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RW,Inyarwanda,,,https://inyarwanda.com/,rw,online,3,,,Q135034844,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,RW,KT Press,Kigali,,https://www.ktpress.rw/,en,online,3,,,Q135034929,0,online newspaper,,,reviewed: place filled in; English; English; English; English; English; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

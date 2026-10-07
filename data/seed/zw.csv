@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+ZW,NewsDay,Harare,,http://www.newsday.co.zw/,en,daily,2,,,,
+ZW,Daily News,Harare,,http://www.dailynews.co.zw/,en,daily,2,,,,
+ZW,The Chronicle,Bulawayo,,https://www.chronicle.co.zw/,en,daily,2,state,https://en.wikipedia.org/wiki/Zimpapers,-20.1667,28.5667

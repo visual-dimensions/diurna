@@ -1,0 +1,13 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,GN,Guinéenews,Conakry,,https://guineenews.org/,fr,online,2,,,Q5616624,3,online newspaper,9.5092,-13.7122,reviewed: leading news portal; not pre-selected: magazine/online below tier 1
+no,GN,Horoya,Conakry,,http://journalhoroya.info/,fr,daily,3,state,https://en.wikipedia.org/wiki/Horoya,Q25388214,2,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; state daily; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,GN,Foot224,Conakry,,http://www.foot224.co/,fr,online,3,,,Q106199630,2,news website,9.5092,-13.7122,reviewed: sports portal; language from country default; not pre-selected: magazine/online below tier 1
+no,GN,Afroguinée Magazine,Conakry,,https://www.afroguinee.com/,fr,online,3,,,Q117424571,2,news website,9.5092,-13.7122,language from country default; not pre-selected: magazine/online below tier 1
+no,GN,Le Révélateur 224,Commune de Lambanyi,,https://www.lerevelateur224.com,fr,online,3,,,Q131398829,1,online newspaper,9.6436,-13.6107,not pre-selected: magazine/online below tier 1
+no,GN,Reflet Guinée,,,https://www.refletguinee.com/,fr,online,3,,,Q141156031,1,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+yes,GN,Guinée matin,Conakry,,https://guineematin.com/,fr,online,3,,,Q132871998,1,news website,9.5092,-13.7122,reviewed: news portal; not pre-selected: magazine/online below tier 1
+yes,GN,Mediaguinee,Conakry,,https://mediaguinee.org/,fr,daily,3,,,Q98831632,0,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,GN,Ledjely,Conakry,,https://ledjely.com/,fr,daily,3,,,Q138588544,0,newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,GN,Vision Guinee,,,https://www.visionguinee.info/,fr,online,3,,,Q136719974,0,online newspaper,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,GN,Africaguinee,Conakry,,https://www.africaguinee.com/,fr,online,3,,,Q136719999,0,online newspaper,9.5092,-13.7122,reviewed: news portal; not pre-selected: magazine/online below tier 1
+no,GN,LeGuide.info,,,https://www.leguide-info.com,fr,online,3,,,Q115520324,0,news website,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

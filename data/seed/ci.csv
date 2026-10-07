@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+CI,Fraternité Matin,Abidjan,,https://www.fratmat.info/,fr,daily,2,state,https://en.wikipedia.org/wiki/Fraternit%C3%A9_Matin,5.3364,-4.0267
+CI,Linfodrome,Abidjan,,http://www.linfodrome.com,fr,online,2,,,,
+CI,Le Nouveau Réveil,Abidjan,,http://www.lenouveaureveil.com,fr,daily,3,,,,

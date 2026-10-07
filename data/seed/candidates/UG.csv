@@ -1,0 +1,7 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,UG,New Vision,Kampala,,http://www.newvision.co.ug,en,daily,1,state,https://en.wikipedia.org/wiki/New_Vision,Q520214,7,newspaper,0.3136,32.5811,reviewed: government majority (Vision Group)
+yes,UG,The Observer,Kampala,,https://observer.ug/,en,weekly,3,,,Q17069105,2,newspaper; weekly newspaper,0.3136,32.5811,"types: daily, weekly"
+yes,UG,The Independent magazine,Kampala,,http://www.independent.co.ug/,en,magazine,3,,,Q17070912,2,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,UG,East African Business Week,,,http://www.busiweek.com/,en,daily,3,,,Q15917578,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,UG,Bukedde,Kampala,,http://www.bukedde.co.ug/,lg,daily,3,state,https://en.wikipedia.org/wiki/New_Vision,Q16848841,2,daily newspaper,,,reviewed: regional outlet without a reachable feed – replaced; Vision Group (government majority); no place of publication/headquarters in Wikidata – fill in city
+no,UG,The Rwenzori Times,,,http://www.rwenzoritimes.com,en,daily,3,,,Q29569919,1,newspaper,,,no place of publication/headquarters in Wikidata – fill in city

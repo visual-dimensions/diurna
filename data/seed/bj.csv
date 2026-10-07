@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+BJ,La Nouvelle Tribune,Cotonou,,http://www.lanouvelletribune.info,fr,daily,3,,,,
+BJ,Le Matinal,Cotonou,,https://lematinal.bj/,fr,daily,3,,,6.3667,2.4167
+BJ,Matin Libre,Cotonou,,https://matinlibre.com/,fr,daily,3,,,6.3667,2.4167
+BJ,24 Heures au Bénin,Cotonou,,https://www.24haubenin.info/,fr,daily,3,,,,
+BJ,Fraternité,Cotonou,,https://www.fraternitebj.info/,fr,daily,3,,,6.3667,2.4167

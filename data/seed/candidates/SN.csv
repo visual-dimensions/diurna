@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,SN,Le Soleil,Dakar,,http://www.lesoleil.sn/,fr,daily,2,state,https://en.wikipedia.org/wiki/Le_Soleil_(Senegal),Q3227255,5,daily newspaper,14.6726,-17.4320,reviewed: state majority-owned daily
+yes,SN,Le Quotidien,Dakar,,http://www.lequotidien.sn,fr,daily,2,,,Q3226202,2,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city
+no,SN,L'Observateur,Dakar,,http://www.lobservateur.sn,fr,daily,3,,,Q3204389,1,daily newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city
+no,SN,Pulse Senegal,Dakar,,https://www.pulse.sn/,fr,online,3,,,Q105269594,0,online newspaper,14.6726,-17.4320,reviewed: entertainment portal; not pre-selected: magazine/online below tier 1
+no,SN,Agence de presse africaine,Dakar,,http://apanews.net/en,fr,online,3,,,Q105977461,0,news agency; online newspaper,14.6726,-17.4320,reviewed: news agency; language from country default; not pre-selected: magazine/online below tier 1

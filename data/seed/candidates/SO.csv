@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,SO,Bilan Media,Mogadishu,,https://www.bilan.media/,so,online,3,,,Q127607494,4,online newspaper,,,reviewed: regional outlet without a reachable feed – replaced; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,SO,OGAAL,Hargeysa,,http://ogaalnews.net/,so,daily,3,,,Q7079792,3,newspaper,9.5656,44.0606,reviewed: regional outlet without a reachable feed – replaced

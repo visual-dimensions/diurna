@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+GH,The Ghanaian Times,Accra,,https://www.ghanaiantimes.com.gh,en,daily,2,state,https://en.wikipedia.org/wiki/The_Ghanaian_Times,5.5560,-0.1969
+GH,Daily Graphic,Accra,,https://www.graphic.com.gh/,en,daily,1,state,https://www.wikidata.org/wiki/Q2410669,5.5560,-0.1969
+GH,The Ghanaian Chronicle,Accra,,https://thechronicle.com.gh/,en,daily,3,,,5.5560,-0.1969
+GH,Daily Guide,Accra,,https://dailyguidenetwork.com/,en,daily,3,,,,
+GH,GhanaWeb,Accra,,https://www.ghanaweb.com/,en,online,2,,,,

@@ -1,0 +1,2 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,SZ,Swazi Observer,Mbabane,,http://www.observer.org.sz,en,daily,3,,,Q24329410,0,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default

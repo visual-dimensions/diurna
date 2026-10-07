@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,MZ,Notícias,Maputo,,http://www.jornalnoticias.co.mz/,pt,daily,2,state,https://en.wikipedia.org/wiki/Not%C3%ADcias_(Mozambique),Q1583268,4,newspaper,-25.9689,32.5733,reviewed: state-controlled daily
+yes,MZ,@Verdade,Maputo,,http://www.verdade.co.mz,pt,weekly,3,,,Q19686632,3,weekly newspaper; free newspaper,-25.9689,32.5733,"types: daily, weekly"

@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,CV,Expresso das Ilhas,Praia,,http://www.expressodasilhas.sapo.cv,pt,daily,3,,,Q4038455,5,newspaper,14.9177,-23.5092,reviewed: regional outlet without a reachable feed – replaced
+no,CV,Artiletra,Mindelo,,http://artiletra.blogspot.com,pt,daily,3,,,Q4801128,3,magazine; newspaper,16.8914,-24.9880,reviewed: hosted on a blog platform
+no,CV,Jornal O Cidadão,,,http://www.hostultra.com/~caboverde/cidadao/index.htm,pt,daily,3,,,Q6278982,2,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CV,A Nação,Praia,,http://www.anacao.cv,pt,daily,3,,,Q55603009,2,newspaper,14.9177,-23.5092,
+no,CV,Jornal Horizonte,Praia,,http://www.jhorizonte.com/,pt,daily,3,,,Q6278980,1,newspaper,14.9177,-23.5092,reviewed: regional outlet without a reachable feed – replaced; language from country default

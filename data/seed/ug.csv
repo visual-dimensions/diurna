@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+UG,New Vision,Kampala,,http://www.newvision.co.ug,en,daily,1,state,https://en.wikipedia.org/wiki/New_Vision,0.3136,32.5811
+UG,The Observer,Kampala,,https://observer.ug/,en,weekly,3,,,0.3136,32.5811
+UG,The Independent magazine,Kampala,,http://www.independent.co.ug/,en,magazine,3,,,,

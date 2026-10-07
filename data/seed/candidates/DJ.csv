@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,DJ,La Nation,Djibouti,,https://www.lanation.dj/,fr,daily,2,state,https://en.wikipedia.org/wiki/Media_of_Djibouti,Q20726245,2,newspaper,,,reviewed: place filled in; French; state daily; French; state daily; French; state daily; French; state daily; French; state daily; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,DJ,Al Qarn,Djibouti,,http://www.alqarn.dj/,ar,daily,3,,,Q12191255,1,newspaper,11.5950,43.1481,reviewed: regional outlet without a reachable feed – replaced

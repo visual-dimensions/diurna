@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,CM,Cameroon Tribune,Yaoundé,,http://www.cameroon-tribune.cm/,fr,daily,2,state,https://en.wikipedia.org/wiki/Cameroon_Tribune,Q2934787,5,daily newspaper,,,reviewed: place filled in; state daily; state daily; state daily; state daily; state daily; no place of publication/headquarters in Wikidata – fill in city
+no,CM,Africa Presse,,,http://www.africapresse.com,fr,daily,3,,,Q16525375,2,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city

@@ -1,0 +1,5 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,ZW,NewsDay,Harare,,http://www.newsday.co.zw/,en,daily,2,,,Q623811,3,newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,ZW,Daily News,Harare,,http://www.dailynews.co.zw/,en,daily,2,,,Q3012093,3,daily newspaper,,,reviewed: place filled in; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,ZW,The Chronicle,Bulawayo,,https://www.chronicle.co.zw/,en,daily,2,state,https://en.wikipedia.org/wiki/Zimpapers,Q13034443,2,newspaper,-20.1667,28.5667,reviewed: Zimpapers (government majority)
+no,ZW,Sunday News,Bulawayo,,https://www.sundaynews.co.zw/,en,daily,3,state,https://en.wikipedia.org/wiki/Zimpapers,Q126500906,0,Sunday newspaper,-20.1667,28.5667,reviewed: regional outlet without a reachable feed – replaced

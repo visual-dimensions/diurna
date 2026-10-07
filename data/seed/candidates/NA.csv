@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,NA,Allgemeine Zeitung,Windhoek,,https://www.az.com.na/,de,daily,2,,,Q153077,11,daily newspaper,-22.5700,17.0836,
+yes,NA,The Namibian,Windhoek,,http://www.namibian.com.na/,en,daily,2,,,Q493500,10,newspaper,-22.5597,17.0778,reviewed: place is a suburb
+yes,NA,Die Republikein,Windhoek,,http://www.republikein.com.na,af,daily,2,,,Q1215779,9,daily newspaper,-22.5700,17.0836,reviewed: language: Afrikaans
