@@ -15,7 +15,10 @@ export class ListView {
   readonly el: HTMLElement;
   private body: HTMLElement;
   private cities: City[] = [];
+  private filtered = false;
   private generation = 0;
+  /** Data changed while the list was hidden: build it on the next show(). */
+  private stale = true;
 
   onShowCity: (cityKey: string) => void = () => {};
   loadCountry: (code: string) => Promise<void> = async () => {};
@@ -39,8 +42,21 @@ export class ListView {
     });
   }
 
+  /**
+   * New data or filters. While the list is hidden only remember them: with 1,200+ outlets the
+   * full structure is ~7,000 elements, which would slow down the start of the globe for nothing.
+   */
   render(cities: City[], filtered: boolean) {
     this.cities = cities;
+    this.filtered = filtered;
+    this.stale = true;
+    if (!this.el.hidden) this.build();
+  }
+
+  private build() {
+    this.stale = false;
+    const cities = this.cities;
+    const filtered = this.filtered;
     const generation = ++this.generation;
     const byCountry = this.byCountry();
     const outlets = cities.reduce((n, c) => n + c.media.length, 0);
@@ -75,6 +91,7 @@ export class ListView {
 
   show() {
     this.el.hidden = false;
+    if (this.stale) this.build();
     this.el.scrollTop = 0;
     this.el.querySelector<HTMLElement>('#list-title')!.focus({ preventScroll: true });
     this.fill(this.generation);
