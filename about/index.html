@@ -21,14 +21,15 @@
       <h1>About Diurna</h1>
       <p class="about__lead">
         <em>Acta diurna</em> – “daily acts” – were the public notices of ancient Rome. Diurna shows newspapers
-        from around the world where their newsrooms are, and what they lead with right now – starting with Europe,
-        North America and Oceania.
+        from around the world – more than 1,200 outlets in over 190 countries and territories – where their newsrooms
+        are, and what they lead with right now.
       </p>
 
       <section aria-labelledby="how">
         <h2 id="how">How it works</h2>
         <p>
-          Every newsroom is a point of light on the globe. Every 30 minutes, Diurna reads the feeds the publishers
+          Every newsroom is a point of light on the globe. Several times an hour – every 30 minutes for the leading
+          outlets, less often for regional ones – Diurna reads the feeds the publishers
           themselves provide – RSS or Atom, and where there is none, the news sitemap they publish for search engines.
           The same method applies to every outlet; nothing is scraped from web pages.
         </p>
@@ -41,7 +42,9 @@
           Below non-English headlines you will find an English machine translation, marked as such. It is produced by an
           open translation model running in our own build process – no headline is sent to a translation service. It
           is meant to tell you roughly what a story is about; nuances and wordplay can get lost, and the original is
-          always shown above it.
+          always shown above it. Some languages are not translated – either the model does not cover them (for
+          example Telugu, Kinyarwanda or Tigrinya) or its translations proved too unreliable to show (Georgian,
+          Armenian).
         </p>
       </section>
 
@@ -76,11 +79,29 @@
         </p>
         <p>
           Outlets owned or controlled by a state or government are marked “State-owned”, with a link to the evidence
-          (for example the ownership record on Wikidata). Public broadcasters with independent oversight are not
+          (an ownership record, a founding document or a reference article). Public broadcasters with independent oversight are not
           marked this way. We only use this label where ownership is documented, not as a judgement of editorial
           stance.
         </p>
         <p>Times shown are approximate: some feeds publish no dates, in which case Diurna uses the time it first saw the headline.</p>
+      </section>
+
+      <section aria-labelledby="selection">
+        <h2 id="selection">What is on the map – and what is not</h2>
+        <p>
+          The selection starts from <a href="https://www.wikidata.org/">Wikidata</a> and is reviewed by hand: daily
+          newspapers, news sites and news magazines, more of them for larger countries, with regional spread. Where
+          Wikidata knows little – much of Latin America, Africa and the Pacific – outlets were added by hand.
+        </p>
+        <p>
+          Not included: broadcasters, news agencies, and papers of parties, churches, companies, universities or
+          trade associations. Outlets in occupied territories are not listed under the occupying state.
+        </p>
+        <p>
+          Outlets that are subject to the European Union’s ban on disseminating their content (Council Regulation
+          (EU) No 833/2014, Annex XV – for example RIA Novosti, Izvestia or Rossiyskaya Gazeta) are not listed:
+          showing their headlines and links would mean passing their content on.
+        </p>
       </section>
 
       <section aria-labelledby="publishers">
@@ -116,12 +137,17 @@
             City coordinates: <a href="https://www.geonames.org/">GeoNames</a>, licensed under
             <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
           </li>
+          <li>Outlet data: <a href="https://www.wikidata.org/">Wikidata</a> (CC0), reviewed and extended by hand</li>
           <li>Globe: <a href="https://maplibre.org/">MapLibre GL JS</a> (BSD-3-Clause)</li>
           <li>
             Machine translation: <a href="https://huggingface.co/facebook/m2m100_1.2B">M2M100</a> by Meta AI (MIT),
             run with <a href="https://github.com/OpenNMT/CTranslate2">CTranslate2</a>
           </li>
-          <li>Fonts: Newsreader, Noto Serif, Inter (SIL Open Font License 1.1); map digits in Open Sans (Apache 2.0)</li>
+          <li>
+            Fonts: Newsreader, Inter and the Noto families for Cyrillic, Greek, Arabic, Hebrew, Indic, Southeast Asian,
+            Chinese, Japanese, Korean, Ethiopic, Georgian and Armenian script (SIL Open Font License 1.1); map digits
+            in Open Sans (Apache 2.0)
+          </li>
           <li>Headlines: © the respective publishers</li>
           <li>Source code: <a href="https://github.com/visual-dimensions/diurna">github.com/visual-dimensions/diurna</a></li>
         </ul>
