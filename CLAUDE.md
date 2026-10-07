@@ -98,7 +98,8 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler au
 ├─ about/index.html              Info-/Impressum-Seite
 ├─ assets/geo/                   Natural-Earth-GeoJSON (110m für den ersten Frame, 50m nachgeladen)
 ├─ public/_headers               Sicherheits-Header (CSP) und Caching für Cloudflare Pages
-└─ .github/workflows/            fetch.yml (alle 30 Min.), deploy.yml (Build + Upload)
+├─ trigger/                     Cloudflare Worker: startet fetch.yml per Cron (nur Auslöser)
+└─ .github/workflows/            fetch.yml (Abruf), deploy.yml (Build + Upload)
 ```
 
 ### Entwicklung
@@ -205,11 +206,12 @@ Zusätzlich `runs` / `successes` (Erfolgsquote) und `error` bei Fehlschlag.
 - Schreibt `headlines.json` und `status.json` nur, wenn sich etwas geändert hat.
 
 ### GitHub Action (`fetch.yml`)
-- `schedule: cron: '4,14,24,34,44,54 * * * *'` (alle 10 Min., bewusst nicht zu :00/:30) + `workflow_dispatch` für manuelle Läufe. Vorher alle 30 Min. – GitHub ließ davon im Oktober 2026 rund 45 von 48 Läufen pro Tag ausfallen. Mehr Auslöser heißen nicht mehr Abrufe: `fetch_headlines.py` holt nur fällige Quellen (Takt nach Tier).
+- **Auslöser: Cloudflare Worker `trigger/`** (entschieden 2026-10-07), Cron `2,17,32,47 * * * *`, ruft nur `workflow_dispatch` von `fetch.yml` auf – keine Daten, keine Speicherung, kein öffentlicher Endpunkt (`workers_dev = false`). Grund: GitHub ließ im Oktober 2026 rund 45 von 48 geplanten Läufen pro Tag ausfallen. Deploy: `npx wrangler deploy --config trigger/wrangler.toml`; Secret `GITHUB_TOKEN` (fein granularer Token, nur dieses Repo, „Actions: Read and write“): `npx wrangler secret put GITHUB_TOKEN --config trigger/wrangler.toml`; Logs: `npx wrangler tail diurna-trigger`.
+- `schedule: cron: '9,39 * * * *'` in `fetch.yml` bleibt als Rückfall + `workflow_dispatch` für manuelle Läufe. Mehr Auslöser heißen nicht mehr Abrufe: `fetch_headlines.py` holt nur fällige Quellen (Takt nach Tier).
 - Zustand vom Branch `data` holen (`scripts/pull_data.sh`), `fetch_headlines.py` → `translate_headlines.py` → `build_frontend_data.py`, Ergebnis als **ein Commit ohne Historie** per force-push auf `data` (hält das Repo klein).
 - Danach ruft `fetch.yml` `deploy.yml` auf: `npm run build` + `wrangler pages deploy dist` (Direct Upload, keine Git-Integration → zählt nicht gegen das Pages-Build-Limit). `deploy.yml` läuft außerdem bei jedem Code-Push.
 - Secrets: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` (ohne sie wird nur gebaut). Pages-Projektname: `diurna`.
-- Hinweis: GitHub-Cron verspätet sich oft und lässt unter Last Läufe ganz ausfallen. Reicht auch der 10-Minuten-Auslöser nicht, wäre ein externer Auslöser die Lösung (z. B. Cloudflare-Cron, der nur `workflow_dispatch` aufruft – keine Daten, kein Backend; bewusst entscheiden).
+- Hinweis: GitHub-Cron verspätet sich oft und lässt unter Last Läufe ganz ausfallen – deshalb der Cloudflare-Auslöser.
 
 ---
 

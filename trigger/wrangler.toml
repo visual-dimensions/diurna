@@ -1,0 +1,13 @@
+# Cloudflare Worker that only starts the GitHub "Fetch headlines" workflow on a schedule.
+# Deploy: npx wrangler deploy --config trigger/wrangler.toml
+# Secret: npx wrangler secret put GITHUB_TOKEN --config trigger/wrangler.toml
+name = "diurna-trigger"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+workers_dev = false # no public URL – the worker only runs on its schedule
+
+[triggers]
+# Every 15 minutes, off the full hour. Tier 1 sources are due every 30 min
+# (fetch_headlines.py skips sources that are not due), so this keeps them on time
+# even if a single dispatch is lost.
+crons = ["2,17,32,47 * * * *"]
