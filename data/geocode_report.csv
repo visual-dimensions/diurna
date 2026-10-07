@@ -531,6 +531,8 @@ gaps_manual.csv:38,sierraloaded,Sierraloaded,SL,Freetown,ok,"Freetown 8.4871,-13
 gaps_manual.csv:39,onliner,Onliner,BY,Minsk,ok,"Minsk 53.9002,27.5665","cities15000, primary name"
 gaps_manual.csv:40,islandsbusiness,Islands Business,FJ,Suva,ok,"Suva -18.1368,178.4253","cities15000, primary name"
 gaps_manual.csv:41,maltatoday,MaltaToday,MT,San Ġwann,ok,"San Ġwann 35.9056,14.4761","cities500, primary name"
+gaps_manual.csv:42,thestkittsnevisobserver,The St. Kitts-Nevis Observer,KN,Basseterre,ok,"Basseterre 17.2955,-62.725","cities15000, primary name"
+gaps_manual.csv:43,marshallislandsjournal,Marshall Islands Journal,MH,Majuro,ok,"Majuro 7.0897,171.3803","cities15000, primary name"
 gh.csv:2,theghanaiantimes,The Ghanaian Times,GH,Accra,ok,"Accra 5.556,-0.1969","cities15000, primary name"
 gh.csv:3,dailygraphic,Daily Graphic,GH,Accra,ok,"Accra 5.556,-0.1969","cities15000, primary name"
 gh.csv:4,theghanaianchronicle,The Ghanaian Chronicle,GH,Accra,ok,"Accra 5.556,-0.1969","cities15000, primary name"
