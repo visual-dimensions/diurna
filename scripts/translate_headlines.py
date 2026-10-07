@@ -18,8 +18,10 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 import time
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -67,11 +69,25 @@ def translate(texts: list[tuple[str, str]], translator, sp) -> list[str]:
     return out
 
 
+def repetitive(text: str) -> bool:
+    """The model sometimes loops ("Fire Crisis: Fire Crisis: …", "R.R.R.R…").
+    Any 2–4-word phrase four times, mostly repeated word pairs, or a short character run six times."""
+    words = re.findall(r"\w+", text.casefold())
+    for n in (2, 3, 4):
+        grams = Counter(tuple(words[i : i + n]) for i in range(len(words) - n + 1))
+        if grams and max(grams.values()) >= 4:
+            return True
+    pairs = list(zip(words, words[1:]))
+    if len(pairs) >= 6 and len(set(pairs)) / len(pairs) < 0.6:
+        return True
+    return re.search(r"(.{1,6}?)\1{5,}", text) is not None
+
+
 def plausible(source: str, result: str) -> bool:
-    """Reject obvious failures: empty, unchanged, unknown tokens (⁇), or a wildly different length."""
+    """Reject obvious failures: empty, unchanged, unknown tokens (⁇), a wildly different length, or a loop."""
     if not result or result.casefold() == source.casefold() or "⁇" in result:
         return False
-    return 0.35 <= len(result) / max(1, len(source)) <= 3.0
+    return 0.35 <= len(result) / max(1, len(source)) <= 3.0 and not repetitive(result)
 
 
 def main() -> int:
@@ -89,7 +105,9 @@ def main() -> int:
     todo, removed = [], 0
     for sid, item in data["items"].items():
         lang = M2M_LANG.get(langs.get(sid, ""), langs.get(sid, ""))
-        if lang in UNRELIABLE and TARGET in item.get("translations", {}):
+        stored = item.get("translations", {}).get(TARGET)
+        # Also drops translations stored before a check existed; they are tried again below.
+        if stored is not None and (lang in UNRELIABLE or not plausible(item["title"], stored)):
             del item["translations"][TARGET]
             removed += 1
         if lang == TARGET or lang not in M2M_SUPPORTED or lang in UNRELIABLE:
@@ -104,7 +122,7 @@ def main() -> int:
                 picked.append(t)
         todo = picked[: args.sample]
     if removed and not args.sample:
-        print(f"translate: removed {removed} translation(s) in unreliable languages")
+        print(f"translate: removed {removed} unreliable or implausible translation(s)")
         HEADLINES_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     if not todo:
         print("translate: nothing new")
@@ -122,7 +140,7 @@ def main() -> int:
     done = 0
     for (sid, lang, title), result in zip(todo, results):
         if args.sample:
-            print(f"[{lang}] {title}\n   → {result}")
+            print(f"[{lang}] {title}\n   → {result}{'' if plausible(title, result) else '   (rejected)'}")
             continue
         if plausible(title, result):
             data["items"][sid].setdefault("translations", {})[TARGET] = result
