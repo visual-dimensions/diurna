@@ -657,6 +657,10 @@ body[data-ambient='true'] .dock {
 
 .listview__country {
   margin-top: 40px;
+  /* 1,200+ outlets: lay out and paint only the countries near the viewport. The content stays
+     in the document, so screen readers and find-in-page still see everything. */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 900px;
 }
 
 .listview__countryname {
