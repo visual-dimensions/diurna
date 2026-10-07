@@ -32,6 +32,9 @@ BATCH_SIZE = 16
 
 # Our `lang` codes that M2M100 names differently (all others are identical).
 M2M_LANG = {"nb": "no", "nn": "no", "zh-Hant": "zh"}
+# Languages M2M100 supports but translates too badly to show (invented sentences in tests):
+# skipped, and translations already stored for them are removed.
+UNRELIABLE = {"ka", "hy"}
 # All 100 languages of M2M100 (model card, facebook/m2m100_1.2B).
 M2M_SUPPORTED = set(
     "af am ar ast az ba be bg bn br bs ca ceb cs cy da de el en es et fa ff fi fr fy ga gd gl gu ha he hi "
@@ -83,10 +86,13 @@ def main() -> int:
     data = json.loads(HEADLINES_FILE.read_text(encoding="utf-8"))
     langs = {s["id"]: s["lang"] for s in json.loads(SOURCES_FILE.read_text(encoding="utf-8"))}
 
-    todo = []
+    todo, removed = [], 0
     for sid, item in data["items"].items():
         lang = M2M_LANG.get(langs.get(sid, ""), langs.get(sid, ""))
-        if lang == TARGET or lang not in M2M_SUPPORTED:
+        if lang in UNRELIABLE and TARGET in item.get("translations", {}):
+            del item["translations"][TARGET]
+            removed += 1
+        if lang == TARGET or lang not in M2M_SUPPORTED or lang in UNRELIABLE:
             continue
         if args.sample or TARGET not in item.get("translations", {}):
             todo.append((sid, lang, item["title"]))
@@ -97,6 +103,9 @@ def main() -> int:
                 seen.add(t[1])
                 picked.append(t)
         todo = picked[: args.sample]
+    if removed and not args.sample:
+        print(f"translate: removed {removed} translation(s) in unreliable languages")
+        HEADLINES_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     if not todo:
         print("translate: nothing new")
         return 0
