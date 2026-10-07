@@ -33,10 +33,10 @@ import './styles/app.css';
 
 import maplibregl, { type GeoJSONSource, type MapLayerMouseEvent } from 'maplibre-gl';
 import { activeFilterCount, defaultFilters, filterCities, type Filters } from './data/filter';
-import { cityKey, DataStore, groupByCity, type City } from './data/load';
+import { cityKey, DataStore, groupByCity, type City, type Medium } from './data/load';
 import { Ambient } from './globe/ambient';
 import { INTRO_START, introWanted, playIntro } from './globe/intro';
-import { addMarkerLayers, citiesToGeoJSON, clusterExpansionZoom, HIT_LAYERS, pulse, updateMarkers } from './globe/markers';
+import { addMarkerLayers, addSpotlightLayers, citiesToGeoJSON, clearSpotlight, clusterExpansionZoom, HIT_LAYERS, pulse, spotlight, updateMarkers } from './globe/markers';
 import { globeStyle, NIGHT_BANDS, upgradeGeometry } from './globe/style';
 import { nightBands, sunLightPosition } from './globe/terminator';
 import { FilterControl } from './ui/filters';
@@ -146,6 +146,8 @@ let allCities: City[] = [];
 let cities: City[] = []; // filtered
 let filters: Filters = defaultFilters();
 let view: View = 'globe';
+/** The globe follows the live bar once the visitor steps through it or presses play. */
+let followLiveBar = false;
 
 function cityByKey(key: string, list = cities) {
   return list.find((c) => c.key === key);
@@ -164,6 +166,25 @@ function camera(duration: number) {
 function flyToCity(city: City) {
   const offset: [number, number] = narrowQuery.matches ? [0, -snapHeight('peek') / 2] : [-220, 0];
   map.easeTo({ center: [city.lon, city.lat], zoom: Math.max(map.getZoom(), 4), offset, ...camera(1000) });
+}
+
+/** Live bar: fly to the headline's city and let it pulse – no panel, the bar stays the focus. */
+function showLiveItem(m: Medium, engaged: boolean) {
+  if (engaged) followLiveBar = true;
+  if (!followLiveBar || view !== 'globe' || panel.isOpen || ambient.active) return;
+  const city = cityByKey(cityKey(m), allCities);
+  if (!city) return;
+  const duration = reducedMotion ? 0 : 1200;
+  // From zoom 3.2 every tier is visible; keep a closer zoom if the visitor chose one.
+  const zoom = Math.min(Math.max(map.getZoom(), 3.4), 5);
+  map.flyTo({ center: [city.lon, city.lat], zoom, offset: [0, -40], ...camera(duration) });
+  spotlight(map, [city.lon, city.lat], reducedMotion, duration);
+}
+
+function stopFollowing() {
+  if (!followLiveBar) return;
+  followLiveBar = false;
+  clearSpotlight(map);
 }
 
 function flyToCountry(code: string) {
@@ -260,6 +281,7 @@ function setAmbient(on: boolean) {
 }
 
 function onSearch(r: SearchResult) {
+  stopFollowing();
   if (r.kind === 'medium') openCity(cityKey(r.medium), r.medium.id);
   else if (r.kind === 'city') openCity(r.cityKey);
   else {
@@ -270,6 +292,7 @@ function onSearch(r: SearchResult) {
 }
 
 async function onMarkerClick(e: MapLayerMouseEvent) {
+  stopFollowing();
   // A cluster of nearby cities: zoom in until it falls apart.
   const cluster = e.features?.find((f) => f.properties?.cluster);
   if (cluster) {
@@ -301,6 +324,7 @@ filterControl.onChange = (f) => {
 };
 listView.onShowCity = (key) => openCity(key);
 liveBar.onSelect = (m) => openCity(cityKey(m), m.id);
+liveBar.onShow = showLiveItem;
 listView.loadCountry = (code) => store.ensureCountries([code]);
 ambient.onStop = () => {
   document.body.dataset.ambient = 'false';
@@ -340,6 +364,7 @@ map.on('load', async () => {
     return;
   }
   addMarkerLayers(map, citiesToGeoJSON(cities));
+  addSpotlightLayers(map);
   if (withIntro) playIntro(map, cities, HOME);
   else pulse(map, cities, reducedMotion, 1400);
 
@@ -348,6 +373,8 @@ map.on('load', async () => {
     map.on('mouseenter', layer, () => (map.getCanvas().style.cursor = 'pointer'));
     map.on('mouseleave', layer, () => (map.getCanvas().style.cursor = ''));
   }
+  // Taking the globe in hand ends following the live bar (camera flights have no originalEvent).
+  for (const type of ['dragstart', 'zoomstart'] as const) map.on(type, (e) => e.originalEvent && stopFollowing());
   map.on('click', (e) => {
     if (!map.queryRenderedFeatures(e.point, { layers: HIT_LAYERS }).length) panel.close();
   });

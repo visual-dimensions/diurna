@@ -241,6 +241,7 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
    - Link „Zum Artikel ↗“ und „Zur Startseite“.
    - Bei mehreren Medien: horizontal durchwischen (Mobile) bzw. Liste (Desktop).
 3. **Live-Leiste:** Unten eine schmale, ruhige Leiste mit den zuletzt hereingekommenen Schlagzeilen („Gerade eben in Lissabon: …“). Antippen → Globus fliegt hin. Pausiert bei Hover/Fokus, bei `prefers-reduced-motion` statisch. Eigener Pause-Knopf (WCAG 2.2.2).
+   - Weiter/Zurück/Play → Globus folgt der Leiste (Flug zur Stadt, Puls-Ringe, Markierung), ohne Panel; Antippen der Schlagzeile öffnet das Panel. Mitfliegen erst nach dieser Interaktion, nicht beim Laden; endet, sobald man den Globus selbst bewegt, einen Marker antippt oder sucht. Pause nur bei Hover/Fokus auf der Schlagzeile, nicht auf den Knöpfen.
 4. **Ambient-Modus (optional, Umschalter):** Globus dreht langsam; neue Schlagzeilen erscheinen kurz als schwebende Label an ihrem Punkt. Gedacht als „Bildschirmschoner der Weltnachrichten“ – das ist der Screenshot-/Demo-Moment.
    - Echte Rotation (eine Umdrehung in 4 Min., ostwärts wie die Erde); Labels erscheinen nur, wenn ihre Redaktion zum Betrachter zeigt. Beenden per Escape, Ziehen oder Zoomen.
 5. **Suche & Filter:** schwebende Pill oben; Suche nach Medium, Stadt, Land; Filter Sprache, Land, Tier, „nur mit Headline“.
@@ -316,7 +317,7 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
 - ~~Stadtnamen~~ → **Landessprache**, wie in der Seed-Liste (Praha, København, Athina).
 - ~~„Regierungsnah“ kennzeichnen~~ → **nein**, nur dokumentiertes Staatseigentum/-kontrolle (`state`).
 - ~~CJK-Schriften: Noto oder Systemschriften~~ → **Noto**, bei Bedarf nachgeladen (`src/ui/scriptfonts.ts`).
-- ~~Maschinelle Übersetzung~~ → Übersetzung neuer Headlines **nach Englisch** in der GitHub Action mit einem **offenen Modell**: M2M100 1.2B (Meta, MIT) als CTranslate2-int8 (`scripts/translate_headlines.py`, Modell im Actions-Cache, einmalig erzeugt von `scripts/prepare_translation_model.sh`). Kein API-Dienst, kein Key, keine Kosten, keine Mengengrenze. Azure scheiterte an der Kontoeinrichtung, DeepL Free (500k Zeichen/Monat) reicht für ~3,3 Mio. Zeichen/Monat nicht. Übersetzung steht als `translations.en` am Headline-Item und bleibt erhalten, solange der Titel gleich ist. Im UI als „Machine-translated“ gekennzeichnet, Original bleibt sichtbar. Fehlt das Modell, läuft alles ohne Übersetzung weiter.
+- ~~Maschinelle Übersetzung~~ → Übersetzung neuer Headlines **nach Englisch** in der GitHub Action mit einem **offenen Modell**: M2M100 1.2B (Meta, MIT) als CTranslate2-int8 (`scripts/translate_headlines.py`, Modell im Actions-Cache, einmalig erzeugt von `scripts/prepare_translation_model.sh`). Kein API-Dienst, kein Key, keine Kosten, keine Mengengrenze. Azure scheiterte an der Kontoeinrichtung, DeepL Free (500k Zeichen/Monat) reicht für ~3,3 Mio. Zeichen/Monat nicht. Übersetzung steht als `translations.en` am Headline-Item und bleibt erhalten, solange der Titel gleich ist. Im UI als „Machine-translated“ gekennzeichnet, Original bleibt sichtbar. Das Modell gerät gelegentlich in Schleifen („Fire Crisis: Fire Crisis: …“) – solche Ausgaben verwirft `plausible()`, auch bereits gespeicherte (2026-10-07: 18 von 588). Fehlt das Modell, läuft alles ohne Übersetzung weiter.
 
 ---
 

@@ -2,7 +2,7 @@ import type { Medium } from '../data/load';
 import { escapeHtml, relativeAge } from './format';
 import { ensureScriptFont } from './scriptfonts';
 
-const ROTATE_MS = 6500;
+const ROTATE_MS = 8000;
 const MAX_ITEMS = 15;
 
 /** Recency of a headline in ms (published, else first_seen – computed by the pipeline). */
@@ -14,7 +14,8 @@ export function headlineTime(m: Medium): number {
  * A quiet strip with the most recent headlines ("12 min ago in Lisboa · …").
  * Rotates every few seconds; pauses on hover/focus and has an explicit
  * pause button (WCAG 2.2.2). With reduced motion it does not rotate on its
- * own – the arrows step through the items. Activating an item flies there.
+ * own – the arrows step through the items. Activating an item opens its city;
+ * `onShow` reports every item shown, so the globe can follow along.
  */
 export class LiveBar {
   readonly el: HTMLElement;
@@ -25,8 +26,11 @@ export class LiveBar {
   private timer = 0;
   private paused: boolean;
   private hovered = false;
+  private progress: HTMLElement;
 
   onSelect: (m: Medium) => void = () => {};
+  /** An item came into view; `engaged` = the visitor stepped or pressed play. */
+  onShow: (m: Medium, engaged: boolean) => void = () => {};
 
   constructor(private reducedMotion: boolean) {
     this.paused = reducedMotion;
@@ -44,24 +48,30 @@ export class LiveBar {
         <button type="button" class="livebar__btn" data-step="1" aria-label="Next headline">
           <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M9.5 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </button>
-      </div>`;
+      </div>
+      <span class="livebar__progress" aria-hidden="true"></span>`;
     this.item = this.el.querySelector('.livebar__item')!;
     this.toggle = this.el.querySelector('.livebar__toggle')!;
+    this.progress = this.el.querySelector('.livebar__progress')!;
+    this.progress.style.animationDuration = `${ROTATE_MS}ms`;
 
     this.item.addEventListener('click', () => this.items[this.index] && this.onSelect(this.items[this.index]));
     this.el.querySelectorAll<HTMLButtonElement>('[data-step]').forEach((b) =>
-      b.addEventListener('click', () => this.step(Number(b.dataset.step))),
+      b.addEventListener('click', () => this.step(Number(b.dataset.step), true)),
     );
     this.toggle.addEventListener('click', () => {
       this.paused = !this.paused;
       this.syncToggle();
       this.schedule();
+      const m = this.items[this.index];
+      if (!this.paused && m) this.onShow(m, true);
     });
-    // Pause while the visitor is looking at or working with it.
-    this.el.addEventListener('pointerenter', () => ((this.hovered = true), this.schedule()));
-    this.el.addEventListener('pointerleave', () => ((this.hovered = false), this.schedule()));
-    this.el.addEventListener('focusin', () => ((this.hovered = true), this.schedule()));
-    this.el.addEventListener('focusout', () => ((this.hovered = false), this.schedule()));
+    // Pause while the visitor is reading or focusing the headline. Only the headline:
+    // the controls keep focus after a click, and Play must not pause itself.
+    this.item.addEventListener('pointerenter', () => ((this.hovered = true), this.schedule()));
+    this.item.addEventListener('pointerleave', () => ((this.hovered = false), this.schedule()));
+    this.item.addEventListener('focusin', () => ((this.hovered = true), this.schedule()));
+    this.item.addEventListener('focusout', () => ((this.hovered = false), this.schedule()));
     document.addEventListener('visibilitychange', () => this.schedule());
     this.syncToggle();
   }
@@ -80,11 +90,12 @@ export class LiveBar {
     this.schedule();
   }
 
-  private step(delta: number) {
+  private step(delta: number, engaged = false) {
     if (!this.items.length) return;
     this.index = (this.index + delta + this.items.length) % this.items.length;
     this.render(true);
     this.schedule();
+    this.onShow(this.items[this.index], engaged);
   }
 
   private render(animate: boolean) {
@@ -116,7 +127,12 @@ export class LiveBar {
 
   private schedule() {
     window.clearTimeout(this.timer);
+    this.progress.classList.remove('is-running');
     if (this.paused || this.hovered || document.hidden || this.items.length < 2) return;
     this.timer = window.setTimeout(() => this.step(1), ROTATE_MS);
+    if (!this.reducedMotion) {
+      void this.progress.offsetWidth; // restart the CSS animation
+      this.progress.classList.add('is-running');
+    }
   }
 }

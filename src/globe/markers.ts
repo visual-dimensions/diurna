@@ -257,3 +257,76 @@ export function lightsOn(map: MapLibreMap, cities: City[], stagger: number, onDo
 export function lightsOnNow(map: MapLibreMap, cities: City[]) {
   for (const c of cities) map.setFeatureState({ source: MARKER_SOURCE, id: c.key }, { on: 1, pulse: 1 });
 }
+
+// ---------- Spotlight: the city of the live-bar headline ----------
+
+const SPOT_SOURCE = 'spotlight';
+const SPOT_ID = 1;
+const RING_MS = 1500;
+const RING_GAP = 450;
+const RINGS = 2; // pulses per ring
+
+/** Two expanding rings and a steady mark – own source, so it shows even inside a cluster. */
+export function addSpotlightLayers(map: MapLibreMap) {
+  map.addSource(SPOT_SOURCE, { type: 'geojson', data: { type: 'FeatureCollection', features: [] } });
+  const state = (key: string, fallback: number) => ['coalesce', ['feature-state', key], fallback] as ExpressionSpecification;
+  for (const ring of ['a', 'b']) {
+    map.addLayer({
+      id: `spot-ring-${ring}`,
+      type: 'circle',
+      source: SPOT_SOURCE,
+      paint: {
+        'circle-color': 'rgba(0,0,0,0)',
+        'circle-stroke-color': '#ffcf8a',
+        'circle-stroke-width': 1.6,
+        'circle-radius': ['+', 6, ['*', 38, state(ring, 1)]] as unknown as ExpressionSpecification,
+        'circle-stroke-opacity': ['*', 0.9, ['-', 1, state(ring, 1)]] as unknown as ExpressionSpecification,
+      },
+    });
+  }
+  map.addLayer({
+    id: 'spot-mark',
+    type: 'circle',
+    source: SPOT_SOURCE,
+    paint: {
+      'circle-color': 'rgba(0,0,0,0)',
+      'circle-radius': 11,
+      'circle-stroke-color': '#fff3dc',
+      'circle-stroke-width': 1.2,
+      'circle-stroke-opacity': ['*', 0.75, state('mark', 0)] as unknown as ExpressionSpecification,
+    },
+  });
+}
+
+let cancelSpotlight = () => {};
+
+/**
+ * Mark a place and let it pulse after `delay` ms (the camera flight).
+ * With reduced motion only the steady mark appears.
+ */
+export function spotlight(map: MapLibreMap, lngLat: [number, number], reducedMotion: boolean, delay = 0) {
+  cancelSpotlight();
+  const source = map.getSource(SPOT_SOURCE) as GeoJSONSource | undefined;
+  if (!source) return;
+  source.setData({ type: 'FeatureCollection', features: [{ type: 'Feature', id: SPOT_ID, properties: {}, geometry: { type: 'Point', coordinates: lngLat } }] });
+  const target = { source: SPOT_SOURCE, id: SPOT_ID };
+  map.setFeatureState(target, { a: 1, b: 1, mark: reducedMotion ? 1 : 0 });
+  if (reducedMotion) return;
+
+  let cancelled = false;
+  cancelSpotlight = () => (cancelled = true);
+  const ring = (t: number) => (t >= 0 && t < RING_MS * RINGS ? easeOut((t % RING_MS) / RING_MS) : 1);
+  const start = performance.now() + delay;
+  const frame = (now: number) => {
+    if (cancelled) return;
+    const t = now - start;
+    if (t >= 0) map.setFeatureState(target, { a: ring(t), b: ring(t - RING_GAP), mark: Math.min(1, t / 400) });
+    if (t < RING_MS * RINGS + RING_GAP) requestAnimationFrame(frame);
+  };
+  requestAnimationFrame(frame);
+}
+
+export function clearSpotlight(map: MapLibreMap) {
+  cancelSpotlight();
+  (map.getSource(SPOT_SOURCE) as GeoJSONSource | undefined)?.setData({ type: 'FeatureCollection', features: [] });
+}

@@ -411,6 +411,8 @@
 }
 
 .livebar {
+  position: relative;
+  overflow: hidden;
   display: flex;
   align-items: center;
   gap: 4px;
@@ -499,7 +501,7 @@
 }
 
 .livebar__where {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   color: var(--muted);
 }
 
@@ -536,6 +538,94 @@
 .livebar__btn:hover {
   background: rgb(255 255 255 / 0.06);
   color: var(--paper);
+}
+
+/* Time until the next headline – a hairline along the bottom edge while playing. */
+.livebar__progress {
+  position: absolute;
+  left: 24px;
+  right: 24px;
+  bottom: 0;
+  height: 2px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, rgb(255 179 71 / 0), rgb(255 179 71 / 0.55));
+  transform: scaleX(0);
+  transform-origin: left;
+  pointer-events: none;
+}
+
+.livebar__progress.is-running {
+  animation: live-progress linear forwards;
+}
+
+@keyframes live-progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+/* Larger screens: read from a distance – bigger type, wider bar. */
+@media (min-width: 900px) {
+  .livebar {
+    width: min(880px, 100%);
+    height: 66px;
+    padding: 0 8px 0 22px;
+  }
+
+  .livebar__live {
+    font-size: 0.72rem;
+    margin-right: 12px;
+  }
+
+  .livebar__item {
+    height: 56px;
+    gap: 3px;
+  }
+
+  .livebar__where {
+    font-size: 0.82rem;
+  }
+
+  .livebar__headline {
+    font-size: 1.22rem;
+  }
+
+  .livebar__btn {
+    width: 44px;
+    height: 44px;
+  }
+
+  .livebar__btn svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .statusline {
+    font-size: 0.8rem;
+  }
+
+  /* Keep the bar clear of the city panel on the right. */
+  body:has(.panel:not([hidden])) .dock {
+    right: 460px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .livebar {
+    width: min(1000px, 100%);
+    height: 72px;
+  }
+
+  .livebar__item {
+    height: 62px;
+  }
+
+  .livebar__headline {
+    font-size: 1.36rem;
+  }
 }
 
 /* ---------- Ambient mode ---------- */
@@ -1225,6 +1315,7 @@ body[data-view='list'] .topbar::before {
   .topbar,
   .livebar__dot,
   .livebar__item,
+  .livebar__progress,
   .ambient-label {
     animation: none !important;
     transition: none !important;
@@ -1232,7 +1323,7 @@ body[data-view='list'] .topbar::before {
 }
 
 /* Same, when reduced motion is forced via the dev switch (?reduced-motion). */
-[data-reduced-motion='true'] :is(.panel, .dock, .topbar, .livebar__dot, .livebar__item, .ambient-label) {
+[data-reduced-motion='true'] :is(.panel, .dock, .topbar, .livebar__dot, .livebar__item, .livebar__progress, .ambient-label) {
   animation: none !important;
   transition: none !important;
 }
