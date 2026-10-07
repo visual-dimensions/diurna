@@ -12,7 +12,10 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: '7,37 * * * *' # every 30 min, off the busy :00/:30 slots
+    # Every 10 minutes: GitHub drops many scheduled runs of public repositories under load (in
+    # October 2026 only ~3 of 48 per day ran). fetch_headlines.py only fetches sources that are due
+    # (cadence by tier), so more triggers don't mean more requests – just fewer gaps.
+    - cron: '4,14,24,34,44,54 * * * *'
 
 permissions:
   contents: write

@@ -271,6 +271,9 @@ async def run() -> int:
 
         status[sid] = {
             "state": state_for(fail_streak, entry, now),
+            # First fetch attempt: the observation window for the one-week acceptance of each wave.
+            # (Sources fetched before this field existed start counting from its introduction.)
+            "since": prev.get("since") or iso(now),
             "last_attempt": iso(now),
             "last_success": last_success,
             "fail_streak": fail_streak,

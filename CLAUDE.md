@@ -85,6 +85,7 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler au
 │  ├─ discover_feeds.py
 │  ├─ fetch_headlines.py
 │  ├─ import_wikidata.py, refill_regional.py, check_feeds.py   (weltweiter Ausbau)
+│  ├─ health_report.py           (Laufbetrieb: Erfolgsquote, blockierte/tote Feeds → data/health_report.csv)
 │  └─ requirements.txt
 ├─ public/
 │  └─ data/                     generiert, nicht in `main` – kommt vom Branch `data` (`npm run data`)
@@ -204,11 +205,11 @@ Zusätzlich `runs` / `successes` (Erfolgsquote) und `error` bei Fehlschlag.
 - Schreibt `headlines.json` und `status.json` nur, wenn sich etwas geändert hat.
 
 ### GitHub Action (`fetch.yml`)
-- `schedule: cron: '7,37 * * * *'` (alle 30 Min., bewusst nicht zu :00/:30 – dort lässt GitHub Läufe oft ausfallen) + `workflow_dispatch` für manuelle Läufe.
+- `schedule: cron: '4,14,24,34,44,54 * * * *'` (alle 10 Min., bewusst nicht zu :00/:30) + `workflow_dispatch` für manuelle Läufe. Vorher alle 30 Min. – GitHub ließ davon im Oktober 2026 rund 45 von 48 Läufen pro Tag ausfallen. Mehr Auslöser heißen nicht mehr Abrufe: `fetch_headlines.py` holt nur fällige Quellen (Takt nach Tier).
 - Zustand vom Branch `data` holen (`scripts/pull_data.sh`), `fetch_headlines.py` → `translate_headlines.py` → `build_frontend_data.py`, Ergebnis als **ein Commit ohne Historie** per force-push auf `data` (hält das Repo klein).
 - Danach ruft `fetch.yml` `deploy.yml` auf: `npm run build` + `wrangler pages deploy dist` (Direct Upload, keine Git-Integration → zählt nicht gegen das Pages-Build-Limit). `deploy.yml` läuft außerdem bei jedem Code-Push.
 - Secrets: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` (ohne sie wird nur gebaut). Pages-Projektname: `diurna`.
-- Hinweis: GitHub-Cron kann sich 5–30 Min. verspäten – akzeptabel.
+- Hinweis: GitHub-Cron verspätet sich oft und lässt unter Last Läufe ganz ausfallen. Reicht auch der 10-Minuten-Auslöser nicht, wäre ein externer Auslöser die Lösung (z. B. Cloudflare-Cron, der nur `workflow_dispatch` aufruft – keine Daten, kein Backend; bewusst entscheiden).
 
 ---
 
@@ -437,7 +438,7 @@ Stand nach Welle 5: 1.165 Medien aus 173 Ländern und Gebieten.
 
 **Stadtnamen vereinheitlicht (alle Wellen):** Medien am selben GeoNames-Ort bekommen denselben Stadtnamen – aus `europe.csv`, wenn vorhanden (zweisprachig beide: „Brussel / Bruxelles“), sonst den häufigsten (vorher doppelt: Wien/Vienna, Moskva/Moscow, Hà Nội/Hanoi, Montréal/Montreal …). `build_sources.py` warnt, wenn ein Ort unter mehreren Namen auftaucht; verbleibende Warnungen sind echte Nachbarstädte (Makati/Manila, Viña del Mar/Valparaíso). Stadtteile als Ort (Cuauhtémoc, Mushin, East Perth …) per Entscheidung auf die Stadt gesetzt; dabei bisher ausgewählte Medien in AU/MX per `yes` festgehalten, damit die Stadt-Höchstzahl sie nicht verdrängt.
 
-Offen: eine Woche Laufbetrieb je Welle.
+**Laufbetrieb – gestartet 2026-10-07:** `status.json` führt jetzt `since` (erster Abruf) je Quelle; `scripts/health_report.py` (nach `npm run data`) schreibt `data/health_report.csv` und fasst zusammen: Erfolgsquote, blockiert (401/403/451), gedrosselt (429), unerreichbar (Timeouts), tot (≥ 10 Fehler in Folge), veraltet, < 50 % Erfolg, und welche Quellen noch keine Woche beobachtet sind. Ausgangswert: 94,9 % Erfolg über 11.388 Abrufe; 956 von 1.019 Feeds ok. **Abnahme ab 2026-10-14:** Bericht erneut erstellen; Tier-3-Medien, die die ganze Woche blockiert/unerreichbar/gedrosselt waren, ersetzen oder `drop`; Tier 1/2 bleiben grau; 404-Feeds neu suchen (`discover_feeds.py --only`). Auffällig schon jetzt: einige Feeds liefern nur dem GitHub-Rechner 404 (Daily Monitor, Loksatta, Newsweek) – von außen funktionieren sie.
 
 ### Bekannte Risiken
 - **Übersetzung:** weltweit ~150–250 Mio. Zeichen/Monat. Mit dem offenen Modell machbar, aber Minuten pro Lauf; ggf. nur Tier 1–2 übersetzen. Sprachen außerhalb von M2M100 bleiben unübersetzt.
