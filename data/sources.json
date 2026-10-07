@@ -9767,25 +9767,6 @@
     "note_source": ""
   },
   {
-    "id": "oubanguimedias",
-    "name": "Oubangui Médias",
-    "country": "CF",
-    "city": "Bangui",
-    "city_country": "CF",
-    "lat": 4.3612,
-    "lon": 18.555,
-    "tz": "Africa/Bangui",
-    "lang": "fr",
-    "type": "online",
-    "tier": 3,
-    "homepage": "https://oubanguimedias.com",
-    "feed": "https://oubanguimedias.com/feed/",
-    "feed_format": "rss",
-    "feed_kind": "latest",
-    "note": "",
-    "note_source": ""
-  },
-  {
     "id": "ahoraeg",
     "name": "Ahora EG",
     "country": "GQ",
