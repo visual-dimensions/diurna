@@ -1454,3 +1454,4 @@ CD,Q3202688,no,,,,,,,regional outlet without a reachable feed – replaced
 TG,Q126871027,no,,,,,,,regional outlet without a reachable feed – replaced
 CD,Q338587,no,,,,,,,regional outlet without a reachable feed – replaced
 CD,Q600425,drop,,,,,,,regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)
+CD,Q3225834,drop,,,,,,,feed blocked for automated access (HTTP 403 from GitHub Actions)

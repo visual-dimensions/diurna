@@ -397,12 +397,14 @@ Ziel: von ~150 Medien in Europa zu einigen Tausend weltweit – ohne die Prinzip
 - **Übersetzung:** Die Sprachliste in `translate_headlines.py` enthielt nur europäische Sprachen – jetzt alle 100 von M2M100 (`zh-Hant` → `zh`). Telugu, Assamesisch, Dhivehi, Dzongkha kann M2M100 nicht.
 - **Abgleich Schrift ↔ Sprache** der Schlagzeilen nach dem ersten Abruf lohnt sich: fand E-Paper-Ausgabenlisten statt Schlagzeilen, eine gekaperte Domain (Casino-Spam), Partei-Website statt Zeitung (Akahata) und acht falsche Sprachen.
 
-**Welle 5 (Afrika südlich der Sahara, plus Mauretanien) – übernommen 2026-10-07:** 134 neue Medien aus 45 Ländern (NG 13, ZA 11, ET 6, KE/UG/ZW/NA/BJ je 5, …), davon 107 mit Feed; die 27 ohne Feed sind Tier 1/2 (u. a. News24, New Vision, The Herald, Jornal de Angola). Zentralafrikanische Republik, Äquatorialguinea, Somalia ohne Medium. Erkenntnisse:
+**Welle 5 (Afrika südlich der Sahara, plus Mauretanien) – übernommen 2026-10-07:** 132 neue Medien aus 45 Ländern (NG 13, ZA 11, ET 6, KE/UG/NA/BJ je 5, …), davon 105 mit Feed; die 27 ohne Feed sind Tier 1/2 (u. a. News24, New Vision, The Herald, Jornal de Angola). Zentralafrikanische Republik, Äquatorialguinea, Somalia ohne Medium. Erkenntnisse:
 - Wikidata trägt hier kaum: ~85 Vorschläge für 47 Länder, viele Länder ohne einen Kandidaten. Die Handliste `data/seed/africa_manual.csv` trägt einen großen Teil (Liberia, Sierra Leone, Malawi, Burundi, Lesotho, Madagaskar, Daily Monitor, Mwananchi, The Herald …).
 - **Online-Portale** sind in den frankophonen Ländern oft die wichtigsten Nachrichtenquellen (LeFaso.net, Malijet, Maliweb, Guinéenews, Cridem) → bewusst aufgenommen, obwohl die Vorauswahl Online-Medien unter Tier 1 sonst zurückhält.
 - 23 `state`: staatliche Tageszeitungen sind hier oft Leitmedien (Le Soleil, Fraternité Matin, Sidwaya, Togo-Presse, La Nation BJ, Le Sahel, Horoya, Cameroon Tribune, L'Union, Jornal de Angola, Notícias, New Vision, Daily News TZ, Zimpapers, Zambia Daily Mail, Times of Zambia, New Era, Seychelles Nation, Al-Watwan, Ethiopian Herald, Shabait …). Beleg jeweils Wikipedia.
 - Gruppen-Feeds: Bei den Blättern der namibischen NMH-Gruppe liefert `rssFeed/0` den gemeinsamen Feed der Gruppe (englischer Artikel bei der deutschsprachigen AZ) – eigene Rubrik-Feeds behalten.
 - Schrift: Noto Serif Ethiopic für Amharisch/Tigrinya (statisch, < 0,2 KB CSS). Übersetzung: Swahili, Hausa, Yoruba, Amharisch, Afrikaans, isiZulu u. a. kann M2M100; Kinyarwanda, Shona, Chichewa, Tigrinya nicht.
+- Kommentar-Filter der Feed-Suche erkannte WordPress-Kommentar-Feeds der Form `?feed=comments-rss2` nicht (Lesotho Times zeigte Spam-Kommentare) – Muster erweitert, alle Quellen geprüft.
+- `skip_pattern` für Todesanzeigen (Midi Madagasikara: `^Nécrologie`).
 - Rechtslage: Südafrikas Wettbewerbsbehörde verlangt Ausgleichszahlungen von Google & Co. an Verlage (Media and Digital Platforms Market Inquiry) – betrifft große Plattformen, nicht Titel + Link.
 
 Jede Welle mit derselben Abnahme wie Phase 1/2 (Report geprüft, eine Woche Laufbetrieb) plus Schrift- und Übersetzungstest:
@@ -411,6 +413,8 @@ Jede Welle mit derselben Abnahme wie Phase 1/2 (Report geprüft, eine Woche Lauf
 3. Naher Osten & Nordafrika (erster Test für Schrift von rechts nach links)
 4. Süd- & Ostasien (CJK- und indische Schriften – Schriftgröße als Ladezeit-Thema; Noto-Familien mit `unicode-range`, nur bei Bedarf geladen)
 5. Afrika südlich der Sahara (viele Sprachen, wenige Feeds, mehr Handarbeit)
+
+Stand nach Welle 5: **1.165 Medien aus 173 Ländern und Gebieten.** Offen: eine Woche Laufbetrieb je Welle; Länder ohne Medium (Jemen, Sudan, Somalia, Zentralafrikanische Republik, Äquatorialguinea, Timor-Leste, Mongolei, Turkmenistan); Russland jenseits Moskaus, Kaukasus.
 
 ### Bekannte Risiken
 - **Übersetzung:** weltweit ~150–250 Mio. Zeichen/Monat. Mit dem offenen Modell machbar, aber Minuten pro Lauf; ggf. nur Tier 1–2 übersetzen. Sprachen außerhalb von M2M100 bleiben unübersetzt.

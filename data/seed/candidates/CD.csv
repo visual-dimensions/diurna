@@ -1,6 +1,6 @@
 include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
 no,CD,L'Avenir,Kinshasa,,http://www.groupelavenir.net/,fr,daily,3,,,Q3202688,5,daily newspaper,-4.3219,15.3119,reviewed: regional outlet without a reachable feed – replaced
-yes,CD,Le Potentiel,Kinshasa,,https://lepotentiel.cd/,fr,daily,3,,,Q3225834,4,daily newspaper,-4.3219,15.3119,
+no,CD,Le Potentiel,Kinshasa,,https://lepotentiel.cd/,fr,daily,3,,,Q3225834,4,daily newspaper,-4.3219,15.3119,reviewed: feed blocked for automated access (HTTP 403 from GitHub Actions)
 no,CD,Le Phare,Kinshasa,,http://www.lephareonline.net/,fr,daily,3,,,Q338587,3,daily newspaper,-4.3219,15.3119,reviewed: regional outlet without a reachable feed – replaced
 no,CD,Souther Times,,,https://southertimes.com/,fr,online,3,,,Q58377933,3,magazine; website; online database; media company,,,no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
 no,CD,La Prospérité,Kinshasa,,http://www.laprosperiteonline.net/,fr,daily,3,,,Q600425,3,newspaper,-4.3219,15.3119,reviewed: regional outlet without a reachable feed – not replaced (remaining candidates rarely have feeds)

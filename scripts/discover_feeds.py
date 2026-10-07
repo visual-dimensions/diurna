@@ -71,7 +71,7 @@ TOP_PATTERN = re.compile(
 # Links on a page that look like a feed or an RSS overview page.
 FEEDISH_HREF = re.compile(r"rss|atom|feed|\.xml(\?|$)", re.I)
 OVERVIEW_LINK = re.compile(r"(?<![a-z])(rss|feeds?)(?![a-z])", re.I)
-COMMENTS_PATTERN = re.compile(r"comments?(/|\.|$)|commentaires", re.I)
+COMMENTS_PATTERN = re.compile(r"comments?([/._-]|$)|commentaires", re.I)
 
 REPORT_FIELDS = [
     "id", "name", "country", "homepage", "homepage_status", "candidates",
