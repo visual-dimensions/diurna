@@ -1,8 +1,8 @@
-import maplibregl, { type Map as MapLibreMap } from 'maplibre-gl';
+import type maplibregl from 'maplibre-gl';
+import type { Map as MapLibreMap } from 'maplibre-gl';
 import type { Medium } from '../data/load';
-import { escapeHtml } from '../ui/format';
 import { headlineTime } from '../ui/livebar';
-import { ensureScriptFont } from '../ui/scriptfonts';
+import { headlineLabel, inView } from './headlinelabel';
 
 const LABEL_MS = 7000;
 const TURN_MS = 240_000; // one full rotation in four minutes
@@ -94,9 +94,7 @@ export class Ambient {
   }
 
   private onScreen(m: Medium): boolean {
-    const p = this.map.project([m.lon, m.lat]);
-    const { width, height } = this.map.getCanvas().getBoundingClientRect();
-    return p.x > 140 && p.x < width - 140 && p.y > 180 && p.y < height - 60;
+    return inView(this.map, m.lon, m.lat);
   }
 
   private nextMedium(): Medium | undefined {
@@ -119,19 +117,7 @@ export class Ambient {
     const m = this.nextMedium();
     this.marker?.remove();
     this.marker = null;
-    if (m?.headline) {
-      const en = m.lang !== 'en' ? m.headline.translations?.en : undefined;
-      ensureScriptFont(m.lang);
-      // Outer element is positioned by MapLibre (via transform), the inner one animates.
-      const el = document.createElement('div');
-      el.setAttribute('aria-hidden', 'true');
-      el.innerHTML = `<div class="ambient-label">
-        <span class="ambient-label__masthead">${escapeHtml(m.name)} · ${escapeHtml(m.city)}</span>
-        <span class="ambient-label__headline" lang="${escapeHtml(m.lang)}" dir="auto">${escapeHtml(m.headline.title)}</span>
-        ${en ? `<span class="ambient-label__translation" lang="en">${escapeHtml(en)}</span>` : ''}
-      </div>`;
-      this.marker = new maplibregl.Marker({ element: el, anchor: 'bottom', offset: [0, -14] }).setLngLat([m.lon, m.lat]).addTo(this.map);
-    }
+    if (m) this.marker = headlineLabel(this.map, m, LABEL_MS);
     this.labelTimer = window.setTimeout(() => this.showNext(), LABEL_MS);
   }
 }

@@ -2,7 +2,7 @@ import type { Medium } from '../data/load';
 import { escapeHtml, relativeAge } from './format';
 import { ensureScriptFont } from './scriptfonts';
 
-const ROTATE_MS = 8000;
+export const ROTATE_MS = 8000;
 const MAX_ITEMS = 15;
 
 /** Recency of a headline in ms (published, else first_seen – computed by the pipeline). */
@@ -88,6 +88,12 @@ export class LiveBar {
     this.el.hidden = this.items.length === 0;
     this.render(false);
     this.schedule();
+  }
+
+  /** Report the current item again (e.g. once the globe is ready to show it). */
+  replay() {
+    const m = this.items[this.index];
+    if (m) this.onShow(m, false);
   }
 
   private step(delta: number, engaged = false) {

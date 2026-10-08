@@ -67,15 +67,80 @@
   pointer-events: auto;
 }
 
+.brand {
+  position: relative;
+  justify-self: start;
+}
+
 .wordmark {
   margin: 0;
-  justify-self: start;
   font-family: var(--font-serif);
   font-size: 1.05rem;
   font-weight: 500;
   letter-spacing: 0.32em;
   text-transform: uppercase;
   color: var(--paper);
+}
+
+/* First visit: what this is, under the wordmark. Floats, so hiding it moves nothing. */
+.tagline {
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 0;
+  width: 290px;
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.45;
+  color: var(--paper-2);
+  text-shadow: 0 1px 12px var(--bg);
+  pointer-events: auto;
+  animation: tagline-in 900ms 400ms var(--ease-out) both;
+}
+
+.tagline[hidden] {
+  display: none;
+}
+
+.tagline__hint {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+}
+
+.tagline a {
+  color: var(--paper-2);
+  text-underline-offset: 3px;
+}
+
+.tagline__mouse {
+  display: none;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .tagline__touch {
+    display: none;
+  }
+
+  .tagline__mouse {
+    display: inline;
+  }
+}
+
+.tagline.is-leaving {
+  animation: tagline-out 400ms ease-in forwards;
+}
+
+@keyframes tagline-in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+}
+
+@keyframes tagline-out {
+  to {
+    opacity: 0;
+  }
 }
 
 .topbar__tools {
@@ -1124,9 +1189,22 @@ body[data-view='list'] .topbar::before {
     gap: 10px;
   }
 
-  .wordmark {
+  .brand {
     grid-area: mark;
+  }
+
+  .wordmark {
     font-size: 0.9rem;
+  }
+
+  /* Below the search row, centred. */
+  .tagline {
+    position: fixed;
+    top: calc(var(--safe-top) + 120px);
+    left: 16px;
+    right: 16px;
+    width: auto;
+    text-align: center;
   }
 
   .topbar__right {
@@ -1193,6 +1271,7 @@ body[data-view='list'] .topbar::before {
   }
 
   .statusline__stand,
+  .statusline__fresh,
   .livebar [data-step='-1'],
   .livebar__live {
     display: none;
@@ -1316,6 +1395,7 @@ body[data-view='list'] .topbar::before {
   .livebar__dot,
   .livebar__item,
   .livebar__progress,
+  .tagline,
   .ambient-label {
     animation: none !important;
     transition: none !important;
@@ -1323,7 +1403,7 @@ body[data-view='list'] .topbar::before {
 }
 
 /* Same, when reduced motion is forced via the dev switch (?reduced-motion). */
-[data-reduced-motion='true'] :is(.panel, .dock, .topbar, .livebar__dot, .livebar__item, .livebar__progress, .ambient-label) {
+[data-reduced-motion='true'] :is(.panel, .dock, .topbar, .livebar__dot, .livebar__item, .livebar__progress, .tagline, .ambient-label) {
   animation: none !important;
   transition: none !important;
 }

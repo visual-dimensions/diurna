@@ -242,8 +242,11 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
    - Bei mehreren Medien: horizontal durchwischen (Mobile) bzw. Liste (Desktop).
 3. **Live-Leiste:** Unten eine schmale, ruhige Leiste mit den zuletzt hereingekommenen Schlagzeilen („Gerade eben in Lissabon: …“). Antippen → Globus fliegt hin. Pausiert bei Hover/Fokus, bei `prefers-reduced-motion` statisch. Eigener Pause-Knopf (WCAG 2.2.2).
    - Weiter/Zurück/Play → Globus folgt der Leiste (Flug zur Stadt, Puls-Ringe, Markierung), ohne Panel; Antippen der Schlagzeile öffnet das Panel. Mitfliegen erst nach dieser Interaktion, nicht beim Laden; endet, sobald man den Globus selbst bewegt, einen Marker antippt oder sucht. Pause nur bei Hover/Fokus auf der Schlagzeile, nicht auf den Knöpfen.
+   - Schon vor jeder Interaktion steigt die aktuelle Schlagzeile der Leiste als Label über ihrer Stadt auf (mit Puls), wenn die Stadt im Bild ist – die Kamera bleibt dabei stehen.
 4. **Ambient-Modus (optional, Umschalter):** Globus dreht langsam; neue Schlagzeilen erscheinen kurz als schwebende Label an ihrem Punkt. Gedacht als „Bildschirmschoner der Weltnachrichten“ – das ist der Screenshot-/Demo-Moment.
    - Echte Rotation (eine Umdrehung in 4 Min., ostwärts wie die Erde); Labels erscheinen nur, wenn ihre Redaktion zum Betrachter zeigt. Beenden per Escape, Ziehen oder Zoomen.
+   - Startet auch von selbst nach 45 s ohne Eingabe (nicht bei offenem Panel, Liste, Suche/Filter oder reduzierter Bewegung); dann bleibt die Bedienung sichtbar, und jede Eingabe inkl. Mausbewegung beendet ihn.
+7. **Erster Besuch:** eine Zeile unter dem Schriftzug („What 1,245 newsrooms lead with, right now. Tap a light to read. About“), verschwindet mit der ersten Interaktion. Statuszeile zeigt zusätzlich „N new in the last hour“ (Desktop). Keine Landingpage.
 5. **Suche & Filter:** schwebende Pill oben; Suche nach Medium, Stadt, Land; Filter Sprache, Land, Tier, „nur mit Headline“.
 6. **Listenansicht:** Umschalter Globus ↔ Liste (Land → Stadt → Medium). Vollständig per Tastatur und Screenreader nutzbar, gleiche Daten.
 

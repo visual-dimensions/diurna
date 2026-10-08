@@ -37,11 +37,12 @@ import { cityKey, DataStore, groupByCity, type City, type Medium } from './data/
 import { Ambient } from './globe/ambient';
 import { INTRO_START, introWanted, playIntro } from './globe/intro';
 import { addMarkerLayers, addSpotlightLayers, citiesToGeoJSON, clearSpotlight, clusterExpansionZoom, HIT_LAYERS, pulse, spotlight, updateMarkers } from './globe/markers';
+import { headlineLabel, inView } from './globe/headlinelabel';
 import { globeStyle, NIGHT_BANDS, upgradeGeometry } from './globe/style';
 import { nightBands, sunLightPosition } from './globe/terminator';
 import { FilterControl } from './ui/filters';
 import { clockTime } from './ui/format';
-import { LiveBar } from './ui/livebar';
+import { LiveBar, ROTATE_MS } from './ui/livebar';
 import { ListView } from './ui/listview';
 import { CityPanel, snapHeight } from './ui/panel';
 import { Search, type SearchResult } from './ui/search';
@@ -65,7 +66,13 @@ app.innerHTML = `
   <div class="stars" aria-hidden="true"></div>
   <div id="globe" class="globe"></div>
   <header class="topbar">
-    <h1 class="wordmark">Diurna</h1>
+    <div class="brand">
+      <h1 class="wordmark">Diurna</h1>
+      <p class="tagline" hidden>
+        What <span class="tagline__count"></span> newsrooms lead with, right now.
+        <span class="tagline__hint"><span class="tagline__touch">Tap</span><span class="tagline__mouse">Click</span> a light to read. <a href="/about/">About</a></span>
+      </p>
+    </div>
     <div class="topbar__tools"></div>
     <div class="topbar__right">
     <button type="button" class="icon-button ambient-toggle" aria-pressed="false">
@@ -148,6 +155,9 @@ let filters: Filters = defaultFilters();
 let view: View = 'globe';
 /** The globe follows the live bar once the visitor steps through it or presses play. */
 let followLiveBar = false;
+let markersReady = false;
+let liveLabel: maplibregl.Marker | null = null;
+let liveLabelTimer = 0;
 
 function cityByKey(key: string, list = cities) {
   return list.find((c) => c.key === key);
@@ -168,23 +178,41 @@ function flyToCity(city: City) {
   map.easeTo({ center: [city.lon, city.lat], zoom: Math.max(map.getZoom(), 4), offset, ...camera(1000) });
 }
 
-/** Live bar: fly to the headline's city and let it pulse – no panel, the bar stays the focus. */
+function clearLiveLabel() {
+  window.clearTimeout(liveLabelTimer);
+  liveLabel?.remove();
+  liveLabel = null;
+}
+
+/**
+ * Live bar → globe. Before any interaction: the headline floats up at its city if that
+ * is in view (the camera stays put). After stepping or play: fly there first. No panel –
+ * the bar stays the focus.
+ */
 function showLiveItem(m: Medium, engaged: boolean) {
   if (engaged) followLiveBar = true;
-  if (!followLiveBar || view !== 'globe' || panel.isOpen || ambient.active) return;
+  clearLiveLabel();
+  if (!markersReady || view !== 'globe' || panel.isOpen || ambient.active) return;
   const city = cityByKey(cityKey(m), allCities);
   if (!city) return;
-  const duration = reducedMotion ? 0 : 1200;
-  // From zoom 3.2 every tier is visible; keep a closer zoom if the visitor chose one.
-  const zoom = Math.min(Math.max(map.getZoom(), 3.4), 5);
-  map.flyTo({ center: [city.lon, city.lat], zoom, offset: [0, -40], ...camera(duration) });
-  spotlight(map, [city.lon, city.lat], reducedMotion, duration);
+  let delay = 0;
+  if (followLiveBar) {
+    delay = reducedMotion ? 0 : 1200;
+    // From zoom 3.2 every tier is visible; keep a closer zoom if the visitor chose one.
+    const zoom = Math.min(Math.max(map.getZoom(), 3.4), 5);
+    map.flyTo({ center: [city.lon, city.lat], zoom, offset: [0, -40], ...camera(delay) });
+  } else if (!inView(map, city.lon, city.lat)) {
+    return;
+  }
+  spotlight(map, [city.lon, city.lat], reducedMotion, delay);
+  liveLabelTimer = window.setTimeout(() => (liveLabel = headlineLabel(map, m, ROTATE_MS - delay)), delay);
 }
 
 function stopFollowing() {
   if (!followLiveBar) return;
   followLiveBar = false;
   clearSpotlight(map);
+  clearLiveLabel();
 }
 
 function flyToCountry(code: string) {
@@ -200,6 +228,7 @@ async function openCity(key: string, mediumId?: string) {
   const city = cityByKey(key) ?? cityByKey(key, allCities);
   if (!city) return;
   ambient.stop();
+  clearLiveLabel();
   if (view !== 'globe') setView('globe', false);
   flyToCity(city);
   history.replaceState(null, '', `#city=${encodeURIComponent(key)}`);
@@ -213,6 +242,7 @@ function setView(next: View, moveFocus = true) {
   app.querySelectorAll<HTMLElement>('.viewtoggle__btn').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.view === next)));
   if (next === 'list') {
     ambient.stop();
+    clearLiveLabel();
     panel.close();
     listView.show();
     history.replaceState(null, '', '#list');
@@ -228,12 +258,15 @@ function updateStatus() {
   const total = store.media.length;
   const shown = cities.reduce((n, c) => n + c.media.length, 0);
   const withHeadline = cities.reduce((n, c) => n + c.media.filter((m) => m.headlineAt !== null).length, 0);
+  const hourAgo = Date.now() - 3_600_000;
+  const lastHour = store.media.filter((m) => m.headlineAt !== null && m.headlineAt > hourAgo).length;
+  const fresh = lastHour ? `<span class="statusline__fresh"> · ${lastHour} new in the last hour</span>` : '';
   const updated = store.generatedAt ? `<span class="statusline__stand"> · Updated ${clockTime(store.generatedAt)}</span>` : '';
   const about = ` · <a class="statusline__about" href="/about/">About</a>`;
   app.querySelector('.statusline')!.innerHTML =
     (activeFilterCount(filters)
       ? `${shown} of ${total} outlets shown · ${withHeadline} with a current headline`
-      : `${total} outlets · ${withHeadline} with a current headline${updated}`) + about;
+      : `${total} outlets · ${withHeadline} with a current headline${fresh}${updated}`) + about;
 }
 
 function applyFilters() {
@@ -250,7 +283,9 @@ function applyFilters() {
 /** Load the index (first time or refresh) and everything derived from it. */
 async function loadData() {
   const fresh = await store.loadIndex();
+  const wasLoaded = loaded;
   loaded = true;
+  if (!wasLoaded && view === 'globe' && !initialHash.startsWith('#city=')) showTagline();
   allCities = groupByCity([...store.media]);
   search.setData(store.media, allCities);
   filterControl.setOptions(store.media);
@@ -272,6 +307,7 @@ function setAmbient(on: boolean) {
   if (on) {
     if (view !== 'globe') setView('globe', false);
     panel.close();
+    clearLiveLabel();
     ambient.start();
   } else {
     ambient.stop();
@@ -327,9 +363,57 @@ liveBar.onSelect = (m) => openCity(cityKey(m), m.id);
 liveBar.onShow = showLiveItem;
 listView.loadCountry = (code) => store.ensureCountries([code]);
 ambient.onStop = () => {
+  ambientFromIdle = false;
   document.body.dataset.ambient = 'false';
   ambientButton.setAttribute('aria-pressed', 'false');
 };
+
+// ---------- First visit: one line of explanation, gone with the first interaction ----------
+
+const tagline = app.querySelector<HTMLElement>('.tagline')!;
+function showTagline() {
+  tagline.querySelector('.tagline__count')!.textContent = store.media.length.toLocaleString('en');
+  tagline.hidden = false;
+}
+function hideTagline() {
+  if (tagline.hidden || tagline.classList.contains('is-leaving')) return;
+  if (reducedMotion) {
+    tagline.hidden = true;
+    return;
+  }
+  tagline.classList.add('is-leaving');
+  tagline.addEventListener('animationend', () => (tagline.hidden = true), { once: true });
+}
+map.getCanvasContainer().addEventListener('pointerdown', hideTagline);
+map.getCanvasContainer().addEventListener('wheel', hideTagline, { passive: true });
+app.querySelector('.topbar__tools')!.addEventListener('focusin', hideTagline);
+liveBar.el.addEventListener('click', hideTagline);
+
+// ---------- Idle: after a while without input the globe turns by itself (ambient) ----------
+
+const IDLE_MS = 45_000;
+let lastInput = Date.now();
+/** Ambient started by idling – any input ends it, and the controls stay visible meanwhile. */
+let ambientFromIdle = false;
+function onInput() {
+  lastInput = Date.now();
+  if (ambientFromIdle && ambient.active) ambient.stop();
+}
+for (const type of ['pointermove', 'pointerdown', 'keydown', 'wheel', 'touchstart'] as const) {
+  window.addEventListener(type, onInput, { capture: true, passive: true });
+}
+window.setInterval(() => {
+  if (reducedMotion || !markersReady || ambient.active || document.hidden) return;
+  if (Date.now() - lastInput < IDLE_MS) return;
+  // Not while the visitor has something open: panel, list, search or filters.
+  if (view !== 'globe' || panel.isOpen || app.querySelector('.topbar')!.contains(document.activeElement)) return;
+  clearLiveLabel();
+  stopFollowing();
+  ambient.start();
+  ambientFromIdle = true;
+  document.body.dataset.ambient = 'idle';
+  ambientButton.setAttribute('aria-pressed', 'true');
+}, 5000);
 ambientButton.addEventListener('click', () => setAmbient(!ambient.active));
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape' && ambient.active) ambient.stop();
@@ -365,6 +449,9 @@ map.on('load', async () => {
   }
   addMarkerLayers(map, citiesToGeoJSON(cities));
   addSpotlightLayers(map);
+  markersReady = true;
+  // First headline on the globe once the lights are on (after the intro).
+  window.setTimeout(() => liveBar.replay(), withIntro ? 3400 : 900);
   if (withIntro) playIntro(map, cities, HOME);
   else pulse(map, cities, reducedMotion, 1400);
 
