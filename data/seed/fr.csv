@@ -1,0 +1,24 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+FR,L'Humanité,Paris,,https://www.humanite.fr,fr,daily,1,,,,
+FR,La Croix,Paris,,https://www.la-croix.com/,fr,daily,1,,,48.8567,2.3522
+FR,L'Est républicain,Nancy,,https://www.estrepublicain.fr/,fr,daily,2,,,48.6928,6.1836
+FR,Mediapart,Paris,,https://www.mediapart.fr/en/english,fr,online,2,,,,
+FR,20 Minutes,Levallois-Perret,,https://www.20minutes.fr/,fr,daily,2,,,48.8933,2.2878
+FR,Midi libre,Montpellier,,https://www.midilibre.fr,fr,daily,2,,,,
+FR,Nice-Matin,Nice,,https://www.nicematin.com/,fr,daily,2,,,43.7019,7.2683
+FR,Dernières Nouvelles d'Alsace,Strasbourg,,https://www.dna.fr/,fr,daily,2,,,48.5733,7.7522
+FR,La Provence,Marseille,,https://www.laprovence.com/,fr,daily,2,,,,
+FR,Le Républicain lorrain,Metz,,https://www.republicain-lorrain.fr/,fr,daily,2,,,49.1197,6.1769
+FR,Le Dauphiné libéré,Grenoble,,https://www.ledauphine.com,fr,daily,2,,,45.1869,5.7264
+FR,Le Télégramme,Morlaix,,http://www.letelegramme.com,fr,daily,2,,,48.5775,-3.8278
+FR,L'Indépendant,Perpignan,,http://www.lindependant.fr/,fr,daily,2,,,42.6975,2.8947
+FR,Vosges Matin,Épinal,,http://www.vosgesmatin.fr,fr,daily,2,,,,
+FR,L'Opinion,Paris,,http://www.lopinion.fr/,fr,daily,2,,,48.8567,2.3522
+FR,L'Alsace,Mulhouse,,http://www.lalsace.fr/,fr,daily,2,,,47.7486,7.3392
+FR,Corse-Matin,Bastia,,https://www.corsematin.com/,fr,daily,2,,,,
+FR,Le Bien public,Dijon,,http://www.bienpublic.com/,fr,daily,2,,,,
+FR,Le Journal de Saône-et-Loire,Chalon-sur-Saône,,http://www.lejsl.com,fr,daily,3,,,,
+FR,La Nouvelle République des Pyrénées,Tarbes,,http://www.nrpyrenees.com,fr,daily,3,,,,
+FR,Le Journal de la Haute-Marne,Chaumont,,http://www.jhm.fr/,fr,daily,3,,,,
+FR,Charente libre,Angoulême,,http://www.charentelibre.fr/,fr,daily,3,,,,
+FR,Le Petit Bleu d'Agen,Agen,,https://www.petitbleu.fr/,fr,daily,3,,,,
