@@ -1,0 +1,7 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+IT,La Nazione,Firenze,,https://www.lanazione.it,it,daily,2,,,,
+IT,La Sicilia,Catania,,https://www.lasicilia.it,it,daily,3,,,,
+IT,Gazzetta di Parma,Parma,,https://www.gazzettadiparma.it,it,daily,3,,,,
+IT,l'Adige,Trento,,https://www.ladige.it,it,daily,3,,,,
+IT,Corriere dell'Umbria,Perugia,,https://corrieredellumbria.it,it,daily,3,,,,
+IT,Il Quotidiano del Sud,Cosenza,,https://www.quotidianodelsud.it,it,daily,3,,,,

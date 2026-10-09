@@ -1,0 +1,24 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+IT,il manifesto,Roma,,https://ilmanifesto.it,it,daily,1,,,41.8931,12.4828
+IT,il Giornale,Milano,,http://www.ilgiornale.it,it,daily,1,,,,
+IT,Giornale di Sicilia,Palermo,,https://gds.it,it,daily,2,,,38.1157,13.3613
+IT,Gazzetta del Sud,Messina,,https://gazzettadelsud.it/,it,daily,2,,,38.1936,15.5542
+IT,Dolomiten,Bozen,,http://www.dolomiten.it/,de,daily,2,,,46.4981,11.3548
+IT,il Foglio,Milano,,https://www.ilfoglio.it/,it,daily,2,,,45.4669,9.1900
+IT,Libero,Milano,,https://www.liberoquotidiano.it,it,daily,2,,,,
+IT,Il Piccolo,Trieste,,http://www.ilpiccolo.it/,it,daily,2,,,45.6503,13.7703
+IT,L'Unione Sarda,Cagliari,,http://www.unionesarda.it/,it,daily,2,,,39.2167,9.1167
+IT,Il Resto del Carlino,Bologna,,http://www.ilrestodelcarlino.it/,it,daily,2,,,44.4939,11.3428
+IT,Primorski dnevnik,Trst,,http://www.primorski.eu,sl,daily,2,,,45.6503,13.7703
+IT,Il Gazzettino,Venezia,,http://www.gazzettino.it/,it,daily,2,,,45.4397,12.3319
+IT,Libertà,Piacenza,,http://www.liberta.it/,it,daily,2,,,,
+IT,Il Tempo,Roma,,https://www.iltempo.it,it,daily,3,,,,
+IT,Messaggero Veneto - Giornale del Friuli,Udine,,http://www.messaggeroveneto.it/,it,daily,3,,,46.0667,13.2333
+IT,Il Giorno,Milano,,https://www.ilgiorno.it/,it,daily,3,,,45.4669,9.1900
+IT,Giornale di Brescia,Brescia,,http://www.giornaledibrescia.it/,it,daily,3,,,45.5389,10.2203
+IT,il Post,Milano,,http://www.ilpost.it,it,online,3,,,45.4669,9.1900
+IT,Alto Adige,Bolzano,,http://www.altoadige.it,it,daily,3,,,46.4981,11.3548
+IT,Corriere Adriatico,Ancona,,https://www.corriereadriatico.it/,it,daily,3,,,43.6167,13.5167
+IT,Domani,Roma,,https://www.editorialedomani.it/,it,daily,3,,,41.8931,12.4828
+IT,Corriere Romagna,Rimini,,http://www.corriereromagna.it/,it,daily,3,,,44.0594,12.5683
+IT,La Verità,Milano,,https://www.laverita.info,it,daily,3,,,45.4669,9.1900
