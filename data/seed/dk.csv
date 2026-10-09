@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+DK,Ekstra Bladet,København,,https://ekstrabladet.dk/,da,daily,2,,,55.6761,12.5689
+DK,B.T.,København,,http://www.bt.dk/,da,daily,2,,,55.6761,12.5689
+DK,Dagbladet Information,København,,http://www.information.dk/,da,daily,2,,,55.6761,12.5689
+DK,Der Nordschleswiger,Aabenraa,,http://www.nordschleswiger.dk/,de,daily,2,,,55.0447,9.4195
+DK,Nordjyske Stiftstidende,Aalborg,,http://www.nordjyske.dk/nyheder,da,daily,3,,,57.0500,9.9167

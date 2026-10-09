@@ -1,0 +1,16 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+FI,Iltalehti,Helsinki,,https://www.iltalehti.fi/,fi,daily,1,,,60.1708,24.9375
+FI,Åland,Mariehamn,,https://www.alandstidningen.ax,sv,daily,2,,,60.0986,19.9444
+FI,Vasabladet,Vaasa,,http://www.vasabladet.fi,sv,daily,2,,,63.0958,21.6153
+FI,Kymen Sanomat,Kotka,,https://kymensanomat.fi/,fi,daily,2,,,60.4667,26.9458
+FI,Keskisuomalainen,Jyväskylä,,https://www.ksml.fi/,fi,daily,2,,,62.2403,25.7444
+FI,Turun Sanomat,Turku,,http://www.ts.fi/,fi,daily,2,,,60.4517,22.2669
+FI,Kaleva,Oulu,,https://www.kaleva.fi/,fi,daily,2,,,65.0142,25.4719
+FI,Österbottens Tidning,Jakobstad,,http://www.ot.fi/,sv,daily,2,,,63.6667,22.7000
+FI,Lapin Kansa,Rovaniemi,,https://www.lapinkansa.fi/,fi,daily,2,,,66.5028,25.7285
+FI,Etelä-Saimaa,Lappeenranta,,https://esaimaa.fi/,fi,daily,3,,,61.0583,28.1861
+FI,Hämeen Sanomat,Hämeenlinna,,http://www.hameensanomat.fi/,fi,daily,3,,,60.9944,24.4667
+FI,Savon Sanomat,Kuopio,,http://www.savonsanomat.fi/,fi,daily,3,,,62.8925,27.6783
+FI,Karjalainen,Joensuu,,http://www.karjalainen.fi/,fi,daily,3,,,62.6000,29.7639
+FI,Etelä-Suomen Sanomat,Lahti,,http://www.ess.fi/,fi,daily,3,,,60.9804,25.6550
+FI,Satakunnan Kansa,Pori,,http://www.satakunnankansa.fi/,fi,daily,3,,,61.4867,21.7975

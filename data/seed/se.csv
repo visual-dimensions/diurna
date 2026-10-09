@@ -1,0 +1,19 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+SE,Expressen,Stockholm,,https://www.expressen.se,sv,daily,1,,,59.3294,18.0686
+SE,Norrköpings Tidningar,Norrköping,,http://www.nt.se,sv,daily,2,,,,
+SE,Upsala Nya Tidning,Uppsala,,http://www.unt.se/,sv,daily,2,,,59.8498,17.6389
+SE,Dala-Demokraten,Falun,,http://www.dalademokraten.se,sv,daily,2,,,60.6027,15.6561
+SE,Borås Tidning,Borås,,http://www.bt.se/,sv,daily,2,,,57.7171,12.9457
+SE,Sundsvalls Tidning,Sundsvall,,https://www.st.nu/,sv,daily,2,,,62.3955,17.2860
+SE,Hallandsposten,Halmstad,,http://hallandsposten.se,sv,daily,2,,,56.6740,12.8573
+SE,Jönköpings-Posten,Jönköping,,http://www.jonkopingsposten.se/,sv,daily,2,,,,
+SE,Nerikes Allehanda,Örebro,,http://na.se/,sv,daily,3,,,59.2669,15.1965
+SE,Gefle Dagblad,Gävle,,http://www.gd.se,sv,daily,3,,,,
+SE,Eskilstuna-Kuriren,Eskilstuna,,https://www.ekuriren.se/,sv,daily,3,,,59.3773,16.5127
+SE,Östgöta Correspondenten,Linköping,,https://corren.se/,sv,daily,3,,,58.4125,15.6251
+SE,Nya Wermlands-Tidningen,Karlstad,,http://www.nwt.se/,sv,daily,3,,,59.3815,13.4865
+SE,Norrländska Socialdemokraten,Luleå,,http://www.nsd.se/,sv,daily,3,,,65.5838,22.1915
+SE,Smålandsposten,Växjö,,http://www.smp.se/,sv,daily,3,,,56.8890,14.8028
+SE,Östersunds-Posten,Östersund,,http://www.op.se/,sv,daily,3,,,,
+SE,Kristianstadsbladet,Kristianstad,,http://www.kristianstadsbladet.se/,sv,daily,3,,,,
+SE,Vestmanlands Läns Tidning,Västerås,,http://vlt.se/,sv,daily,3,,,59.6173,16.5422

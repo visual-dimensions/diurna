@@ -1,0 +1,303 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,NO,Verdens gang,,,https://vg.no,no,daily,1,,,Q1139355,32,daily newspaper; online newspaper,,,"no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+seeded,NO,Aftenposten,Oslo,,https://aftenposten.no,no,daily,1,,,Q388841,27,daily newspaper; online newspaper,59.9133,10.7389,"types: daily, online"
+seeded,NO,Dagbladet,Hasle,,https://dagbladet.no,no,daily,1,,,Q1157193,26,daily newspaper; online newspaper,59.9242,10.7914,"types: daily, online"
+no,NO,Morgenbladet,Oslo,,https://morgenbladet.no,no,weekly,1,,,Q1460924,17,daily newspaper; weekly newspaper,59.9133,10.7389,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+yes,NO,Ávvir,Karasjok,,https://avvir.no,se,daily,1,,,Q252617,16,daily newspaper,69.4722,25.5189,reviewed: Welle 6 review 2026-10-09
+yes,NO,Dagsavisen,Oslo,,https://dagsavisen.no,no,daily,1,,,Q1755702,16,daily newspaper; online newspaper,59.9133,10.7389,"reviewed: Welle 6 review 2026-10-09; types: daily, online"
+seeded,NO,Bergens tidende,Bergen,,https://bt.no,no,daily,2,,,Q819558,14,daily newspaper; online newspaper; regional newspaper,60.3925,5.3233,
+yes,NO,Svalbardposten,Longyearbyen,,https://svalbardposten.no,no,daily,2,,,Q1535994,13,local newspaper; monthly newspaper,78.2167,15.6333,reviewed: Welle 6 review 2026-10-09
+yes,NO,Adresseavisen,Trondheim,,https://adressa.no,no,daily,2,,,Q367105,13,regional newspaper,63.4400,10.4000,reviewed: Welle 6 review 2026-10-09
+no,NO,Dagens Næringsliv,Oslo,,https://dn.no,no,daily,2,,,Q780402,11,business newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Ságat,Lakselv,,https://sagat.no,no,daily,2,,,Q1049200,10,periodical; newspaper,70.0513,24.9644,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Klassekampen,Oslo,,https://klassekampen.no,no,daily,2,,,Q1702232,10,daily newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09
+yes,NO,Fædrelandsvennen,Kristiansand,,https://fvn.no,no,daily,2,,,Q1479263,10,regional newspaper,58.1467,7.9956,reviewed: Welle 6 review 2026-10-09
+yes,NO,Stavanger aftenblad,Stavanger,,https://aftenbladet.no,no,daily,2,,,Q1757024,9,regional newspaper,58.9700,5.7314,reviewed: Welle 6 review 2026-10-09
+yes,NO,Nordlys,Tromsø,,https://nordlys.no,no,daily,2,,,Q1759286,8,newspaper,69.6496,18.9570,reviewed: Welle 6 review 2026-10-09
+yes,NO,Agderposten,Arendal,,https://agderposten.no,no,daily,2,,,Q1756547,8,regional newspaper,58.4667,8.7667,reviewed: Welle 6 review 2026-10-09
+no,NO,Kvinnheringen,Husnes,,https://kvinnheringen.no,nn,daily,2,,,Q1427703,7,newspaper,59.8606,5.7403,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Tidens Krav,Kristiansund Municipality,,https://tk.no,no,daily,2,,,Q1757849,7,newspaper,63.1115,7.7320,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Altaposten,Alta,,https://altaposten.no,nb,daily,2,,,Q1758339,7,newspaper,69.9686,23.2714,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Lister,Farsund,,http://www.lister24.no/,nb,daily,2,,,Q643177,7,daily newspaper; local newspaper,58.0948,6.8047,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Bergensavisen,Bergen,,https://ba.no,no,daily,2,,,Q1757863,7,daily newspaper; local newspaper,60.3925,5.3233,reviewed: Welle 6 review 2026-10-09
+no,NO,Dagen,Bergen,,https://dagen.no,no,daily,2,,,Q1768728,7,daily newspaper,60.3925,5.3233,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Nettavisen,Oslo,,https://nettavisen.no,nb,online,2,,,Q6516221,7,online newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09; not pre-selected: magazine/online below tier 1
+no,NO,Teknisk Ukeblad,,,https://tu.no,no,online,2,,,Q4584932,7,periodical; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,NO,Vårt Land,Oslo,,https://vl.no,no,daily,2,,,Q1757831,6,newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09
+no,NO,Bladet Tromsø,Tromsø,,https://itromso.no,no,daily,2,,,Q1757869,6,newspaper,69.6496,18.9570,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Hallingdølen,Ål,,https://hallingdolen.no,no,daily,2,,,Q1764841,6,newspaper,60.6756,8.5769,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Varden,Skien,,https://varden.no,no,daily,2,,,Q7915546,6,newspaper,59.2081,9.5528,reviewed: Welle 6 review 2026-10-09
+yes,NO,Hamar Arbeiderblad,Hamar,,https://h-a.no,no,daily,2,,,Q11973818,6,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+yes,NO,Sunnmørsposten,Ålesund,,https://smp.no,no,daily,2,,,Q1758319,6,daily newspaper,62.4712,6.1542,reviewed: Welle 6 review 2026-10-09
+no,NO,Agder Flekkefjords Tidende,Sokndal,,https://avisenagder.no,no,daily,2,,,Q392094,6,local newspaper,58.3650,6.3103,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+yes,NO,Romsdals Budstikke,Molde,,https://rbnett.no,nb,daily,2,,,Q1760436,6,local newspaper,62.7333,7.1833,reviewed: Welle 6 review 2026-10-09
+no,NO,Rana Blad,Mo i Rana,,https://ranablad.no,nb,daily,2,,,Q1764827,6,local newspaper,66.3167,14.1667,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Porsgrunns Dagblad,Porsgrunn,,https://pd.no,no,daily,3,,,Q1758064,5,newspaper,59.1419,9.6568,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Hordaland,Voss herad,,https://avisa-hordaland.no,nn,daily,3,,,Q1758253,5,newspaper,60.7025,6.4231,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Dag og Tid,Oslo,,https://dagogtid.no,nn,daily,3,,,Q1758326,5,newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Drammens Tidende,Drammen,,https://dt.no,nb,daily,3,,,Q1758332,5,newspaper,59.7454,10.2060,reviewed: Welle 6 review 2026-10-09
+no,NO,Varingen,Rotnes,,https://varingen.no,no,daily,3,,,Q1759333,5,newspaper,60.0500,10.8833,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Haugesunds Avis,Haugesund,,https://h-avis.no,no,daily,3,,,Q1761861,5,newspaper,59.4102,5.2755,reviewed: Welle 6 review 2026-10-09
+no,NO,Rjukan Arbeiderblad,Tinn,,https://rablad.no,no,daily,3,,,Q1761988,5,newspaper,60.0092,8.5594,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Lofotposten,Svolvær,,https://lofotposten.no,no,daily,3,,,Q1764736,5,newspaper,68.2333,14.5667,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Arbeidets Rett,Røros,,https://retten.no,no,daily,3,,,Q1764747,5,newspaper,62.5747,11.3842,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Trønder-Avisa,Steinkjer,,http://t-a.no,no,daily,3,,,Q1764807,5,newspaper; online newspaper,64.0131,11.4969,"reviewed: Welle 6 review 2026-10-09; types: daily, online"
+no,NO,Ruijan Kaiku,Alta,,https://ruijan-kaiku.no,no,daily,3,,,Q1794725,5,newspaper,69.9667,23.2733,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Framtid i Nord,,,https://framtidinord.no,no,daily,3,,,Q5478070,5,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Troms Folkeblad,Senja Municipality,,https://folkebladet.no,no,daily,3,,,Q7845383,5,newspaper,69.0806,16.8031,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Østlandets Blad,Ski Municipality,,https://oblad.no,no,daily,3,,,Q1759569,5,daily newspaper,59.7419,10.8939,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Østlands-Posten,,,https://op.no,nb,daily,3,,,Q1760406,5,daily newspaper; local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Ringerikes Blad,Ringerike,,https://ringblad.no,no,daily,3,,,Q1760411,5,local newspaper; daily newspaper,60.2053,10.1525,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Harstad Tidende,Harstad,,http://www.ht.no/,nb,daily,3,,,Q1761865,5,daily newspaper; online newspaper,68.7989,16.5314,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+yes,NO,Tønsbergs Blad,Tønsberg,,https://tb.no,no,daily,3,,,Q7862380,5,daily newspaper; online newspaper,59.2670,10.4090,"reviewed: Welle 6 review 2026-10-09; types: daily, online"
+no,NO,Lindesnes,Mandal Municipality,,https://l-a.no,no,daily,3,,,Q643171,5,local newspaper,58.0333,7.4833,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Budstikka,Sandvika,,https://budstikka.no,no,daily,3,,,Q1759563,5,local newspaper,59.8900,10.5264,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,NO,Strandbuen,Strand,,https://strandbuen.no,nb,daily,3,,,Q1761560,5,local newspaper,59.0633,6.0278,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Brønnøysunds Avis,Brønnøysund,,https://banett.no,no,daily,3,,,Q1761908,5,local newspaper,65.4749,12.2120,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Grenda,Kvinnherad kommune,,https://grenda.no,nn,daily,3,,,Q11972548,5,local newspaper; online newspaper,59.9281,6.0369,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+yes,NO,Avisa Nordland,Bodø,,https://an.no,no,daily,3,,,Q1758295,5,regional newspaper,67.2831,14.3831,reviewed: Welle 6 review 2026-10-09
+no,NO,Firdaposten,Kinn Municipality,,https://firdaposten.no,no,daily,3,,,Q1767426,5,local newspaper,61.5996,5.0328,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Fjordenes Tidende,,,http://fjt.no,no,daily,3,,,Q1767434,5,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Firda,Førde,,https://firda.no,nn,daily,3,,,Q1767694,5,local newspaper,61.4431,5.9036,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Gjesdalbuen,Gjesdal Municipality,,http://gbnett.no,no,daily,3,,,Q11972115,5,local newspaper,58.7819,6.0086,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Tysvær Bygdeblad,Tysvær kommune,,https://tysver-bygdeblad.no,nn,daily,3,,,Q12008075,5,local newspaper,59.3617,5.5428,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Vest-Telemark blad,Kviteseid kommune,,https://vtb.no,nn,daily,3,,,Q12719396,5,local newspaper,59.3486,8.4928,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Vesteraalens Avis,Stokmarknes,,https://vesteraalensavis.no,no,daily,3,,,Q19397877,5,local newspaper,68.5656,14.9058,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Fjell-Ljom,,,https://fjell-ljom.no,no,daily,3,,,Q1764776,5,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Ny Tid,Oslo Municipality,,https://nytid.no,no,daily,3,,,Q1272546,4,newspaper,59.9118,10.7337,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Akers Avis Groruddalen,Oslo,,https://groruddalen.no,nb,daily,3,,,Q1760211,4,newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Jarlsberg Avis,Holmestrand,,http://jarlsbergavis.no,no,daily,3,,,Q1760457,4,newspaper,59.4953,10.2486,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Tvedestrandsposten,Tvedestrand Municipality,,https://tvedestrandsposten.no,no,daily,3,,,Q1761570,4,newspaper,58.6367,8.9428,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Eidsvoll Ullensaker Blad,Eidsvoll Municipality,,https://eub.no,no,daily,3,,,Q1761600,4,newspaper,60.3475,11.2508,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Lillesands-Posten,Lillesand,,https://lp.no,no,daily,3,,,Q1761831,4,newspaper,58.2469,8.3169,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Finnmark Dagblad,Hammerfest,,https://fd.no,no,daily,3,,,Q1761844,4,newspaper,70.6633,23.6778,reviewed: Welle 6 review 2026-10-09
+no,NO,Aust Agder Blad,Risør Municipality,,https://austagderblad.no,no,daily,3,,,Q1761898,4,newspaper,58.7247,9.2300,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Bygdeposten,Vikersund,,https://bygdeposten.no,no,daily,3,,,Q1764443,4,newspaper,59.9684,9.9911,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Aura Avis,Sunndalsøra,,https://auraavis.no,no,daily,3,,,Q1764770,4,newspaper,62.6753,8.5514,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Synste Møre,Vanylven,,https://synste.no,nn,daily,3,,,Q1764771,4,newspaper,62.1007,5.5579,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Vikebladet Vestposten,Ulsteinvik,,https://vikebladet.no,nn,daily,3,,,Q1764973,4,newspaper,62.3431,5.8486,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Gjengangeren,Horten Municipality,,https://gjengangeren.no,no,daily,3,,,Q1766707,4,newspaper,59.4208,10.4328,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,NO,Smaalenenes Avis,Askim Municipality,,https://smaalenene.no,no,daily,3,,,Q1767707,4,newspaper; nonprofit organization,59.5861,11.1700,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Rakkestad Avis,Rakkestad Municipality,,http://r-a.no,no,daily,3,,,Q1767715,4,newspaper,59.3731,11.4203,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Indre Akershus Blad,Bjørkelangen,,https://indre.no,nb,daily,3,,,Q1769085,4,newspaper,59.8833,11.5667,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Finnmarksposten,Hammerfest,,http://finnmarksposten.no,no,daily,3,,,Q5450889,4,newspaper,70.6633,23.6778,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Gudbrandsdølen Dagningen,Lillehammer,,https://www.gd.no/,nb,daily,3,,,Q5614548,4,newspaper,61.1146,10.4674,reviewed: Welle 6 review 2026-10-09
+no,NO,Halden Arbeiderblad,Halden,,https://ha-halden.no/,no,daily,3,,,Q5641247,4,newspaper,59.1264,11.4828,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Svelviksposten,Drammen,,https://svelviksposten.no,no,daily,3,,,Q9080792,4,newspaper,59.7454,10.2060,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Raumnes,Årnes,,https://raumnes.no,no,daily,3,,,Q7296222,4,newspaper,60.1222,11.4653,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Bygdebladet Randaberg og Rennesøy,Randaberg Municipality,,https://bygdebladet.no,no,daily,3,,,Q10971531,4,newspaper,59.0017,5.6153,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Solabladet,Sola Municipality,,https://solabladet.no,no,daily,3,,,Q10984698,4,newspaper,58.8800,5.6286,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Bø blad,,,https://boblad.no,no,daily,3,,,Q11027629,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Øyene,Færder Municipality,,https://oyene.no,no,daily,3,,,Q11028991,4,newspaper,59.2200,10.4100,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Tysnes,Tysnes Municipality,,https://tysnesbladet.no,no,daily,3,,,Q11159888,4,newspaper,59.9983,5.5772,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Bygdanytt,Arna,,https://bygdanytt.no,nn,daily,3,,,Q11962699,4,newspaper,60.4183,5.4717,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Bømlo-nytt,Svortland,,https://bomlo-nytt.no,nn,daily,3,,,Q11962851,4,newspaper,59.7939,5.1667,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Hardanger Folkeblad,Ullensvang Municipality,,https://www.hardanger-folkeblad.no,no,daily,3,,,Q11974301,4,newspaper,60.0667,6.5500,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Helgelands Blad,,,https://hblad.no,no,daily,3,,,Q11974829,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Hordaland Folkeblad,Norheimsund,,https://hf.no,no,daily,3,,,Q11975820,4,newspaper,60.3667,6.1333,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Opp,,,https://www.opp.no/,no,daily,3,,,Q11992996,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Sandnesposten,,,https://sandnesposten.no,no,daily,3,,,Q11999446,4,newspaper; online newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,NO,Snåsningen,Snåsa,,https://snasningen.no,no,daily,3,,,Q12001670,4,newspaper,64.2461,12.3830,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Storfjordnytt,Fjord Municipality,,https://storfjordnytt.no,no,daily,3,,,Q12003447,4,newspaper,62.3037,7.2578,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Vestnesavisa,Vestnes Municipality,,https://vestnesavisa.no,no,daily,3,,,Q12009531,4,newspaper,62.5844,7.0183,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Vigga,Dovre,,https://vigga.no,no,daily,3,,,Q12009719,4,newspaper,62.0350,9.4675,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Valdres,Fagernes,,https://avisa-valdres.no,no,daily,3,,,Q12713613,4,newspaper,68.4135,17.4290,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Sulaposten,Sula,,https://sulaposten.no,nn,daily,3,,,Q12718759,4,newspaper,62.4247,6.2061,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Vestlandsnytt,Herøy Municipality,,https://vestlandsnytt.no,no,daily,3,,,Q12719399,4,newspaper,62.3556,5.5444,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Frostingen,Frosta,,https://frostingen.no,no,daily,3,,,Q17775334,4,newspaper,63.6039,10.7744,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Marsteinen,Austevoll kommune,,https://marsteinen.no,nn,daily,3,,,Q14437350,4,newspaper,60.0378,5.2683,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Innherred,,,https://innherred.no,no,daily,3,,,Q21481710,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Samoyiki,,,https://samoyiki.com,bn,daily,3,,,Q106775674,4,newspaper; news; website; journal,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,NO,Friheten,Oslo,,https://friheten.no,no,weekly,3,,,Q1761817,4,illegal newspaper; daily newspaper; weekly newspaper; monthly newspaper,59.9133,10.7389,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,NO,Romerikes Blad,Kjeller,,https://rb.no,no,daily,3,,,Q1764501,4,daily newspaper; local newspaper,59.9833,11.0333,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Laagendalsposten,Kongsberg,,https://laagendalsposten.no,nb,daily,3,,,Q1764742,4,daily newspaper,59.6737,9.6481,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Østlendingen,Elverum,,https://ostlendingen.no,nb,daily,3,,,Q1764784,4,daily newspaper; regional newspaper,60.8833,11.5667,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,The Independent Barents Observer,Kirkenes,,https://thebarentsobserver.com/,en,online,3,,,Q109286067,4,online newspaper,69.7271,30.0451,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Sogn Avis,Sogndal Municipality,,https://sognavis.no,no,daily,3,,,Q1759341,4,local newspaper,61.2297,7.1006,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Jærbladet,Bryne,,https://jbl.no,no,daily,3,,,Q1760215,4,local newspaper,58.7333,5.6500,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Strilen,Knarvik,,https://strilen.no,nn,weekly,3,,,Q1760425,4,local newspaper; online newspaper; weekly newspaper,60.5458,5.2838,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online, weekly"
+no,NO,Dalane Tidende,Eigersund Municipality,,https://dalane-tidende.no,no,daily,3,,,Q1760445,4,local newspaper,58.4783,6.0631,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Nordhordland,Knarvik,,https://nordhordland.no,nn,weekly,3,,,Q1761972,4,local newspaper; weekly newspaper; online newspaper,60.5458,5.2838,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online, weekly"
+no,NO,Namdalsavisa,Namsos,,https://namdalsavisa.no,nb,daily,3,,,Q1764364,4,local newspaper,64.4939,11.5117,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Akershus Amtstidende,Drøbak,,https://amta.no,no,daily,3,,,Q1764795,4,local newspaper; online newspaper,59.6667,10.6333,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,NO,Document.no,Oslo,,https://document.no,nb,online,3,,,Q5287621,4,online newspaper; organization,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,forskning.no,Oslo,,https://forskning.no,no,online,3,,,Q5470602,4,online newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Oppland arbeiderblad,Gjøvik,,https://oa.no,no,daily,3,,,Q1764834,4,regional newspaper,60.7925,10.6950,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Steinkjer-Avisa,Steinkjer Municipality,,https://steinkjer-avisa.no,no,weekly,3,,,Q7606903,4,weekly newspaper,64.0131,11.4969,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Vestavind,Sveio kommune,,https://vestavind-sveio.no,nn,weekly,3,,,Q12009446,4,weekly newspaper; local newspaper,59.5736,5.3633,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,NO,Telen,Notodden Municipality,,https://telen.no,no,daily,3,,,Q1764461,4,local newspaper,59.5593,9.2593,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Avisen Hadeland,Gran,,https://hadeland.no,nb,daily,3,,,Q1764802,4,local newspaper,60.4411,10.4956,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Nye Troms,Målselv,,https://nye-troms.no,no,daily,3,,,Q1766529,4,local newspaper,68.9750,19.0644,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Fjuken,,,https://fjuken.no,no,daily,3,,,Q1766687,4,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Fjordabladet,,,https://fjordabladet.no,no,daily,3,,,Q1767454,4,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Sarpsborg Arbeiderblad,Sarpsborg,,https://sa.no,no,daily,3,,,Q1767681,4,local newspaper,59.2906,11.2028,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NO,Fredriksstad Blad,Fredrikstad,,https://f-b.no,no,daily,3,,,Q1767697,4,local newspaper,59.2167,10.9500,reviewed: Welle 6 review 2026-10-09
+no,NO,Fjordingen,,,https://fjordingen.no,no,daily,3,,,Q1769094,4,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Glåmdalen,Kongsvinger Municipality,,https://glomdalen.no,no,daily,3,,,Q5305813,4,local newspaper,60.1912,11.9992,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Sandefjords Blad,Sandefjord,,https://sb.no,no,daily,3,,,Q7416098,4,local newspaper,59.1288,10.2197,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Røyken og Hurums Avis,Slemmestad,,https://rha.no,no,daily,3,,,Q11027887,4,local newspaper,59.7833,10.5000,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Andøyposten,Andén,,https://andoyposten.no,no,daily,3,,,Q11958073,4,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Fanaposten,Bergen,,https://fanaposten.no,no,daily,3,,,Q11968466,4,local newspaper,60.3925,5.3233,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Moss Avis,Moss,,https://moss-avis.no,no,daily,3,,,Q11990068,4,local newspaper,59.4340,10.6577,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Avisa Møre,Volda kommune,,https://mre.no,nn,daily,3,,,Q11990470,4,local newspaper,62.1468,6.0680,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Sør-Trøndelag,Orkanger,,https://avisa-st.no,no,daily,3,,,Q12004814,4,local newspaper,63.3122,9.8533,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Sunnhordland,Stord Municipality,,https://sunnhordland.no,no,daily,3,,,Q12713817,4,local newspaper,59.8081,5.4664,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Møre-Nytt,Ørsta kommune,,https://morenytt.no,nn,daily,3,,,Q12717069,4,local newspaper,62.2003,6.1322,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Norge IDAG,Bergen,,https://idag.no,no,daily,3,,,Q1759310,3,newspaper,60.3925,5.3233,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Os og Fusaposten,Bjørnafjorden kommune,,http://osogfusa.no,nn,daily,3,,,Q1760498,3,newspaper,60.2000,5.7000,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Haramsnytt,Brattvåg,,https://haramsnytt.no,nn,daily,3,,,Q3420557,3,newspaper,62.6000,6.4433,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Fosna-Folket,,,https://fosna-folket.no,no,daily,3,,,Q5473362,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Hitra–Frøya,,,https://hitra-froya.no,no,daily,3,,,Q5872422,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Nordstrands Blad,Oslo Municipality,,https://noblad.no,no,daily,3,,,Q7050886,3,newspaper,59.9118,10.7337,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Bygdebladet,Ørskog kommune,,https://bygdebladet.com,nn,daily,3,,,Q10971581,3,newspaper,62.4789,6.8853,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Dølen,Nord-Fron,,https://dolen.no,no,daily,3,,,Q11017194,3,newspaper,61.5956,9.7481,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Birkenesavisa,Birkenes,,https://bavisa.no,no,daily,3,,,Q11029977,3,newspaper,58.4494,8.2333,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Frolendingen,Froland Municipality,,https://frolendingen.no,no,daily,3,,,Q11970386,3,newspaper,58.5831,8.5722,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Grannar,Etne Municipality,,https://grannar.no,no,daily,3,,,Q11972466,3,newspaper,59.6839,6.0475,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Grimstad Adressetidende,Grimstad,,https://gat.no,no,daily,3,,,Q11972652,3,newspaper,58.3519,8.5444,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Åndalsnes Avis AS,Åndalsnes,,https://åa.no,no,daily,3,,,Q11992801,3,newspaper,62.5672,7.6869,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Ryfylke,Sauda kommune,,http://ryfylke.net,nn,daily,3,,,Q11998739,3,newspaper,59.6875,6.4372,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Sande Avis,Drammen,,https://sandeavis.no,no,daily,3,,,Q11999376,3,newspaper,59.7454,10.2060,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Selbyggen,Selbu Municipality,,https://selbyggen.no,no,daily,3,,,Q11999849,3,newspaper,63.1983,11.1403,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Suldalsposten,Suldal kommune,,https://suldalsposten.no,nn,daily,3,,,Q12003925,3,newspaper,59.4683,6.4997,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Sydvesten,Bergen kommune,,https://sydvesten.no,nb,daily,3,,,Q12004510,3,newspaper,60.3925,5.3233,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Ytringen,Kolvereid,,https://ytringen.no,no,daily,3,,,Q12011080,3,newspaper,64.8653,11.6044,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Ås Avis,Ås kommune,,https://aasavis.no,no,daily,3,,,Q12011623,3,newspaper,59.6603,10.7836,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Trønderbladet,Melhus Municipality,,https://tronderbladet.no,no,daily,3,,,Q18888366,3,newspaper,63.1667,10.3000,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Lierposten,Lier,,https://lierposten.no,no,daily,3,,,Q19379343,3,newspaper,59.8675,10.2142,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Lofot-Tidende,Vestvågøy Municipality,,https://lofot-tidende.no,no,daily,3,,,Q19380089,3,newspaper,68.2214,13.7844,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,VaksdalPosten,Vaksdal kommune,,https://vaksdalposten.no,nn,daily,3,,,Q19394155,3,newspaper,60.6069,5.8161,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Vennesla Tidende,Vennesla,,https://vt-nett.no,no,daily,3,,,Q19397737,3,newspaper,58.3106,7.8569,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Vestby Avis,Vestby,,https://vestbyavis.no,nb,daily,3,,,Q19397860,3,newspaper,59.5750,10.7319,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Øy-Blikk,Giske kommune,,https://oyblikk.no,nn,daily,3,,,Q12719689,3,newspaper,62.5625,6.1019,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Våganavisa,Vågan Municipality,,https://vaganavisa.no,no,daily,3,,,Q17566087,3,newspaper,68.2781,14.5208,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Eikerbladet,Hokksund,,https://eikerbladet.no,no,daily,3,,,Q17769328,3,newspaper,59.7708,9.9099,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Øyposten,Finnøy,,https://oyposten.no,nn,daily,3,,,Q14438168,3,newspaper,59.1647,5.8294,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Finansavisen,Oslo,,https://finansavisen.no/,no,daily,3,,,Q1760430,3,daily newspaper; online newspaper,59.9133,10.7389,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,NO,Avisa Oslo,Oslo,,https://ao.no,nb,online,3,,,Q106167943,3,online newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Askøyværingen,Askøy,,https://av-avis.no,nb,weekly,3,,,Q1759546,3,online newspaper; local newspaper; weekly newspaper,60.4667,5.1500,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online, weekly"
+no,NO,VestNytt,Straume,,https://vestnytt.no,no,daily,3,,,Q1760188,3,local newspaper,60.3572,5.1244,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Setesdølen,Evje og Hornnes Municipality,,https://setesdolen.no,no,daily,3,,,Q1761822,3,local newspaper,58.5925,7.8122,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Bladet Vesterålen,Sortland Municipality,,https://blv.no,no,daily,3,,,Q1761802,3,regional newspaper,68.6958,15.4131,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Telemarksavisa,Skien,,https://ta.no,no,daily,3,,,Q7696338,3,regional newspaper,59.2081,9.5528,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Finnmarken,Vadsø,,https://finnmarken.no,no,daily,3,,,Q5450887,3,local newspaper,70.0667,29.7500,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Fremover,Narvik,,https://fremover.no,nb,daily,3,,,Q5501650,3,local newspaper,68.4383,17.4278,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Arendals Tidende,,,https://arendalstidende.no,nb,daily,3,,,Q11958643,3,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Driva,Møre og Romsdal fylke,,https://driva.no,nn,daily,3,,,Q11966080,3,local newspaper,62.7375,7.1583,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Saltenposten,Fauske Municipality,,https://saltenposten.no,no,daily,3,,,Q11999207,3,local newspaper,67.2596,15.3941,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Sør-Varanger Avis,Sør-Varanger Municipality,,https://sva.no,no,daily,3,,,Q12004816,3,local newspaper,69.7286,30.0420,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Lokalavisa NordSalten,Hamarøy Municipality,,https://nordsalten.no,no,daily,3,,,Q19380124,3,local newspaper,68.0667,15.7667,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Utrop,,,https://utrop.no,nb,daily,3,,,Q7903243,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,TradeWinds,Oslo,,http://www.tradewindsnews.com,en,daily,3,,,Q7831915,2,newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Ullern Avis/Akersposten,,,https://akersposten.no,nb,daily,3,,,Q7879162,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Kampanje,,,http://www.kampanje.com,no,daily,3,,,Q10543179,2,newspaper; online newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+no,NO,Drangedalsposten,Drangedal Municipality,,https://drangedalsposten.no,no,daily,3,,,Q11966035,2,newspaper,59.1233,8.9819,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,KlæbuPosten,Trondheim municipality,,https://klebuposten.no,no,daily,3,,,Q11981211,2,newspaper,63.4281,10.3969,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Kragerø Blad Vestmar,Kragerø,,https://kv.no,no,daily,3,,,Q11981906,2,newspaper,58.8869,9.3469,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Meråkerposten,Meråker Municipality,,https://merakerposten.no,no,daily,3,,,Q11989119,2,newspaper,63.4381,11.8494,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Kyst og Fjord,,,https://kystogfjord.no,no,daily,3,,,Q19378627,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Lokalavisa Trysil - Engerdal,,,https://lokal-avisa.no,no,daily,3,,,Q19380125,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Nordre Aker Budstikke,,,https://nab.no,no,daily,3,,,Q19383329,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Ringsaker Blad,Elverum,,https://ringsaker-blad.no,no,daily,3,,,Q19386628,2,newspaper,60.8833,11.5667,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Samningen,Samnanger,,https://samningen.no,no,daily,3,,,Q19387516,2,newspaper,60.4028,5.8056,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Stangeavisa,Stange Municipality,,https://stangeavisa.no,no,daily,3,,,Q19390250,2,newspaper,60.6494,11.3664,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Ytre Sogn Avis,Høyanger kommune,,https://ytresogn.no,nn,daily,3,,,Q17393452,2,newspaper,61.1881,5.8956,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Klar tale,,,https://www.klartale.no,no,daily,3,,,Q13415669,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Midsundingen,Molde,,https://midsundingen.no,no,daily,3,,,Q87736968,2,newspaper,62.7333,7.1833,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Toten Idag,,,https://totenidag.no,no,daily,3,,,Q84844226,2,online newspaper; newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+no,NO,Subjekt,,,https://subjekt.no/,no,daily,3,,,Q113861713,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Nidaros,Trondheim,,https://www.nidaros.no/,no,online,3,,,Q133934863,2,online newspaper,63.4400,10.4000,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,digi.no,Oslo Municipality,,https://digi.no,no,online,3,,,Q5275703,2,online newspaper,59.9118,10.7337,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Tacky.no,,,https://tacky.no,nb,online,3,,,Q10689651,2,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,ABC Nyheter,,,https://abcnyheter.no,no,online,3,,,Q11956632,2,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Åsane Tidende,Åsane,,https://aasanetidende.no,no,weekly,3,,,Q19399177,2,local newspaper; online newspaper; weekly newspaper,60.4636,5.3219,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online, weekly"
+no,NO,Østhavet,Vardø,,https://osthavet.no,no,weekly,3,,,Q12011954,2,weekly newspaper,70.3705,31.1095,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Nyss,Sykkylven,,https://nyss.no,nb,daily,3,,,Q112731351,2,local newspaper,62.3756,6.6442,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Bladet,Stjørdal Municipality,,http://bladet.no,no,daily,3,,,Q47505853,2,local newspaper,63.4750,11.1708,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Uniforum,,,https://uniforum.uio.no,no,daily,3,,,Q28020258,2,newspaper; online newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+no,NO,Framtida.no,,,https://framtida.no,nn,daily,3,,,Q12714770,2,online newspaper; children's newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,NO,Dagens Medisin,,,https://dagensmedisin.no,no,daily,3,,,Q11964506,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,HegnarOnline,,,https://hegnar.no,nb,daily,3,,,Q11974654,1,newspaper; online newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,NO,Panorama (online newspaper),,,http://panorama.no,no,daily,3,,,Q11994701,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Trav- og Galopp-Nytt,,,https://tgn.no/,no,daily,3,,,Q12007336,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Dagens Perspektiv,,,https://dagensperspektiv.no,no,daily,3,,,Q12008254,1,newspaper; online newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,NO,Karmøynytt,,,https://karmoynytt.no,no,daily,3,,,Q19376997,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Liberaleren,Oslo Municipality,,https://liberaleren.net,no,daily,3,,,Q19379311,1,online newspaper; newspaper,59.9118,10.7337,"reviewed: Welle 6 review 2026-10-09: not selected; language from country default; types: daily, online"
+no,NO,Lyngdals Avis,Lyngdal Municipality,,https://lyngdalsavis.no,no,daily,3,,,Q19380372,1,newspaper; online newspaper,58.1333,7.0833,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,NO,Gjøviks Blad,,,http://www.gjoviksblad.no/,no,daily,3,,,Q17776355,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Tips,,,https://www.tipsbladet.no,no,daily,3,,,Q15884580,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Titan,,,https://titan.uio.no,no,daily,3,,,Q28213819,1,newspaper; website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Samfunnsliv,,,https://samfunnsliv.no,no,daily,3,,,Q20553579,1,newspaper; magazine,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Norddalen,Otta,,https://norddalen.no,no,daily,3,,,Q24327724,1,newspaper,61.7706,9.5414,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Kronstadposten,,,https://kronstadposten.no,no,daily,3,,,Q56760580,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Vestviken 24,,,https://vestviken24.no,no,daily,3,,,Q61081118,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,BY Drammen,Drammen,,https://bydrammen.no/,no,daily,3,,,Q130534015,1,newspaper,59.7454,10.2060,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,FinansWatch,,,https://finanswatch.no,nb,online,3,,,Q97199375,1,online newspaper; news media,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Rett24,,,https://rett24.no,no,online,3,,,Q97210970,1,website; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Avisa-Vest,,,https://avisa-vest.no/,no,online,3,,,Q106571975,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Hemali,Oslo,,https://hemali.no,no,online,3,,,Q108103714,1,online newspaper; online shop,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Medier24,Oslo,,https://m24.no/,no,online,3,,,Q34530606,1,online newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Ekte Nyheter,,,https://ektenyheter.no,nb,online,3,,,Q56405237,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Filter Nyheter,Oslo kommune,,https://filternyheter.no,nb,online,3,,,Q56405437,1,online newspaper,59.9118,10.7337,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Langrenn.com,Hønefoss,,https://langrenn.com,no,online,3,,,Q61080811,1,online newspaper,60.1659,10.2558,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Bok365.no,Oslo Municipality,,https://bok365.no,no,online,3,,,Q64213701,1,online newspaper,59.9118,10.7337,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,730.no,,,https://730.no,no,online,3,,,Q65228374,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Randaberg24,Trondheim municipality,,https://randaberg24.no,no,online,3,,,Q110535637,1,online newspaper,63.4281,10.3969,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,iNyheter,Bærum,,https://inyheter.no,nb,online,3,,,Q113623150,1,online newspaper,59.8904,10.5260,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Oppegård avis,Oppegård,,https://www.oavis.no,no,online,3,,,Q113740251,1,online newspaper,59.7925,10.7903,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Alternativ Media – Folkets Media,Elverum,,https://alternativ-media.com,no,online,3,,,Q117021940,1,online newspaper,60.8833,11.5667,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Altinget,Oslo,,https://www.altinget.no,no,online,3,,,Q118645678,1,online newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Kode24,,,https://www.kode24.no/,no,online,3,,,Q128792000,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,trondheim24.no,Trondheim,,https://trondheim24.no/,no,online,3,,,Q134171159,1,online newspaper,63.4400,10.4000,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Malviknytt,Malvik Municipality,,https://malviknytt.no/,no,online,3,,,Q136689034,1,online newspaper,63.3728,10.7508,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Agenda Magasin,,,https://agendamagasin.no,no,online,3,,,Q141475920,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Avfallsbransjen.no,,,https://avfallsbransjen.no,no,online,3,,,Q141476723,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Bakeri.net,,,https://bakeri.net,no,online,3,,,Q141496401,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Barnehage.no,,,https://barnehage.no,no,online,3,,,Q141496424,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Cnytt.no,,,https://cnytt.no,no,online,3,,,Q141501540,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Dinbedrift.no,,,https://dinbedrift.no,no,online,3,,,Q141501544,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Energi24.no,,,https://energi24.no,no,online,3,,,Q141501550,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Fretta.no,,,https://fretta.no,no,online,3,,,Q141501613,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Tek.no,Oslo,,http://www.tek.no,no,online,3,,,Q11974324,1,online newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Koordinatoren,,,https://koordinatoren.com,nb,online,3,,,Q11981822,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Norway Post,,,https://norwaypost.no,en,online,3,,,Q11992661,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,StockLink,,,https://stocklink.no,no,online,3,,,Q12003306,1,website; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,ITavisen,,,https://itavisen.no,no,online,3,,,Q19375324,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Politisk.no,,,https://politisk.no,no,online,3,,,Q19385526,1,website; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Vesterålen Online,Sortland Municipality,,https://vol.no,no,online,3,,,Q19397886,1,online newspaper,68.6958,15.4131,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Årstadposten,,,http://www.arstadposten.no/,no,daily,3,,,Q19399165,1,online newspaper; local newspaper; business,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+no,NO,Radikal portal,,,https://radikalportal.no,nb,online,3,,,Q20112707,1,website; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,VårtOslo,,,https://vartoslo.no,no,online,3,,,Q28719548,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Kulingen,Ørnes,,https://kulingen.no,no,daily,3,,,Q76010031,1,local newspaper,66.8728,13.7075,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,ILevanger,Levanger,,https://ilevanger.no,no,daily,3,,,Q112275762,1,local newspaper,63.7464,11.2996,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Mitt Kongsvinger,,,https://mittkongsvinger.no,no,daily,3,,,Q113836885,1,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Alvdal midt i væla,Alvdal,,https://alvdalmiv.no,nb,daily,3,,,Q126370801,1,local newspaper,62.1094,10.6344,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Stjørdals-Nytt,Stjørdal,,https://s-n.no,nb,daily,3,,,Q12003302,1,local newspaper,63.4750,11.1708,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Avisa Hemnes,Korgen,,https://avisahemnes.no,nb,daily,3,,,Q15960394,1,local newspaper,66.0764,13.8219,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Avisa Lofoten,Giske,,https://avisalofoten.no,nb,daily,3,,,Q50424324,1,local newspaper,62.5625,6.1019,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Stord24,Stord Municipality,,https://stord24.no,no,daily,3,,,Q61359708,1,local newspaper,59.8081,5.4664,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,Folk & Røvere,,,https://www.folk-rovere.org/,no,daily,3,,,Q11969339,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Korsets Seier,,,https://www.korsetsseier.no/,no,daily,3,,,Q11981855,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Puls,,,https://www.puls.no/,no,daily,3,,,Q11996472,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Heggedal Post,Heggedal,,https://iheggedal.no/heggedalsposten,no,daily,3,,,Q19373911,1,newspaper,59.7867,10.4347,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,ReAvisa,Revetal,,https://www.reavisa.no/,no,daily,3,,,Q19386304,1,newspaper,59.3703,10.2581,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,NO,Standpunkt,,,https://neitileu.no/aktuelt?&type=5f5cd355-70a5-4f6b-92da-76c7db8d9bbc,no,daily,3,,,Q15622815,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Khrono,,,https://khrono.no,no,daily,3,,,Q30578862,1,newspaper; online newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, online"
+no,NO,Nordmørsposten,Kristiansund,,https://www.np.no/,no,daily,3,,,Q131931834,1,newspaper,63.1105,7.7279,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,NO,Kristiansand Avis,,,http://www.kristiansandavis.no/,no,daily,3,,,Q11982091,1,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Hustadvikingen,,,https://hustadvikingen.no/,nb,daily,3,,,Q124790273,1,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Arbeideravisa,,,https://www.arbeideravisa.no/,no,online,3,,,Q11958522,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Enerwe,,,https://europower.no,no,online,3,,,Q97200389,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Drammen Live24,Drammen,,https://www.drm24.no/,nb,online,3,,,Q107736057,1,online newspaper,59.7454,10.2060,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Dagligvaruhandel,,,https://dagligvarehandelen.no/,no,weekly,3,,,Q10465923,1,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Klikk.no,,,http://www.klikk.no,no,online,3,,,Q19377454,1,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,StarAvis,,,https://www.staravis.com/,no,daily,3,,,Q118465212,0,journalism; news media; newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,NO,Akp.no,,,https://akp.no/,no,daily,3,,,Q131133350,0,party newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NO,Børsen,,,https://www.borsen.no/,nb,online,3,,,Q100923863,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NO,Norske hjems magasin,Oslo,,https://www.inmagasinet.no/,no,online,3,,,Q107228554,0,magazine; online newspaper,59.9133,10.7389,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Skjærgårdsposten,Mandal,,https://sposten.no/,nb,online,3,,,Q116785791,0,online newspaper,58.0272,7.4489,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NO,Verdinytt,Kristiansand,,https://verdinytt.no/,no,online,3,,,Q131842882,0,online newspaper,58.1467,7.9956,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,På Høyden,Bergen,,https://pahoyden.no/,no,daily,3,,,Q117923088,0,newspaper,60.3925,5.3233,reviewed: Welle 6 review 2026-10-09: not selected
+no,NO,The Oslo Times,,,https://www.theoslotimes.com/,no,online,3,,,Q108385140,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Melhusposten,,,https://www.melhusposten.no/,no,online,3,,,Q136772239,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,NO,Sosialnytt.com,,,https://sosialnytt.com/,nb,online,3,,,Q137399118,0,online newspaper; news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

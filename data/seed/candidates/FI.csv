@@ -1,0 +1,184 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,FI,Helsingin Sanomat,Helsinki,,https://www.hs.fi/,fi,daily,1,,,Q366921,27,newspaper; daily newspaper; newspaper of record,60.1708,24.9375,
+yes,FI,Iltalehti,Helsinki,,https://www.iltalehti.fi/,fi,daily,1,,,Q2421561,19,newspaper; tabloid,60.1708,24.9375,"reviewed: Welle 6 review 2026-10-09; types: daily, online"
+seeded,FI,Hufvudstadsbladet,Helsingfors,,https://www.hbl.fi,sv,daily,1,,,Q613979,17,newspaper; daily newspaper,60.1708,24.9375,
+seeded,FI,Ilta-Sanomat,Helsinki,,https://www.is.fi,fi,daily,1,,,Q1001384,17,tabloid newspaper,60.1708,24.9375,
+seeded,FI,Aamulehti,Tampere,,https://www.aamulehti.fi/,fi,daily,1,,,Q301000,17,newspaper,61.4981,23.7600,
+no,FI,Suomen Kuvalehti,Helsinki,,https://suomenkuvalehti.fi,fi,magazine,2,,,Q3131436,10,magazine; news magazine,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+yes,FI,Åland,Mariehamn,,https://www.alandstidningen.ax,sv,daily,2,,,Q3352241,9,newspaper,60.0986,19.9444,reviewed: Welle 6 review 2026-10-09
+yes,FI,Vasabladet,Vaasa,,http://www.vasabladet.fi,sv,daily,2,,,Q3354076,9,newspaper,63.0958,21.6153,reviewed: Welle 6 review 2026-10-09
+yes,FI,Åbo Underrättelser,Turku,,http://www.abounderrattelser.fi,sv,daily,2,,,Q3141380,9,newspaper,60.4517,22.2669,reviewed: Welle 6 review 2026-10-09
+yes,FI,Kymen Sanomat,Kotka,,https://kymensanomat.fi/,fi,daily,2,,,Q3080792,9,daily newspaper,60.4667,26.9458,reviewed: Welle 6 review 2026-10-09
+no,FI,Nya Åland,Mariehamn,,https://www.nyan.ax,sv,daily,2,,,Q3781659,8,newspaper,60.0986,19.9444,reviewed: Welle 6 review 2026-10-09: not selected
+yes,FI,Keskisuomalainen,Jyväskylä,,https://www.ksml.fi/,fi,daily,2,,,Q3195563,8,daily newspaper,62.2403,25.7444,reviewed: Welle 6 review 2026-10-09
+no,FI,Västra Nyland,Ekenäs,,http://www.vastranyland.fi,sv,daily,2,,,Q3365107,7,newspaper,59.9744,23.4356,reviewed: Welle 6 review 2026-10-09: not selected
+yes,FI,Turun Sanomat,Turku,,http://www.ts.fi/,fi,daily,2,,,Q2616090,7,newspaper,60.4517,22.2669,reviewed: Welle 6 review 2026-10-09
+no,FI,Demokraatti,Helsinki,,https://demokraatti.fi/,fi,daily,2,,,Q11855967,7,newspaper; party newspaper; mouthpiece,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+yes,FI,Kaleva,Oulu,,https://www.kaleva.fi/,fi,daily,2,,,Q3192167,7,newspaper; daily newspaper,65.0142,25.4719,reviewed: Welle 6 review 2026-10-09
+no,FI,Länsi-Suomi,Rauma,,http://ls24.fi/,fi,daily,2,,,Q3374398,7,newspaper,61.1167,21.5000,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Kauppalehti,Helsinki,,http://www.kauppalehti.fi/,fi,daily,2,,,Q6378858,7,newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Helsinki Times,Helsinki,,https://www.helsinkitimes.fi/,en,daily,2,,,Q4040556,6,newspaper; online newspaper,60.1708,24.9375,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+yes,FI,Österbottens Tidning,Jakobstad,,http://www.ot.fi/,sv,daily,2,,,Q3365092,6,newspaper,63.6667,22.7000,reviewed: Welle 6 review 2026-10-09
+no,FI,Suomenmaa,Oulu,,https://www.suomenmaa.fi/,fi,daily,2,,,Q3080776,6,party newspaper; magazine; online newspaper,65.0142,25.4719,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+yes,FI,Keskipohjanmaa,Kokkola,,http://www.keskipohjanmaa.net/,fi,daily,2,,,Q3080775,6,newspaper; daily newspaper,63.8376,23.1320,reviewed: Welle 6 review 2026-10-09
+yes,FI,Lapin Kansa,Rovaniemi,,https://www.lapinkansa.fi/,fi,daily,2,,,Q3353533,6,newspaper; daily newspaper,66.5028,25.7285,reviewed: Welle 6 review 2026-10-09
+yes,FI,Kainuun Sanomat,Kajaani,,http://www.kainuunsanomat.fi/,fi,daily,2,,,Q11868988,6,daily newspaper,64.2250,27.7333,reviewed: Welle 6 review 2026-10-09
+yes,FI,Etelä-Saimaa,Lappeenranta,,https://esaimaa.fi/,fi,daily,3,,,Q5402565,5,newspaper,61.0583,28.1861,reviewed: Welle 6 review 2026-10-09
+no,FI,Maaseudun Tulevaisuus,Helsinki,,https://www.maaseuduntulevaisuus.fi/,fi,daily,3,,,Q6848891,5,newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+yes,FI,Hämeen Sanomat,Hämeenlinna,,http://www.hameensanomat.fi/,fi,daily,3,,,Q3144488,5,newspaper,60.9944,24.4667,reviewed: Welle 6 review 2026-10-09
+no,FI,Itä-Häme,Heinola,,http://www.itahame.fi/,fi,daily,3,,,Q6095315,5,newspaper,61.2052,26.0348,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Salon Seudun Sanomat,Salo,,https://www.sss.fi/,fi,daily,3,,,Q7405681,5,newspaper,60.3831,23.1331,reviewed: Welle 6 review 2026-10-09: not selected
+yes,FI,Savon Sanomat,Kuopio,,http://www.savonsanomat.fi/,fi,daily,3,,,Q7428411,5,newspaper,62.8925,27.6783,reviewed: Welle 6 review 2026-10-09
+yes,FI,Karjalainen,Joensuu,,http://www.karjalainen.fi/,fi,daily,3,,,Q3193341,5,daily newspaper,62.6000,29.7639,reviewed: Welle 6 review 2026-10-09
+yes,FI,Etelä-Suomen Sanomat,Lahti,,http://www.ess.fi/,fi,daily,3,,,Q11858930,5,daily newspaper,60.9804,25.6550,reviewed: Welle 6 review 2026-10-09
+no,FI,Svenska Yle,,,https://svenska.yle.fi,sv,online,3,,,Q3431760,5,editorial team; news website; film production company,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,FI,Länsi-Uusimaa,Hanko,,https://www.lansi-uusimaa.fi/,fi,daily,3,,,Q3269941,4,newspaper,59.8236,22.9681,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Tiedonantaja,Helsinki,,http://www.tiedonantaja.fi,fi,daily,3,,,Q5237141,4,newspaper; party newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Kalajokilaakso,Ylivieska,,http://www.kalajokilaakso.fi/,fi,daily,3,,,Q5480396,4,periodical; newspaper,64.0722,24.5375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Kouvolan Sanomat,Kouvola,,http://www.kouvolansanomat.fi/,fi,daily,3,,,Q6434798,4,newspaper,60.8681,26.7042,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Aamuposti,Hyvinkää,,https://www.aamuposti.fi/,fi,daily,3,,,Q2820006,4,newspaper; local newspaper,60.6306,24.8597,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Voima,Helsinki,,http://www.voima.fi/,fi,daily,3,,,Q1266770,4,newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+yes,FI,Satakunnan Kansa,Pori,,http://www.satakunnankansa.fi/,fi,daily,3,,,Q6305445,4,newspaper; daily newspaper,61.4867,21.7975,reviewed: Welle 6 review 2026-10-09
+no,FI,Uusimaa,Porvoo,,https://www.uusimaa.fi/,fi,daily,3,,,Q7903586,4,newspaper,60.3931,25.6639,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Finsk Tidskrift,,,http://www.finsktidskrift.fi/,sv,daily,3,,,Q10495575,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Tekniikka ja Talous,Helsinki,,http://www.tekniikkatalous.fi/,fi,magazine,3,,,Q5391707,4,news magazine,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,FI,Itä-Savo,Savonlinna,,http://www.ita-savo.fi/,fi,daily,3,,,Q5404281,3,newspaper; daily newspaper,61.8681,28.8861,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Forssan Lehti,Forssa,,http://www.forssanlehti.fi/,fi,daily,3,,,Q11859825,3,newspaper; daily newspaper,60.8139,23.6222,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Historisk Tidskrift för Finland,,,http://www.historisktidskrift.fi/,sv,daily,3,,,Q10524626,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Koillis-Savo,Kaavi,,http://www.koillis-savo.fi,fi,daily,3,,,Q18680139,3,newspaper; local newspaper,62.9750,28.4833,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Tammerfors Aktuellt,Tammerfors,,https://tammerforsaktuellt.fi/,sv,daily,3,,,Q84522009,3,newspaper,61.4981,23.7600,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Länsiväylä,Espoo,,https://www.lansivayla.fi/,fi,daily,3,,,Q10571939,3,free newspaper,60.2056,24.6556,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Tamperelainen,Tampere,,https://www.tamperelainen.fi/,fi,daily,3,,,Q11896331,3,free newspaper,61.4981,23.7600,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Kyrkpressen,Helsingfors,,http://www.kyrkpressen.fi/,sv,daily,3,,,Q10551533,3,daily newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Keskilaakso,Kouvola,,http://www.keskilaakso.fi/,fi,daily,3,,,Q11871103,3,local newspaper,60.8681,26.7042,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Länsi-Savo,Mikkeli,,http://www.lansi-savo.fi/,fi,daily,3,,,Q6710872,3,newspaper; daily newspaper,61.6875,27.2736,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Taloussanomat,Helsinki,,http://www.taloussanomat.fi/,fi,daily,3,,,Q7680310,3,newspaper; online newspaper,60.1708,24.9375,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,FI,Ny Tid (Finland),Helsingfors,,http://nytid.fi,sv,daily,3,,,Q7070758,3,daily newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Yle Uutiset,,,https://yle.fi/uutiset,fi,online,3,,,Q8053995,3,television program; news program; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,FI,Koillissanomat,Kuusamo,,https://www.koillissanomat.fi/,fi,daily,3,,,Q18660105,3,local newspaper,65.9667,29.1833,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Raahen Seutu,Raahe,,https://www.raahenseutu.fi/,fi,daily,3,,,Q5400878,2,newspaper,64.6847,24.4792,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Loviisan Sanomat,Loviisa,,http://www.loviisansanomat.net/,fi,daily,3,,,Q11876321,2,newspaper,60.4569,26.2250,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Suupohjan Sanomat,Kristiinankaupunki,,http://www.suupohjansanomat.fi,fi,daily,3,,,Q11895398,2,newspaper; daily newspaper; newspaper of record,62.2736,21.3778,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Uudenkaupungin Sanomat,Uusikaupunki,,http://www.uudenkaupunginsanomat.fi/,fi,daily,3,,,Q11899759,2,magazine; newspaper,60.8000,21.4097,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Hangonlehti,Hanko,,http://hangotidningen.fi/fi,fi,daily,3,,,Q10517227,2,newspaper,59.8236,22.9681,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Ruotuväki,,,http://www.puolustusvoimat.fi/fi/ruotuvaki/etusivu,fi,daily,3,,,Q10657864,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Östnyland,Borgå,,http://www.ostnyland.fi/,sv,daily,3,,,Q19293697,2,newspaper,60.3931,25.6639,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Kirkkonummen Sanomat,Kirkkonummi,,http://kirkkonummensanomat.fi/,fi,daily,3,,,Q10545774,2,free newspaper,60.1236,24.4389,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Helsingin Uutiset,Helsinki,,https://www.helsinginuutiset.fi/,fi,daily,3,,,Q11862132,2,free newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Uusi Juttu,Vallila,,https://www.uusijuttu.fi/,fi,online,3,,,Q130349424,2,media company; online newspaper,60.1944,24.9567,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,FI,Etelä-Uusimaa,,,https://etela.com/,fi,daily,3,,,Q28367333,2,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Global South Development Magazine,,,https://www.gsdmagazine.org/,en,daily,3,,,Q5570646,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,tidning,,,https://annonsbladet.fi/,sv,daily,3,,,Q11851819,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Päivämies,Oulu,,https://www.paivamies.fi/,fi,weekly,3,,,Q11889396,2,newspaper; weekly newspaper,65.0142,25.4719,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,FI,Ylä-Karjala,Nurmes,,http://www.ylakarjala.com,fi,daily,3,,,Q11902905,2,newspaper; local newspaper,63.5444,29.1333,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Tyrvään Sanomat,Vammala,,http://www.tyrvaansanomat.fi/Etusivu,fi,daily,3,,,Q18662516,2,newspaper,61.3403,22.9097,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Pyhäjokiseutu,Oulainen,,https://www.pyhajokiseutu.fi/,fi,daily,3,,,Q18680199,2,newspaper; local newspaper,64.2667,24.8167,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Keski-Uusimaa,Tuusula,,https://www.keski-uusimaa.fi/,fi,daily,3,,,Q49770785,2,newspaper,60.4028,25.0292,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Anarâš aavis,internet,,https://www.anarasaavis.fi/,fi,daily,3,,,Q117041745,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Enhörningen (tidskrift),,,http://www.enhorningen.net/,sv,daily,3,,,Q10484259,2,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Eos (tidskrift),,,https://digi.kansalliskirjasto.fi/aikakausi/titles/1236-9705,sv,daily,3,,,Q10485273,2,daily newspaper; periodical,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Jämsän Seutu,Jämsä,,https://www.jamsanseutu.fi/,fi,daily,3,,,Q11868322,2,magazine; local newspaper,61.8639,25.1903,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Iijokiseutu,Pudasjärvi,,https://www.iijokiseutu.fi/,fi,daily,3,,,Q11864381,1,newspaper,65.3597,26.9972,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Jurvan Sanomat,Jurva,,https://www.jurvansanomat.fi/,fi,daily,3,,,Q11867963,1,newspaper; local newspaper,62.6861,21.9819,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Kauhajoki-lehti,Kauhajoki,,https://www.kauhajoki-lehti.fi,fi,daily,3,,,Q11870463,1,newspaper; local newspaper,62.4236,22.1764,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Lieksan Lehti,Lieksa,,http://www.lieksanlehti.fi,fi,daily,3,,,Q11875728,1,local newspaper; newspaper,63.3181,30.0250,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Pitäjäläinen,Nilsiä,,https://www.pitajalainen.fi/,fi,daily,3,,,Q11888335,1,newspaper; local newspaper,63.2042,28.0833,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Pitäjänuutiset,Mäntyharju,,https://www.pitajanuutiset.fi/,fi,daily,3,,,Q11888339,1,local newspaper; newspaper,61.4181,26.8792,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Pogostan Sanomat,Ilomantsi,,https://www.pogostansanomat.fi/,fi,daily,3,,,Q11888393,1,newspaper; local newspaper,62.6722,30.9306,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Puumala-lehti,Puumala,,https://puumalalehti.fi/,fi,daily,3,,,Q11889209,1,newspaper,61.5250,28.1833,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Rantapohja,Haukipudas,,https://www.rantapohja.fi/,fi,daily,3,,,Q11890070,1,newspaper,65.1833,25.3500,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Rantalakeus,Liminka,,https://www.rantalakeus.fi/,fi,weekly,3,,,Q11890068,1,newspaper; weekly newspaper,64.8083,25.4167,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,FI,Sanansaattaja (lehti),Helsinki,,http://sley.fi/sanansaattaja,fi,daily,3,,,Q11892334,1,newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Tejuka,Teuva,,http://www.tejuka-lehti.fi,fi,daily,3,,,Q11896804,1,local newspaper; newspaper,62.4861,21.7472,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Tervareitti,Muhos,,https://www.tervareitti.fi/,fi,daily,3,,,Q11897021,1,newspaper,64.8069,25.9944,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Työkansan Sanomat,Tikkurila,,https://www.ktpkom.fi/tyokansan-sanomat/,fi,daily,3,,,Q11899127,1,newspaper,60.2967,25.0333,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Uutis-Jousi,Siilinjärvi,,https://www.uutis-jousi.fi/,fi,daily,3,,,Q11899864,1,local newspaper; newspaper,63.0750,27.6600,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Itäsuomalainen,Joensuu,,https://www.itasuomalainen.fi/,fi,daily,3,,,Q11901315,1,newspaper; party newspaper,62.6000,29.7639,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Viitasaaren Seutu,Viitasaari,,http://www.viitasaarenseutu.fi/,fi,daily,3,,,Q11901383,1,newspaper; local newspaper,63.0750,25.8597,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Pielavesi-Keitele,Pielavesi,,https://www.pielavesi-keitele.fi/,fi,daily,3,,,Q18680191,1,local newspaper; newspaper,63.2319,26.7556,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Joutseno,Joutseno,,http://www.joutsenolehti.fi/,fi,daily,3,,,Q18659532,1,newspaper,61.1181,28.5097,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Karjalan Heili,Joensuu,,http://www.karjalanheili.fi/,fi,daily,3,,,Q18659866,1,free newspaper; newspaper,62.6000,29.7639,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Soisalon Seutu,Leppävirta,,http://www.soisalonseutu.fi,fi,daily,3,,,Q26723867,1,newspaper; local newspaper,62.4917,27.7875,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Vihdin Uutiset,Vihti,,https://www.vihdinuutiset.fi/,fi,daily,3,,,Q28855053,1,newspaper,60.4167,24.3194,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Aamuset,Turku,,http://www.aamuset.fi,fi,daily,3,,,Q9321408,1,free newspaper,60.4517,22.2669,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Forum24,Oulu,,https://www.forum24.fi/,fi,daily,3,,,Q11859852,1,free newspaper,65.0142,25.4719,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Hervannan Sanomat,Tampere,,http://www.hervannansanomat.fi,fi,daily,3,,,Q11862476,1,local newspaper; free newspaper,61.4981,23.7600,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Kansan ääni,Helsinki,,https://www.kansanaani.net,fi,daily,3,,,Q11869696,1,party newspaper; communist newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Jätkäsaari–Ruoholahti,Ruoholahti,,https://www.ruoholahdensanomat.fi,fi,daily,3,,,Q11891404,1,free newspaper; local newspaper,60.1639,24.9062,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Koillis-Helsingin Lähitieto,Helsinki,,https://www.lahitieto.fi/,fi,daily,3,,,Q18660104,1,free newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Vantaan Sanomat,Vantaa,,https://www.vantaansanomat.fi/,fi,daily,3,,,Q18662710,1,free newspaper,60.2944,25.0403,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Vartti Etelä-Karjala,Lappeenranta,,http://www.varttiek.fi/,fi,daily,3,,,Q18662739,1,free newspaper,61.0583,28.1861,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Nykypäivä,Helsinki,,https://www.nykypaiva.org/,fi,daily,3,,,Q18661033,1,magazine; party newspaper; mouthpiece,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Itäväylä,Porvoo,,https://www.itavayla.fi/,fi,daily,3,,,Q18680118,1,magazine; free newspaper,60.3931,25.6639,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Lappeenrannan Uutiset,Lappeenranta,,https://www.lappeenrannanuutiset.fi/,fi,daily,3,,,Q20252049,1,free newspaper,61.0583,28.1861,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Imatralainen,Imatra,,http://www.imatralainen.fi/,fi,daily,3,,,Q20254887,1,free newspaper,61.1931,28.7764,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Seurakuntalainen,,,https://www.seurakuntalainen.fi/,fi,online,3,,,Q121544033,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,FI,Lentoposti.fi,,,https://lentoposti.fi/,fi,online,3,,,Q130606439,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,FI,Perhonjokilaakso,Veteli,,https://www.perhonjokilaakso.fi/,fi,weekly,3,,,Q11887455,1,local newspaper; weekly newspaper,63.4753,23.7886,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,FI,Lestijoki,Kannus,,https://www.lestijoki.fi/,fi,daily,3,,,Q5475711,1,local newspaper,63.9017,23.9151,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Järviseutu,Alajärvi,,https://www.jarviseutu-lehti.fi/,fi,daily,3,,,Q11868389,1,magazine; local newspaper,63.0000,23.8167,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Kaakonkulma,Virolahti,,http://www.kaakonkulma.fi/,fi,daily,3,,,Q11868669,1,local newspaper,60.5833,27.7000,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Komiat,Kauhava,,http://www.komiatlehti.fi/,fi,daily,3,,,Q11872294,1,magazine; local newspaper,63.1014,23.0639,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Kunnallislehti Paimio-Sauvo-Kaarina,Paimio,,http://www.kuntsari.fi/,fi,daily,3,,,Q11873442,1,local newspaper,60.4569,22.6861,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Äänekosken Kaupunkisanomat,,,https://aksa.fi/,fi,daily,3,,,Q18663150,1,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Merikarvia-lehti,Merikarvia,,https://www.merikarvialehti.fi/,fi,daily,3,,,Q18680169,1,local newspaper,61.8611,21.5083,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Parikkalan-Rautjärven Sanomat,Parikkala,,https://www.prsanomat.fi/,fi,daily,3,,,Q18680190,1,local newspaper,61.5500,29.5000,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Sulkava-lehti,Sulkava,,https://sulkavalehti.fi/,fi,daily,3,,,Q18680210,1,local newspaper,61.7875,28.3708,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Uusi Suomi,,,http://www.uusisuomi.fi,fi,online,3,,,Q3948279,1,magazine; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,FI,Como,Helsinki,,https://www.como.fi,fi,online,3,,,Q11855477,1,magazine; news website; online newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,FI,Kotimaa,,,https://www.kotimaa24.fi/,fi,online,3,,,Q11872822,1,website; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,FI,Kirkko ja kaupunki,Helsinki,,https://www.kirkkojakaupunki.fi/,fi,daily,3,,,Q5406574,1,newspaper,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Karjala,Lappeenranta,,http://karjala-lehti.fi/,fi,daily,3,,,Q5487519,1,newspaper,61.0583,28.1861,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Elimäen Sanomat,Kouvola,,http://www.elimaensanomat.fi/index.html,fi,daily,3,,,Q11857366,1,newspaper,60.8681,26.7042,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Haapavesi,Haapavesi,,https://www.haapavesi-lehti.fi/,fi,weekly,3,,,Q11861123,1,newspaper; local newspaper; weekly newspaper,64.1375,25.3667,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,FI,Heinäveden lehti,Heinävesi,,http://www.heinavedenlehti.fi,fi,daily,3,,,Q11861992,1,newspaper,62.4264,28.6306,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Iitinseutu,Iitti,,https://iitinseutu.fi/,fi,daily,3,,,Q11864439,1,newspaper,60.8833,26.3333,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Ilmajoki-lehti,Ilmajoki,,http://www.ilmajoki-lehti.fi,fi,daily,3,,,Q11864595,1,newspaper,62.7319,22.5806,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,JP-Kunnallissanomat,Jalasjärvi,,http://www.jp-kunnallissanomat.fi,fi,daily,3,,,Q11865442,1,newspaper,62.4917,22.7667,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Kirkko ja koti,Kuopio,,http://www.kirkkojakoti.fi,fi,daily,3,,,Q11871698,1,newspaper,62.8925,27.6783,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Kuhmolainen,Kuhmo,,http://www.kuhmolainen.fi,fi,daily,3,,,Q11873149,1,newspaper,64.1278,29.5181,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Kyrönmaa (lehti),Laihia,,http://www.kyronmaa-lehti.fi/,fi,daily,3,,,Q11874018,1,newspaper,62.9764,22.0111,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Pietarsaaren Sanomat,Pietarsaari,,http://www.pietarsaarensanomat.fi/,fi,daily,3,,,Q11888009,1,newspaper,63.6667,22.7000,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Pohjankyrö-lehti,Isokyrö,,http://www.pohjankyro-lehti.fi,fi,daily,3,,,Q11888420,1,newspaper,63.0000,22.3167,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Puruvesi,Etelä-Savon maakunta,,https://www.puruvesi.net,fi,daily,3,,,Q11889155,1,newspaper,62.0000,27.5000,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Viiskunta,Alavus,,http://www.viiskunta.fi,fi,daily,3,,,Q11901377,1,newspaper,62.5861,23.6194,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Suomenselän Sanomat,Virrat,,https://www.suomenselansanomat.net/,fi,daily,3,,,Q18662143,1,newspaper; local newspaper,62.2403,23.7708,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Tampereen Kirkkosanomat,Tampere,,http://www.siltalehti.fi/,fi,daily,3,,,Q18662258,1,newspaper,61.4981,23.7600,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Sunnuntaisuomalainen,Jyväskylä,,http://www.sunnuntaisuomalainen.fi/,fi,daily,3,,,Q16746699,1,newspaper,62.2403,25.7444,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Perussuomalainen,,,https://www.suomenuutiset.fi/lehtiarkisto/,fi,daily,3,,,Q18675326,1,mouthpiece; newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Inarilainen,,,http://www.inarilainen.fi/,fi,daily,3,,,Q18680113,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Orimattilan Sanomat,Orimattila,,http://www.orimattilansanomat.fi/,fi,daily,3,,,Q18680187,1,newspaper,60.8042,25.7333,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Saariselän Sanomat,Saariselkä,,https://saariselansanomat.fi/,fi,daily,3,,,Q18680206,1,newspaper; free newspaper,68.4200,27.4129,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Sotkamo-lehti,Sotkamo,,https://www.sotkamolehti.fi/,fi,daily,3,,,Q20737059,1,newspaper,64.1306,28.3833,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Ylä-Kainuu,Suomussalmi,,http://www.ylakainuu.fi,fi,daily,3,,,Q23755004,1,newspaper,64.8847,28.9125,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Ilkka-Pohjalainen,,,https://uusi.ilkkapohjalainen.fi/,fi,daily,3,,,Q84073764,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,LL-Bladet,,,https://ll-bladet.fi/,sv,daily,3,,,Q104650469,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Pyhäjärven Sanomat,Pyhäjärvi,,https://pyhajarvensanomat.fi/,fi,weekly,3,,,Q117184405,1,newspaper; weekly newspaper; local newspaper,63.6819,25.9778,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,FI,Botnia Insider,Vaasa,,https://www.vaasainsider.fi,fi,daily,3,,,Q138267451,1,newspaper; free newspaper,63.0958,21.6153,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Laukaa-Konnevesi,Laukaa,,https://www.laukaa-konnevesi.fi/,fi,daily,3,,,Q139818881,1,newspaper; local newspaper,62.4139,25.9542,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Seutu Majakka,Oulainen,,https://seutumajakka.fi/,fi,daily,3,,,Q11893117,1,free newspaper,64.2667,24.8167,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Sirmakka,,,http://sirmakka.suncomet.net/,fi,daily,3,,,Q11893727,1,free newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Koti-Lappi,Kemijärvi,,https://www.kotilappi.fi/,fi,daily,3,,,Q20251982,1,free newspaper,66.7150,27.4306,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Horisont (tidskrift),,,https://horisont.fi/,sv,daily,3,,,Q10526263,1,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,65 Degrees North,Oulu,,http://www.65degreesnorth.com/,en,online,3,,,Q11849596,1,online newspaper,65.0142,25.4719,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,FI,Enontekiön Sanomat,Enontekiö,,https://www.enontekionsanomat.fi/,fi,daily,3,,,Q110408433,1,local newspaper,68.3847,23.6389,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Meän Tornionlaakso,,,https://www.meantornionlaakso.fi/,fi,daily,3,,,Q134456525,1,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Auranmaan Viikkolehti,Pöytyä,,http://www.auranmaanviikkolehti.fi,fi,weekly,3,,,Q11853513,1,weekly newspaper; local newspaper,60.7197,22.6036,"reviewed: Welle 6 review 2026-10-09: not selected; language from country default; types: daily, weekly"
+no,FI,Järviseudun Sanomat,Lappajärvi,,https://www.jarviseudunsanomat.fi/,fi,daily,3,,,Q11868391,1,magazine; local newspaper,63.2181,23.6292,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Lauttakylä-lehti,Huittinen,,http://www.lauttakyla.fi/,fi,daily,3,,,Q11875172,1,local newspaper,61.1764,22.6986,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Pargas Kungörelser – Paraisten Kuulutukset,Pargas,,http://www.pku.fi/,sv,daily,3,,,Q11886695,1,local newspaper,60.3000,22.3000,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Sydän-Satakunta,Kokemäki,,https://www.sydansatakunta.fi/,fi,daily,3,,,Q11895565,1,local newspaper,61.2556,22.3486,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Kaarina-lehti,Kaarina,,https://www.kaarina-lehti.fi/,fi,daily,3,,,Q18659671,1,local newspaper,60.4069,22.3722,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Nivala-lehti,Nivala,,https://www.nivala-lehti.fi/,fi,daily,3,,,Q18660987,1,local newspaper; magazine,63.9292,24.9778,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Somero,Somero,,http://www.somerolehti.fi/uutiset/index.html,fi,daily,3,,,Q18662044,1,local newspaper,60.6292,23.5139,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Turun Tienoo,Lieto,,http://www.turuntienoo.fi/,fi,daily,3,,,Q18662485,1,local newspaper,60.5042,22.4583,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,FI,Reisjärvi,Reisjärvi,,http://www.reisjarvilehti.fi/,fi,daily,3,,,Q18680203,1,magazine; local newspaper,63.6056,24.9319,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Ruovesi,Ruovesi,,https://www.ruovesi-lehti.fi/,fi,weekly,3,,,Q56403857,1,local newspaper; weekly newspaper,61.9833,24.0833,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,FI,Mediuutiset,Helsinki,,https://www.mediuutiset.fi/,fi,online,3,,,Q107672649,1,news website; magazine,60.1708,24.9375,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,FI,Sipoon Sanomat,Sipoo,,https://www.sipoonsanomat.fi/,fi,daily,3,,,Q124847938,0,newspaper; local newspaper,60.3769,25.2619,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Päntäneen Sanomat,Päntäne,,https://www.lc-pantane.com/sanomat.html,fi,daily,3,,,Q137293470,0,newspaper; local newspaper,62.3594,22.0647,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Suupohjan Seutu,,,https://www.suupohjanseutu.fi/,fi,daily,3,,,Q131381714,0,free newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,Mun Oulu,Oulu,,https://www.munoulu.fi/,fi,online,3,,,Q132125890,0,online newsroom; online newspaper,65.0142,25.4719,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,FI,Sompio,Sodankylä,,https://www.sompio.fi/,fi,daily,3,,,Q134419781,0,local newspaper,67.4149,26.5907,reviewed: Welle 6 review 2026-10-09: not selected
+no,FI,Selkosanomat,,,https://selkosanomat.fi/,fi,daily,3,,,Q109803116,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,FI,KMV-lehti,Kuorevesi,,https://www.kmvlehti.fi/,fi,daily,3,,,Q138611674,0,newspaper; local newspaper,61.8500,24.8167,reviewed: Welle 6 review 2026-10-09: not selected

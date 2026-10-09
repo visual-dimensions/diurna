@@ -1,0 +1,11 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+NO,Ávvir,Karasjok,,https://avvir.no,se,daily,1,,,69.4722,25.5189
+NO,Dagsavisen,Oslo,,https://dagsavisen.no,no,daily,1,,,59.9133,10.7389
+NO,Adresseavisen,Trondheim,,https://adressa.no,no,daily,2,,,63.4400,10.4000
+NO,Klassekampen,Oslo,,https://klassekampen.no,no,daily,2,,,59.9133,10.7389
+NO,Fædrelandsvennen,Kristiansand,,https://fvn.no,no,daily,2,,,58.1467,7.9956
+NO,Stavanger aftenblad,Stavanger,,https://aftenbladet.no,no,daily,2,,,58.9700,5.7314
+NO,Agderposten,Arendal,,https://agderposten.no,no,daily,2,,,58.4667,8.7667
+NO,Varden,Skien,,https://varden.no,no,daily,2,,,59.2081,9.5528
+NO,Sunnmørsposten,Ålesund,,https://smp.no,no,daily,2,,,62.4712,6.1542
+NO,Romsdals Budstikke,Molde,,https://rbnett.no,nb,daily,2,,,62.7333,7.1833
