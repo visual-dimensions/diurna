@@ -1177,6 +1177,28 @@ body[data-view='list'] .topbar::before {
   text-decoration-color: rgb(154 162 178 / 0.4);
 }
 
+/* Tablet widths: the top bar does not fit with labels – icons only, as on phones
+   (labels stay for screen readers). */
+@media (min-width: 768px) and (max-width: 959px) {
+  .ambient-toggle {
+    padding: 0;
+  }
+
+  .viewtoggle__btn span,
+  .ambient-toggle__label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  .viewtoggle__btn {
+    padding: 0 12px;
+  }
+}
+
 /* ---------- Bottom sheet (mobile) ---------- */
 
 @media (max-width: 767px) {
