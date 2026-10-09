@@ -1,0 +1,55 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,PL,Gazeta Wyborcza,Warszawa,,https://wyborcza.pl,pl,daily,1,,,Q741296,28,newspaper,52.2300,21.0111,
+seeded,PL,Rzeczpospolita,Warszawa,,http://www.rp.pl/,pl,daily,1,,,Q2164678,20,daily newspaper; newspaper,52.2300,21.0111,
+no,PL,Polityka,,,http://www.polityka.pl/,pl,weekly,1,,,Q142095,15,weekly newspaper; publishing house,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,PL,Wprost,Warszawa,,https://www.wprost.pl/,pl,weekly,2,,,Q1465227,13,weekly newspaper,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09: not selected
+no,PL,Tygodnik Powszechny,Kraków,,https://www.tygodnikpowszechny.pl,pl,daily,2,,,Q1427385,11,newspaper,50.0614,19.9372,reviewed: Welle 6 review 2026-10-09: not selected
+no,PL,Gazeta Polska,Warszawa,,http://www.gazetapolska.pl/,pl,weekly,2,,,Q3888048,10,weekly newspaper,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09: not selected
+no,PL,Krytyka Polityczna,,,http://www.krytykapolityczna.pl/,pl,daily,2,,,Q655104,9,newspaper; magazine,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+seeded,PL,Fakt,,,http://www.fakt.pl/,pl,daily,2,,,Q1318217,9,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,PL,Super Express,Warszawa,,http://www.se.pl/se_dzis/,pl,daily,2,,,Q494902,7,newspaper,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09
+yes,PL,Niva,Białystok,,http://niva.bialystok.pl/,be,weekly,2,,,Q3917420,6,weekly newspaper,53.1324,23.1687,reviewed: Welle 6 review 2026-10-09
+no,PL,The Warsaw Voice,,,http://warsawvoice.pl,en,daily,2,,,Q3307981,6,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,PL,Nasz Dziennik,Warszawa,,http://www.naszdziennik.pl/,pl,daily,3,,,Q2344102,5,newspaper,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09
+no,PL,Mówią Wieki,,,http://www.mowiawieki.pl/,pl,daily,3,,,Q6950295,5,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,PL,Dziennik Gazeta Prawna,Warszawa,,http://www.dziennik.pl/,pl,daily,3,,,Q9248480,5,newspaper,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09
+yes,PL,Dziennik Zachodni,Katowice,,http://www.dz.com.pl/,pl,daily,3,,,Q4707862,4,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,PL,Tygodnik Solidarność,,,http://www.tygodniksolidarnosc.com/,pl,online,3,,,Q1095404,4,periodical; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,PL,Gazeta Wrocławska,Wrocław,,http://www.gazetawroclawska.pl,pl,daily,3,,,Q9266428,4,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+yes,PL,Dziennik Łódzki,Łódź,,http://www.dzienniklodzki.pl,pl,daily,3,,,Q9248542,4,periodical; daily newspaper,51.7500,19.4667,reviewed: Welle 6 review 2026-10-09
+no,PL,Najwyższy Czas!,,,http://www.nczas.com/?a=english,pl,weekly,3,,,Q887583,4,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,PL,Midrasz,,,http://www.midrasz.pl,pl,daily,3,,,Q1176829,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,PL,Puls Biznesu,Warszawa,,https://www.pb.pl/,pl,daily,3,,,Q7259612,3,newspaper,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09: not selected
+no,PL,Awedis,Warszawa,,http://www.awedis.ormianie.pl,pl,daily,3,,,Q14749610,3,newspaper,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+seeded,PL,Dziennik Polski,,,http://www.dziennikpolski24.pl,pl,daily,3,,,Q5319799,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,PL,Warsaw Business Journal,,,http://www.wbj.pl/,en,daily,3,,,Q7970886,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,PL,Dziennik Bałtycki,Gdańsk,,http://www.dziennikbaltycki.pl,pl,daily,3,,,Q5319798,3,daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+yes,PL,Echo Dnia,Kielce,,http://www.echodnia.eu/,pl,daily,3,,,Q5332697,2,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,PL,Myśl.pl,,,http://www.mysl.pl/,pl,daily,3,,,Q6949407,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,PL,Głos Pomorza,Koszalin,,http://www.gp24.pl,pl,daily,3,,,Q9284195,2,daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,PL,Mòje Stronë,Warszawa,,https://mojestrone.com,pl,online,3,,,Q20851653,2,online newspaper,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,PL,Głos - Tygodnik Nowohucki,Kraków,,http://www.glos-tn.krakow.pl,pl,daily,3,,,Q5627549,2,newspaper,50.0614,19.9372,reviewed: Welle 6 review 2026-10-09: not selected
+no,PL,Tygodnik Swarzędzki,Swarzędz,,https://swarzedzki.pl/,pl,daily,3,,,Q140041844,1,newspaper,52.4104,17.0771,reviewed: Welle 6 review 2026-10-09: not selected
+yes,PL,Super Nowości,Rzeszów,,http://supernowosci24.pl/,pl,daily,3,,,Q9348194,1,daily newspaper,50.0411,21.9989,reviewed: Welle 6 review 2026-10-09
+no,PL,VSquare,Warsaw,,https://vsquare.org/,en,online,3,,,Q124672608,1,news media; online newspaper; news website; nonprofit organization,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,PL,Fokus Media,,,https://fokus.media.pl/,pl,online,3,,,Q140537967,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PL,Magazyn Kaszuby,Kartuzy,,https://magazyn-kaszuby.rjcenter.kylos.pl/,pl,online,3,,,Q140689582,1,online newspaper; organization,54.3342,18.1974,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,PL,Computerworld,Warszawa,,https://www.computerworld.pl/,pl,daily,3,,,Q115931716,1,newspaper,52.2300,21.0111,reviewed: Welle 6 review 2026-10-09: not selected
+no,PL,Kurierbytowski.com.pl,Bytów,,https://kurierbytowski.com.pl,pl,online,3,,,Q22670191,1,online newspaper,54.1667,17.5000,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,PL,Gazeta Finansowa,,,https://gf24.pl/,pl,weekly,3,,,Q11699468,1,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,PL,Masurische Storchenpost,Olsztyn,,http://ermlandmasuren.wordpress.com/2012/05/31/masurische-storchenpost-281/,pl,daily,3,,,Q120378470,0,newspaper,53.7800,20.4942,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,PL,Oberschlesische Stimme,Racibórz,,http://www.dfkschlesien.pl/index.php/post/stimme,pl,daily,3,,,Q120378562,0,newspaper,50.0919,18.2192,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,PL,Schlesien heute,Görlitz,DE,http://www.schlesien-heute.de/,pl,daily,3,exile,,Q120378703,0,newspaper,51.1563,14.9910,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; newsroom abroad (DE) – exile?; not pre-selected: newsroom abroad
+yes,PL,Wochenblatt,Opole,,http://www.wochenblatt.pl,de,weekly,3,,,Q120378860,0,newspaper,50.6667,17.9242,reviewed: Welle 6 review 2026-10-09; language from country default
+no,PL,Adeste,,,https://adeste.org/,pl,online,3,,,Q96323995,0,periodical; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PL,TenPoznan.pl,Poznań,,https://tenpoznan.pl,pl,online,3,,,Q139535766,0,online newspaper,52.4083,16.9336,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,PL,Nowy Telegraf Warszawski,,,https://ntw24.pl/,pl,online,3,,,Q141016385,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PL,Railway Market,,,http://www.railwaymarket.eu,en,daily,3,,,Q15734262,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,PL,kontrabanda.net,,,https://kontrabanda.net,pl,daily,3,,,Q139863389,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,PL,Polski Obserwator UK,,,https://polskiobserwator.uk,pl,online,3,,,Q138858445,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PL,Legia.Net,,,http://legia.net/,pl,online,3,,,Q111475079,0,sports news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PL,Legnica.NET,Legnica,,https://www.legnica.net,pl,online,3,,,Q140418758,0,news website,51.2101,16.1619,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,PL,KNews.pl,Łódź,,https://knews.pl/,pl,online,3,,,Q140929719,0,news website,51.7500,19.4667,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,PL,Wyprzedź Mnie!,,,https://f1wm.pl,pl,online,3,,,Q106653014,0,news website; database,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PL,Śląska Opinia,,,https://slaskaopinia.pl/,pl,online,3,,,Q124132256,0,news website; podcast show; magazine,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,PL,Amoledo,,,https://amoledo.com,pl,online,3,,,Q139947419,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+PL,Nasz Dziennik,Warszawa,,http://www.naszdziennik.pl/,pl,daily,3,,,52.2300,21.0111
+PL,Super Nowości,Rzeszów,,http://supernowosci24.pl/,pl,daily,3,,,50.0411,21.9989
+PL,Wochenblatt,Opole,,http://www.wochenblatt.pl,de,weekly,3,,,50.6667,17.9242
