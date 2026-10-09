@@ -1,30 +1,27 @@
-include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,wd_lat,wd_lon,remark
-seeded,AT,Der Standard,Wien,,http://derstandard.at/,de,daily,1,,,Q128660,25,48.2083,16.3725,
-seeded,AT,Die Presse,Wien,,http://diepresse.com,de,daily,1,,,Q689934,23,48.2083,16.3725,
-yes,AT,Wiener Zeitung,Wien,,https://www.wienerzeitung.at/,de,daily,1,,,Q697173,22,48.2083,16.3725,
-seeded,AT,Kronen Zeitung,Wien,,https://krone.at/,de,daily,1,,,Q644103,20,48.2083,16.3725,
-seeded,AT,Kleine Zeitung,Graz,,http://www.kleinezeitung.at,de,daily,2,,,Q695301,13,47.0708,15.4386,
-seeded,AT,Kurier,Wien,,http://kurier.at,de,daily,2,,,Q360136,11,48.2083,16.3725,
-yes,AT,Österreich,Wien,,http://www.oe24.at/,de,daily,2,,,Q298667,9,48.2083,16.3725,
-no,AT,Falter,,,http://www.falter.at/,de,weekly,2,,,Q1394979,8,,,no place of publication/headquarters in Wikidata – fill in city
-yes,AT,Salzburger Nachrichten,Salzburg,,https://www.salzburg.com,de,daily,2,,,Q2215996,7,47.8000,13.0450,
-yes,AT,The Red Bulletin,Wien,,http://www.redbulletin.com,de,daily,2,,,Q3562637,7,48.2083,16.3725,
-no,AT,Profil,,,http://www.profil.at/,de,magazine,2,,,Q290802,7,,,no place of publication/headquarters in Wikidata – fill in city
-seeded,AT,Tiroler Tageszeitung,Innsbruck,,https://www.tt.com/,de,daily,3,,,Q2436295,4,47.2683,11.3933,
-yes,AT,Die Furche,Wien,,http://www.furche.at/,de,weekly,3,,,Q1212798,4,48.2083,16.3725,
-no,AT,RegionalMedien Wien,,,http://www.meinbezirk.at/wien/,de,daily,3,,,Q2568843,2,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-no,AT,Regional Medien Austria,,,http://www.regionalmedien.at,de,daily,3,,,Q15841984,2,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-no,AT,Wochenblick,,,https://www.wochenblick.at/,de,weekly,3,,,Q27158974,2,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-no,AT,Sonntagsblatt,,,http://www.sonntagsblatt.at/,de,daily,3,,,Q41139269,1,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-no,AT,Augustin,,,http://www.augustin.or.at/,de,daily,3,,,Q767559,1,,,no place of publication/headquarters in Wikidata – fill in city
-yes,AT,Obersteirische Rundschau,Bruck an der Mur,,http://www.rundschau-medien.at/,de,daily,3,,,Q29269677,1,47.4106,15.2686,language from country default
-yes,AT,5 Minuten,Velden am Wörther See,,https://www.5min.at,de,online,3,,,Q99395831,1,46.6125,14.0419,
-yes,AT,Börsen-Kurier,Wien,,https://www.boersen-kurier.at/,de,weekly,3,,,Q116168189,1,48.2083,16.3725,"types: daily, weekly"
-yes,AT,Bécsi Napló,Bécs,,https://www.becsinaplo.at/,hu,daily,3,,,Q141275731,1,48.2083,16.3725,
-no,AT,Rundschau - Die Oberländer Wochenzeitung,,,https://www.rundschau.at/,de,weekly,3,,,Q125133125,1,,,no place of publication/headquarters in Wikidata – fill in city
-yes,AT,Illustrierte Neue Welt,Wien,,https://www.neuewelt.at,de,daily,3,,,Q105462076,0,48.2083,16.3725,language from country default
-no,AT,YANUS,,,https://yanus.at,de,online,3,,,Q141008050,0,,,no place of publication/headquarters in Wikidata – fill in city
-yes,AT,kaz : Kärntner Allgemeine Zeitung,Villach,,https://www.kaz.at,de,daily,3,,,Q110417598,0,46.6167,13.8333,
-no,AT,النمسا ميديا,,,https://www.nmsa.at,ar,online,3,,,Q140835935,0,,,no place of publication/headquarters in Wikidata – fill in city
-no,AT,ORF.at,,,https://orf.at/,de,online,3,,,Q22284861,0,,,no place of publication/headquarters in Wikidata – fill in city; language from country default
-no,AT,pressplay,,,https://pressplay.at,de,online,3,,,Q116735473,0,,,no place of publication/headquarters in Wikidata – fill in city
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,AT,Der Standard,Wien,,http://derstandard.at/,de,daily,1,,,Q128660,25,daily newspaper,48.2083,16.3725,
+seeded,AT,Die Presse,Wien,,http://diepresse.com,de,daily,1,,,Q689934,23,daily newspaper; newspaper of record,48.2083,16.3725,
+no,AT,Wiener Zeitung,Wien,,https://www.wienerzeitung.at/,de,daily,1,,,Q697173,22,daily newspaper,48.2083,16.3725,reviewed: Welle 6 review 2026-10-09: in at_manual.csv
+seeded,AT,Kronen Zeitung,Wien,,https://krone.at/,de,daily,1,,,Q644103,20,daily newspaper,48.2083,16.3725,
+seeded,AT,Kleine Zeitung,Graz,,http://www.kleinezeitung.at,de,daily,2,,,Q695301,13,newspaper,47.0708,15.4386,
+seeded,AT,Kurier,Wien,,http://kurier.at,de,daily,2,,,Q360136,11,daily newspaper,48.2083,16.3725,
+no,AT,Österreich,Wien,,http://www.oe24.at/,de,daily,2,,,Q298667,9,daily newspaper,48.2083,16.3725,reviewed: Welle 6 review 2026-10-09: in at_manual.csv
+no,AT,Falter,,,http://www.falter.at/,de,weekly,2,,,Q1394979,8,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,AT,Salzburger Nachrichten,Salzburg,,https://www.salzburg.com,de,daily,2,,,Q2215996,7,periodical; newspaper,47.8000,13.0450,reviewed: Welle 6 review 2026-10-09: same paper as seeded Salzburger Nachrichten (sn.at)
+no,AT,The Red Bulletin,Wien,,http://www.redbulletin.com,de,daily,2,,,Q3562637,7,newspaper,48.2083,16.3725,reviewed: Welle 6 review 2026-10-09: not selected
+no,AT,Profil,,,http://www.profil.at/,de,magazine,2,,,Q290802,7,news magazine; weekly magazine,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+seeded,AT,Tiroler Tageszeitung,Innsbruck,,https://www.tt.com/,de,daily,3,,,Q2436295,4,daily newspaper,47.2683,11.3933,
+no,AT,Die Furche,Wien,,http://www.furche.at/,de,weekly,3,,,Q1212798,4,weekly newspaper,48.2083,16.3725,reviewed: Welle 6 review 2026-10-09: not selected
+no,AT,RegionalMedien Wien,,,http://www.meinbezirk.at/wien/,de,daily,3,,,Q2568843,2,periodical; newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AT,Regional Medien Austria,,,http://www.regionalmedien.at,de,daily,3,,,Q15841984,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AT,Wochenblick,,,https://www.wochenblick.at/,de,weekly,3,,,Q27158974,2,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AT,Sonntagsblatt,,,http://www.sonntagsblatt.at/,de,daily,3,,,Q41139269,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,AT,Obersteirische Rundschau,Bruck an der Mur,,http://www.rundschau-medien.at/,de,daily,3,,,Q29269677,1,regional newspaper,47.4106,15.2686,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,AT,5 Minuten,Velden am Wörther See,,https://www.5min.at,de,online,3,,,Q99395831,1,news media; online newspaper; news website; mass media,46.6125,14.0419,reviewed: Welle 6 review 2026-10-09: in at_manual.csv; not pre-selected: magazine/online below tier 1
+no,AT,Börsen-Kurier,Wien,,https://www.boersen-kurier.at/,de,weekly,3,,,Q116168189,1,newspaper; weekly newspaper,48.2083,16.3725,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,AT,Bécsi Napló,Bécs,,https://www.becsinaplo.at/,hu,daily,3,,,Q141275731,1,newspaper,48.2083,16.3725,reviewed: Welle 6 review 2026-10-09: not selected
+no,AT,Rundschau - Die Oberländer Wochenzeitung,,,https://www.rundschau.at/,de,weekly,3,,,Q125133125,1,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,AT,Illustrierte Neue Welt,Wien,,https://www.neuewelt.at,de,daily,3,,,Q105462076,0,newspaper,48.2083,16.3725,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,AT,YANUS,,,https://yanus.at,de,online,3,,,Q141008050,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,AT,ORF.at,,,https://orf.at/,de,online,3,,,Q22284861,0,website; news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,AT,النمسا ميديا,,,https://www.nmsa.at,ar,online,3,,,Q140835935,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

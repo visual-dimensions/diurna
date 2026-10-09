@@ -1,0 +1,7 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon,id
+AT,Heute,Wien,,https://www.heute.at,de,daily,2,,,,,
+AT,oe24,Wien,,https://www.oe24.at,de,daily,2,,,,,
+AT,Wiener Zeitung,Wien,,https://www.wienerzeitung.at,de,online,2,state,https://de.wikipedia.org/wiki/Wiener_Zeitung,,,
+AT,NÖN,Sankt Pölten,,https://www.noen.at,de,weekly,3,,,,,noen
+AT,BVZ,Eisenstadt,,https://www.bvz.at,de,weekly,3,,,,,
+AT,5 Minuten,Klagenfurt,,https://www.5min.at,de,online,3,,,,,
