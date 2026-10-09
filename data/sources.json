@@ -15825,7 +15825,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "skip_pattern": "Eurojackpot|Τζόκερ|Λόττο"
   },
   {
     "id": "tharros",
@@ -16319,7 +16320,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "skip_pattern": "Eurojackpot|Loto [67]"
   },
   {
     "id": "glasslavonije",
@@ -17028,7 +17030,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "link_pattern": "^https?://[^/]+/(?!national/|deaths/)"
   },
   {
     "id": "theirishsun",
@@ -17043,7 +17046,7 @@
     "type": "daily",
     "tier": 3,
     "homepage": "https://www.thesun.ie",
-    "feed": "https://www.thesun.ie/feed/",
+    "feed": "https://www.thesun.ie/news/irish-news/feed/",
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
@@ -17104,7 +17107,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "link_pattern": "^https?://[^/]+/(?!national/|deaths/)"
   },
   {
     "id": "irishdailymirror",
@@ -17218,7 +17222,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "link_pattern": "^https?://[^/]+/(?!national/|deaths/)"
   },
   {
     "id": "donegaldemocrat",
@@ -17237,7 +17242,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "link_pattern": "^https?://[^/]+/(?!national/|deaths/)"
   },
   {
     "id": "leinsterexpress",
@@ -17256,7 +17262,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "link_pattern": "^https?://[^/]+/(?!national/|deaths/)"
   },
   {
     "id": "dundalkdemocrat",
@@ -17275,7 +17282,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "link_pattern": "^https?://[^/]+/(?!national/|deaths/)"
   },
   {
     "id": "tipperarystar",
@@ -17294,7 +17302,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "link_pattern": "^https?://[^/]+/(?!national/|deaths/)"
   },
   {
     "id": "offalyexpress",
@@ -17313,7 +17322,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "link_pattern": "^https?://[^/]+/(?!national/|deaths/)"
   },
   {
     "id": "haaretz",
@@ -28037,7 +28047,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "skip_pattern": "^Horoscop"
   },
   {
     "id": "spotmedia",
@@ -28607,7 +28618,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "link_pattern": "dnevnik\\.rs/vesti/"
   },
   {
     "id": "magyarszo",
@@ -30140,7 +30152,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "skip_pattern": "^Sporočilo ob koncu tedna"
   },
   {
     "id": "necenzurirano",
@@ -30807,7 +30820,8 @@
     "feed_format": "rss",
     "feed_kind": "latest",
     "note": "",
-    "note_source": ""
+    "note_source": "",
+    "skip_pattern": "^Resultado (di )?Lotto"
   },
   {
     "id": "pacificislandtimes",
