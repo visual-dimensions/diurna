@@ -1,0 +1,5 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+LU,Tageblatt,Esch-sur-Alzette,,http://www.tageblatt.lu/,de,daily,2,,,49.4969,5.9806
+LU,Le Quotidien,Esch-sur-Alzette,,http://www.lequotidien.lu/,fr,daily,3,,,49.4969,5.9806
+LU,L'essentiel,Luxembourg,,http://www.lessentiel.lu/fr/,fr,daily,2,,,,
+LU,Virgule,Luxembourg,,https://www.virgule.lu/,fr,online,3,,,,

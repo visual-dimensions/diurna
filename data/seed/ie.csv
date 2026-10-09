@@ -1,0 +1,9 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+IE,Tuairisc.ie,Bearna,,https://tuairisc.ie/,ga,online,2,,,53.2551,-9.1624
+IE,TheJournal.ie,Dublin,,http://www.thejournal.ie,en,online,2,,,,
+IE,Limerick Leader,Limerick,,https://www.limerickleader.ie/,en,weekly,3,,,,
+IE,The Irish Sun,Dublin,,https://www.thesun.ie,en,daily,3,,,,
+IE,Mayo News,Westport,,http://www.mayonews.ie/,en,weekly,3,,,53.7964,-9.5386
+IE,The Munster Express,Waterford,,https://www.munster-express.ie/,en,weekly,3,,,52.2583,-7.1190
+IE,Longford Leader,Longford,,http://www.longfordleader.ie,en,weekly,3,,,,
+IE,Irish Daily Mirror,Dublin,,https://www.irishmirror.ie/,en,daily,3,,,,

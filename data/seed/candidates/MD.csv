@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,MD,Ana Sözü,Comrat,,http://anasozu.com/,gag,weekly,3,,,Q20965731,8,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city; language from country default
+seeded,MD,Ziarul de Gardă,Chișinău,,https://www.zdg.md,ro,daily,3,,,Q8071383,4,newspaper; online newspaper; news website,47.0228,28.8353,"types: daily, online"
+no,MD,Observatorul de Nord,Soroca,,http://observatorul.md,ro,weekly,3,,,Q12737029,4,newspaper,48.1558,28.2975,reviewed: Welle 6 review 2026-10-09: feed abandoned (newest item 64 days) – only outlets with a feed
+no,MD,Cuvântul,,,http://cuvintul.md/,ro,daily,3,,,Q16953358,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,MD,Contrafort (revistă),Chișinău,,http://www.contrafort.md/,ro,daily,3,,,Q5165715,2,newspaper; magazine,47.0228,28.8353,reviewed: Welle 6 review 2026-10-09: not selected

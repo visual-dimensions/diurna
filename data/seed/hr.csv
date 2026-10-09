@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+HR,Novi list,Rijeka,,http://www.novilist.hr/,hr,daily,2,,,45.3333,14.4333
+HR,24sata,Zagreb,,https://www.24sata.hr/,hr,daily,2,,,,
+HR,Glas Slavonije,Osijek,,http://www.glas-slavonije.hr/,hr,daily,3,,,45.5603,18.6703
+HR,Glas Istre,Pula,,http://www.glasistre.hr/,hr,daily,3,,,,
+HR,Telegram,Zagreb,,https://www.telegram.hr/,hr,online,3,,,,

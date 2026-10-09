@@ -1,0 +1,18 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,HR,Večernji list,Slavonska avenija,,https://www.vecernji.hr/,hr,daily,1,,,Q241622,16,newspaper,45.7969,16.0206,
+seeded,HR,Slobodna Dalmacija,,,http://www.slobodnadalmacija.hr/,hr,daily,1,,,Q1281282,15,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,HR,Novi list,Rijeka,,http://www.novilist.hr/,hr,daily,2,,,Q478374,13,newspaper,45.3333,14.4333,reviewed: Welle 6 review 2026-10-09
+seeded,HR,Jutarnji list,,,http://www.jutarnji.hr,hr,daily,2,,,Q1278377,12,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,HR,Vjesnik,Zagreb,,http://www.vjesnik.hr,hr,daily,2,,,Q574403,11,daily newspaper,45.8131,15.9772,reviewed: Welle 6 review 2026-10-09: not selected
+yes,HR,24sata,Zagreb,,https://www.24sata.hr/,hr,daily,2,,,Q217315,10,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,HR,Glas Koncila,Kaptol zagrebački,,http://www.glas-koncila.hr/,hr,weekly,2,,,Q489650,10,weekly newspaper; publishing house,45.8144,15.9778,reviewed: Welle 6 review 2026-10-09: not selected
+yes,HR,Glas Slavonije,Osijek,,http://www.glas-slavonije.hr/,hr,daily,3,,,Q1286940,9,newspaper,45.5603,18.6703,reviewed: Welle 6 review 2026-10-09
+no,HR,Feral Tribune,,,http://feral.hr,hr,daily,2,,,Q948316,8,magazine; newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,HR,Sportske novosti,Zagreb,,http://sportske.jutarnji.hr/,hr,daily,2,,,Q2750982,7,newspaper,45.8131,15.9772,reviewed: Welle 6 review 2026-10-09: not selected
+yes,HR,Glas Istre,Pula,,http://www.glasistre.hr/,hr,daily,3,,,Q5250252,7,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,HR,Zadarski list,,,http://www.zadarskilist.hr,hr,daily,2,,,Q6930032,6,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,HR,Narodni list,,,http://www.narodni-list.hr,hr,magazine,3,,,Q5237973,4,newspaper; news magazine,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, magazine; not pre-selected: magazine/online below tier 1"
+yes,HR,Telegram,Zagreb,,https://www.telegram.hr/,hr,online,3,,,Q25502975,2,online newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,HR,Poslovni dnevnik,,,http://www.poslovni.hr/,hr,daily,3,,,Q7233344,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,HR,Privredni vjesnik,,,http://www.privredni.hr/,hr,daily,3,,,Q7246344,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,HR,Drenovski list,Rijeka,,https://www.rijeka.hr/mjesni-odbori/drenova/informativni-list-mo/,hr,daily,3,,,Q12630126,1,newspaper,45.3333,14.4333,reviewed: Welle 6 review 2026-10-09: not selected

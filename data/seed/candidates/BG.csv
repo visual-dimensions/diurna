@@ -1,0 +1,18 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,BG,Trud,Sofia,,http://www.trud.bg,bg,daily,2,,,Q1232958,11,periodical; newspaper,42.6979,23.3217,
+yes,BG,Standart,Sofia,,http://www.standartnews.com/,bg,daily,3,,,Q951167,7,periodical; newspaper; daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+seeded,BG,Dnevnik,Sofia,,http://www.dnevnik.bg/,bg,daily,2,,,Q717721,6,newspaper,42.6979,23.3217,
+seeded,BG,24 Chasa,Sofia,,http://www.24chasa.bg,bg,daily,2,,,Q217309,6,periodical; newspaper,42.6979,23.3217,
+no,BG,The Sofia Echo,,,http://www.sofiaecho.com/,en,daily,3,,,Q3622778,5,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,BG,Capital,Sofia,,http://www.capital.bg,bg,weekly,2,,,Q1034634,4,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,BG,Starshel (newspaper),,,http://www.starshel.bg/,bg,daily,3,,,Q18932478,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,BG,Literaturen vestnik,Sofia,,https://litvestnik.com/,bg,daily,3,,,Q2650623,2,newspaper,42.6979,23.3217,reviewed: Welle 6 review 2026-10-09: not selected
+no,BG,Duma,,,https://duma.bg,bg,daily,3,,,Q12279201,2,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,BG,Svobodna misŭl,Sofia,,https://www.anarchy.bg/вестник/,bg,daily,3,,,Q12293397,2,newspaper,42.6979,23.3217,reviewed: Welle 6 review 2026-10-09: not selected
+no,BG,Panairen vestnik,,,http://www.panairenvestnik.com/,bg,daily,3,,,Q26214965,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,BG,Istina-Veritas,,,http://www.catholic-bg.org/?act=content&rec=33,bg,daily,3,,,Q28104797,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,BG,Abagar,,,http://www.abagar1.com/,bg,daily,3,,,Q28104814,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,BG,Plovdiv24.bg,Plovdiv,,https://www.plovdiv24.bg,bg,online,3,,,Q140312694,1,online newspaper,42.1421,24.7415,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,BG,1001 khalbi,,,https://1001beers.bg/,bg,daily,3,,,Q12270383,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,BG,TopPresa,,,http://toppresa.bg,bg,daily,3,,,Q56071721,0,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,BG,BurgasMedia,Burgas,,https://burgasmedia.com,bg,online,3,,,Q141654499,0,news website,42.5030,27.4702,reviewed: Welle 6 review 2026-10-09; not pre-selected: magazine/online below tier 1

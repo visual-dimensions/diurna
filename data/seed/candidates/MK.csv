@@ -1,0 +1,7 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,MK,Nova Makedonija,Skopje,,http://www.novamakedonija.com.mk/,mk,daily,2,,,Q2002826,13,periodical; newspaper,41.9961,21.4317,
+no,MK,Dnevnik,Skopje,,http://www.dnevnik.com.mk/,mk,daily,2,,,Q1232956,10,periodical; newspaper,41.9961,21.4317,reviewed: Welle 6 review 2026-10-09: not selected
+yes,MK,Večer,Skopje,,http://vecer.mk/,mk,daily,3,,,Q3070871,7,daily newspaper; newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,MK,Utrinski vesnik,Skopje,,http://www.utrinski.com.mk/,mk,daily,2,,,Q1817522,7,periodical; newspaper,41.9961,21.4317,reviewed: Welle 6 review 2026-10-09: not selected
+no,MK,Sloboden Pechat,Skopje,,https://www.slobodenpecat.mk/,mk,daily,3,,,Q24910203,5,newspaper,41.9961,21.4317,reviewed: Welle 6 review 2026-10-09: in the hand list as “Sloboden pečat” (Latin/current name)
+no,MK,Zenit,Prilep,,http://zenitprilep.com.mk/,mk,weekly,3,,,Q20568069,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: no feed found – only outlets with a feed; no place of publication/headquarters in Wikidata – fill in city

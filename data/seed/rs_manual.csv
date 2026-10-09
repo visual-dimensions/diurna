@@ -1,0 +1,9 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+RS,Ruske slovo,Ruski Krstur,,https://www.ruskeslovo.com/,rue,weekly,3,,,,
+RS,Alo!,Beograd,,https://www.alo.rs,sr,daily,3,,,,
+RS,Nova,Beograd,,https://nova.rs,sr,online,2,,,,
+RS,Dnevnik,Novi Sad,,https://www.dnevnik.rs,sr,daily,2,,,,
+RS,Magyar Szó,Novi Sad,,https://www.magyarszo.rs,hu,daily,3,,,,
+RS,Južne vesti,Niš,,https://www.juznevesti.com,sr,online,3,,,,
+RS,Ozon press,Čačak,,https://www.ozonpress.net,sr,online,3,,,,
+RS,KRIK,Beograd,,https://www.krik.rs,sr,online,3,,,,

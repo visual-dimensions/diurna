@@ -1,0 +1,8 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,BA,Oslobođenje,Sarajevo,,http://www.oslobodjenje.ba,bs,daily,1,,,Q1261176,24,newspaper,43.8564,18.4131,
+seeded,BA,Dnevni avaz,Avaz Twist Tower,,https://avaz.ba/,bs,daily,2,,,Q278311,14,daily newspaper,43.8606,18.4025,
+yes,BA,Glas Srpske,Banja Luka,,http://glassrpske.com,sr,daily,2,,,Q943619,9,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,BA,Dani,,,https://www.bhdani.ba/,sr,daily,3,,,Q1562168,5,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+yes,BA,Naša riječ,Zenica,,https://nasarijec.ba/,bs,weekly,3,,,Q104033542,3,weekly newspaper,44.2017,17.9039,reviewed: Welle 6 review 2026-10-09
+yes,BA,Bijeljina danas,Bijeljina,,https://www.bijeljina.org/,sr,online,3,,,Q124369090,1,periodical; newspaper,44.7567,19.2156,reviewed: Welle 6 review 2026-10-09
+no,BA,Plenum,Sarajevo,,https://plenum.ba,sr,online,3,,,Q137300766,0,online newspaper; web portal; brand,43.8564,18.4131,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1

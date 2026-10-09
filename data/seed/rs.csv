@@ -1,0 +1,5 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+RS,Večernje novosti,Beograd,,https://www.novosti.rs,sr,daily,1,,,44.8178,20.4569
+RS,Kurir,Beograd,,https://www.kurir.rs/,sr,daily,2,,,,
+RS,Hrvatska riječ,Subotica,,http://www.hrvatskarijec.rs/,hr,weekly,3,,,,
+RS,Informer,Beograd,,http://informer.rs/,sr,daily,3,,,,

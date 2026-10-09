@@ -1,0 +1,19 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,LU,Luxemburger Wort,,,http://www.wort.lu/fr,de,daily,2,,,Q1751317,14,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,LU,Tageblatt,Esch-sur-Alzette,,http://www.tageblatt.lu/,de,daily,2,,,Q461344,9,daily newspaper,49.4969,5.9806,reviewed: Welle 6 review 2026-10-09
+no,LU,Lëtzebuerger Journal,Luxembourg,,http://www.journal.lu/home/,de,online,3,,,Q355432,8,newspaper,49.6114,6.1300,reviewed: Welle 6 review 2026-10-09: feed rarely updated (newest item > 2 days) – only outlets with a feed
+yes,LU,Le Quotidien,Esch-sur-Alzette,,http://www.lequotidien.lu/,fr,daily,3,,,Q2311467,7,newspaper,49.4969,5.9806,reviewed: Welle 6 review 2026-10-09
+yes,LU,L'essentiel,Luxembourg,,http://www.lessentiel.lu/fr/,fr,daily,2,,,Q3204962,7,daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,LU,Zeitung vum Lëtzebuerger Vollek,,,http://www.zlv.lu/,de,daily,2,,,Q187006,6,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LU,Woxx,,,http://www.woxx.lu,de,daily,2,,,Q312106,6,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LU,d'Lëtzebuerger Land,,,http://www.land.lu/,de,daily,3,,,Q773198,5,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LU,Contacto,,,https://www.contacto.lu/,pt,daily,3,,,Q2995414,5,periodical; newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LU,La Voix du Luxembourg,,,http://www.voix.lu/,fr,daily,3,,,Q6465880,5,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LU,Privat (Medien),,,http://www.groupenicolas.lu/,de,daily,3,,,Q2111016,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LU,Ardenner express,,,http://www.express.lu/,lb,daily,3,,,Q4787959,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LU,Goosch.lu,,,http://www.goosch.lu/,lb,daily,3,,,Q5584020,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LU,Lëtzebuerg Privat,,,http://www.luxprivat.lu/,de,weekly,3,,,Q13103935,2,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LU,Delano (Zäitschrëft),,,https://delano.lu/,en,daily,3,,,Q13102305,1,newspaper; online newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+yes,LU,Virgule,Luxembourg,,https://www.virgule.lu/,fr,online,3,,,Q124809320,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,LU,Reporter.lu,,,https://www.reporter.lu/,de,online,3,,,Q61358706,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,LU,RTL 5minutes,,,https://5minutes.rtl.lu/,fr,online,3,,,Q64785184,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

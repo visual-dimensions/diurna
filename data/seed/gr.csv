@@ -1,0 +1,10 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+GR,Makedonia,Thessaloniki,,http://www.makthes.gr/,el,daily,2,,,40.6403,22.9356
+GR,Estia,Athina,,http://www.estianews.gr/,el,daily,3,,,,
+GR,Ethnos,Athina,,https://www.ethnos.gr/,el,daily,3,,,37.9842,23.7281
+GR,Peloponnisos,Patra,,http://www.pelop.gr/,el,daily,3,,,,
+GR,Tharros,Kalamata,,https://www.tharrosnews.gr/,el,daily,3,,,37.0378,22.1111
+GR,Thessalia,Volos,,https://e-thessalia.gr/,el,daily,3,,,39.3611,22.9425
+GR,Documento,Athina,,https://www.documentonews.gr/,el,weekly,3,,,,
+GR,Olympio Vima,Katerini,,https://olympiobima.gr,el,weekly,3,,,40.2711,22.5084
+GR,Real News,Athina,,https://www.real.gr,el,weekly,3,,,,

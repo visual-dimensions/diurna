@@ -1,0 +1,9 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+PT,Açoriano Oriental,Ponta Delgada,,https://www.acorianooriental.pt/,pt,daily,3,,,,
+PT,Observador,Lisboa,,https://observador.pt/,pt,online,2,,,,
+PT,Diário de Coimbra,Coimbra,,http://www.diariocoimbra.pt,pt,daily,3,,,,
+PT,A Aurora do Lima,Viana do Castelo,,https://www.auroradolima.com/,pt,weekly,3,,,41.7000,-8.8333
+PT,Diário As Beiras,Coimbra,,https://www.asbeiras.pt/,pt,daily,3,,,,
+PT,Jornal de Leiria,Leiria,,https://www.jornaldeleiria.pt/,pt,weekly,3,,,39.7431,-8.8069
+PT,JM,Funchal,,https://www.jm-madeira.pt/,pt,daily,3,,,32.7500,-17.0000
+PT,A Voz de Trás-os-Montes,Vila Real,,https://www.avozdetrasosmontes.pt/,pt,weekly,3,,,41.2953,-7.7461

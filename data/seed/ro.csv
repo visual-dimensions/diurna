@@ -1,0 +1,12 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+RO,Evenimentul zilei,București,,http://www.evz.ro/,ro,daily,2,,,,
+RO,Cotidianul,București,,http://www.cotidianul.ro/,ro,daily,3,,,44.4134,26.0978
+RO,Krónika,Cluj-Napoca,,http://www.kronika.ro/,hu,daily,3,,,46.7689,23.5907
+RO,Bihari Napló,Oradea,,https://www.biharinaplo.ro/,hu,daily,3,,,47.0722,21.9211
+RO,Hargita Népe,Miercurea Ciuc,,https://hargitanepe.ro/,hu,daily,3,,,,
+RO,HotNews,București,,http://www.hotnews.ro/,ro,online,2,,,,
+RO,Nyugati Jelen,Arad,,http://www.nyugatijelen.com/,hu,daily,3,,,46.1667,21.3167
+RO,Snoop,București,,https://snoop.ro/,ro,online,3,,,44.4134,26.0978
+RO,Gazeta de Sud,Craiova,,https://www.gds.ro/,ro,daily,3,,,44.3333,23.8167
+RO,Háromszék,Sfântu Gheorghe,,https://www.3szek.ro/,hu,daily,3,,,,
+RO,Ziare.com,București,,http://www.ziare.com,ro,online,3,,,,

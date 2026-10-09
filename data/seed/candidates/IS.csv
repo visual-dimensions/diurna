@@ -1,0 +1,5 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,IS,Morgunblaðið,Reykjavík,,http://www.mbl.is,is,daily,1,,,Q151036,22,daily newspaper; production team,64.1475,-21.9350,
+yes,IS,DV,Reykjavík,,http://www.dv.is/,is,online,2,,,Q1157195,13,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,IS,Fréttablaðið,,,http://visir.is/,is,daily,2,,,Q1471700,12,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: Fréttablaðið ceased 2023 – Vísir (same domain) in the hand list; no place of publication/headquarters in Wikidata – fill in city
+no,IS,Mannlíf,Reykjavík,,https://mannlif.is/,is,online,3,,,Q136689267,1,magazine; online newspaper,64.1475,-21.9350,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1

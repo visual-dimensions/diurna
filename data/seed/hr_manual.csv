@@ -1,0 +1,7 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+HR,Index.hr,Zagreb,,https://www.index.hr,hr,online,2,,,,
+HR,Net.hr,Zagreb,,https://net.hr,hr,online,3,,,,
+HR,Tportal,Zagreb,,https://www.tportal.hr,hr,online,3,,,,
+HR,Novosti,Zagreb,,https://www.portalnovosti.com,sr,weekly,3,,,,
+HR,La Voce del Popolo,Rijeka,,https://lavoce.hr,it,daily,3,,,,
+HR,Dubrovački vjesnik,Dubrovnik,,https://dubrovacki.hr,hr,weekly,3,,,,

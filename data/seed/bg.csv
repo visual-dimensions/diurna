@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+BG,Standart,Sofia,,http://www.standartnews.com/,bg,daily,3,,,,
+BG,Capital,Sofia,,http://www.capital.bg,bg,weekly,2,,,,
+BG,BurgasMedia,Burgas,,https://burgasmedia.com,bg,online,3,,,42.5030,27.4702

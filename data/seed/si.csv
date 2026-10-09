@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+SI,Dnevnik,Ljubljana,,http://www.dnevnik.si,sl,daily,2,,,46.0514,14.5061
+SI,Primorske novice,Koper,,http://www.primorske.si,sl,daily,3,,,45.5475,13.7307
+SI,Gorenjski glas,Kranj,,http://www.gorenjskiglas.si/,sl,weekly,3,,,,

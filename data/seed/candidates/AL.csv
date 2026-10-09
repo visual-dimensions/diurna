@@ -1,0 +1,17 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,AL,Shekulli,Tirana,,http://www.shekulli.com.al,sq,daily,3,,,Q569851,8,newspaper,41.3283,19.8181,reviewed: Welle 6 review 2026-10-09: no feed found – only outlets with a feed
+no,AL,Gazeta Shqiptare,,,http://www.gsh.al/,sq,daily,2,,,Q3338559,6,newspaper; periodical,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,AL,Koha Jonë,Tirana,,http://www.kohajone.com/,sq,daily,3,,,Q1344909,5,daily newspaper,41.3283,19.8181,reviewed: Welle 6 review 2026-10-09
+no,AL,Tema,Tirana,,https://www.gazetatema.net/,sq,daily,3,,,Q2402477,3,newspaper,41.3283,19.8181,reviewed: Welle 6 review 2026-10-09: no feed found – only outlets with a feed
+no,AL,Korrieri,,,http://www.korrieri.com,sq,daily,3,,,Q3302428,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,AL,Gazeta 55,,,http://gazeta55.net/,sq,daily,3,,,Q5529087,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,AL,Agon (gazetë),Tirana,,http://www.gazeta-agon.al/,sq,daily,3,,,Q4693333,3,newspaper,41.3283,19.8181,reviewed: Welle 6 review 2026-10-09: not selected
+no,AL,Albania Today,,,http://www.albtoday.com/,en,daily,3,,,Q4709038,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,AL,Gazeta Shqip,,,http://www.gazeta-shqip.com/,sq,daily,3,,,Q1242686,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,AL,Laiko Vima,Gjirokastër,,http://laikovima.com/,el,weekly,3,,,Q6473836,3,newspaper,40.0758,20.1389,reviewed: Welle 6 review 2026-10-09: no feed found – only outlets with a feed
+seeded,AL,Panorama,,,http://www.panorama.com.al/,sq,daily,3,,,Q6398658,3,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,AL,Republika (gazetë),Tirana,,http://www.gazetarepublika.al,sq,daily,3,,,Q7314734,2,newspaper,41.3283,19.8181,reviewed: Welle 6 review 2026-10-09: not selected
+no,AL,Gazeta Telegraf,Tirana,,http://gazetatelegraf.com/,sq,daily,3,,,Q18712995,2,newspaper,41.3283,19.8181,reviewed: Welle 6 review 2026-10-09: not selected
+no,AL,Përlindja e Shqipënies,,,http://www.pdiu.al/,sq,daily,3,,,Q7264751,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,AL,Tirana Times,Tirana,,http://www.tiranatimes.com/,en,daily,3,,,Q16957501,1,newspaper,41.3283,19.8181,reviewed: Welle 6 review 2026-10-09: not selected
+no,AL,WallStreet.al,,,https://wallstreet.al,sq,online,3,,,Q141680356,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

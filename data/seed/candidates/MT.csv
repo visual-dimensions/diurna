@@ -1,0 +1,3 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,MT,Times of Malta,,,http://www.timesofmalta.com/,en,daily,1,,,Q1735231,19,newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,MT,Corporate Dispatch,,,http://corporatedispatch.com,en,daily,3,,,Q60770224,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city

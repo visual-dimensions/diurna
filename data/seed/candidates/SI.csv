@@ -1,0 +1,19 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,SI,Delo,Ljubljana,,http://www.delo.si,sl,daily,1,,,Q3487776,18,newspaper,46.0514,14.5061,
+yes,SI,Dnevnik,Ljubljana,,http://www.dnevnik.si,sl,daily,2,,,Q5285849,9,newspaper,46.0514,14.5061,reviewed: Welle 6 review 2026-10-09
+seeded,SI,Večer (časopis),Maribor,,http://www.vecer.com,sl,daily,2,,,Q7924263,6,newspaper,46.5500,15.6333,
+no,SI,Finance,Ljubljana,,http://www.finance.si,sl,daily,3,,,Q5449524,5,daily newspaper,46.0514,14.5061,reviewed: Welle 6 review 2026-10-09: not selected
+no,SI,Dolenjski list,Novo mesto,,http://www.dolenjskilist.si/,sl,weekly,3,,,Q12787675,5,regional newspaper,45.7981,15.1628,reviewed: Welle 6 review 2026-10-09: no feed found – only outlets with a feed
+yes,SI,Primorske novice,Koper,,http://www.primorske.si,sl,daily,3,,,Q12799521,5,regional newspaper; daily newspaper,45.5475,13.7307,reviewed: Welle 6 review 2026-10-09
+no,SI,Ljubljanske novice,,,http://www.ljnovice.com,sl,online,3,,,Q18559973,3,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,SI,Svet24,,,https://novice.svet24.si/,sl,daily,3,,,Q97216388,2,web portal; daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,SI,Gorenjski glas,Kranj,,http://www.gorenjskiglas.si/,sl,weekly,3,,,Q28843314,1,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,SI,Slovenski rod,,,https://slovenski-rod.eu,sl,daily,3,,,Q108058692,1,periodical; newspaper; website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,SI,Novi tednik,Celje,,http://www.nt-rc.si/novi-tednik/,sl,weekly,3,,,Q56808180,1,local newspaper,46.2291,15.2641,reviewed: Welle 6 review 2026-10-09: no feed found – only outlets with a feed
+no,SI,Posavski obzornik,,,https://www.posavskiobzornik.si/,sl,daily,3,,,Q19936006,1,regional newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,SI,Štajerski tednik,Ptuj,,https://tednik.svet24.si/,sl,weekly,3,,,Q132717354,1,local newspaper,46.4186,15.8714,reviewed: Welle 6 review 2026-10-09: no feed found – only outlets with a feed
+no,SI,Slamnik,,,https://www.domzale.si/objave/63,sl,daily,3,,,Q54371645,0,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,SI,Suhorobar,,,http://sodrazica.si/za-obcane/glasilo-suhorobar/,sl,daily,3,,,Q56199353,0,local newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,SI,Savus,Trbovlje,,https://savus.si/,sl,daily,3,,,Q66371040,0,local newspaper,46.1500,15.0500,reviewed: Welle 6 review 2026-10-09: not selected
+no,SI,Logaške novice,Logatec,,http://www.logatec.si/index.php/novice-a-prireditve/logake-novice/315-logake-novice,sl,daily,3,,,Q67029668,0,local newspaper,45.9167,14.2297,reviewed: Welle 6 review 2026-10-09: not selected
+no,SI,Regional,,,https://www.regionalobala.si/,sl,online,3,,,Q115555824,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1

@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+CY,Politis,Nicosia,,https://politis.com.cy,el,daily,2,,,,
+CY,Yenidüzen,Nicosia,,https://www.yeniduzen.com,tr,daily,2,,,,
+CY,Havadis,Nicosia,,https://www.havadiskibris.com,tr,daily,3,,,,
+CY,Kıbrıs,Nicosia,,https://www.kibrisgazetesi.com,tr,daily,3,,,,
+CY,Gündem Kıbrıs,Nicosia,,https://www.gundemkibris.com,tr,online,3,,,,

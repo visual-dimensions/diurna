@@ -1,0 +1,4 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+yes,ME,Pobjeda,Podgorica,,https://www.pobjeda.me/,sr,daily,2,,,Q664427,11,newspaper,42.4414,19.2628,reviewed: Welle 6 review 2026-10-09
+seeded,ME,Vijesti,Podgorica,,http://www.vijesti.me,sr,daily,2,,,Q2035698,8,newspaper,42.4414,19.2628,language from country default
+yes,ME,Dan,Podgorica,,http://www.dan.co.me,sr,daily,2,,,Q5213044,3,newspaper,42.4414,19.2628,reviewed: Welle 6 review 2026-10-09

@@ -1,0 +1,6 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+no,XK,Express,Prishtina,,http://www.gazetaexpress.com/,sq,daily,2,,,Q954817,6,periodical; magazine; newspaper,42.6667,21.1667,reviewed: Welle 6 review 2026-10-09: in the hand list as “Gazeta Express” (Latin/current name)
+yes,XK,Telegrafi,Prishtina,,http://www.telegrafi.com/,sq,online,2,,,Q7696197,4,online newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,XK,Zëri i ditës,,,https://www.zeri.info/,sq,daily,3,,,Q13048169,2,newspaper; daily newspaper,,,reviewed: Welle 6 review 2026-10-09: in the hand list as “Zëri” (Latin/current name); no place of publication/headquarters in Wikidata – fill in city
+no,XK,Nacionale,Prishtina,,https://nacionale.com/?tztc=1,sq,online,3,,,Q135749595,2,online newspaper,42.6667,21.1667,reviewed: Welle 6 review 2026-10-09: site and feeds blocked (403/406) – only outlets with a feed; language from country default; not pre-selected: magazine/online below tier 1
+no,XK,Teleshkronja Post Shqip,Prishtina,,https://www.teleshkronjapost.com/,sq,online,3,,,Q60766946,1,online newspaper; business,42.6667,21.1667,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1

@@ -1,0 +1,11 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+BG,Sega,Sofia,,https://www.segabg.com,bg,daily,2,,,,
+BG,Mediapool,Sofia,,https://www.mediapool.bg,bg,online,2,,,,
+BG,OFFNews,Sofia,,https://offnews.bg,bg,online,3,,,,
+BG,Club Z,Sofia,,https://clubz.bg,bg,online,3,,,,
+BG,Telegraph,Sofia,,https://www.telegraph.bg,bg,daily,3,,,,
+BG,Fakti.bg,Sofia,,https://fakti.bg,bg,online,3,,,,
+BG,Marica,Plovdiv,,https://www.marica.bg,bg,daily,3,,,,
+BG,Moreto.net,Varna,,https://www.moreto.net,bg,online,3,,,,
+BG,Utro,Ruse,,https://www.utroruse.com,bg,daily,3,,,,
+BG,Zarata,Stara Zagora,,https://www.zarata.info,bg,online,3,,,,

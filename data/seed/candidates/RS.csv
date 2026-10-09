@@ -1,0 +1,18 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,RS,Politika,Beograd,,https://www.politika.rs/,sr,daily,1,,,Q1248780,21,daily newspaper,44.8178,20.4569,
+yes,RS,Večernje novosti,Beograd,,https://www.novosti.rs,sr,daily,1,,,Q1192921,16,newspaper,44.8178,20.4569,reviewed: Welle 6 review 2026-10-09
+seeded,RS,Blic,Beograd,,http://www.blic.rs/,sr,daily,1,,,Q883987,15,online newspaper; daily newspaper; newspaper,44.8178,20.4569,"types: daily, online"
+seeded,RS,Danas,,,http://www.danas.rs/,sr,daily,1,,,Q671543,15,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,RS,Kurir,Beograd,,https://www.kurir.rs/,sr,daily,2,,,Q1284918,9,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,RS,24 sata,,,http://www.24sata.rs,sr,daily,2,,,Q217316,8,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,RS,Hrvatska riječ,Subotica,,http://www.hrvatskarijec.rs/,hr,weekly,3,,,Q743551,7,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,RS,Glas javnosti,Beograd,,http://www.glas-javnosti.rs/,sr,daily,2,,,Q773472,6,newspaper,44.8178,20.4569,reviewed: Welle 6 review 2026-10-09: not selected
+no,RS,Press,,,http://www.pressonline.rs/,sr,daily,3,,,Q3402474,5,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,RS,Informer,Beograd,,http://informer.rs/,sr,daily,3,,,Q17077568,5,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,RS,Ruske Slovo,Ruski Krstur,,https://www.ruskeslovo.com/,sr,weekly,3,,,Q4400355,5,weekly newspaper; website,45.5628,19.4158,reviewed: Welle 6 review 2026-10-09: in the hand list as “Ruske slovo” (Latin/current name); language from country default
+no,RS,Pravda,Beograd,,http://www.pravda.rs/,sr,daily,3,,,Q4375813,4,newspaper; tabloid,44.8178,20.4569,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,RS,European Western Balkans,Beograd,,http://www.europeanwesternbalkans.com/,sr,online,3,,,Q17443568,3,dot-com company; online newspaper,44.8178,20.4569,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,RS,Srpski telegraf,,,https://www.republika.rs/,sr,daily,3,,,Q110670378,2,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,RS,Szabad Magyar Szó,,,https://szabadmagyarszo.com/,hu,online,3,,,Q72103783,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,RS,Sportal.rs,Beograd,,https://sportal.blic.rs,sr,online,3,,,Q130070177,1,sports website; sports journalism; online newspaper,44.8178,20.4569,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,RS,Iskra,Novi Sad,,http://www.novo-videlo.com/iskra/,sr,daily,3,,,Q36873011,1,newspaper; book publisher,45.2644,19.8317,reviewed: Welle 6 review 2026-10-09: not selected

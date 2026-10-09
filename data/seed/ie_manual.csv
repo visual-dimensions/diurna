@@ -1,0 +1,11 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+IE,The Nationalist,Carlow,,http://www.carlow-nationalist.ie/,en,weekly,3,,,,
+IE,The Echo,Cork,,https://www.echolive.ie,en,daily,3,,,,
+IE,Connacht Tribune,Galway,,https://connachttribune.ie,en,weekly,3,,,,
+IE,Limerick Post,Limerick,,https://www.limerickpost.ie,en,weekly,3,,,,
+IE,Kilkenny People,Kilkenny,,https://www.kilkennypeople.ie,en,weekly,3,,,,
+IE,Donegal Democrat,Letterkenny,,https://www.donegallive.ie,en,weekly,3,,,,
+IE,Leinster Express,Portlaoise,,https://www.leinsterexpress.ie,en,weekly,3,,,,
+IE,Dundalk Democrat,Dundalk,,https://www.dundalkdemocrat.ie,en,weekly,3,,,,
+IE,Tipperary Star,Thurles,,https://www.tipperarylive.ie,en,weekly,3,,,,
+IE,Offaly Express,Tullamore,,https://www.offalyexpress.ie,en,weekly,3,,,,
