@@ -1,0 +1,41 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+GB,The Sun,London,,https://thesun.co.uk,en,daily,1,,,51.5073,-0.0610
+GB,Daily Mirror,London,,http://www.mirror.co.uk,en,daily,1,,,51.5072,-0.1275
+GB,The Observer,London,,https://observer.co.uk/,en,weekly,1,,,51.5072,-0.1275
+GB,Daily Express,London,,https://www.express.co.uk/,en,daily,1,,,51.5144,-0.1060
+GB,Evening Standard,London,,http://www.standard.co.uk/,en,daily,1,,,51.5072,-0.1275
+GB,Daily Star,London,,http://dailystar.co.uk,en,daily,1,,,51.5072,-0.1275
+GB,The Herald,Glasgow,,https://heraldscotland.com,en,daily,1,,,55.8611,-4.2500
+GB,Morning Star,London,,https://morningstaronline.co.uk,en,daily,1,,,51.5072,-0.1275
+GB,Metro,London,,https://metro.co.uk/,en,daily,1,,,51.5072,-0.1275
+GB,The National,Glasgow,,http://www.thenational.scot,en,daily,2,,,55.8611,-4.2500
+GB,Daily Record,Glasgow,,https://www.dailyrecord.co.uk/,en,daily,2,,,55.8611,-4.2500
+GB,Liverpool Echo,Liverpool,,http://www.liverpoolecho.co.uk/,en,daily,2,,,,
+GB,Western Mail,Cardiff,,http://www.walesonline.co.uk/,en,daily,2,,,51.4817,-3.1792
+GB,Birmingham Mail,Birmingham,,https://www.birminghammail.co.uk/,en,daily,2,,,52.4800,-1.9025
+GB,The i Paper,London,,https://inews.co.uk/,en,daily,2,,,51.5004,-0.1909
+GB,The Yorkshire Post,Leeds,,https://www.yorkshirepost.co.uk/,en,daily,2,,,53.7975,-1.5436
+GB,The Irish News,Belfast,,http://www.irishnews.com/,en,daily,2,,,,
+GB,The News Letter,Belfast,,http://www.belfasttoday.net/,en,daily,2,,,54.5967,-5.9300
+GB,The Northern Echo,Darlington,,http://www.thenorthernecho.co.uk,en,daily,3,,,54.5228,-1.5572
+GB,Sunderland Echo,Sunderland,,http://www.sunderlandecho.com,en,daily,3,,,,
+GB,Southern Daily Echo,Southampton,,http://dailyecho.co.uk,en,daily,3,,,,
+GB,The Press,York,,http://www.yorkpress.co.uk/,en,daily,3,,,53.9500,-1.0833
+GB,Evening Chronicle,Newcastle upon Tyne,,http://www.chroniclelive.co.uk/,en,daily,3,,,54.9778,-1.6133
+GB,South Wales Argus,Newport,,http://www.southwalesargus.co.uk/,en,daily,3,,,51.5877,-2.9983
+GB,Eastern Daily Press,Norwich,,http://www.edp24.co.uk,en,daily,3,,,52.6286,1.2928
+GB,Blackpool Gazette,Blackpool,,http://www.blackpoolgazette.co.uk/,en,daily,3,,,53.8167,-3.0500
+GB,Essex Chronicle,Chelmsford,,https://www.essexlive.news/,en,daily,3,,,51.7361,0.4798
+GB,Worcester News,Worcester,,http://www.worcesternews.co.uk,en,daily,3,,,52.1911,-2.2206
+GB,Glasgow Times,Glasgow,,http://www.eveningtimes.co.uk,en,daily,3,,,,
+GB,Shropshire Star,Telford,,https://www.shropshirestar.com/,en,daily,3,,,52.5842,-2.1253
+GB,The Argus,Brighton,,https://www.theargus.co.uk/,en,daily,3,,,,
+GB,Coventry Telegraph,Coventry,,http://coventrytelegraph.net,en,daily,3,,,52.4167,-1.5167
+GB,Lancashire Telegraph,Blackburn,,http://www.lancashiretelegraph.co.uk/,en,daily,3,,,53.7449,-2.4769
+GB,Northampton Chronicle & Echo,Northampton,,http://www.northamptonchron.co.uk/,en,daily,3,,,,
+GB,Telegraph & Argus,Bradford,,http://www.thetelegraphandargus.co.uk/,en,daily,3,,,53.7944,-1.7519
+GB,Bristol Post,Bristol,,http://www.bristolpost.co.uk/,en,daily,3,,,51.4536,-2.5975
+GB,The Inverness Courier,Inverness,,http://www.inverness-courier.co.uk/,en,daily,3,,,57.4839,-4.2258
+GB,Bournemouth Daily Echo,Bournemouth,,http://www.bournemouthecho.co.uk/,en,daily,3,,,50.7200,-1.8800
+GB,The Sentinel,Stoke-on-Trent,,http://www.stokesentinel.co.uk,en,daily,3,,,53.0000,-2.1833
+GB,Express & Star,Wolverhampton,,http://www.expressandstar.com/,en,daily,3,,,52.5842,-2.1253
