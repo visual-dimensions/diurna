@@ -1,0 +1,262 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,ES,El País,Madrid,,http://www.elpais.com/,es,daily,1,,,Q50009,51,daily newspaper,40.4169,-3.7033,
+no,ES,Marca,Madrid,,https://www.marca.com/,es,daily,1,,,Q917580,37,newspaper; website,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+seeded,ES,El Mundo,Madrid,,https://www.elmundo.es/,es,daily,1,,,Q921217,36,daily newspaper,40.4169,-3.7033,
+seeded,ES,ABC,Madrid,,https://abc.es,es,daily,1,,,Q287076,30,daily newspaper,40.4169,-3.7033,
+seeded,ES,La Vanguardia,Barcelona,,http://www.lavanguardia.com/,es,daily,1,,,Q511533,26,newspaper,41.3825,2.1769,
+yes,ES,20 minutos,Madrid,,https://www.20minutos.es/,es,online,1,,,Q2077548,22,periodical; online newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09
+seeded,ES,El Periódico,Barcelona,,https://www.elperiodico.com,es,daily,1,,,Q35638,20,newspaper,41.3825,2.1769,
+no,ES,Sport,Barcelona,,http://www.sport.es/es/,es,daily,1,,,Q623538,20,daily newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,La Razón,Madrid,,http://www.larazon.es,es,daily,1,,,Q191433,17,daily newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09
+yes,ES,Berria,Andoain,,http://www.berria.eus,eu,daily,1,,,Q827097,16,newspaper; publishing house,43.2183,-2.0199,reviewed: Welle 6 review 2026-10-09
+yes,ES,Gara,Donostia / San Sebastián,,http://www.naiz.eus/hemeroteca/gara,es,daily,2,,,Q1493861,13,daily newspaper,43.3200,-1.9800,reviewed: Welle 6 review 2026-10-09
+yes,ES,La Voz de Galicia,La Coruña,,http://www.lavozdegalicia.es/,es,daily,2,,,Q3312427,13,daily newspaper; publishing house,43.3711,-8.3961,reviewed: Welle 6 review 2026-10-09
+yes,ES,El Diario Vasco,Donostia / San Sebastián,,https://www.diariovasco.com/,es,daily,2,,,Q913303,12,newspaper,43.3200,-1.9800,reviewed: Welle 6 review 2026-10-09
+yes,ES,Público,Madrid,,http://www.publico.es,es,online,2,,,Q1835391,12,digital newspaper; newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09
+yes,ES,El Punt Avui,Girona,,http://www.elpuntavui.cat,ca,daily,2,,,Q778258,11,periodical; newspaper,41.9833,2.8167,reviewed: Welle 6 review 2026-10-09
+yes,ES,Heraldo de Aragón,Zaragoza,,https://www.heraldo.es/,es,daily,2,,,Q3572134,11,newspaper; organization,41.6500,-0.8833,reviewed: Welle 6 review 2026-10-09
+seeded,ES,El Correo,Bilbao,,http://www.elcorreo.com/,es,daily,2,,,Q1324043,11,daily newspaper,43.2631,-2.9350,
+no,ES,El Punt,Girona,,http://www.elpunt.cat/,ca,daily,2,,,Q1324564,11,daily newspaper; organization,41.9833,2.8167,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Expansión,Madrid,,https://www.expansion.com/,es,daily,2,,,Q556902,10,newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Faro de Vigo,Vigo,,https://www.farodevigo.es/,es,daily,2,,,Q3312323,10,newspaper,42.2358,-8.7267,reviewed: Welle 6 review 2026-10-09
+yes,ES,La Nueva España,Oviedo,,http://www.lne.es/,es,daily,2,,,Q2227240,10,newspaper,43.3625,-5.8503,reviewed: Welle 6 review 2026-10-09
+yes,ES,Diario de Navarra,Pamplona,,http://www.diariodenavarra.es/,es,daily,2,,,Q8355313,10,newspaper,42.8167,-1.6500,reviewed: Welle 6 review 2026-10-09
+yes,ES,El Confidencial,Madrid,,https://www.elconfidencial.com,es,online,2,,,Q5821545,10,daily newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09
+yes,ES,VilaWeb,Barcelona,,http://www.vilaweb.cat,ca,online,2,,,Q3312518,10,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09; not pre-selected: magazine/online below tier 1
+seeded,ES,El Diario.es,Gran Vía,,https://www.eldiario.es/,es,online,2,,,Q8774265,10,online newspaper,40.4200,-3.7036,not pre-selected: magazine/online below tier 1
+yes,ES,El Correo Gallego,Santiago de Compostela,,http://elcorreogallego.es/,es,daily,2,,,Q3312356,9,newspaper,42.8833,-8.5333,reviewed: Welle 6 review 2026-10-09
+no,ES,Diari de Girona,Girona,,http://www.diaridegirona.cat/,ca,daily,2,,,Q3026345,9,newspaper,41.9833,2.8167,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Levante-EMV,Valencia,,http://www.levante-emv.com,es,daily,2,,,Q1999224,9,daily newspaper,39.4700,-0.3764,reviewed: Welle 6 review 2026-10-09
+yes,ES,El Norte de Castilla,Valladolid,,http://www.elnortedecastilla.es/,es,daily,2,,,Q326519,9,daily newspaper,41.6520,-4.7286,reviewed: Welle 6 review 2026-10-09
+yes,ES,El Español,Madrid,,http://www.elespanol.com/,es,online,2,,,Q20652713,9,online newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09; not pre-selected: magazine/online below tier 1
+no,ES,El Periódico de Aragón,Zaragoza,,http://www.elperiodicodearagon.com/,es,daily,2,,,Q2735252,8,newspaper,41.6500,-0.8833,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Pontevedra,Pontevedra,,https://www.diariodepontevedra.es/,es,daily,2,,,Q8355302,8,newspaper,42.4336,-8.6475,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Voz de Asturias,Oviedo,,https://www.lavozdeasturias.es/,es,daily,2,,,Q2472456,8,daily newspaper,43.3625,-5.8503,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Libertad Digital,Madrid,,http://www.libertaddigital.com/,es,daily,2,,,Q3101925,8,periodical; online newspaper; digital newspaper,40.4169,-3.7033,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,ES,El Economista,Madrid,,https://www.eleconomista.es/,es,daily,2,,,Q2839040,8,newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Hoy,Badajoz,,https://www.hoy.es,es,daily,2,,,Q3141644,7,newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+yes,ES,Diario de León,León,,https://www.diariodeleon.es,es,daily,2,,,Q5805383,7,newspaper,42.5989,-5.5669,reviewed: Welle 6 review 2026-10-09
+no,ES,El Salto,Madrid,,https://www.elsaltodiario.com/,es,daily,2,,,Q40013900,7,newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Okdiario,Madrid,,https://okdiario.com,es,online,2,,,Q30901816,7,digital newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09
+yes,ES,El Comercio,Gijón,,http://www.elcomercio.es/,es,daily,2,,,Q1294311,7,newspaper,43.5293,-5.6773,reviewed: Welle 6 review 2026-10-09
+no,ES,Galicia Hoxe,Santiago de Compostela,,http://www.galiciahoxe.com/,gl,daily,2,,,Q3322348,6,newspaper,42.8833,-8.5333,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,La Región,Orense,,https://www.laregion.es/,es,daily,2,,,Q2841026,6,newspaper; periodical,42.3356,-7.8641,reviewed: Welle 6 review 2026-10-09
+no,ES,Las Provincias,Valencia,,http://www.lasprovincias.es/,es,daily,2,,,Q2748855,6,daily newspaper,39.4700,-0.3764,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Diario de Cádiz,Cádiz,,http://www.diariodecadiz.com/,es,daily,2,,,Q3254948,6,daily newspaper,36.5350,-6.2975,reviewed: Welle 6 review 2026-10-09
+no,ES,Qué!,,,https://www.que.es/,es,daily,2,,,Q3312268,6,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,ES,Deia,Bilbao,,http://www.deia.com,es,daily,2,,,Q4892059,6,daily newspaper,43.2631,-2.9350,reviewed: Welle 6 review 2026-10-09
+yes,ES,Segre,Lérida,,https://www.segre.com,es,daily,2,,,Q10552566,6,daily newspaper,41.6167,0.6333,reviewed: Welle 6 review 2026-10-09
+no,ES,La Gaceta,Madrid,,http://www.lagaceta.es/,es,online,2,,,Q3312254,6,online newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,El Mundo Today,Barcelona,,https://www.elmundotoday.com,es,online,2,,,Q10922539,6,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Diario 16 (periódico digital),Mairena del Aljarafe,,https://diario16.com/,es,online,2,,,Q102109743,6,online newspaper,37.3444,-6.0653,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Pontevedra Viva,Pontevedra,,https://pontevedraviva.com/,es,online,2,,,Q61388573,6,online newspaper; periodical,42.4336,-8.6475,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,CTXT,Madrid,,https://ctxt.es/,es,weekly,2,,,Q22969989,6,digital newspaper; weekly newspaper,40.4169,-3.7033,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,ES,infoLibre,Madrid,,http://www.infolibre.es,es,daily,2,,,Q16578645,6,digital newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,El Diario Montañés,Santander,,http://www.eldiariomontanes.es/,es,daily,2,,,Q478520,6,newspaper,43.4667,-3.8000,reviewed: Welle 6 review 2026-10-09
+yes,ES,Diario del AltoAragón,Huesca,,http://www.diariodelaltoaragon.es/,es,daily,2,,,Q3573768,6,newspaper,42.1401,-0.4089,reviewed: Welle 6 review 2026-10-09
+no,ES,El Ideal Gallego,La Coruña,,https://www.elidealgallego.com/,es,daily,3,,,Q3310972,5,newspaper,43.3711,-8.3961,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,A Voz de Vilalba,Vilalba,,http://www.avozdevilalba.gal/,gl,daily,3,,,Q3311841,5,newspaper,43.2963,-7.6786,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Sur,Málaga,,https://www.diariosur.es/,es,daily,3,,,Q1209144,5,newspaper,36.7167,-4.4167,reviewed: Welle 6 review 2026-10-09
+no,ES,La Mañana,Lérida,,https://www.lamanyana.cat/,es,daily,3,,,Q4144532,5,newspaper,41.6167,0.6333,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Ferrol,Ferrol,,https://www.diariodeferrol.com/,es,daily,3,,,Q5351145,5,newspaper,43.4844,-8.2328,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Sermos Galiza,Santiago de Compostela,,http://www.sermosgaliza.gal,gl,daily,3,,,Q12400319,5,newspaper,42.8833,-8.5333,reviewed: Welle 6 review 2026-10-09
+no,ES,Diario de España,Barcelona,,https://www.diariodeespana.es,es,daily,3,,,Q116262253,5,newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,El Día,Santa Cruz de Tenerife,,http://www.eldia.es,es,daily,3,,,Q2149635,5,daily newspaper,28.4667,-16.2500,reviewed: Welle 6 review 2026-10-09
+yes,ES,Diario de Sevilla,Sevilla,,http://www.diariodesevilla.es,es,daily,3,,,Q3026338,5,daily newspaper,37.3886,-5.9950,reviewed: Welle 6 review 2026-10-09
+no,ES,Nació Digital,Barcelona,,https://naciodigital.cat/,ca,online,3,,,Q11938312,5,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,praza.gal,A Coruña,,https://praza.gal/,gl,online,3,,,Q12398101,5,online newspaper,43.3711,-8.3961,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Superdeporte,Valencia,,http://www.superdeporte.es/,es,daily,3,,,Q3504621,5,daily newspaper; newspaper,39.4700,-0.3764,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,La Voz de Almería,Almería,,http://www.lavozdealmeria.es/,es,daily,3,,,Q1799243,5,newspaper,36.8417,-2.4639,reviewed: Welle 6 review 2026-10-09
+yes,ES,Diario Córdoba,Córdoba,,http://www.diariocordoba.com/,es,daily,3,,,Q8355292,5,newspaper,37.8900,-4.7800,reviewed: Welle 6 review 2026-10-09
+no,ES,Jornalet,,,https://www.jornalet.com/,oc,online,3,,,Q11928400,5,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Cinco Días,Madrid,,http://www.cincodias.com,es,daily,3,,,Q8346209,5,business newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,El Progreso,Lugo,,https://www.elprogreso.es/,es,daily,3,,,Q3312350,4,newspaper,43.0117,-7.5572,reviewed: Welle 6 review 2026-10-09
+no,ES,Atlántico Diario,Vigo,,https://www.atlantico.net/,es,daily,3,,,Q3394943,4,newspaper,42.2358,-8.7267,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Diario de Mallorca,Palma de Mallorca,,http://www.diariodemallorca.es/,es,daily,3,,,Q4358417,4,newspaper,39.5667,2.6497,reviewed: Welle 6 review 2026-10-09
+no,ES,Diario de Almería,Almería,,http://www.elalmeria.es,es,daily,3,,,Q5805361,4,newspaper,36.8417,-2.4639,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Diario de Burgos,Burgos,,http://www.diariodeburgos.es,es,daily,3,,,Q5805373,4,newspaper,42.3408,-3.6997,reviewed: Welle 6 review 2026-10-09
+yes,ES,Ideal,Granada,,http://www.ideal.es/,es,daily,3,,,Q5908242,4,newspaper,37.2500,-3.2500,reviewed: Welle 6 review 2026-10-09
+yes,ES,La Provincia,Las Palmas de Gran Canaria,,http://www.laprovincia.es,es,daily,3,,,Q5964948,4,newspaper,28.1272,-15.4314,reviewed: Welle 6 review 2026-10-09
+no,ES,CNT,Valladolid,,http://www.cnt.es/periodico/,es,daily,3,,,Q8254087,4,newspaper,41.6520,-4.7286,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Última Hora,Palma de Mallorca,,http://ultimahora.es/,es,daily,3,,,Q9099031,4,newspaper,39.5667,2.6497,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,La Verdad,Murcia,,http://www.laverdad.es/,es,daily,3,,,Q11687789,4,newspaper,37.6019,-0.9842,reviewed: Welle 6 review 2026-10-09
+no,ES,Diari de Terrassa,Terrassa,,http://www.diarideterrassa.com,ca,daily,3,,,Q11917100,4,daily newspaper,41.5611,2.0081,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,El HuffPost,Madrid,,http://www.huffingtonpost.es,es,online,3,,,Q3049977,4,online newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Ahotsa.info,,,http://ahotsa.info,es,online,3,,,Q36890369,4,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,ES,El Nacional,Barcelona,,https://www.elnacional.cat/,es,online,3,,,Q46041605,4,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09; not pre-selected: magazine/online below tier 1
+no,ES,Regió7,Manresa,,http://www.regio7.cat/,ca,daily,3,,,Q3822233,3,newspaper,41.7264,1.8292,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Canarias7,Las Palmas de Gran Canaria,,http://www.canarias7.es/,es,daily,3,,,Q5031142,3,newspaper,28.1272,-15.4314,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diari de Vilanova,Vilanova i la Geltrú,,http://www.diaridevilanova.cat,ca,daily,3,,,Q5271838,3,magazine; newspaper,41.2243,1.7259,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario Palentino,Palencia,,https://www.diariopalentino.es/,es,daily,3,,,Q5805332,3,newspaper,42.0167,-4.5333,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Arousa,Villagarcía de Arosa,,https://www.diariodearousa.com/,es,daily,3,,,Q5805362,3,newspaper,42.5951,-8.7431,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,El Adelantado de Segovia,Segovia,,http://www.eladelantado.com,es,daily,3,,,Q5820781,3,newspaper,40.9481,-4.1183,reviewed: Welle 6 review 2026-10-09
+yes,ES,Información,Alicante,,http://www.diarioinformacion.com,es,daily,3,,,Q8355294,3,newspaper,38.3453,-0.4831,reviewed: Welle 6 review 2026-10-09
+yes,ES,El Periódico Mediterráneo,Castellón de la Plana,,https://www.elperiodicomediterraneo.com/,es,daily,3,,,Q8773290,3,newspaper,39.9860,-0.0374,reviewed: Welle 6 review 2026-10-09
+no,ES,La Acción,Madrid,,http://hemerotecadigital.bne.es/issn/2171-5181,es,daily,3,,,Q9018285,3,daily newspaper; newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Busturialdeko Hitza,Busturialdea,,http://busturialdea.hitza.eus,eu,daily,3,,,Q12255560,3,newspaper; communications media,43.3478,-2.6925,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Eguna (egunkaria),Bilbo,,http://www.hemeroketa.eus/cgi-bin/aurki.pl?arg=eguna&urt=1937,eu,daily,3,,,Q11003135,3,newspaper,43.2631,-2.9350,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Opinión A Coruña,La Coruña,,https://www.laopinioncoruna.es/,es,daily,3,,,Q11687718,3,newspaper,43.3711,-8.3961,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diari de Sabadell,Sabadell,,http://www.diaridesabadell.com/,es,daily,3,,,Q11917097,3,newspaper,41.5483,2.1075,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Cubainformación,,,http://www.cubainformacion.tv/,es,daily,3,,,Q30339599,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ES,El Periódico de España,Madrid,,https://www.epe.es/,es,daily,3,,,Q108839635,3,newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+yes,ES,Melilla Hoy,Melilla,,https://melillahoy.es/,es,daily,3,,,Q130624977,3,newspaper,35.2825,-2.9475,reviewed: Welle 6 review 2026-10-09
+yes,ES,Diario de Noticias de Navarra,Pamplona,,http://www.noticiasdenavarra.com,es,daily,3,,,Q3727782,3,daily newspaper,42.8167,-1.6500,reviewed: Welle 6 review 2026-10-09
+no,ES,Diario de Ávila,Ávila,,http://www.diariodeavila.es/,es,daily,3,,,Q5805416,3,daily newspaper,40.6543,-4.6962,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Gedar,Azpeitia,,https://gedar.eus,es,daily,3,,,Q113231422,3,daily newspaper,43.1819,-2.2653,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,El Debate,Madrid,,https://www.eldebate.com,es,online,3,,,Q114050859,3,online newspaper; serial,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,E-Notícies.cat,Barcelona,,https://e-noticies.cat/,es,online,3,,,Q118605292,3,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Crónica Global,Barcelona,,https://cronicaglobal.com,es,online,3,,,Q20105526,3,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,The Objective,Madrid,,https://theobjective.com,es,online,3,,,Q30034736,3,online newspaper; online magazine,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,La Opinión de Tenerife,Santa Cruz de Tenerife,,http://www.laopinion.es,es,daily,3,,,Q3821023,3,newspaper,28.4667,-16.2500,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diari de Tarragona,Tarragona,,http://www.diaridetarragona.com/,es,daily,3,,,Q12162686,3,newspaper,41.1175,1.2528,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,DxT Campeón,,,https://www.dxtcampeon.com/,es,daily,3,,,Q8771044,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,Vozpópuli,Madrid,,http://www.vozpopuli.com,es,daily,3,,,Q27862962,3,digital newspaper; website,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,BCN Mes,Barcelona,,http://www.bcnmes.com,es,daily,3,,,Q4835213,2,newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Actualidad Económica,Madrid,,http://www.actualidadeconomica.com/,es,daily,3,,,Q5656999,2,magazine; newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Opinión de Málaga,Málaga,,http://www.laopiniondemalaga.es,es,daily,3,,,Q5673543,2,newspaper,36.7167,-4.4167,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario Jaén,Jaén,,http://www.diariojaen.es/,es,daily,3,,,Q5805298,2,newspaper; daily newspaper,37.7697,-3.7889,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Jerez,Jerez de la Frontera,,https://www.diariodejerez.es/,es,daily,3,,,Q5805380,2,newspaper; local newspaper,36.7000,-6.1167,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Opinión de Murcia,Murcia,,http://www.laopiniondemurcia.es/,es,daily,3,,,Q5964586,2,newspaper,37.9833,-1.1303,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Novas da Galiza,Santiago de Compostela,,http://novas.gal/,gl,daily,3,,,Q10337927,2,newspaper,42.8833,-8.5333,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Noticias de Álava,Vitoria,,https://www.noticiasdealava.eus/,es,daily,3,,,Q12264929,2,daily newspaper; newspaper,42.8467,-2.6731,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,El Cierre Digital,Madrid,,https://elcierredigital.com,es,daily,3,,,Q96250372,2,newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,El Correo de Andalucía,Sevilla,,https://elcorreoweb.es/,es,daily,3,,,Q5821585,2,daily newspaper,37.3886,-5.9950,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,El Correo de Burgos,Burgos,,https://www.elcorreodeburgos.com,es,daily,3,,,Q139766902,2,newspaper; daily newspaper,42.3408,-3.6997,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Valladolid,Valladolid,,https://www.diariodevalladolid.es,es,daily,3,,,Q139799042,2,newspaper; daily newspaper,41.6520,-4.7286,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Castilla y León,Valladolid,,https://www.diariodecastillayleon.es,es,daily,3,,,Q139799526,2,newspaper; daily newspaper,41.6520,-4.7286,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Heraldo-Diario de Soria,Soria,,https://www.heraldodiariodesoria.es,es,daily,3,,,Q140044935,2,newspaper,41.7667,-2.4667,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diário Liberdade,Ferrol,,https://gz.diarioliberdade.org/,gl,online,3,,,Q10267573,2,online newspaper,43.4844,-8.2328,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Asturies.com,mundial,,http://asturies.com,es,online,3,,,Q12254336,2,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Xornal,,,http://www.xornal.com,es,online,3,,,Q12402749,2,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,La Voz de Lanzarote,Arrecife,,https://www.lavozdelanzarote.com/,es,online,3,,,Q136502529,2,online newspaper,28.9625,-13.5506,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,El Orden Mundial,,,https://elordenmundial.com/,es,online,3,,,Q139624974,2,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Agenda Pública,,,http://agendapublica.elpais.com/,es,online,3,,,Q73744915,2,website; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Navarra Confidencial,Pamplona,,https://www.navarraconfidencial.com/,es,online,3,,,Q83149556,2,online newspaper,42.8167,-1.6500,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,The New Barcelona Post,Barcelona,,https://www.thenewbarcelonapost.com,es,online,3,,,Q102121330,2,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Briega,Santander,,https://www.briega.org,es,online,3,,,Q112605033,2,online newspaper; news website; newsletter,43.4667,-3.8000,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Galicia Confidencial,,,http://galiciaconfidencial.gal/,gl,online,3,,,Q20541350,2,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,ARA Balears,Palma,,http://www.arabalears.cat,ca,weekly,3,,,Q21927220,2,online newspaper; weekly newspaper,39.5667,2.6497,"reviewed: Welle 6 review 2026-10-09: not selected; types: online, weekly"
+no,ES,Mujeres en Red,,,http://www.mujeresenred.net/,es,online,3,,,Q57694196,2,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Código Cero,,,https://codigocero.com/,gl,online,3,,,Q61060081,2,magazine; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Mallorca Zeitung,Palma,,https://www.mallorcazeitung.es/,de,weekly,3,,,Q1887579,2,weekly newspaper,39.5667,2.6497,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Valencia-fruits,Valencia,,https://valenciafruits.com/,es,weekly,3,,,Q125378184,2,weekly newspaper,39.4700,-0.3764,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario Siglo XXI,Valencia,,https://www.diariosigloxxi.com/,es,daily,3,,,Q5805347,2,newspaper,39.4700,-0.3764,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Bergantiños,Carballo,,https://www.diariodebergantinos.com/,es,daily,3,,,Q5805369,2,newspaper,43.2167,-8.6833,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,Diari Més,Tarragona,,https://www.diarimes.com/,ca,daily,3,,,Q17023774,2,newspaper,41.1175,1.2528,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,El Faro de Ceuta,Ceuta,,http://elfarodeceuta.es/,es,daily,3,,,Q17276360,2,daily newspaper,35.8867,-5.3000,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Gasteiz Hoy,Vitoria,,https://www.gasteizhoy.com/,es,online,3,,,Q113827245,2,online newspaper,42.8467,-2.6731,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Lamalla.cat,Barcelona,,http://www.xal.cat/,es,online,3,,,Q9020087,2,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Economía Digital,Barcelona,,http://www.economiadigital.es,es,online,3,,,Q20014652,2,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Protestante Digital,,,https://protestantedigital.com/,es,online,3,,,Q28501843,2,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Togayther,Sevilla,,https://www.togayther.es,es,online,3,,,Q137520542,1,LGBTQ+ organization; LGBTQI online newspaper,37.3886,-5.9950,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Granada Hoy,Granada,,https://www.granadahoy.com,es,daily,3,,,Q5797249,1,newspaper,37.1750,-3.6000,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Rioja,Logroño,,http://www.larioja.com,es,daily,3,,,Q5965110,1,newspaper,42.4700,-2.4456,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Tribuna de Albacete,Albacete,,http://www.latribunadealbacete.es/,es,daily,3,,,Q5965377,1,newspaper,38.9956,-1.8558,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Málaga Hoy,Málaga,,https://www.malagahoy.es/,es,daily,3,,,Q6035365,1,newspaper,36.7167,-4.4167,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Terra e Tempo,,,http://www.terraetempo.gal,gl,daily,3,,,Q12401053,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,Desde La Banda - Fútbol Navarro,,,http://www.desdelabandafutbolnavarro.es/,es,daily,3,,,Q16491918,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ES,La Cerca,Calle Ancha,,http://www.lacerca.com/,es,daily,3,,,Q18644283,1,newspaper,38.9931,-1.8552,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,El Día de Valladolid,Valladolid,,http://www.eldiadevalladolid.com/,es,daily,3,,,Q55402005,1,newspaper,41.6520,-4.7286,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Ibiza,Ibiza,,http://www.diariodeibiza.es/,es,daily,3,,,Q24937943,1,newspaper,38.9089,1.4328,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Bez,Gran Vía,,http://www.bez.es,es,daily,3,,,Q47499619,1,newspaper,40.4200,-3.7036,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diari el Jardí de Sant Gervasi i Sarrià,Sarrià - Sant Gervasi,,https://diarieljardi.cat,ca,daily,3,,,Q97196568,1,newspaper; show,41.3986,2.1311,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,El Faro Astorgano,Astorga,,https://elfaroastorgano.com/,es,daily,3,,,Q107001839,1,newspaper,42.4575,-6.0569,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Mundiario,Galicia,,https://www.mundiario.com/,es,daily,3,,,Q106021085,1,daily newspaper; newspaper,42.8000,-7.9000,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,El Independiente,Madrid,,https://www.elindependiente.com/,es,daily,3,,,Q135012540,1,digital newspaper; newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario RED,Madrid,,https://diariored.canalred.tv,es,daily,3,,,Q122678602,1,digital newspaper; newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Fuengirola.fi,Aurinkorannikko,,https://fuengirola.fi/,fi,daily,3,,,Q123415420,1,free newspaper; online newspaper,36.5160,-4.8825,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,ES,Empordà,Empordà,,https://www.emporda.info/,ca,daily,3,,,Q136412491,1,newspaper,42.0819,3.0719,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Periódico de Ibiza y Formentera,Ibiza,,https://www.periodicodeibiza.es/,es,daily,3,,,Q137561468,1,newspaper,38.9800,1.4300,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Valira,,,https://www.lavalira.eu/,ca,daily,3,,,Q98755890,1,daily newspaper; website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,El Nervión,Bilbao,,http://www.elnervion.com/,es,daily,3,,,Q24482694,1,daily newspaper,43.2631,-2.9350,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,DBalears,Palma,,http://www.dbalears.cat/,ca,daily,3,,,Q30250465,1,daily newspaper,39.5667,2.6497,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Tribuna de Toledo,Toledo,,https://www.latribunadetoledo.es/,es,daily,3,,,Q114058728,1,daily newspaper,39.8667,-4.0333,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Leonoticias,León,,https://www.leonoticias.com/,es,daily,3,,,Q115800455,1,daily newspaper,42.5989,-5.5669,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Crónica 3.com,Barreiros,,https://www.cronica3.com/,gl,online,3,,,Q12386773,1,online newspaper,43.5344,-7.2397,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Disque Cool,,,http://www.disquecool.com/,gl,online,3,,,Q12387123,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Vigoalminuto.com,,,https://www.vigoalminuto.com/,es,online,3,,,Q12401886,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Demócrata (medio digital),Madrid,,https://www.democrata.es,es,online,3,,,Q136374312,1,online newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,As Nosas,,,https://asnosas.gal,gl,online,3,,,Q136452243,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Diari de l'Educació,,,https://diarieducacio.cat,ca,online,3,,,Q97196396,1,online newspaper; nonprofit organization,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Campo Galego,,,https://www.campogalego.gal/,gl,online,3,,,Q97216250,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Diario do Támega,,,https://www.diariodotamega.es/,es,online,3,,,Q113328735,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Spanish Revolution,Madrid,,https://spanishrevolution.net/,es,online,3,,,Q118727447,1,online newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Republica.com,Madrid,,http://www.republica.com/,es,online,3,,,Q16624918,1,online newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Catalunya Religió,Barcelona,,http://www.catalunyareligio.cat,ca,online,3,,,Q20107836,1,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Campiña Digital,Andújar,,https://campinadigital.me/,es,online,3,,,Q27961377,1,online newspaper,38.0392,-4.0506,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Catorze,,,http://www.catorze.cat/,ca,online,3,,,Q41008461,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Madridiario,,,https://www.madridiario.es/,es,online,3,,,Q61948838,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,El MIRA,Jerez de la Frontera,,https://www.elmira.es/,es,online,3,,,Q62009565,1,online newspaper,36.7000,-6.1167,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Catalunya diari,Reus,,https://catalunyadiari.com/,ca,online,3,,,Q65208804,1,online newspaper,41.1549,1.1087,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,La Voz del Sur,Jerez de la Frontera,,https://www.lavozdelsur.es/,es,daily,3,,,Q125389603,1,local newspaper,36.7000,-6.1167,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Mallorca Magazin,Palma,,https://www.mallorcamagazin.com/,de,weekly,3,,,Q1887577,1,weekly newspaper,39.5667,2.6497,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Comarca d’Olot,Olot,,https://www.lacomarca.cat/,ca,weekly,3,,,Q73787840,1,weekly newspaper,42.1822,2.4890,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Puerta de Madrid,"Calle Ramón y Cajal, Alcalá de Henares",,https://www.puertademadrid.org/,es,weekly,3,,,Q110253331,1,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Tot Cerdanyola,,,https://www.totcerdanyola.cat/,ca,weekly,3,,,Q43290029,1,weekly newspaper; magazine,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,O Papagaio,Vigo,,https://opapagaio.gal/,gl,daily,3,,,Q97220013,1,children's newspaper,42.2358,-8.7267,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,MetaData,Centre Tecnològic Leitat,,https://www.metadata.cat/,es,daily,3,,,Q141142728,1,digital newspaper; business,41.4004,2.1966,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,iSabadell,Sabadell,,https://www.isabadell.cat/,ca,daily,3,,,Q55224034,1,digital newspaper; business,41.5483,2.1075,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Diario de Avisos,Santa Cruz de Tenerife,,http://www.diariodeavisos.com,es,daily,3,,,Q5805366,1,newspaper,28.4667,-16.2500,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,El Día de Córdoba,Córdoba,,http://www.eldiadecordoba.es/,es,daily,3,,,Q5821804,1,newspaper,37.8900,-4.7800,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Europa Sur,,,http://europasur.es,es,daily,3,,,Q2919147,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,La Voz de Cádiz,Cádiz,,https://www.lavozdigital.es/,es,daily,3,,,Q5965574,1,newspaper,36.5350,-6.2975,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,La Voz de Pinares,,,http://www.lavozdepinares.com,es,daily,3,,,Q5965581,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,Global Education Magazine,,,http://www.globaleducationmagazine.com/about-the-megazine/,en,daily,3,,,Q12966534,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,Dorna,,,http://dialnet.unirioja.es/servlet/revista?codigo=7521,gl,daily,3,,,Q20549202,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,Datadista,Madrid,,https://www.datadista.com,es,online,3,,,Q90014958,1,online newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Transcontinental Times,Madrid,,https://www.transcontinentaltimes.com,en,online,3,,,Q105368405,1,online newspaper; media company; online publisher,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Revista Súpers!,,,https://www.ccma.cat/tv3/super3/,ca,daily,3,,,Q20103986,1,youth media,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,BandaAncha,La Eliana,,https://bandaancha.eu,es,online,3,,,Q5718219,1,website; news website; organization; brand,39.5667,-0.5279,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,dosmanzanas,,,https://www.dosmanzanas.com/,es,online,3,,,Q105501758,0,LGBTQI online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Nostresport,Comunidad Valenciana,,http://www.nostresport.com/,es,daily,3,,,Q6045463,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,The News Media Group,,,http://www.thenewsonline.es/,es,daily,3,,,Q7753921,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ES,Reinas del balón,,,https://reinasdelbalon.com/,es,daily,3,,,Q108013510,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ES,Sudoku Online,Oviedo,,https://www.sudoku-online.org,es,daily,3,,,Q110344637,0,website; business; game; newspaper,43.3625,-5.8503,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,EnpresaBIDEA,,,https://www.enpresabidea.eus/,eu,daily,3,,,Q128628517,0,newspaper; online newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,ES,CatalunyaPress,,,https://www.catalunyapress.es,es,daily,3,,,Q138749210,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ES,Noticias de Almeria,,,https://www.noticiasdealmeria.com,es,daily,3,,,Q140995415,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,Hortanoticias,Valencia,,https://www.hortanoticias.com,es,daily,3,,,Q136647153,0,newspaper,39.4700,-0.3764,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,Estrella Digital,Madrid,,https://www.estrelladigital.es/,es,daily,3,,,Q98959437,0,daily newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,Albacete Abierto,Albacete,,https://www.albaceteabierto.es/,es,daily,3,,,Q98969609,0,daily newspaper,38.9956,-1.8558,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,Andalucía Información,Jerez de la Frontera,,https://andaluciainformacion.es/,es,daily,3,,,Q99309563,0,daily newspaper,36.7000,-6.1167,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,El Diario Cantabria,Santander,,https://www.eldiariocantabria.es/,es,daily,3,,,Q105728743,0,daily newspaper; online newspaper,43.4667,-3.8000,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,ES,Nius Diario,,,https://www.niusdiario.es/,es,daily,3,,,Q106371819,0,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,Diario de Valderrueda,Valderrueda,,https://www.diariodevalderrueda.es/,es,daily,3,,,Q116214121,0,daily newspaper; business,42.8153,-4.9344,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,NoticiasTrabajo,Aguadulce,,https://www.noticiastrabajo.es/,es,online,3,,,Q125822421,0,online newspaper,36.8144,-2.5717,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Cádiz Directo,Cádiz,,https://www.cadizdirecto.com,es,online,3,,,Q134642420,0,online newspaper,36.5350,-6.2975,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Artículo 14,Madrid,,https://www.articulo14.es/,es,online,3,,,Q136410993,0,news website; online newspaper,40.4169,-3.7033,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Confilegal,,,https://confilegal.com,es,online,3,,,Q136767318,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Meteored España,Almendricos,,https://www.tiempo.com/,es,online,3,,,Q137216415,0,online newspaper; news website,37.4733,-1.7753,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Hoy Aragón,Zaragoza,,https://www.hoyaragon.es/,es,online,3,,,Q137711806,0,online newspaper,41.6500,-0.8833,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Riazor.org,,,https://www.riazor.org,es,online,3,,,Q139016996,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Marketing Directo,,,https://www.marketingdirecto.com,es,online,3,,,Q139268075,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Región Digital,,,https://www.regiondigital.com/,es,online,3,,,Q139942658,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,El Diario de Hacienda del Álamo,Fuente-Álamo de Murcia,,https://haciendadaily.com,es,online,3,,,Q140303583,0,online newspaper,37.7000,-1.1000,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Món Esport,,,https://monesport.cat,es,online,3,,,Q140385571,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Paisano,,,https://tupaisano.es,es,online,3,,,Q141080340,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Marbella Wire,Marbella,,https://marbellawire.com,es,online,3,,,Q141169086,0,online newspaper,36.5114,-4.8834,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,España Diario,Madrid,,https://espanadiario.es/,es,online,3,,,Q87180182,0,online newspaper; organization,40.5000,-3.6667,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Barnanews,Barcelona,,http://barnanews.com/,es,online,3,,,Q94940548,0,online newspaper,41.3825,2.1769,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,ViladeRoses.cat,,,https://www.viladeroses.cat/,ca,online,3,,,Q97961732,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Almería Información,Almería,,https://almeriainformacion.com/,es,online,3,,,Q107751924,0,online newspaper,36.8417,-2.4639,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Cugat mèdia,Sant Cugat del Vallès,,https://www.cugat.cat/,ca,online,3,,,Q108684558,0,online newspaper,41.4735,2.0852,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Fuentes Informadas,,,https://fuentesinformadas.com/,es,online,3,,,Q112964399,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Esplugues.digital,Esplugues de Llobregat,,https://esplugues.digital,ca,online,3,,,Q114383544,0,online newspaper,41.3767,2.0858,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,ES,Almeria360,,,https://almeria360.com/,es,online,3,,,Q116861047,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,i-bejar,Salamanca,,https://www.i-bejar.com/,es,daily,3,,,Q111747619,0,local newspaper,40.9650,-5.6642,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,ValeDiario,Sevilla,,https://valediario.com,es,daily,3,,,Q108508243,0,digital newspaper,37.3886,-5.9950,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,ES,Marfanta,,,https://www.marfanta.com/,ca,daily,3,,,Q125517482,0,digital newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,Delta13News,Pozuelo de Alarcón,,https://delta13news.com,es,daily,3,,,Q138702172,0,digital newspaper,40.4408,-3.8147,reviewed: Welle 6 review 2026-10-09: not selected
+no,ES,El Matí digital,,,http://www.elmati.cat/,es,daily,3,,,Q53354025,0,digital media; digital newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,ES,Navarra Capital,Artica,,https://navarracapital.es/,es,daily,3,,,Q139035108,0,newspaper; online newspaper,42.8403,-1.6550,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,ES,Viva Jerez,,,https://vivajerez.es/,es,daily,3,,,Q125389517,0,local newspaper; daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,ES,El País Financiero,,,https://elpaisfinanciero.com,es,online,3,,,Q111468834,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Crónica Popular,,,http://www.cronicapopular.es/,es,online,3,,,Q27037946,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Tododisca,,,https://tododisca.es,es,online,3,,,Q140077207,0,news website; media company,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,Cannarias,,,https://cannarias.net/,es,online,3,,,Q140385710,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Caloryfrio.com,,,https://www.caloryfrio.com/,es,online,3,,,Q141143036,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Animux,,,https://animux.es/,es,online,3,,,Q141580434,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Actualidad de la Universidad CEU Cardenal Herrera,,,https://medios.uchceu.es/actualidad-ceu/sala-de-prensa/,es,online,3,,,Q141596102,0,news website; press office,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,ES,balonmano.info,,,https://www.balonmano.info,es,online,3,,,Q136366077,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,Evangelical Focus,,,https://evangelicalfocus.com/,en,online,3,,,Q124981950,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,ES,autonocion.com,,,https://www.autonocion.com,es,online,3,,,Q138590136,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

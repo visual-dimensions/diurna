@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+ES,Ara,Barcelona,,https://www.ara.cat,ca,daily,2,,,,
+ES,La Rioja,Logroño,,https://www.larioja.com,es,daily,3,,,,
+ES,Nós Diario,Santiago de Compostela,,https://www.nosdiario.gal,gl,daily,3,,,,

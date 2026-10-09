@@ -1,0 +1,33 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+ES,20 minutos,Madrid,,https://www.20minutos.es/,es,online,1,,,40.4169,-3.7033
+ES,La Razón,Madrid,,http://www.larazon.es,es,daily,1,,,40.4169,-3.7033
+ES,Berria,Andoain,,http://www.berria.eus,eu,daily,1,,,43.2183,-2.0199
+ES,Gara,Donostia / San Sebastián,,http://www.naiz.eus/hemeroteca/gara,es,daily,2,,,43.3200,-1.9800
+ES,La Voz de Galicia,A Coruña,,http://www.lavozdegalicia.es/,es,daily,2,,,43.3711,-8.3961
+ES,El Diario Vasco,Donostia / San Sebastián,,https://www.diariovasco.com/,es,daily,2,,,43.3200,-1.9800
+ES,El Punt Avui,Girona,,http://www.elpuntavui.cat,ca,daily,2,,,41.9833,2.8167
+ES,Heraldo de Aragón,Zaragoza,,https://www.heraldo.es/,es,daily,2,,,41.6500,-0.8833
+ES,Diario de Navarra,Pamplona,,http://www.diariodenavarra.es/,es,daily,2,,,42.8167,-1.6500
+ES,El Confidencial,Madrid,,https://www.elconfidencial.com,es,online,2,,,40.4169,-3.7033
+ES,VilaWeb,Barcelona,,http://www.vilaweb.cat,ca,online,2,,,41.3825,2.1769
+ES,El Norte de Castilla,Valladolid,,http://www.elnortedecastilla.es/,es,daily,2,,,41.6520,-4.7286
+ES,El Español,Madrid,,http://www.elespanol.com/,es,online,2,,,40.4169,-3.7033
+ES,Hoy,Badajoz,,https://www.hoy.es,es,daily,2,,,,
+ES,Diario de León,León,,https://www.diariodeleon.es,es,daily,2,,,42.5989,-5.5669
+ES,Okdiario,Madrid,,https://okdiario.com,es,online,2,,,40.4169,-3.7033
+ES,El Comercio,Gijón,,http://www.elcomercio.es/,es,daily,2,,,43.5293,-5.6773
+ES,La Región,Ourense,,https://www.laregion.es/,es,daily,2,,,42.3356,-7.8641
+ES,Diario de Cádiz,Cádiz,,http://www.diariodecadiz.com/,es,daily,2,,,36.5350,-6.2975
+ES,Segre,Lleida,,https://www.segre.com,es,daily,2,,,41.6167,0.6333
+ES,El Diario Montañés,Santander,,http://www.eldiariomontanes.es/,es,daily,2,,,43.4667,-3.8000
+ES,Diario del AltoAragón,Huesca,,http://www.diariodelaltoaragon.es/,es,daily,2,,,42.1401,-0.4089
+ES,Sur,Málaga,,https://www.diariosur.es/,es,daily,3,,,36.7167,-4.4167
+ES,Diario de Sevilla,Sevilla,,http://www.diariodesevilla.es,es,daily,3,,,37.3886,-5.9950
+ES,La Voz de Almería,Almería,,http://www.lavozdealmeria.es/,es,daily,3,,,36.8417,-2.4639
+ES,El Progreso,Lugo,,https://www.elprogreso.es/,es,daily,3,,,43.0117,-7.5572
+ES,Diario de Burgos,Burgos,,http://www.diariodeburgos.es,es,daily,3,,,42.3408,-3.6997
+ES,Ideal,Granada,,http://www.ideal.es/,es,daily,3,,,37.2500,-3.2500
+ES,La Verdad,Murcia,,http://www.laverdad.es/,es,daily,3,,,37.6019,-0.9842
+ES,El Nacional,Barcelona,,https://www.elnacional.cat/,ca,online,3,,,41.3825,2.1769
+ES,El Adelantado de Segovia,Segovia,,http://www.eladelantado.com,es,daily,3,,,40.9481,-4.1183
+ES,Melilla Hoy,Melilla,,https://melillahoy.es/,es,daily,3,,,35.2825,-2.9475
