@@ -1,0 +1,6 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+UA,Kyiv Post,Kyiv,,http://www.kyivpost.com/,en,online,1,,,50.4500,30.5236
+UA,NV,Kyiv,,http://nv.ua,uk,online,2,,,50.4500,30.5236
+UA,LB.ua,Kyiv,,http://ukr.lb.ua/,uk,online,3,,,50.4500,30.5236
+UA,censor.net,Kyiv,,http://ua.censor.net.ua/,uk,online,3,,,50.4500,30.5236
+UA,Kárpátinfo hetilap,Berehove,,https://www.karpatinfo.net/,hu,weekly,3,,,48.2025,22.6375
