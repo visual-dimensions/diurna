@@ -1,0 +1,9 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+BE,De Morgen,Brussel,,https://www.demorgen.be/,nl,daily,1,,,50.8467,4.3525
+BE,Politico Europe,Bruxelles,,https://www.politico.eu,en,online,1,,,50.8467,4.3517
+BE,Het Nieuwsblad,Brussel,,https://www.nieuwsblad.be,nl,daily,2,,,,
+BE,La Dernière Heure/Les Sports,Bruxelles,,http://www.dhnet.be/,fr,daily,2,,,,
+BE,Gazet van Antwerpen,Antwerpen,,https://www.gva.be/,nl,daily,2,,,51.2211,4.3997
+BE,Het Belang van Limburg,Hasselt,,https://www.hbvl.be/,nl,daily,2,,,50.9305,5.3385
+BE,L'Avenir,Namur,,http://www.lavenir.net/,fr,daily,2,,,49.6773,5.7950
+BE,The Brussels Times,Bruxelles,,http://www.brusselstimes.com/,en,online,3,,,,
