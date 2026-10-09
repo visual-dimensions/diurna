@@ -1,0 +1,16 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,NL,De Telegraaf,Amsterdam,,http://telegraaf.nl/,nl,daily,1,,,Q1180344,27,daily newspaper,52.3667,4.8833,
+seeded,NL,NRC,Amsterdam,,https://www.nrc.nl/,nl,daily,1,,,Q1402057,17,daily newspaper,52.3667,4.8833,
+yes,NL,Het Parool,Amsterdam,,https://www.parool.nl,nl,daily,1,,,Q1482551,15,Dutch resistance newspaper; daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+seeded,NL,Trouw,Trouwgebouw,,http://www.trouw.nl,nl,daily,1,,,Q1789749,15,daily newspaper,52.3544,4.9129,
+no,NL,Vrij Nederland,,,https://www.vn.nl,nl,daily,2,,,Q379020,9,Dutch resistance newspaper; periodical,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,NL,Het Financieele Dagblad,Amsterdam,,http://www.fd.nl/,nl,daily,2,,,Q689171,8,newspaper,52.3667,4.8833,reviewed: Welle 6 review 2026-10-09
+no,NL,MONU – magazine on urbanism,Rotterdam,,http://www.monu-magazine.com/,en,daily,2,,,Q797508,8,newspaper,51.9200,4.4800,reviewed: Welle 6 review 2026-10-09: not selected
+yes,NL,de Gelderlander,Nijmegen,,http://www.gelderlander.nl/,nl,daily,3,,,Q1179895,5,newspaper,51.8475,5.8625,reviewed: Welle 6 review 2026-10-09
+no,NL,7Days,,,http://www.sevendays.nl,nl,daily,3,,,Q269963,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NL,Katholiek Nieuwsblad,,,http://www.katholieknieuwsblad.nl/,nl,daily,3,,,Q2946378,2,periodical; newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,NL,Eilanden Nieuws,Goeree-Overflakkee,,https://www.eilandennieuws.nl/,nl,daily,3,,,Q2110701,1,newspaper,51.7500,4.1167,reviewed: Welle 6 review 2026-10-09: not selected
+no,NL,DAGonline,,,https://www.dagonline.nl/,nl,online,3,,,Q55478221,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,NL,Waterkant,Rotterdam,,https://www.waterkant.net,nl,online,3,,,Q55478148,1,online newspaper,51.9200,4.4800,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,NL,Amstelveenweb,Amstelveen,,https://amstelveenweb.com/,nl,online,3,,,Q139919641,0,news website,52.3019,4.8581,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,NL,NPO Focus,,,https://npofocus.nl/,nl,online,3,,,Q97562004,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
