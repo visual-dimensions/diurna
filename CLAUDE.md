@@ -138,6 +138,8 @@ Statisches Frontend (Vite)  →  Cloudflare Pages (Direct Upload per wrangler au
 - `feed_kind`: `top` (Aufmacher/Titelseite) | `latest` (neuester Beitrag) | `none` (kein Feed gefunden)
 - `city_country`: Land des Redaktionsorts (Seed-Spalte, leer = `country`); nötig für Exilmedien
 - `tz`: Zeitzone aus GeoNames, für die Ortszeit im Panel
+- `skip_pattern` (optional): Regex auf den Titel – passende Einträge werden übersprungen (Ausgaben, Todesanzeigen).
+- `link_pattern` (optional): Regex auf den Artikel-Link – nur passende Einträge zählen. Für Regionalzeitungen, deren Feed/Sitemap die ganze Verlagsgruppe enthält, gefiltert auf den Erscheinungsort (z. B. `/lokal/magdeburg/`).
 - `note`: z. B. `exile` für Exilmedien (Redaktion außerhalb des Herkunftslands – Marker am tatsächlichen Redaktionsort, im Panel kennzeichnen); `state` für staatseigene/-kontrollierte Medien (siehe Abschnitt 10), Beleg in `note_source` (URL)
 
 ### `headlines.json` (Objekt, Key = Source-ID)
@@ -200,7 +202,7 @@ Zusätzlich `runs` / `successes` (Erfolgsquote) und `error` bei Fehlschlag.
 - Takt nach Tier: Tier 1 alle 30 Min., Tier 2 stündlich, Tier 3 alle 150 Min. (`INTERVAL_BY_TIER`); pro Medium überschreibbar mit `interval` (Minuten) in `sources.json`. `FETCH_ALL=1` bzw. Workflow-Eingabe `fetch_all` holt alles.
 - **Conditional GET** (ETag / Last-Modified merken, im Repo in `data/http_cache.json`).
 - Erstes Item = Headline. HTML-Tags und Entities aus dem Titel entfernen, Whitespace normalisieren. Titel nicht kürzen (Kürzen ist Sache des UI).
-- Items, deren Titel offensichtlich Ticker/Service sind, optional überspringen (Muster in `sources.json` als `skip_pattern`, nicht im Code).
+- Items, deren Titel offensichtlich Ticker/Service sind, optional überspringen (Muster in `sources.json` als `skip_pattern`, nicht im Code). Ebenso `link_pattern`: nur Items, deren Link passt (Lokalteil einer Verlagssitemap). Beide Felder bleiben bei `build_sources.py` erhalten.
 - Kein Erfolg → alte Headline behalten, `fail_streak` erhöhen. Headline > 48 h → `stale`.
 - Laufzeit-Ziel: < 2 Min. für 200 Quellen.
 - Schreibt `headlines.json` und `status.json` nur, wenn sich etwas geändert hat.
@@ -246,7 +248,7 @@ Ein dunkler, ruhiger Globus im All. Jede Redaktion ist ein Lichtpunkt. Je frisch
 4. **Ambient-Modus (optional, Umschalter):** Globus dreht langsam; neue Schlagzeilen erscheinen kurz als schwebende Label an ihrem Punkt. Gedacht als „Bildschirmschoner der Weltnachrichten“ – das ist der Screenshot-/Demo-Moment.
    - Echte Rotation (eine Umdrehung in 4 Min., ostwärts wie die Erde); Labels erscheinen nur, wenn ihre Redaktion zum Betrachter zeigt. Beenden per Escape, Ziehen oder Zoomen.
    - Startet auch von selbst nach 45 s ohne Eingabe (nicht bei offenem Panel, Liste, Suche/Filter oder reduzierter Bewegung); dann bleibt die Bedienung sichtbar, und jede Eingabe inkl. Mausbewegung beendet ihn.
-7. **Erster Besuch:** eine Zeile unter dem Schriftzug („What 1,245 newsrooms lead with, right now. Tap a light to read. About“), verschwindet mit der ersten Interaktion. Statuszeile zeigt zusätzlich „N new in the last hour“ (Desktop). Keine Landingpage.
+   - **Erster Besuch:** eine Zeile unter dem Schriftzug („What 1,245 newsrooms lead with, right now. Tap a light to read. About“), verschwindet mit der ersten Interaktion. Statuszeile zeigt zusätzlich „N new in the last hour“ (Desktop). Keine Landingpage.
 5. **Suche & Filter:** schwebende Pill oben; Suche nach Medium, Stadt, Land; Filter Sprache, Land, Tier, „nur mit Headline“.
 6. **Listenansicht:** Umschalter Globus ↔ Liste (Land → Stadt → Medium). Vollständig per Tastatur und Screenreader nutzbar, gleiche Daten.
 
@@ -445,6 +447,14 @@ Stand nach Welle 5: 1.165 Medien aus 173 Ländern und Gebieten.
 **Stadtnamen vereinheitlicht (alle Wellen):** Medien am selben GeoNames-Ort bekommen denselben Stadtnamen – aus `europe.csv`, wenn vorhanden (zweisprachig beide: „Brussel / Bruxelles“), sonst den häufigsten (vorher doppelt: Wien/Vienna, Moskva/Moscow, Hà Nội/Hanoi, Montréal/Montreal …). `build_sources.py` warnt, wenn ein Ort unter mehreren Namen auftaucht; verbleibende Warnungen sind echte Nachbarstädte (Makati/Manila, Viña del Mar/Valparaíso). Stadtteile als Ort (Cuauhtémoc, Mushin, East Perth …) per Entscheidung auf die Stadt gesetzt; dabei bisher ausgewählte Medien in AU/MX per `yes` festgehalten, damit die Stadt-Höchstzahl sie nicht verdrängt.
 
 **Performance mit 1.245 Medien (2026-10-07):** Index 48 KB gzip (Budget 100), größte Länderdatei IN 17 KB. Die Listenansicht wurde beim Start verborgen mit ~7.400 Elementen aufgebaut → jetzt erst beim ersten Öffnen (Start: 415 statt 7.819 DOM-Elemente; Lighthouse mobil lokal 47 → 82–85, Total Blocking Time 3 s → 0,1–0,15 s). Geöffnete Liste (~21.000 Elemente): `content-visibility: auto` je Land – Layout/Darstellung nur in Sichtnähe, Inhalt bleibt für Screenreader und Seitensuche vollständig; längste blockierende Aufgabe beim Öffnen 255 ms → 0 ms (Desktop). LCP ~4 s in Lighthouse liegt vor allem am WebGL-Globus mit Software-Grafik – auf echtem Gerät messen.
+
+**Welle 6 (Europa), Pilot Deutschland – 2026-10-08:** 80 Medien (vorher 10), **nur mit Feed** (Vorgabe). Alle 16 Länder vertreten. 43 aus Wikidata (viele Leitmedien dort ohne Ort → Ort per `decisions.csv`), 28 aus der Handliste `data/seed/de_manual.csv` (Wikidata kennt u. a. Rheinische Post, Augsburger Allgemeine, HAZ, MZ, Südkurier nicht). Erkenntnisse:
+- **Verlagsgruppen-Feeds:** Die Hauptfeeds der Regionalzeitungen (Madsack, Funke, Ippen, NPG, Mediengruppe Magdeburg …) liefern überregionale Agenturmeldungen – im Test stand dieselbe Schlagzeile bei bis zu neun Titeln. Deshalb **Lokal-Feed des Erscheinungsorts** (39 Titel, in `feed_overrides.csv`) bzw. **`link_pattern`** auf die Gruppen-Sitemap (19 Titel). Ergebnis: 80 verschiedene Schlagzeilen bis auf eine Dublette. Lokal-Feeds sind langsamer (neuester Beitrag oft 2–6 h statt Minuten).
+- Muster je Gruppe: Madsack `/arc/outboundfeeds/rss/category/lokales/<ort>/`, Funke `/lokales/<ort>/rss`, Ippen `/<ort>/rssfeed.rdf`, RP-Gruppe `…/<ort>/feed.rss`, KStA `feed.ksta.de/feed/rss/koeln/`, LZ `/_lz_daten/_export/rss/<ort>/`.
+- Ohne Feed raus (15): Badische Zeitung, Mittelbayerische, Mannheimer Morgen (403), PNP, Donaukurier, Weser-Kurier, Kölnische Rundschau, Heilbronner Stimme, NWZ, Hildesheimer, Pforzheimer; nur Fremd-/Gruppenfeed: PNN (Tagesspiegel), Schwäbisches Tagblatt (SWP), SVZ (Nordkurier), Flensburger Tageblatt (shz). Stuttgarter Nachrichten raus (gleiche Redaktion und Schlagzeile wie Stuttgarter Zeitung).
+- Nicht aufgenommen: Anzeigenblätter, Parteizeitungen (Vorwärts, Unsere Zeit, Bayernkurier), Sender (tagesschau.de, ZDFheute), Verbands-/Gemeindeblätter; kleine politische Wochenzeitungen (Junge Freiheit, Jungle World, der Freitag) vorerst nicht – offen. Tageszeitungen junge Welt und nd aufgenommen.
+- Aachener Zeitung: Lokal-Feed antwortete nach vielen Testabrufen mit 403 – im Laufbetrieb beobachten.
+- Nächste Länder der Welle: GB, FR, IT, ES, PL, UA, NL.
 
 **Laufbetrieb – gestartet 2026-10-07:** `status.json` führt jetzt `since` (erster Abruf) je Quelle; `scripts/health_report.py` (nach `npm run data`) schreibt `data/health_report.csv` und fasst zusammen: Erfolgsquote, blockiert (401/403/451), gedrosselt (429), unerreichbar (Timeouts), tot (≥ 10 Fehler in Folge), veraltet, < 50 % Erfolg, und welche Quellen noch keine Woche beobachtet sind. Ausgangswert: 94,9 % Erfolg über 11.388 Abrufe; 956 von 1.019 Feeds ok. **Abnahme ab 2026-10-14:** Bericht erneut erstellen; Tier-3-Medien, die die ganze Woche blockiert/unerreichbar/gedrosselt waren, ersetzen oder `drop`; Tier 1/2 bleiben grau; 404-Feeds neu suchen (`discover_feeds.py --only`). Auffällig schon jetzt: einige Feeds liefern nur dem GitHub-Rechner 404 (Daily Monitor, Loksatta, Newsweek) – von außen funktionieren sie.
 

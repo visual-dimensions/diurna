@@ -11,7 +11,9 @@ Rules (CLAUDE.md, section 6):
   default. FETCH_ALL=1 fetches everything (manual runs).
 - conditional GET; 304 counts as success and keeps the previous headline
 - headline = first item (news sitemaps: newest item, see feeds.py), skipping
-  items whose title matches the source's optional `skip_pattern`
+  items whose title matches the source's optional `skip_pattern`, and – if the
+  source has a `link_pattern` – items whose link does not match it (a regional
+  paper's sitemap filtered to the city it is published in)
 - no success -> keep the old headline, increase fail_streak
 - state: no_feed | dead (>= 10 failures) | failing (>= 3) | stale (> 48 h) | ok
 
@@ -106,14 +108,17 @@ def plausible(dt: datetime | None) -> datetime | None:
     return dt if dt and dt <= now_utc() + FUTURE_TOLERANCE else None
 
 
-def pick_headline(items: list[Item], skip_pattern: str, base_url: str) -> Item | None:
+def pick_headline(items: list[Item], skip_pattern: str, base_url: str, link_pattern: str = "") -> Item | None:
     skip = re.compile(skip_pattern, re.I) if skip_pattern else None
+    only = re.compile(link_pattern, re.I) if link_pattern else None
     for item in items:
         if skip and skip.search(item.title):
             continue
         link = urljoin(base_url, item.link)
         if not link.startswith(("https://", "http://")):
             continue  # never pass javascript:, data: etc. to the frontend
+        if only and not only.search(link):
+            continue
         return Item(item.title, link, plausible(item.published))
     return None
 
@@ -153,7 +158,7 @@ async def fetch_one(client: httpx.AsyncClient, sem: asyncio.Semaphore, host_sem:
                     if feed is None:
                         out.error = "no items"
                     else:
-                        out.item = pick_headline(feed.items, source.get("skip_pattern", ""), str(resp.url))
+                        out.item = pick_headline(feed.items, source.get("skip_pattern", ""), str(resp.url), source.get("link_pattern", ""))
                         out.error = "" if out.item else "all items skipped"
                         dates = [d for d in (plausible(i.published) for i in feed.items) if d]
                         out.feed_updated = max(dates) if dates else None

@@ -16,7 +16,7 @@ resolve problems with evidence instead of guessing:
   name with larger ones): the documented coordinate itself, with the time zone
   of the nearest GeoNames place within HINT_RADIUS_KM.
 
-Feed fields (feed, feed_kind, skip_pattern) of existing sources are preserved,
+Feed fields (feed, feed_kind, skip_pattern, link_pattern) of existing sources are preserved,
 so re-running this script does not undo discover_feeds.py --apply.
 """
 
@@ -43,7 +43,7 @@ SOURCES_FILE = ROOT / "data" / "sources.json"
 REPORT_FILE = ROOT / "data" / "geocode_report.csv"
 
 TYPES = {"daily", "weekly", "online", "magazine"}
-PRESERVED_FIELDS = ("feed", "feed_format", "feed_kind", "skip_pattern")
+PRESERVED_FIELDS = ("feed", "feed_format", "feed_kind", "skip_pattern", "link_pattern")
 
 
 # Latin letters that NFKD does not decompose into base letter + diacritic.
