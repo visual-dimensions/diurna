@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+CH,Aargauer Zeitung,Aarau,,https://www.aargauerzeitung.ch,de,daily,3,,,,
+CH,Luzerner Zeitung,Luzern,,https://www.luzernerzeitung.ch,de,daily,3,,,,
+CH,watson,Zürich,,https://www.watson.ch,de,online,2,,,,

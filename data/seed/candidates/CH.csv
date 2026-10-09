@@ -1,0 +1,102 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,CH,Neue Zürcher Zeitung,Zürich,,https://www.nzz.ch,de,daily,1,,,Q658945,41,daily newspaper,47.3744,8.5411,language from country default
+seeded,CH,Le Temps,Lausanne,,https://www.letemps.ch,fr,daily,1,,,Q673324,20,daily newspaper,46.5333,6.6333,
+seeded,CH,Blick,Zürich,,https://www.blick.ch,de,daily,1,,,Q269300,15,daily newspaper; online newspaper; newspaper,47.3744,8.5411,"types: daily, online"
+no,CH,SWI swissinfo.ch,Bern,,https://www.swissinfo.ch/,de,online,2,,,Q568173,13,periodical; online newspaper,46.9480,7.4474,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+yes,CH,Tribune de Genève,Genève,,https://www.tdg.ch/,fr,daily,2,,,Q870221,12,daily newspaper,46.2000,6.1500,reviewed: Welle 6 review 2026-10-09
+no,CH,Die Weltwoche,Zürich,,https://www.weltwoche.ch,de,daily,2,,,Q870443,11,newspaper,47.3744,8.5411,reviewed: Welle 6 review 2026-10-09: not selected
+yes,CH,24 heures,Lausanne,,https://www.24heures.ch,fr,daily,2,,,Q217313,10,daily newspaper,46.5333,6.6333,reviewed: Welle 6 review 2026-10-09
+seeded,CH,Tages-Anzeiger,Zürich,,http://www.tagesanzeiger.ch/,de,daily,2,,,Q677683,10,daily newspaper,47.3744,8.5411,
+no,CH,Aufbau,,,https://www.aufbau.eu/,de,daily,2,,,Q354555,9,Jewish newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: alternative/religious paper
+seeded,CH,Corriere del Ticino,,,http://www.cdt.ch,it,daily,2,,,Q1135346,8,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+yes,CH,20 Minuten,Zürich,,http://www.20min.ch/de,de,online,2,,,Q212855,8,periodical; newspaper,47.3744,8.5411,reviewed: Welle 6 review 2026-10-09
+no,CH,Heroldo de Esperanto,Kolonjo,DE,http://www.heroldodeesperanto.com,eo,daily,2,exile,,Q3785307,8,newspaper; periodical,50.9422,6.9578,reviewed: Welle 6 review 2026-10-09: not selected; newsroom abroad (DE) – exile?; not pre-selected: newsroom abroad
+yes,CH,Basler Zeitung,Basel,,http://www.bazonline.ch,de,daily,2,,,Q356534,7,daily newspaper,47.5606,7.5906,reviewed: Welle 6 review 2026-10-09
+yes,CH,Le Courrier,Genève,,https://www.lecourrier.ch/,fr,daily,2,,,Q365266,7,daily newspaper,46.2000,6.1500,reviewed: Welle 6 review 2026-10-09
+yes,CH,Der Bund,Bern,,https://www.derbund.ch/,de,daily,2,,,Q670909,7,daily newspaper,46.9480,7.4474,reviewed: Welle 6 review 2026-10-09
+yes,CH,La Liberté,Fribourg,,https://www.laliberte.ch,fr,daily,2,,,Q1303632,7,daily newspaper,46.8000,7.1500,reviewed: Welle 6 review 2026-10-09
+no,CH,WOZ Die Wochenzeitung,Zürich,,https://www.woz.ch,de,weekly,2,,,Q684726,6,periodical; weekly newspaper; newspaper,47.3744,8.5411,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,CH,Bota Sot,Zürich,,http://www.botasot.info,de,daily,2,,,Q894617,6,periodical; newspaper,47.3744,8.5411,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+yes,CH,Berner Zeitung,Bern,,https://www.bernerzeitung.ch,de,daily,2,,,Q355256,6,daily newspaper,46.9480,7.4474,reviewed: Welle 6 review 2026-10-09
+yes,CH,St. Galler Tagblatt,St. Gallen,,http://www.tagblatt.ch/,de,daily,2,,,Q689052,6,daily newspaper,47.4233,9.3772,reviewed: Welle 6 review 2026-10-09
+no,CH,Badener Tagblatt,Aarau,,https://badenertagblatt.ch,de,daily,3,,,Q798934,5,newspaper; former periodical,47.3923,8.0446,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,.ch,,,http://www.punkt.ch,de,daily,3,,,Q159292,5,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,La Côte,Nyon,,https://www.lacote.ch/,fr,daily,3,,,Q592085,5,daily newspaper,46.3820,6.2389,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,L'Express,Neuchâtel,,http://www.lexpress.ch,fr,daily,3,,,Q646229,5,daily newspaper,46.9903,6.9306,reviewed: Welle 6 review 2026-10-09: not selected
+yes,CH,Bieler Tagblatt,Biel/Bienne,,http://www.bielertagblatt.ch,de,daily,3,,,Q681226,5,daily newspaper,47.1372,7.2472,reviewed: Welle 6 review 2026-10-09
+no,CH,bz - Zeitung für die Region Basel,Liestal,,https://www.bzbasel.ch/,de,daily,3,,,Q809936,5,periodical; daily newspaper,47.4839,7.7350,reviewed: Welle 6 review 2026-10-09: not selected
+yes,CH,Der Landbote,Winterthur,,http://www.landbote.ch,de,daily,3,,,Q1195162,5,daily newspaper,47.4992,8.7267,reviewed: Welle 6 review 2026-10-09
+yes,CH,Le Nouvelliste,Sion,,http://www.nouvelliste.ch,fr,daily,3,,,Q6507379,5,daily newspaper,46.2304,7.3661,reviewed: Welle 6 review 2026-10-09
+no,CH,watson,Zürich,,https://www.watson.ch/,de,online,3,,,Q15677016,5,periodical; online newspaper; media company; online database,47.3744,8.5411,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,CH,L'Agefi,Lausanne,,http://www.agefi.ch/,fr,daily,3,,,Q3201584,5,daily newspaper,46.5333,6.6333,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,Zürcher Oberländer,Wetzikon,,https://www.zo-medien.ch/produkte/zuercher-oberlaender,de,daily,3,,,Q248501,4,periodical; newspaper,47.3208,8.7931,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,La Gruyère,Bulle,,https://www.lagruyere.ch/,fr,daily,3,,,Q3209630,4,newspaper,46.6167,7.0500,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,Le Confédéré,Sion,,https://www.confedere.ch,fr,daily,3,,,Q3221716,4,newspaper,46.2304,7.3661,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,TagesWoche,Basel,,https://www.tageswoche.ch,de,daily,3,,,Q686710,4,daily newspaper,47.5606,7.5906,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,Baslerstab,Basel,,http://www.baslerstab.ch,de,daily,3,,,Q810423,4,daily newspaper,47.5606,7.5906,reviewed: Welle 6 review 2026-10-09: not selected
+yes,CH,Le Quotidien jurassien,Delémont,,https://www.lqj.ch,fr,daily,3,,,Q3226214,4,daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Nau,,,https://www.nau.ch,de,online,3,,,Q50134852,4,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CH,Biel Bienne,,,http://www.bielbienne.com,de,daily,3,,,Q857265,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Heute (schweizerische Zeitung),,,http://www.heuteonline.ch,de,daily,3,,,Q1616566,3,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,L'Impartial,,,http://www.limpartial.ch,fr,daily,3,,,Q3204036,3,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,CH,LaRegione,Bellinzona,,http://www.laregione.ch,it,daily,3,,,Q3820603,3,daily newspaper,46.1956,9.0238,reviewed: Welle 6 review 2026-10-09
+yes,CH,ArcInfo,Neuchâtel,,https://www.arcinfo.ch,fr,daily,3,,,Q55192328,3,daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Handelszeitung,Zürich,,https://www.handelszeitung.ch/,de,weekly,3,,,Q1254802,3,weekly newspaper,47.3744,8.5411,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,Journal de Morges,Morges,,https://www.journaldemorges.ch/,fr,daily,3,,,Q21931650,2,newspaper,46.5094,6.4986,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,Aarauer Nachrichten,,,http://www.aarauer-nachrichten.ch,de,daily,3,,,Q55503114,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Appenzeller Zeitung,Herisau,,http://www.appenzellerzeitung.ch,de,daily,3,,,Q57980883,2,newspaper,47.3851,9.2786,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,Nasha Gazeta,,,http://nashagazeta.ch,fr,daily,3,,,Q62635688,2,newspaper; website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Bote der Urschweiz,Schwyz,,http://www.bote.ch,de,daily,3,,,Q894680,2,periodical; daily newspaper; online newspaper,47.0205,8.6583,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+yes,CH,Die Südostschweiz,Chur,,https://www.suedostschweiz.ch/,de,daily,3,,,Q1216654,2,daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Rheintalische Volkszeitung,,,http://www.rheintalmedien.ch/index.asp?site=7&topic_id=399&m=399,de,daily,3,,,Q23783876,2,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Heidi.news,Genève,,https://www.heidi.news/,fr,online,3,,,Q86674113,2,online newspaper,46.2000,6.1500,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+no,CH,Femina,,,http://www.femina.ch/,fr,daily,3,,,Q2375136,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Gauchebdo,,,http://www.gauchebdo.ch,fr,daily,3,,,Q3099356,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Zuger Woche,Zug,,http://www.zugerwoche.ch,de,daily,3,,,Q228374,1,newspaper,47.1681,8.5169,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,CH,Winterthurer Zeitung,Winterthur,,http://www.winterthurer-zeitung.ch,de,daily,3,,,Q2585173,1,newspaper,47.4992,8.7267,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,CH,Le matin dimanche,,,http://www.lematindimanche.ch,fr,daily,3,,,Q57313000,1,Sunday newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Glückspost,Zürich,,https://www.glueckspost.ch/,de,daily,3,,,Q1264948,1,newspaper,47.3744,8.5411,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,CH,Finanz und Wirtschaft,,,https://www.fuw.ch,de,daily,3,,,Q1416263,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Winterthurer Stadtanzeiger,Winterthur,,http://www.zueriost.ch,de,daily,3,,,Q1805939,1,newspaper,47.4992,8.7267,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,CH,Le Petit Jurassien,Moutier,,http://lepetitjurassien.ch/,de,daily,3,,,Q18923443,1,newspaper; online magazine,47.2803,7.3708,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,CH,Schaffhauser Bock,,,https://www.schaffhausen24.ch/,de,daily,3,,,Q56231934,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,La Broye Hebdo,Payerne,,https://www.labroye.ch,fr,daily,3,,,Q139981399,1,newspaper,46.8167,6.9333,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,Schaffhauser Nachrichten,Schaffhausen,,https://www.shn.ch,de,daily,3,,,Q1262805,1,periodical; organization; daily newspaper,47.6965,8.6339,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,CH,Werdenberger & Obertoggenburger,,,http://www.wundo.ch,de,daily,3,,,Q2560105,1,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Cash,,,https://www.cash.ch/,de,daily,3,,,Q1047289,1,online newspaper; business newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,CH,Bon pour la tête,,,https://bonpourlatete.com,de,online,3,,,Q30349249,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CH,Thuner Tagblatt,,,https://www.e-newspaperarchives.ch/?a=cl&cl=CL1&sp=TTB,de,daily,3,,,Q70664660,1,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,geneva.solutions,,,https://genevasolutions.news,de,online,3,,,Q105444609,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,CH,Tsüri,Zürich,,https://www.tsri.ch/,de,online,3,,,Q124368017,1,website; online newspaper,47.3744,8.5411,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,CH,Techgarage,,,https://techgarage.blog/about-us,de,online,3,,,Q66588171,1,online newspaper; blog,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CH,Wiler Nachrichten,,,http://www.wiler-nachrichten.ch,de,weekly,3,,,Q55503106,1,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Bündner Monatsblatt,,,http://www.casanova.ch/verlage/monatsblatt.cfm,de,daily,3,,,Q1020804,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Vorwärts,,,https://vorwaerts.ch,de,daily,3,,,Q2534714,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Schweiz am Wochenende,,,https://www.schweizamwochenende.ch/,de,daily,3,,,Q65176327,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Anzeiger Kirchberg,,,https://www.anzeiger-kirchberg.ch/,de,daily,3,,,Q134533466,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Anzeiger Konolfingen,,,https://anzeigerkonolfingen.ch/,de,daily,3,,,Q134533467,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Anzeiger Interlaken,Unterseen,,https://anzeigerinterlaken.ch/,de,daily,3,,,Q134533464,1,newspaper,46.6872,7.8497,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,CH,Anzeiger Region Bern,,,https://www.anzeigerbern.ch/,de,weekly,3,,,Q134540182,1,newspaper; weekly newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; types: daily, weekly"
+no,CH,Anzeiger Oberaargau,,,https://www.anzeigeroberaargau.ch/,de,daily,3,,,Q134540180,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Anzeiger Oberes Emmental,,,https://www.azoe.ch/,de,daily,3,,,Q134540181,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Einsiedler Anzeiger,,,https://www.einsiedleranzeiger.ch/,de,daily,3,,,Q134692438,1,newspaper; Pennysaver,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Dorfheftli,,,https://www.dorfheftli.ch/,de,daily,3,,,Q134692437,1,newspaper; Pennysaver,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Der Landanzeiger,,,https://www.landanzeiger.ch/,de,daily,3,,,Q134698542,1,newspaper; Pennysaver,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Wiler Zeitung,,,http://www.wilerzeitung.ch,de,daily,3,,,Q57657002,1,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Reformierte Presse,,,http://presse.ref.ch/,de,weekly,3,,,Q2137155,1,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,P.S. Zeitung,,,http://www.pszeitung.ch,de,weekly,3,,,Q27805325,1,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Centre Européen de Calcul Atomique et Moléculaire,Lausanne,,http://www.cecam.org/,de,online,3,,,Q5062345,1,university; news website,46.5333,6.6333,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,CH,Infosperber,,,https://www.infosperber.ch,de,online,3,,,Q55503883,1,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,CH,PME magazine,Lausanne,,https://www.pme.ch,fr,daily,3,,,Q3359747,0,newspaper,46.5333,6.6333,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,Solothurner Zeitung,,,https://solothurnerzeitung.ch,de,daily,3,,,Q96225864,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Tüüfner Poscht,Teufen,,https://www.tposcht.ch,de,daily,3,,,Q110757718,0,newspaper,47.3900,9.3900,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,CH,Bote vom Untersee und Rhein,Steckborn,,http://www.swisspressarchives.ch/botevomunterseeundrhein,de,daily,3,,,Q110875624,0,newspaper,47.6664,8.9831,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,Appenzeller Volksfreund,,,https://epaper.appenzeller-volksfreund.ch/,de,daily,3,,,Q125869787,0,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Helvetica,,,https://welcomehelvetica.substack.com/,de,daily,3,,,Q140053094,0,newspaper; business,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,Le Nord Vaudois,Yverdon-les-Bains,,https://www.lenordvaudois.ch/,fr,daily,3,,,Q140102143,0,newspaper,46.7785,6.6408,reviewed: Welle 6 review 2026-10-09: not selected
+no,CH,WNTI,Winterthur,,https://wnti.ch,de,daily,3,,,Q140007302,0,online newspaper; local newspaper,47.4992,8.7267,"reviewed: Welle 6 review 2026-10-09: not selected; language from country default; types: daily, online"
+no,CH,L'Impertinent,Lausanne,,https://www.limpertinentmedia.com,de,online,3,,,Q141646536,0,online newspaper; news website,46.5333,6.6333,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1
+no,CH,8400 Altstadt,,,https://bva-winterthur.ch/quartierzeitung/,de,daily,3,,,Q130628337,0,Neighborhood Paper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,CH,Küsnachter Bote,Zollikon,,http://www.kuesnachter-bote.ch/,de,weekly,3,,,Q138498587,0,newspaper; weekly newspaper,47.3422,8.5783,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, weekly"
+no,CH,Grenchner Stadtanzeiger,,,https://www.grenchnerstadtanzeiger.ch/,de,daily,3,,,Q134698940,0,newspaper; Pennysaver,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,CH,ZO Online,Wetzikon,,https://www.zo-online.ch,de,online,3,,,Q138638045,0,news website,47.3208,8.7931,reviewed: Welle 6 review 2026-10-09: not selected; language from country default; not pre-selected: magazine/online below tier 1

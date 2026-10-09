@@ -1,0 +1,14 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+CH,Tribune de Genève,Genève,,https://www.tdg.ch/,fr,daily,2,,,46.2000,6.1500
+CH,24 heures,Lausanne,,https://www.24heures.ch,fr,daily,2,,,46.5333,6.6333
+CH,20 Minuten,Zürich,,http://www.20min.ch/de,de,online,2,,,47.3744,8.5411
+CH,Basler Zeitung,Basel,,http://www.bazonline.ch,de,daily,2,,,47.5606,7.5906
+CH,Le Courrier,Genève,,https://www.lecourrier.ch/,fr,daily,2,,,46.2000,6.1500
+CH,Der Bund,Bern,,https://www.derbund.ch/,de,daily,2,,,46.9480,7.4474
+CH,Berner Zeitung,Bern,,https://www.bernerzeitung.ch,de,daily,2,,,46.9480,7.4474
+CH,St. Galler Tagblatt,St. Gallen,,http://www.tagblatt.ch/,de,daily,2,,,47.4233,9.3772
+CH,Le Nouvelliste,Sion,,http://www.nouvelliste.ch,fr,daily,3,,,46.2304,7.3661
+CH,Le Quotidien jurassien,Delémont,,https://www.lqj.ch,fr,daily,3,,,,
+CH,LaRegione,Bellinzona,,http://www.laregione.ch,it,daily,3,,,46.1956,9.0238
+CH,ArcInfo,Neuchâtel,,https://www.arcinfo.ch,fr,daily,3,,,,
+CH,Die Südostschweiz,Chur,,https://www.suedostschweiz.ch/,de,daily,3,,,,
