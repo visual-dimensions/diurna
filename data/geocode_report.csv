@@ -1598,6 +1598,27 @@ sy.csv:3,aljamahir,Al-Jamahir,SY,Aleppo,ok,"Aleppo 36.2012,37.1612","cities15000
 sy.csv:4,alfurat,Al-Furat,SY,Deir ez-Zor,ok,"Deir ez-Zor 35.3359,40.1408","cities15000, primary name"
 sz.csv:2,swaziobserver,Swazi Observer,SZ,Mbabane,ok,"Mbabane -26.3167,31.1333","cities15000, primary name"
 td.csv:2,lepaystchad,Le  Pays (Tchad),TD,N'Djamena,ok,"N'Djamena 12.1067,15.0444","cities15000, primary name"
+territories_manual.csv:2,lejournaldeliledelareunion,Le Journal de l'île de La Réunion,FR,Saint-Denis,ok,"-20.8823,55.4504",seed override
+territories_manual.csv:3,imazpressreunion,Imaz Press Réunion,FR,Saint-Denis,ok,"-20.8823,55.4504",seed override
+territories_manual.csv:4,lejournaldemayotte,Le Journal de Mayotte,FR,Mamoudzou,ok,"-12.7823,45.2288",seed override
+territories_manual.csv:5,lesnouvellescaledoniennes,Les Nouvelles calédoniennes,FR,Nouméa,ok,"-22.2741,166.4488",seed override
+territories_manual.csv:6,tahitiinfos,Tahiti Infos,FR,Papeete,ok,"-17.5347,-149.5684",seed override
+territories_manual.csv:7,gibraltarchronicle,Gibraltar Chronicle,GB,Gibraltar,ok,"36.1447,-5.3526",seed override
+territories_manual.csv:8,isleofmantoday,Isle of Man Today,GB,Douglas,ok,"54.15,-4.4833",seed override
+territories_manual.csv:9,jerseyeveningpost,Jersey Evening Post,GB,Saint Helier,ok,"49.188,-2.1049",seed override
+territories_manual.csv:10,theroyalgazette,The Royal Gazette,GB,Hamilton,ok,"32.2949,-64.783",seed override
+territories_manual.csv:11,bernews,Bernews,GB,Hamilton,ok,"32.2949,-64.783",seed override
+territories_manual.csv:12,caymancompass,Cayman Compass,GB,George Town,ok,"19.2866,-81.3744",seed override
+territories_manual.csv:13,bonairenu,Bonaire.nu,NL,Kralendijk,ok,"12.15,-68.2667",seed override
+territories_manual.csv:14,thestthomassource,The St. Thomas Source,US,Charlotte Amalie,ok,"18.3419,-64.9307",seed override
+territories_manual.csv:15,antilla,Antilla,FR,Le Lamentin,ok,"14.6134,-60.9996",seed override
+territories_manual.csv:16,guyaweb,Guyaweb,FR,Cayenne,ok,"4.9381,-52.3346",seed override
+territories_manual.csv:17,nordlysid,Norðlýsið,DK,Klaksvík,ok,"62.2266,-6.589",seed override
+territories_manual.csv:18,bvinews,BVI News,GB,Road Town,ok,"18.4269,-64.6208",seed override
+territories_manual.csv:19,extra-nl,Extra,NL,Willemstad,ok,"12.1225,-68.8864",seed override
+territories_manual.csv:20,24ora,24ora,NL,Oranjestad,ok,"12.524,-70.027",seed override
+territories_manual.csv:21,pacificislandtimes,Pacific Island Times,US,Tamuning,ok,"13.4875,144.7814",seed override
+territories_manual.csv:22,laperladelsur,La Perla del Sur,US,Ponce,ok,"18.0103,-66.624",seed override
 tg.csv:2,togopresse,Togo - Presse,TG,Lomé,ok,"Lomé 6.1287,1.2215","cities15000, primary name"
 th.csv:2,bangkokpost,Bangkok Post,TH,Bangkok,ok,"Bangkok 13.754,100.5014","cities15000, primary name"
 th.csv:3,thairath,Thairath,TH,Bangkok,ok,"Bangkok 13.754,100.5014","cities15000, primary name"

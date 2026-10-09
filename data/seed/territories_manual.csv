@@ -1,0 +1,22 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,lat,lon,tz
+FR,Le Journal de l'île de La Réunion,Saint-Denis,,https://www.clicanoo.re,fr,daily,2,,,-20.8823,55.4504,Indian/Reunion
+FR,Imaz Press Réunion,Saint-Denis,,https://www.ipreunion.com,fr,online,3,,,-20.8823,55.4504,Indian/Reunion
+FR,Le Journal de Mayotte,Mamoudzou,,https://lejournaldemayotte.yt,fr,online,2,,,-12.7823,45.2288,Indian/Mayotte
+FR,Les Nouvelles calédoniennes,Nouméa,,https://www.lnc.nc,fr,daily,2,,,-22.2741,166.4488,Pacific/Noumea
+FR,Tahiti Infos,Papeete,,https://www.tahiti-infos.com,fr,online,2,,,-17.5347,-149.5684,Pacific/Tahiti
+GB,Gibraltar Chronicle,Gibraltar,,https://www.chronicle.gi,en,daily,2,,,36.1447,-5.3526,Europe/Gibraltar
+GB,Isle of Man Today,Douglas,,https://www.iomtoday.co.im,en,daily,2,,,54.15,-4.4833,Europe/Isle_of_Man
+GB,Jersey Evening Post,Saint Helier,,https://jerseyeveningpost.com,en,daily,2,,,49.188,-2.1049,Europe/Jersey
+GB,The Royal Gazette,Hamilton,,https://www.royalgazette.com,en,daily,2,,,32.2949,-64.783,Atlantic/Bermuda
+GB,Bernews,Hamilton,,https://bernews.com,en,online,3,,,32.2949,-64.783,Atlantic/Bermuda
+GB,Cayman Compass,George Town,,https://www.caymancompass.com,en,daily,2,,,19.2866,-81.3744,America/Cayman
+NL,Bonaire.nu,Kralendijk,,https://bonaire.nu,nl,online,3,,,12.15,-68.2667,America/Kralendijk
+US,The St. Thomas Source,Charlotte Amalie,,https://stthomassource.com,en,online,3,,,18.3419,-64.9307,America/St_Thomas
+FR,Antilla,Le Lamentin,,https://www.antilla-martinique.com,fr,weekly,3,,,14.6134,-60.9996,America/Martinique
+FR,Guyaweb,Cayenne,,https://www.guyaweb.com,fr,online,2,,,4.9381,-52.3346,America/Cayenne
+DK,Norðlýsið,Klaksvík,,https://nordlysid.fo,fo,weekly,3,,,62.2266,-6.589,Atlantic/Faroe
+GB,BVI News,Road Town,,https://bvinews.com,en,online,2,,,18.4269,-64.6208,America/Tortola
+NL,Extra,Willemstad,,https://extra.cw,pap,daily,2,,,12.1225,-68.8864,America/Curacao
+NL,24ora,Oranjestad,,https://www.24ora.com,pap,online,2,,,12.524,-70.027,America/Aruba
+US,Pacific Island Times,Tamuning,,https://www.pacificislandtimes.com,en,online,2,,,13.4875,144.7814,Pacific/Guam
+US,La Perla del Sur,Ponce,,https://www.periodicolaperla.com,es,weekly,3,,,18.0103,-66.624,America/Puerto_Rico
