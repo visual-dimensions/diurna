@@ -229,3 +229,5 @@ brabantsdagblad,https://www.bd.nl/den-bosch/rss.xml,latest,"DPG city feed (Welle
 aargauerzeitung,https://www.aargauerzeitung.ch/aargau.rss,latest,"Aargau section (discovery picked Solothurn)"
 lenouvelliste-ch,https://www.lenouvelliste.ch/news-sitemap.xml,latest,"news sitemap (homepage answered 503 during discovery)"
 ekstrabladet,https://ekstrabladet.dk/rssfeed/nyheder/,latest,"news section feed"
+delfilietuva,https://feed.delfi.lt/v2/channel/global-lt?format=rss,latest,"Lithuanian channel; delfi.lt/rss is a directory of feeds"
+lidovenoviny,https://servis.lidovky.cz/rss.aspx,latest,"own feed (was wrongly on the iDNES feed)"

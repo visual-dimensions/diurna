@@ -1,0 +1,18 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,LT,Lietuvos rytas,,,https://www.lrytas.lt/,lt,daily,2,,,Q1824397,13,periodical; newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+no,LT,Delfi,Ryga,LV,http://www.delfi.ee/,lt,online,2,exile,,Q1184119,13,news website; fact-checking organisation; website,56.9475,24.1069,"reviewed: Welle 6 review 2026-10-09: not selected; newsroom abroad (LV) – exile?; not pre-selected: newsroom abroad, magazine/online below tier 1"
+yes,LT,Kauno diena,Kaunas,,http://www.kaunodiena.lt,lt,daily,2,,,Q1634171,11,daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+yes,LT,Kurier Wileński,Vilnius,,http://www.kurierwilenski.lt/,pl,daily,2,,,Q1793105,8,newspaper,54.6872,25.2800,reviewed: Welle 6 review 2026-10-09
+no,LT,Verslo žinios,Vilnius,,https://www.vz.lt/,lt,daily,2,,,Q2240679,7,business newspaper; daily newspaper,54.6872,25.2800,reviewed: Welle 6 review 2026-10-09: not selected
+no,LT,Respublika,,,http://www.respublika.lt,lt,daily,2,,,Q2739951,7,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,LT,Vakarų ekspresas,Klaipėda,,http://www.ve.lt/,lt,daily,2,,,Q5764005,6,periodical; regional newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+no,LT,Lietuvos žinios,Vilnius,,http://www.lzinios.lt/,lt,daily,3,,,Q181327,5,periodical; newspaper,54.6872,25.2800,reviewed: Welle 6 review 2026-10-09: not selected
+no,LT,Baltische Rundschau,,,http://www.baltische-rundschau.eu/,de,daily,3,,,Q747210,4,periodical; newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LT,Literatūra ir menas,,,http://literaturairmenas.lt,lt,daily,3,,,Q16459222,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,LT,Vilniaus diena,,,http://vilniausdiena.lt/,lt,daily,3,,,Q7931174,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LT,Voruta (laikraštis),,,https://www.voruta.lt,lt,daily,3,,,Q7941964,2,periodical; newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LT,Atžalynas,,,https://www.atzalynas.kedainiai.lm.lt/index.php?id=laikrastis.htm,lt,daily,3,,,Q16444667,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,LT,Flintas,,,http://www.flintas.lt,lt,daily,3,,,Q16450884,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,LT,Šiaulių universitetas,Šiauliai,,http://www.su.lt/su-tarnybos-ir-skyriai/ts-rsv/u-laikratis,lt,daily,3,,,Q16478135,1,newspaper,55.9281,23.3167,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,LT,Kaipkada.lt,,,https://www.kaipkada.lt,lt,online,3,,,Q141479944,0,website; online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,LT,Cybernews,Vilnius,,https://cybernews.com/,en,online,3,,,Q141450034,0,news website; online publication; news media,54.6872,25.2800,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1

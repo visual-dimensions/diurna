@@ -1,0 +1,27 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,LV,Meduza,Riga,,https://meduza.io/,ru,online,1,,,Q18340732,28,news website; news aggregator; mobile app; Russian foreign agent law,56.9475,24.1069,
+seeded,LV,The Insider,Moscow,SU,https://theins.ru,ru,online,1,exile,,Q48940439,20,news website,55.7506,37.6175,newsroom abroad (SU) – exile?; not pre-selected: newsroom abroad
+seeded,LV,Diena,Rīga,,http://www.diena.lv,lv,daily,1,,,Q924512,16,newspaper,56.9475,24.1069,
+yes,LV,The Baltic Times,Rīga,,http://www.baltictimes.com/,en,daily,2,,,Q1806290,13,newspaper,56.9475,24.1069,reviewed: Welle 6 review 2026-10-09
+no,LV,Delfi,Rīga,,http://www.delfi.ee/,lv,online,2,,,Q1184119,13,news website; fact-checking organisation; website,56.9475,24.1069,reviewed: Welle 6 review 2026-10-09: not selected; not pre-selected: magazine/online below tier 1
+seeded,LV,iStories,,,https://istories.media/,ru,online,2,,,Q105322853,8,news website,,,no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+yes,LV,Latvijas Avīze,Rīga,,http://www.la.lv,lv,daily,2,,,Q1486888,7,daily newspaper,56.9475,24.1069,reviewed: Welle 6 review 2026-10-09
+yes,LV,Neatkarīgā Rīta Avīze,Rīga,,http://www.nra.lv,lv,daily,2,,,Q4045103,6,newspaper,56.9475,24.1069,reviewed: Welle 6 review 2026-10-09
+no,LV,Latvijas Vēstnesis,,,http://lv.lv,lv,daily,2,,,Q6497517,6,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+seeded,LV,Novaya Gazeta Europe,Riga,,https://novayagazeta.eu,ru,online,3,,,Q111654428,4,online newspaper; nonprofit organization,56.9475,24.1069,not pre-selected: magazine/online below tier 1
+no,LV,Segodnya,,,http://vesti.lv/categories/vesti-segodnya,ru,daily,3,,,Q4109603,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Neatkarīgās Tukuma Ziņas,,,http://www.ntz.lv/,lv,daily,3,,,Q5240963,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Ventas Balss,,,https://www.ventasbalss.lv/,lv,daily,3,,,Q7920233,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Rēzeknes Vēstis,,,http://www.rv.lv/,lv,daily,3,,,Q16351232,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Brīvā Latvija (laikraksts),Rīga,,https://www.brivalatvija.lv/,lv,weekly,3,,,Q4982008,3,weekly newspaper,56.9475,24.1069,reviewed: Welle 6 review 2026-10-09: not selected
+no,LV,Novaja.lv,Jelgava,,http://www.novaja.lv,ru,daily,3,,,Q15043094,3,newspaper; news website,56.6522,23.7244,"reviewed: Welle 6 review 2026-10-09: not selected; types: daily, online"
+no,LV,Kurzemnieks,,,http://www.kurzemnieks.lv/,lv,daily,3,,,Q6447626,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Malienas Ziņas,,,http://www.malienaszinas.lv/,lv,daily,3,,,Q6743482,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Novadnieks,,,http://www.novadnieks.lv/,lv,daily,3,,,Q7064392,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Rīgas Apriņķa Avīze,,,http://www.aprinkis.lv/,lv,daily,3,,,Q7386925,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Dienas Bizness,,,https://www.db.lv/,lv,daily,3,,,Q21663616,2,newspaper; online newspaper,,,"reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,LV,Latgales Laiks,,,http://latgaleslaiks.lv,lv,daily,3,,,Q6495818,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Ludzas Zeme,,,http://www.ludzaszeme.lv/,lv,daily,3,,,Q6699539,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Ezerzeme,,,http://ezerzeme.lv/,lv,daily,3,,,Q61122167,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,LV,Jauns.lv,,,https://jauns.lv,lv,online,3,,,Q138820821,0,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,LV,Jelgavniekiem.lv,,,https://www.jelgavniekiem.lv/,lv,online,3,,,Q131308934,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1

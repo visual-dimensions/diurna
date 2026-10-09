@@ -1,0 +1,7 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+HU,Index.hu,Budapest,,https://index.hu/,hu,online,2,,,,
+HU,Magyar Hírlap,Budapest,,http://www.magyarhirlap.hu/,hu,daily,2,,,47.4983,19.0408
+HU,Blikk,Budapest,,http://www.blikk.hu,hu,daily,2,,,47.4983,19.0408
+HU,Origo,Budapest,,https://www.origo.hu/,hu,online,3,,,47.4983,19.0408
+HU,Vas Népe,Szombathely,,http://www.vaol.hu,hu,daily,3,,,47.1667,16.7500
+HU,Délmagyarország,Szeged,,https://www.delmagyar.hu/,hu,daily,3,,,46.2500,20.1667

@@ -1,0 +1,30 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,EE,Postimees,Tallinn,,http://www.postimees.ee/,et,daily,1,,,Q1355052,24,daily newspaper,59.4372,24.7450,
+no,EE,Eesti Ekspress,Tallinn,,http://www.ekspress.ee,et,daily,1,,,Q1295548,20,newspaper,59.4372,24.7450,reviewed: Welle 6 review 2026-10-09: not selected
+yes,EE,Eesti Päevaleht,Tallinn,,http://epl.delfi.ee/,et,daily,1,,,Q1295618,16,daily newspaper,,,reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city
+yes,EE,Õhtuleht,Tallinn,,https://www.ohtuleht.ee/,et,daily,1,,,Q293572,16,newspaper; tabloid,,,"reviewed: Welle 6 review 2026-10-09; no place of publication/headquarters in Wikidata – fill in city; types: daily, online"
+no,EE,The Baltic Times,Riga,LV,http://www.baltictimes.com/,en,daily,2,exile,,Q1806290,13,newspaper,56.9475,24.1069,reviewed: Welle 6 review 2026-10-09: not selected; newsroom abroad (LV) – exile?; not pre-selected: newsroom abroad
+no,EE,Delfi,Riia,LV,http://www.delfi.ee/,et,online,2,exile,,Q1184119,13,news website; fact-checking organisation; website,56.9475,24.1069,"reviewed: Welle 6 review 2026-10-09: not selected; newsroom abroad (LV) – exile?; not pre-selected: newsroom abroad, magazine/online below tier 1"
+no,EE,Äripäev,,,http://www.ap3.ee,et,daily,2,,,Q256427,12,daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Uma Leht,Võru,,http://www.umaleht.ee/,et,daily,2,,,Q3738586,8,newspaper,57.8486,26.9928,reviewed: Welle 6 review 2026-10-09: not selected; language from country default
+no,EE,Sirp,,,https://www.sirp.ee/,et,daily,2,,,Q1518541,8,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Maaleht,,,http://maaleht.delfi.ee/,et,daily,2,,,Q1477887,7,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Kesknädal,Tallinn,,http://www.kesknadal.ee,et,daily,3,,,Q3738171,5,newspaper,59.4372,24.7450,reviewed: Welle 6 review 2026-10-09: not selected
+yes,EE,Lääne Elu,Haapsalu,,https://online.le.ee/,et,daily,3,,,Q3742996,5,newspaper,58.9469,23.5369,reviewed: Welle 6 review 2026-10-09
+no,EE,Linnaleht,Tallinn,,http://www.linnaleht.ee,et,daily,3,,,Q3742985,4,newspaper,59.4372,24.7450,reviewed: Welle 6 review 2026-10-09: not selected
+no,EE,Elektrooniline Riigi Teataja,,,https://www.riigiteataja.ee/ert/ert.jsp,et,daily,3,,,Q4037988,4,newspaper; database,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,EE,Grüüne,,,http://www.gryyne.ee,et,daily,3,,,Q5612915,4,newspaper; party newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+yes,EE,Põhjarannik,Jõhvi,,http://rus.pohjarannik.ee/,et,daily,3,,,Q3737103,4,newspaper,59.3575,27.4122,reviewed: Welle 6 review 2026-10-09
+no,EE,Pärnu Postimees,,,http://dea.digar.ee/publication/parnupostimees,et,daily,3,,,Q7264605,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Õpetajate Leht,,,https://opleht.ee,et,daily,3,,,Q12379462,4,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Purjetaja (ajaleht),,,http://puri.ee/,et,daily,3,,,Q7261305,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Järva Teataja,Paide,,https://jarvateataja.postimees.ee/,et,daily,3,,,Q12365676,3,newspaper,58.8833,25.5667,reviewed: Welle 6 review 2026-10-09: not selected
+no,EE,Saarte Hääl,,,http://www.saartehaal.ee,et,daily,3,,,Q7395702,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Harju Elu,,,http://www.harjuelu.ee,et,daily,3,,,Q11041146,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Virumaa Teataja,,,https://virumaateataja.postimees.ee/,et,daily,3,,,Q18627058,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Muhulane,,,http://www.muhu.ee/ajaleht,et,daily,3,,,Q6933096,2,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Delovye Vedomosti,Tallinn,,http://www.dv.ee,ru,daily,3,,,Q5254380,2,newspaper,59.4372,24.7450,reviewed: Welle 6 review 2026-10-09: not selected
+no,EE,Universitas Tartuensis,,,https://www.ajakiri.ut.ee/,et,daily,3,,,Q12377771,1,magazine; newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Tallinna24,,,https://www.helsinginuutiset.fi/aihe/Tallinna24,fi,online,3,,,Q31086458,1,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,EE,Vesti Nedeli,,,http://www.vesti.ee/,ru,daily,3,,,Q12378526,1,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city
+no,EE,Kuulutaja,,,https://www.kuulutaja.ee/,et,weekly,3,,,Q12367895,1,weekly newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city

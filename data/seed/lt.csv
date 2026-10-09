@@ -1,0 +1,4 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+LT,Kauno diena,Kaunas,,http://www.kaunodiena.lt,lt,daily,2,,,,
+LT,Kurier Wileński,Vilnius,,http://www.kurierwilenski.lt/,pl,daily,2,,,54.6872,25.2800
+LT,Vakarų ekspresas,Klaipėda,,http://www.ve.lt/,lt,daily,2,,,,

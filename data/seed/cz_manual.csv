@@ -1,0 +1,13 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+CZ,Novinky.cz,Praha,,https://www.novinky.cz,cs,online,1,,,,
+CZ,Seznam Zprávy,Praha,,https://www.seznamzpravy.cz,cs,online,1,,,,
+CZ,Aktuálně.cz,Praha,,https://zpravy.aktualne.cz,cs,online,2,,,,
+CZ,Brněnský deník,Brno,,https://brnensky.denik.cz,cs,daily,3,,,,
+CZ,Moravskoslezský deník,Ostrava,,https://moravskoslezsky.denik.cz,cs,daily,3,,,,
+CZ,Plzeňský deník,Plzeň,,https://plzensky.denik.cz,cs,daily,3,,,,
+CZ,Liberecký deník,Liberec,,https://liberecky.denik.cz,cs,daily,3,,,,
+CZ,Českobudějovický deník,České Budějovice,,https://ceskobudejovicky.denik.cz,cs,daily,3,,,,
+CZ,Hradecký deník,Hradec Králové,,https://hradecky.denik.cz,cs,daily,3,,,,
+CZ,Olomoucký deník,Olomouc,,https://olomoucky.denik.cz,cs,daily,3,,,,
+CZ,Zlínský deník,Zlín,,https://zlinsky.denik.cz,cs,daily,3,,,,
+CZ,Ústecký deník,Ústí nad Labem,,https://ustecky.denik.cz,cs,daily,3,,,,

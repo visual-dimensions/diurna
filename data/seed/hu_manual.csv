@@ -1,0 +1,7 @@
+country,name,city,city_country,homepage,lang,type,tier,note,note_source,hint_lat,hint_lon
+HU,444,Budapest,,https://444.hu,hu,online,1,,,,
+HU,24.hu,Budapest,,https://24.hu,hu,online,1,,,,
+HU,Kisalföld,Győr,,https://www.kisalfold.hu,hu,daily,3,,,,
+HU,Észak-Magyarország,Miskolc,,https://www.boon.hu,hu,daily,3,,,,
+HU,Hajdú-bihari Napló,Debrecen,,https://www.haon.hu,hu,daily,3,,,,
+HU,Dunántúli Napló,Pécs,,https://www.bama.hu,hu,daily,3,,,,

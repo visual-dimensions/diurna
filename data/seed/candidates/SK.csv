@@ -1,0 +1,15 @@
+include,country,name,city,city_country,homepage,lang,type,tier,note,note_source,qid,sitelinks,classes,wd_lat,wd_lon,remark
+seeded,SK,SME,Bratislava,,http://www.sme.sk,sk,daily,2,,,Q897968,10,daily newspaper; newspaper,48.1517,17.1093,
+seeded,SK,Pravda,,,http://www.pravda.sk,sk,daily,2,,,Q1853557,10,daily newspaper,,,no place of publication/headquarters in Wikidata – fill in city
+seeded,SK,Denník N,Bratislava,,https://dennikn.sk/,sk,daily,2,,,Q20051147,9,daily newspaper,48.1517,17.1093,
+yes,SK,The Slovak Spectator,Bratislava,,http://spectator.sme.sk,en,online,2,,,Q1237701,7,newspaper,48.1517,17.1093,reviewed: Welle 6 review 2026-10-09
+yes,SK,Aktuality.sk,Bratislava,,https://www.aktuality.sk/,sk,online,2,,,Q52162279,6,online newspaper,48.1517,17.1093,reviewed: Welle 6 review 2026-10-09; not pre-selected: magazine/online below tier 1
+yes,SK,Korzár,Košice,,https://korzar.sme.sk/,sk,daily,3,,,Q12769507,4,newspaper,48.7167,21.2500,reviewed: Welle 6 review 2026-10-09
+no,SK,.týždeň,,,http://www.tyzden.sk/,sk,magazine,3,,,Q12761472,4,news magazine,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,SK,KOŠICE:DNES,Košice,,https://kosicednes.sk,sk,daily,3,,,Q96483996,3,newspaper; daily newspaper,48.7167,21.2500,reviewed: Welle 6 review 2026-10-09: not selected
+no,SK,Esperantisto Slovaka,,,http://esperantistoslovaka.esperanto.sk/,sk,daily,3,,,Q12347279,3,newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,SK,Pravé Spektrum,,,http://www.prave-spektrum.sk/,sk,online,3,,,Q12046881,2,online newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default; not pre-selected: magazine/online below tier 1
+no,SK,Konzervatívny denník Postoj,,,https://www.postoj.sk,sk,daily,3,,,Q55281156,1,publishing house; daily newspaper,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; language from country default
+no,SK,Napunk,,,https://napunk.dennikn.sk/,hu,online,3,,,Q123905018,0,online publication; news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,SK,Gemerčan.sk,,,https://gemercan.sk,sk,online,3,,,Q141007385,0,news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
+no,SK,PlasticPortal,,,https://www.plasticportal.sk/,sk,online,3,,,Q141641489,0,web portal; news website,,,reviewed: Welle 6 review 2026-10-09: not selected; no place of publication/headquarters in Wikidata – fill in city; not pre-selected: magazine/online below tier 1
