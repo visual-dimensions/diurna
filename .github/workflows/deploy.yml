@@ -24,12 +24,12 @@ jobs:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Get the current data from the data branch
         run: bash scripts/pull_data.sh
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
@@ -39,7 +39,14 @@ jobs:
 
       - name: Deploy to Cloudflare Pages
         if: env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != ''
-        run: npx wrangler@4 pages deploy dist --project-name=diurna --branch=main --commit-dirty=true
+        # Cloudflare occasionally fails with "Unknown internal error" – retry before failing the run.
+        run: |
+          for attempt in 1 2 3; do
+            npx wrangler@4 pages deploy dist --project-name=diurna --branch=main --commit-dirty=true && exit 0
+            echo "::warning::deploy failed (attempt $attempt), retrying"
+            sleep $((attempt * 30))
+          done
+          exit 1
 
       - name: Skip notice
         if: env.CLOUDFLARE_API_TOKEN == '' || env.CLOUDFLARE_ACCOUNT_ID == ''

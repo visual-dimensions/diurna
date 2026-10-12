@@ -30,9 +30,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30 # the first run converts the translation model (~10 min), later runs take ~2 min
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           cache: pip
@@ -46,7 +46,7 @@ jobs:
 
       - name: Restore translation model
         id: model-cache
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: .models/m2m100_1.2B-ct2
           key: m2m100-1.2B-ct2-int8-v1
@@ -81,7 +81,13 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -q -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data
+          # GitHub occasionally answers a push with a 500 – retry before failing the run.
+          for attempt in 1 2 3; do
+            git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data && exit 0
+            echo "::warning::push failed (attempt $attempt), retrying"
+            sleep $((attempt * 20))
+          done
+          exit 1
 
   # Pushes made with GITHUB_TOKEN do not trigger other workflows, so deploy from here.
   deploy:
