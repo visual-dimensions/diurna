@@ -1,0 +1,3725 @@
+{
+ "http://feeds.feedburner.com/alayam-daily-economic-news": {
+  "last_modified": "Sat, 14 Nov 2026 01:13:01 GMT"
+ },
+ "http://nworker.ru/rss": {
+  "etag": "\"1de005f2789d980d8fbd978157868c4e\"",
+  "last_modified": "Fri, 13 Nov 2026 13:48:43 GMT"
+ },
+ "http://sowetan.co.za/arc/outboundfeeds/rss/": {
+  "etag": "W/\"11d32-yxfLdjeTD6vfIeIZxB7UQq2YhDg\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:27 GMT"
+ },
+ "http://timesofindia.indiatimes.com/rssfeedstopstories.cms": {
+  "etag": "\"06da84d71cdc518f1bb6fdfed788718e2-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:06:42 GMT"
+ },
+ "http://www.albanyherald.com/feed": {
+  "etag": "W/\"c4071c26a0c5fdf0f89e5b449636bf4d\"",
+  "last_modified": "Sat, 14 Nov 2026 05:25:30 GMT"
+ },
+ "http://www.bild.de/rss-feeds/rss-16725492,feed=home.bild.html": {
+  "etag": "W/\"0433eabe89401540ebbc729e441043039\""
+ },
+ "http://www.corsematin.com/googlenews.xml": {
+  "etag": "\"lkxo1nkyzo28ii\""
+ },
+ "http://www.diariodeburgos.es/RSS/DBPortada.xml": {
+  "etag": "\"80b42ff6174dd1:0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:13 GMT"
+ },
+ "http://www.eltribuno.com/salta/rss-new/portada.rss": {
+  "last_modified": "Sat, 14 Nov 2026 17:57:06 GMT"
+ },
+ "http://www.fortwayne.com/rss": {
+  "etag": "\"14e481a221f1e3928901e23c2bd330e4-gzip\"",
+  "last_modified": "Wed, 04 Nov 2026 21:44:34 GMT"
+ },
+ "http://www.goettinger-tageblatt.de/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"20b28-ZSlMeNhoUaUNm7mm/9ynk8AnmBw\"",
+  "last_modified": "Sat, 14 Nov 2026 19:01:34 GMT"
+ },
+ "http://www.illawarramercury.com.au/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 17:30:00 GMT"
+ },
+ "http://www.island.lk/feed": {
+  "etag": "W/\"b5d6f717803161c926eeb231686572ca\"",
+  "last_modified": "Sat, 14 Nov 2026 06:13:00 GMT"
+ },
+ "http://www.lehighvalleylive.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"1f88a-6Wk2Rhl7wCuGmkDhs8vxpkyG2+o\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:23 GMT"
+ },
+ "http://www.minnpost.com/feed/": {
+  "etag": "W/\"2e25eacaff475acb154ece72791a012a\"",
+  "last_modified": "Fri, 13 Nov 2026 19:26:56 GMT"
+ },
+ "http://www.stcatharinesstandard.ca/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory": {
+  "etag": "W/063c43fa6852ca8be26df56b6e838ca1",
+  "last_modified": "Sat, 14 Nov 2026 10:33:02 GMT"
+ },
+ "http://www.stltoday.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory": {
+  "etag": "W/45b8ddfb8536170695ec05b182d1674f",
+  "last_modified": "Sat, 14 Nov 2026 19:16:14 GMT"
+ },
+ "http://www.syracuse.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"190b8-3VcfEZ//iPQuF/oUBSqBcPrdCO0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:03:02 GMT"
+ },
+ "http://www.tagblatt.ch/ostschweiz.rss": {
+  "etag": "W/\"ac0b-+1Fau/G8Clk5+INmR7A/2jFqXu4\""
+ },
+ "http://www.verdade.co.mz/rss": {
+  "last_modified": "Sat, 14 Nov 2026 14:29:12 GMT"
+ },
+ "https://2001online.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 16:38:26 GMT"
+ },
+ "https://24.hu/feed/": {
+  "etag": "\"d6690a863bb3266984d06ee41fcac852\"",
+  "last_modified": "Sat, 14 Nov 2026 19:10:36 GMT"
+ },
+ "https://24.kg/rss/": {
+  "etag": "W/\"12a5b77ef942377ac4de\"",
+  "last_modified": "Sat, 14 Nov 2026 18:16:02 GMT"
+ },
+ "https://24ora.com/feed/": {
+  "etag": "W/\"e3dc4b124bb49fe0a53387430711349f\"",
+  "last_modified": "Sat, 14 Nov 2026 18:58:11 GMT"
+ },
+ "https://444.hu/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:02 GMT"
+ },
+ "https://6yka.com/feed/": {
+  "etag": "W/\"742b03bacc9bc7812ab5fef7b78475e1\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:00 GMT"
+ },
+ "https://aawsat.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:08:31 GMT"
+ },
+ "https://abbynews.com/rss": {
+  "etag": "W/\"198743b2282ef314fb75f1ecd89b673f\"",
+  "last_modified": "Sat, 14 Nov 2026 17:28:33 GMT"
+ },
+ "https://actualite.cd/feed": {
+  "etag": "W/\"1794681085\"",
+  "last_modified": "Sat, 14 Nov 2026 18:31:25 GMT"
+ },
+ "https://actucameroun.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:35:06 GMT"
+ },
+ "https://admin.klops.ru/rss/rss": {
+  "etag": "W/\"5447120ceaffc429fc4bac42db47138d\""
+ },
+ "https://aframnews.com/feed/": {
+  "etag": "W/\"94e92323139cf6c9722a80dcf3497a84\"",
+  "last_modified": "Sat, 14 Nov 2026 17:41:30 GMT"
+ },
+ "https://ahoraeg.com/feed/": {
+  "etag": "\"f798038971d8b7f73d03e80ca9a8632a\""
+ },
+ "https://ajel.sa/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 17:58:09 GMT"
+ },
+ "https://alamogordonews.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 14:00:00 GMT"
+ },
+ "https://albernivalleynews.com/rss": {
+  "etag": "W/\"698b37a64c5dbfcaadba36344ff016ae\"",
+  "last_modified": "Sat, 14 Nov 2026 16:00:00 GMT"
+ },
+ "https://almadapaper.net/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:57:08 GMT"
+ },
+ "https://alwatan.sy/feed/": {
+  "etag": "\"0612ce8587eecf3760c475f1c7474f1a\"",
+  "last_modified": "Sat, 14 Nov 2026 17:18:17 GMT"
+ },
+ "https://amandala.com.bz/news/feed/": {
+  "etag": "W/\"5f812fe91d0168956770cee644e10bb0\""
+ },
+ "https://anasozu.com/feed/": {
+  "etag": "W/\"b458c9238da0ff1fb72dd1b8823573de\"",
+  "last_modified": "Sat, 14 Nov 2026 06:31:26 GMT"
+ },
+ "https://andamanchronicle.net/feed/": {
+  "etag": "\"d2402cacf968202fc0d8eff3dfc61de8\"",
+  "last_modified": "Fri, 13 Nov 2026 19:11:01 GMT"
+ },
+ "https://andamansheekha.com/feed/": {
+  "last_modified": "Fri, 13 Nov 2026 18:00:21 GMT"
+ },
+ "https://antiguaobserver.com/feed/": {
+  "etag": "W/\"c841a856cb982e216e97b0df58c02eaf\"",
+  "last_modified": "Fri, 13 Nov 2026 00:56:18 GMT"
+ },
+ "https://antilla-martinique.com/feed/": {
+  "etag": "\"e259cdb04333cb92f671a64d2b8febbb-gzip\""
+ },
+ "https://api.axios.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 16:56:36 GMT"
+ },
+ "https://aprovinciadopara.com.br/feed/": {
+  "etag": "\"b5f2fc2fa886f5ea02717ab5f73565ac\"",
+  "last_modified": "Sat, 14 Nov 2026 17:50:08 GMT"
+ },
+ "https://arktimes.com/feed": {
+  "etag": "W/\"32ab3ab0fcb5a8caf8e03babd2577d3d\"",
+  "last_modified": "Sat, 14 Nov 2026 14:03:38 GMT"
+ },
+ "https://asiaplus.news/feed/": {
+  "etag": "W/\"d56a18b464417848d9c5efea013fcc4e\"",
+  "last_modified": "Sat, 14 Nov 2026 11:43:00 GMT"
+ },
+ "https://assabah.ma/feed": {
+  "etag": "W/\"052e3d06263d20b32a2ca2e40d2284ef\"",
+  "last_modified": "Thu, 12 Nov 2026 06:51:32 GMT"
+ },
+ "https://assets.censor.net/rss/censor.net/rss_uk_feed.xml": {
+  "etag": "W/\"d28c175b70e07988c4677ec14ff89b9e\"",
+  "last_modified": "Sat, 14 Nov 2026 17:58:01 GMT"
+ },
+ "https://atarde.com.br/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:11:29 GMT"
+ },
+ "https://auroradolima.com/feed/": {
+  "etag": "W/\"92e9e12a74ba0378aa7a67fa964d0250\"",
+  "last_modified": "Fri, 13 Nov 2026 09:35:58 GMT"
+ },
+ "https://avadhnama.com/feed/": {
+  "etag": "\"d51ec99058d78a2834cd7491da1f528a\"",
+  "last_modified": "Sat, 14 Nov 2026 10:32:52 GMT"
+ },
+ "https://barbadostoday.bb/feed/": {
+  "etag": "\"562c39713bf69ac1db769d60b564a794\"",
+  "last_modified": "Sat, 14 Nov 2026 15:00:51 GMT"
+ },
+ "https://bb.is/feed/": {
+  "etag": "W/\"714bb9eb1831f66c02e88533a90734e4\"",
+  "last_modified": "Sat, 14 Nov 2026 13:33:43 GMT"
+ },
+ "https://bdnews24.com/news_sitemap.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:06:24 GMT"
+ },
+ "https://be7.co.il/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 18:52:35 GMT"
+ },
+ "https://bernews.com/feed/": {
+  "etag": "\"fb20fe74f50da6dbf96ab13fb5e1983f-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:34:19 GMT"
+ },
+ "https://betpower.cd/rss": {
+  "last_modified": "Thu, 05 Mar 2026 09:16:22 GMT"
+ },
+ "https://bialystok.wyborcza.pl/pub/rss/bialystok.xml": {
+  "last_modified": "Fri, 13 Nov 2026 18:58:58 GMT"
+ },
+ "https://blueprint.ng/feed/": {
+  "etag": "W/\"d1c8cc96900a45d7477f762da07ffeb2\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:51 GMT"
+ },
+ "https://borba.me/feed/": {
+  "etag": "W/\"278d9532964e7bb29e4443b598203fc2\"",
+  "last_modified": "Sun, 01 Nov 2026 19:03:46 GMT"
+ },
+ "https://brnensky.denik.cz/rss/vse.xml": {
+  "etag": "W/\"342d77c3116913ff5e81be94363513c2\""
+ },
+ "https://buffalonews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc": {
+  "etag": "W/242a00f46bbca23705865e04e940876f",
+  "last_modified": "Sat, 14 Nov 2026 19:15:39 GMT"
+ },
+ "https://burkina24.com/feed/": {
+  "etag": "\"67b222b289e345824132fe6984f07f6b-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 14:34:47 GMT"
+ },
+ "https://burnslakelakesdistrictnews.com/rss": {
+  "etag": "W/\"8a00cfede24bdcb716d47a02b941073f\"",
+  "last_modified": "Sat, 14 Nov 2026 14:40:36 GMT"
+ },
+ "https://bvinews.com/rss": {
+  "etag": "W/\"6764e04c162fe603492484503bb654e7\"",
+  "last_modified": "Fri, 13 Nov 2026 11:34:01 GMT"
+ },
+ "https://bworldonline.com/feed/": {
+  "etag": "W/\"cc71872b5cffc7d1da7f50e61f2d94e3-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 16:02:31 GMT"
+ },
+ "https://bydgoszcz.wyborcza.pl/pub/rss/bydgoszcz.xml": {
+  "last_modified": "Sat, 14 Nov 2026 15:54:22 GMT"
+ },
+ "https://calgaryherald.com/feed/atom": {
+  "etag": "\"6ab34dde59b523d5057c83032e2e7cc3\"",
+  "last_modified": "Sat, 14 Nov 2026 19:08:27 GMT"
+ },
+ "https://calgarysun.com/feed/atom": {
+  "etag": "\"9ca5d0e667877c1bf28cffb14cd92725\"",
+  "last_modified": "Sat, 14 Nov 2026 17:44:09 GMT"
+ },
+ "https://cambojanews.com/feed/": {
+  "etag": "W/\"e56f323467ed3287f7d9858b083917b9\"",
+  "last_modified": "Sat, 14 Nov 2026 05:24:01 GMT"
+ },
+ "https://capitalethiopia.com/feed/": {
+  "etag": "W/\"e96d4b3857139618844c689c341e4830\"",
+  "last_modified": "Sat, 14 Nov 2026 14:21:07 GMT"
+ },
+ "https://cartamz.com/feed/": {
+  "last_modified": "Fri, 13 Nov 2026 14:45:47 GMT"
+ },
+ "https://cdn.idomin.com/rss/gn_rss_allArticle.xml": {
+  "etag": "\"41cad-6603fe692eb92-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:30:27 GMT"
+ },
+ "https://ceskobudejovicky.denik.cz/rss/vse.xml": {
+  "etag": "W/\"fe9613526037e7476702bbe1e1ed16ae\""
+ },
+ "https://chandrikadaily.com/feed": {
+  "etag": "\"7c37ecc79dafb03bffc64df5223033f0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:59 GMT"
+ },
+ "https://civil.ge/feed": {
+  "etag": "\"34c8dc13cfc9ef241a7ee232c7b00e15\"",
+  "last_modified": "Sat, 14 Nov 2026 14:06:14 GMT"
+ },
+ "https://claremontcourier.com/feed/": {
+  "etag": "W/\"22e4d66ed013af0a6dfd23e39750262b\"",
+  "last_modified": "Sat, 14 Nov 2026 16:00:39 GMT"
+ },
+ "https://clmais.com.br/rss": {
+  "etag": "\"ccf85f6752ff3bd05e176cb2dee549f6\"",
+  "last_modified": "Sat, 14 Nov 2026 05:07:28 GMT"
+ },
+ "https://cms.patrika.com/googlefeed/blog/category/national-news": {
+  "etag": "W/\"0d037caaffd32d7f502ee46c7a0b66a6\"",
+  "last_modified": "Sat, 14 Nov 2026 17:28:40 GMT"
+ },
+ "https://confidencial.digital/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:34 GMT"
+ },
+ "https://corbeaunews-centrafrique.org/feed/": {
+  "etag": "\"6fdc0867c84327239d3eabd946a08cb0\"",
+  "last_modified": "Fri, 13 Nov 2026 17:48:26 GMT"
+ },
+ "https://correodelcaroni.com/feed/": {
+  "etag": "W/\"f61c4e6bc5c7fdd2c5ad7997b933b14b\"",
+  "last_modified": "Sat, 14 Nov 2026 17:23:06 GMT"
+ },
+ "https://cyprus-mail.com/feed": {
+  "etag": "W/\"b0fc13e5701973f03ac20b03535f6f23\"",
+  "last_modified": "Sat, 14 Nov 2026 17:44:00 GMT"
+ },
+ "https://dagbladdewest.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 15:30:53 GMT"
+ },
+ "https://dailyguidenetwork.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 10:38:04 GMT"
+ },
+ "https://dailynews.co.tz/feed/": {
+  "etag": "\"9b5bd823ff5913b7cd9344f39f90fc0b\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:02 GMT"
+ },
+ "https://dailynews.co.zw/feed/": {
+  "etag": "\"8c66643b59408b4441677353c982cf42-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 05:29:41 GMT"
+ },
+ "https://dailypost.in/?feed=rss2": {
+  "etag": "\"374e571aedd663641824b26ad588d434-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 14:28:57 GMT"
+ },
+ "https://dailypost.ng/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:04:03 GMT"
+ },
+ "https://dailytimes.com.pk/feed/": {
+  "etag": "W/\"917bb808a95fd47a80036dd0cf4e7541\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:45 GMT"
+ },
+ "https://dailytrust.com/rss": {
+  "etag": "W/\"ace1c7a75849f65e44358a83ee70aa48\"",
+  "last_modified": "Sat, 14 Nov 2026 19:10:20 GMT"
+ },
+ "https://dantri.com.vn/rss/home.rss": {
+  "etag": "\"ab59f956974dd1:0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:54:31 GMT"
+ },
+ "https://daymohk-gazet.ru/feed": {
+  "etag": "\"e6cb8ba04694330a1e4b33fd2d79d0af\"",
+  "last_modified": "Thu, 12 Nov 2026 07:54:51 GMT"
+ },
+ "https://defimedia.info/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:05 GMT"
+ },
+ "https://denikn.cz/feed/": {
+  "etag": "W/\"ce5522708067e141c7120f8388f6f474-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:12:53 GMT"
+ },
+ "https://dennikn.sk/feed/": {
+  "etag": "W/\"cac1ddd4f6f9ebbd331a80ccf884b264-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:06:18 GMT"
+ },
+ "https://deshdoot.com/feed/": {
+  "etag": "W/\"77e375b80b510bc59152939531f18529\"",
+  "last_modified": "Sat, 14 Nov 2026 16:28:02 GMT"
+ },
+ "https://dharitri.com/rss": {
+  "etag": "\"865833a3f9af3613e2d3a62378575e2a\"",
+  "last_modified": "Sat, 14 Nov 2026 17:06:10 GMT"
+ },
+ "https://diario.mx/rss/feed.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:01:39 GMT"
+ },
+ "https://diarioavance.com/feed/": {
+  "etag": "W/\"7fcc4803f846c24a276d868b5d708d8a\"",
+  "last_modified": "Sat, 14 Nov 2026 17:50:13 GMT"
+ },
+ "https://diariocorreo.pe/arcio/rss/": {
+  "etag": "W/\"8832e-Cdtwx07YZreKHkxNQ17jneH3q2U\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:18 GMT"
+ },
+ "https://diariodopara.com.br/feed/": {
+  "etag": "W/\"8081676c393013eacae2fab10b8cb5ca\"",
+  "last_modified": "Sat, 14 Nov 2026 17:47:38 GMT"
+ },
+ "https://diariodosacores.pt/feed/": {
+  "etag": "W/\"7bd911a8668bc0ed346a092746214ffc\"",
+  "last_modified": "Sat, 14 Nov 2026 01:00:00 GMT"
+ },
+ "https://diariolavozdelsureste.com/feed/": {
+  "last_modified": "Fri, 13 Nov 2026 16:53:21 GMT"
+ },
+ "https://diariorombe.es/feed/": {
+  "etag": "\"f7e02ed457b40ca78a2ea46907257b70\"",
+  "last_modified": "Fri, 13 Nov 2026 10:27:32 GMT"
+ },
+ "https://diggers.news/feed/": {
+  "etag": "\"7d3383416d2c07302dfa91df7dbfbac0\"",
+  "last_modified": "Sat, 14 Nov 2026 08:30:18 GMT"
+ },
+ "https://dwtonline.com/feed/": {
+  "etag": "\"e20758ad8b99ff33f95e3c4b6ac60629-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:45:24 GMT"
+ },
+ "https://e-thessalia.gr/feed/": {
+  "etag": "\"476ad-65f60c26e6845-gzip\"",
+  "last_modified": "Tue, 03 Nov 2026 15:17:23 GMT"
+ },
+ "https://eastoregonian.com/rss": {
+  "etag": "W/\"47338ef9349aec54e813acadfe229cbd\"",
+  "last_modified": "Sat, 14 Nov 2026 04:00:00 GMT"
+ },
+ "https://economictimes.indiatimes.com/rssfeedsdefault.cms": {
+  "etag": "\"071868724b4b5ecb92d7a469857c87619-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:55 GMT"
+ },
+ "https://edmontonjournal.com/feed/atom": {
+  "etag": "\"8fc539f1088fcd372909614495f7c5de\"",
+  "last_modified": "Sat, 14 Nov 2026 16:36:06 GMT"
+ },
+ "https://efectococuyo.com/rss": {
+  "etag": "W/\"21b72d166692e7cccf29365b19416819\"",
+  "last_modified": "Sat, 14 Nov 2026 01:31:25 GMT"
+ },
+ "https://eisamay.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:42 GMT"
+ },
+ "https://ekstrabladet.dk/rssfeed/nyheder/": {
+  "etag": "W/\"22d7-5rxZugNTt+euJVOrNXH8S0A2Z9s\""
+ },
+ "https://el1.com.ar/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 15:02:22 GMT"
+ },
+ "https://eladelantado.com/feed/": {
+  "etag": "\"7817afdd0965b60852362cdb83131e06-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 15:41:42 GMT"
+ },
+ "https://elciudadanoweb.com/feed/": {
+  "etag": "\"9762-6603d722757d3\"",
+  "last_modified": "Sat, 14 Nov 2026 14:34:44 GMT"
+ },
+ "https://eldebate.com.ar/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:00:00 GMT"
+ },
+ "https://eldeber.com.bo/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:12:17 GMT"
+ },
+ "https://eldesconcierto.cl/rss/pages/ultimas-noticias.xml": {
+  "etag": "\"bfa7b298331bc45f4be97b4d24bbf392\"",
+  "last_modified": "Sat, 14 Nov 2026 17:00:52 GMT"
+ },
+ "https://eldia.com.do/feed/": {
+  "etag": "W/\"08be650637e4b5e4fcdceb472ebb3f07\"",
+  "last_modified": "Sat, 14 Nov 2026 16:14:52 GMT"
+ },
+ "https://eldiariony.com/rss": {
+  "etag": "W/\"094f5aaec3698cd9f5c86d71128ad3e3\"",
+  "last_modified": "Sat, 14 Nov 2026 19:13:11 GMT"
+ },
+ "https://elheraldodesaltillo.mx/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 13:45:10 GMT"
+ },
+ "https://elinformadorve.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 16:52:20 GMT"
+ },
+ "https://elpitazo.net/feed/": {
+  "etag": "W/\"d239ed0de12bb137128152cc7858e48c\"",
+  "last_modified": "Sat, 14 Nov 2026 16:53:29 GMT"
+ },
+ "https://elsigloweb.com/feed/": {
+  "etag": "\"9de9250b8f69875081fdb6f08dc25ef8-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 15:40:29 GMT"
+ },
+ "https://elthraki.gr/feed/": {
+  "etag": "\"e1e540762f4bdb3cd84834b821d5feb3\"",
+  "last_modified": "Sat, 14 Nov 2026 11:00:00 GMT"
+ },
+ "https://eltiempo.pe/feed/": {
+  "etag": "\"bc6dcb0669d8bd6673e1662623fc25e8-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:53:21 GMT"
+ },
+ "https://eltiempove.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 12:59:39 GMT"
+ },
+ "https://eltribunodejujuy.com/feed": {
+  "etag": "W/\"4b61-SUWfiv61rchDA8xPWLwj5wckA1A\""
+ },
+ "https://esp.md/rss.xml": {
+  "etag": "\"1794681923-1\"",
+  "last_modified": "Sat, 14 Nov 2026 18:45:23 GMT"
+ },
+ "https://expansao.co.ao/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:44 GMT"
+ },
+ "https://extra.cw/feed/": {
+  "last_modified": "Sat, 31 Oct 2026 11:21:14 GMT"
+ },
+ "https://extra.globo.com/rss/extra": {
+  "etag": "\"9edecdb84f8aa02f58c829f7aeb3986b343bcb66\""
+ },
+ "https://fd.nl/sitemap/sitemap_google_news.xml": {
+  "etag": "W/\"13f36553295fbb2609a9eb42c6e1bdcc\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:01 GMT"
+ },
+ "https://feed.delfi.lt/v2/channel/global-lt?format=rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:18:01 GMT"
+ },
+ "https://feeds.acast.com/public/shows/6437b7ae6a454e0011a47678": {
+  "etag": "W/\"djEuMi4wOjE3OTQ2MzI0Mzk2NTQ=\""
+ },
+ "https://feeds.ajc.com/arc/outboundfeeds/news-sitemap/?outputType=xml": {
+  "etag": "W/\"11bf3-RsIldos4xaVPmN0rC+k8wfeGjG4\"",
+  "last_modified": "Sat, 14 Nov 2026 19:10:36 GMT"
+ },
+ "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada": {
+  "etag": "W/\"24587-vUclZrdAH226k7nuGoFQLpAV2q0\""
+ },
+ "https://feeds.expressen.se/nyheter/": {
+  "etag": "W/\"3b48-IR0mP51ynIozKvAUK5YXfr25nKw\""
+ },
+ "https://feeds.feedburner.com/3szekHirek": {
+  "last_modified": "Sat, 14 Nov 2026 18:38:33 GMT"
+ },
+ "https://feeds.feedburner.com/DominicaNewsOnline/": {
+  "last_modified": "Sat, 14 Nov 2026 15:47:58 GMT"
+ },
+ "https://feeds.feedburner.com/LaGacetaUltimoMomento?format=xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:01:35 GMT"
+ },
+ "https://feeds.feedburner.com/PublicoRSS": {
+  "last_modified": "Sat, 14 Nov 2026 19:01:45 GMT"
+ },
+ "https://feeds.feedburner.com/akita_news": {
+  "last_modified": "Sat, 14 Nov 2026 17:20:57 GMT"
+ },
+ "https://feeds.feedburner.com/expresso-geral": {
+  "last_modified": "Sat, 14 Nov 2026 18:48:51 GMT"
+ },
+ "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml": {
+  "etag": "W/\"fafb8e-1f046-6604155ddbd80\"",
+  "last_modified": "Sat, 14 Nov 2026 19:13:10 GMT"
+ },
+ "https://feeds.leparisien.fr/leparisien/rss": {
+  "etag": "W/\"89ec-1IIfiAcTwWwnL1LGD9ypCiMort8\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:14 GMT"
+ },
+ "https://fokus.mk/feed/": {
+  "etag": "W/\"9612da3331996ec66227c62be0f7f6f6\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:55 GMT"
+ },
+ "https://folhadegoias.info/feed": {
+  "etag": "W/\"f9984b2df9cbae5f500b8837edfd1783\"",
+  "last_modified": "Thu, 12 Nov 2026 16:33:02 GMT"
+ },
+ "https://furat.alwehda.gov.sy/?feed=rss2": {
+  "etag": "\"1313b23bb6c87a89c4f221108b30246c-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:24:54 GMT"
+ },
+ "https://ga.de/bonn/stadt-bonn/feed.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:02:38 GMT"
+ },
+ "https://gagauzinfo.md/rss": {
+  "last_modified": "Sat, 14 Nov 2026 14:40:21 GMT"
+ },
+ "https://gazetadascaldas.pt/feed/": {
+  "etag": "\"38f84b873af7d3a30494083c4019aaee\"",
+  "last_modified": "Sat, 14 Nov 2026 13:33:58 GMT"
+ },
+ "https://gazetaingush.ru/rss.xml": {
+  "etag": "\"1794678896\"",
+  "last_modified": "Sat, 14 Nov 2026 17:54:56 GMT"
+ },
+ "https://gazetashqiptare.al/feed/": {
+  "etag": "W/\"f640e9d8d441b92df9910e45277a7b80\"",
+  "last_modified": "Sat, 14 Nov 2026 17:12:26 GMT"
+ },
+ "https://gazetasi.al/rss": {
+  "etag": "\"222a0ad73fc0d1e92696379f3276ef71\"",
+  "last_modified": "Sat, 14 Nov 2026 13:13:29 GMT"
+ },
+ "https://gazetavyborg.ru/news/rss/": {
+  "last_modified": "Thu, 28 Feb 2019 21:03:57 GMT"
+ },
+ "https://gazettenet.com/feed/": {
+  "etag": "W/\"25ff8aa0b534d26b4859ee1cd9978882\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:03 GMT"
+ },
+ "https://gazzettadelsud.it/upload/assets/rss/producer-messina-homepage.xml": {
+  "etag": "W/\"6af8b373-693fd\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:03 GMT"
+ },
+ "https://gds.it/upload/assets/rss/producer-sicilia-homepage.xml": {
+  "etag": "W/\"6af8af77-666fd\"",
+  "last_modified": "Sat, 14 Nov 2026 18:59:03 GMT"
+ },
+ "https://gestion.pe/arcio/rss/": {
+  "etag": "W/\"dd543-93io8sBGMihApoPNiHu4pOtDIZQ\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:41 GMT"
+ },
+ "https://ghanaiantimes.com.gh/feed/": {
+  "etag": "\"310b0c490ef3cbfc66fd84300ddb4405\"",
+  "last_modified": "Fri, 13 Nov 2026 16:20:38 GMT"
+ },
+ "https://goobjoog.com/feed/": {
+  "etag": "W/\"a35711a10312aa5df8cefc9ecf54d6bd\""
+ },
+ "https://gorzow.wyborcza.pl/pub/rss/gorzow.xml": {
+  "last_modified": "Fri, 13 Nov 2026 17:13:58 GMT"
+ },
+ "https://guineematin.com/feed/": {
+  "etag": "\"70c8e814d5ffdebd2a7a118e1ce7b12c\"",
+  "last_modified": "Sat, 14 Nov 2026 16:43:01 GMT"
+ },
+ "https://guineenews.org/feed/": {
+  "etag": "W/\"7dbd00b26eca14287cd7819c0fe67a4a\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:29 GMT"
+ },
+ "https://gujaratmitra.in/feed/": {
+  "etag": "W/\"dede2674a055d13ce18f616441ede68c\"",
+  "last_modified": "Tue, 10 Nov 2026 10:13:16 GMT"
+ },
+ "https://gulfnews.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:14:39 GMT"
+ },
+ "https://guyanatimesgy.com/feed/": {
+  "etag": "\"033ab57acd9fd51e54a7c859456d79ba\"",
+  "last_modified": "Sat, 14 Nov 2026 08:05:13 GMT"
+ },
+ "https://habarileo.co.tz/feed/": {
+  "etag": "\"a5153f698d277561813d285251d54f8a\"",
+  "last_modified": "Sat, 14 Nov 2026 16:10:52 GMT"
+ },
+ "https://heimildin.is/rss/": {
+  "last_modified": "Sat, 14 Nov 2026 19:00:00 GMT"
+ },
+ "https://heraldpioneer.com/rss": {
+  "etag": "W/\"042829e7769e7514eee1cd0326af60e5\"",
+  "last_modified": "Sat, 14 Nov 2026 13:00:00 GMT"
+ },
+ "https://hn.cz/?m=rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:50 GMT"
+ },
+ "https://hnrb.hunantoday.cn/rss.xml": {
+  "etag": "W/\"6af6de49-2bb5\"",
+  "last_modified": "Fri, 13 Nov 2026 09:54:17 GMT"
+ },
+ "https://hongkongfp.com/feed/": {
+  "etag": "W/\"e32f2cbf2ccb879c4c483141c67ed195\"",
+  "last_modified": "Sat, 14 Nov 2026 04:25:44 GMT"
+ },
+ "https://hosadigantha.com/feed/": {
+  "etag": "W/\"98b171344b44325e4850894386388a22\"",
+  "last_modified": "Sat, 14 Nov 2026 15:58:03 GMT"
+ },
+ "https://hotnews.ro/feed": {
+  "etag": "W/\"c4579344f4e636dcba4e21841d5a0ef2\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:53 GMT"
+ },
+ "https://hradecky.denik.cz/rss/vse.xml": {
+  "etag": "W/\"20404449a6816dce9d6b008179426361\""
+ },
+ "https://hvg.hu/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:35 GMT"
+ },
+ "https://ibarakinews.jp/news/hphead.rss": {
+  "etag": "\"19ed-65e7e0d391940\"",
+  "last_modified": "Fri, 23 Oct 2026 08:49:01 GMT"
+ },
+ "https://ikon.mn/rss": {
+  "etag": "W/\"11b208a36e5e6ab13551475e1efb70da\""
+ },
+ "https://ilmanifesto.it/rss": {
+  "etag": "\"3883e35483ebfe54c6971103793dd9bc-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 16:26:30 GMT"
+ },
+ "https://indeksonline.net/feed/": {
+  "etag": "W/\"86146ed6c8147d99925fdc3660513653\"",
+  "last_modified": "Sat, 14 Nov 2026 18:58:50 GMT"
+ },
+ "https://indianexpress.com/feed": {
+  "etag": "W/\"17d385d624e6d9c6037c66df1e997d52\"",
+  "last_modified": "Sat, 14 Nov 2026 15:33:25 GMT"
+ },
+ "https://inews.co.uk/rss": {
+  "etag": "W/\"35060c88ca3b5dbd9003749640a0e507\"",
+  "last_modified": "Sat, 14 Nov 2026 18:37:25 GMT"
+ },
+ "https://iol.co.za/rss/": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:00 GMT"
+ },
+ "https://irstar.kz/feed/": {
+  "etag": "\"317b344e7cd826d09a1dbe82243ba026\"",
+  "last_modified": "Sat, 14 Nov 2026 07:45:54 GMT"
+ },
+ "https://islandsbusiness.com/feed/": {
+  "etag": "W/\"e100fbd8377ef8ee2da788696a856efb-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 07:54:15 GMT"
+ },
+ "https://islandtimes.org/feed/": {
+  "etag": "W/\"72c49db9fcd32e49b7301ccdd3d191f8\"",
+  "last_modified": "Fri, 13 Nov 2026 10:13:56 GMT"
+ },
+ "https://istories.media/rss/all.xml": {
+  "etag": "W/\"6af87ca0-2ae11\"",
+  "last_modified": "Sat, 14 Nov 2026 15:22:08 GMT"
+ },
+ "https://jagbani.punjabkesari.in/newssitemap.xml": {
+  "etag": "W/\"5d96b5e35074dd1:0\"",
+  "last_modified": "Sat, 14 Nov 2026 15:57:45 GMT"
+ },
+ "https://jamahir.alwehda.gov.sy/?feed=rss2": {
+  "etag": "\"2548f2b60d767064d108e57d402a2cd4-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 15:55:41 GMT"
+ },
+ "https://jamaica-gleaner.com/feed/news.xml": {
+  "etag": "\"1794682755\"",
+  "last_modified": "Sat, 14 Nov 2026 18:59:15 GMT"
+ },
+ "https://janamsakshi.org/rss": {
+  "etag": "W/\"c6be9be86161b7d073799255db6c5494\"",
+  "last_modified": "Wed, 11 Nov 2026 06:10:20 GMT"
+ },
+ "https://janayugomonline.com/feed/": {
+  "etag": "W/\"b11dbfaf490d3c2769515e02057cc0bf\"",
+  "last_modified": "Sat, 14 Nov 2026 17:26:03 GMT"
+ },
+ "https://jang.com.pk/rss/1/1": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:38 GMT"
+ },
+ "https://janmabhumi.in/rss": {
+  "etag": "\"c2e65770a30296521dc6ce1de42e8672\""
+ },
+ "https://jc.uol.com.br/ultimas/rss.xml": {
+  "etag": "W/\"6af897d4-2b899\"",
+  "last_modified": "Sat, 14 Nov 2026 17:18:12 GMT"
+ },
+ "https://jerseyeveningpost.com/feed/": {
+  "etag": "W/\"0882d4dae72f6b6bbfdbc73ebd4a0014\"",
+  "last_modified": "Sat, 14 Nov 2026 18:35:05 GMT"
+ },
+ "https://jeunessedalgerie.dz/feed/": {
+  "etag": "W/\"3e5d7e8f2eaf8f005a57f3a4756e7b82\"",
+  "last_modified": "Wed, 11 Nov 2026 18:09:33 GMT"
+ },
+ "https://jewishjournal.com/feed/": {
+  "etag": "\"de9449c4b8a62fbd4ca656dc8c2222fb\"",
+  "last_modified": "Fri, 13 Nov 2026 22:59:09 GMT"
+ },
+ "https://jhm.fr/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:00:00 GMT"
+ },
+ "https://juarezhoy.com.mx/feed/": {
+  "etag": "\"e1e540762f4bdb3cd84834b821d5feb3\"",
+  "last_modified": "Sat, 14 Nov 2026 11:00:00 GMT"
+ },
+ "https://jubi.id/feed/": {
+  "etag": "\"017bf3a0396cbce951231a11be62a5a1\"",
+  "last_modified": "Thu, 05 Nov 2026 10:46:12 GMT"
+ },
+ "https://kaieteurnewsonline.com/feed/": {
+  "etag": "W/\"def6d0422477b05d066ce0aa3e9bced8\"",
+  "last_modified": "Sat, 14 Nov 2026 14:30:13 GMT"
+ },
+ "https://karpatinfo.net/rss.xml": {
+  "etag": "\"1794677853-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:37:33 GMT"
+ },
+ "https://kashmirobserver.net/feed/": {
+  "etag": "\"cb4a41d0a5fcc1ff30038ac132e5ade8\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:43 GMT"
+ },
+ "https://kashmirtimes.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 17:03:02 GMT"
+ },
+ "https://katowice.wyborcza.pl/pub/rss/katowice.xml": {
+  "last_modified": "Sat, 14 Nov 2026 15:05:58 GMT"
+ },
+ "https://kauno.diena.lt/rss": {
+  "etag": "W/\"1792065411\"",
+  "last_modified": "Thu, 15 Oct 2026 11:56:51 GMT"
+ },
+ "https://kibrisgazetesi.com/feed/": {
+  "etag": "W/\"882042402b961696acf6bf0d6dcbd875\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:34 GMT"
+ },
+ "https://kielce.wyborcza.pl/pub/rss/kielce.xml": {
+  "last_modified": "Tue, 10 Nov 2026 09:14:59 GMT"
+ },
+ "https://klassekampen.no/rss": {
+  "etag": "W/\"6f6ce-iTzBeWziqGsjAtzmCONgt7ewaXE\""
+ },
+ "https://kohajone.com/rss": {
+  "etag": "\"0fade04337a02a3ca6c10f0eff948057\""
+ },
+ "https://koorimail.com/feed/": {
+  "etag": "\"a0a486b4dcd83ac92ae3fa2c04f8ca62-gzip\"",
+  "last_modified": "Wed, 11 Nov 2026 03:29:21 GMT"
+ },
+ "https://kossev.info/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 18:31:18 GMT"
+ },
+ "https://krakow.wyborcza.pl/pub/rss/krakow.xml": {
+  "last_modified": "Sat, 14 Nov 2026 10:37:58 GMT"
+ },
+ "https://kronika.ro/rss/kronika_hirek.xml": {
+  "etag": "\"2f82-66040742ec735-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:10:03 GMT"
+ },
+ "https://kurier.at/xml/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:35 GMT"
+ },
+ "https://kurierwilenski.lt/feed/": {
+  "etag": "\"25795792e6cc3ae1f0b8aa3a943d5cbb\"",
+  "last_modified": "Sat, 14 Nov 2026 16:10:00 GMT"
+ },
+ "https://kyivindependent.com/news-archive/rss/": {
+  "etag": "W/\"444d-3NOpJ+QDxs7FyyDniBE1ey60GJ0\""
+ },
+ "https://ladiaria.com.uy/feeds/articulos/": {
+  "last_modified": "Sat, 14 Nov 2026 18:59:50 GMT"
+ },
+ "https://ladiscusion.cl/feed/": {
+  "etag": "W/\"38fe7c8f55afa2da462ba2acfd65d526\"",
+  "last_modified": "Sat, 14 Nov 2026 16:33:09 GMT"
+ },
+ "https://laextra.mx/feed/": {
+  "etag": "\"cac6b45d9462539af96fcddecc32b721\""
+ },
+ "https://lagrandeobserver.com/rss": {
+  "etag": "W/\"72fb4f1ba7b40c1b3520dd7d933cfcd1\"",
+  "last_modified": "Sat, 14 Nov 2026 15:00:00 GMT"
+ },
+ "https://lahora.gt/feed/": {
+  "etag": "W/\"7ab477c43971a4418cd31eb77fb7bd8c\"",
+  "last_modified": "Sat, 14 Nov 2026 17:32:10 GMT"
+ },
+ "https://lajmi.net/rss": {
+  "etag": "W/\"5fdc8c4f6ef4121d9c499192413ba8bb\""
+ },
+ "https://langleyadvancetimes.com/rss": {
+  "etag": "W/\"0d037caaffd32d7f502ee46c7a0b66a6\"",
+  "last_modified": "Sat, 14 Nov 2026 17:28:40 GMT"
+ },
+ "https://lanouvelletribune.info/feed/": {
+  "etag": "\"59d5fe2109b3aa14cd0e68b99042f5a5-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:51:18 GMT"
+ },
+ "https://laopinion.com/rss": {
+  "etag": "W/\"ead725da25cd7c25f2c30085a1d71943\"",
+  "last_modified": "Sat, 14 Nov 2026 19:12:58 GMT"
+ },
+ "https://laopinionaustral.com.ar/sitemaps/sitemaps-googlenews.xml": {
+  "etag": "W/\"58d7-66040507ff340\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:05 GMT"
+ },
+ "https://laotiantimes.com/feed/": {
+  "etag": "\"039a7533fdc00e4f965d5967bcbb053f\"",
+  "last_modified": "Sat, 14 Nov 2026 05:38:00 GMT"
+ },
+ "https://lapatilla.com/feed/": {
+  "etag": "W/\"bbec6f0922f8271537a48859514a23c4\"",
+  "last_modified": "Sat, 14 Nov 2026 18:53:41 GMT"
+ },
+ "https://lasnoticiasdemalleco.cl/feed/": {
+  "etag": "\"033fbb4e097a774d51f3b0f54bb72edd\"",
+  "last_modified": "Sat, 14 Nov 2026 16:40:03 GMT"
+ },
+ "https://lasvegassun.com/feeds/headlines/all/": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:57 GMT"
+ },
+ "https://laverdad.com/feed/": {
+  "etag": "\"b249e876fd91d4fa4063885352177fbe\"",
+  "last_modified": "Sat, 14 Nov 2026 16:33:20 GMT"
+ },
+ "https://lavoce.hr/feed": {
+  "etag": "W/\"6d66a9c0d0ed110bad4a9d6fd0afd748\"",
+  "last_modified": "Sat, 14 Nov 2026 15:35:11 GMT"
+ },
+ "https://lb.ua/rss/ukr/rss.xml": {
+  "etag": "W/\"ad7da4266274dd1:0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:19 GMT"
+ },
+ "https://leadership.ng/feed/": {
+  "etag": "W/\"9541c278929129ef8f56b80895a06884\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:35 GMT"
+ },
+ "https://lecalame.info/?q=rss.xml": {
+  "etag": "\"1794678740-1\"",
+  "last_modified": "Sat, 14 Nov 2026 17:52:20 GMT"
+ },
+ "https://lecourrier.ch/rss": {
+  "last_modified": "Sat, 14 Nov 2026 17:38:59 GMT"
+ },
+ "https://lecourrier.vn/sitemap_news.xml": {
+  "etag": "\"XCj9Z5i0UcqPdPQ8CiPvBQs1Y8I\""
+ },
+ "https://lematinal.bj/feed/": {
+  "etag": "\"218b219f7ecf3c0c572db4e447d568a1-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 15:51:46 GMT"
+ },
+ "https://lenouveaureveil.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:00:00 GMT"
+ },
+ "https://lequotidien.lu/feed/": {
+  "last_modified": "Mon, 09 Nov 2026 12:28:52 GMT"
+ },
+ "https://lequotidien.sn/feed/": {
+  "etag": "\"927d186e05e503543e269b8980d3f300\"",
+  "last_modified": "Sat, 14 Nov 2026 17:16:28 GMT"
+ },
+ "https://lesoleil.sn/feed/": {
+  "etag": "\"3176c8e39b3cba176e4619d1efc616d2-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:06 GMT"
+ },
+ "https://lestimes.com/?feed=rss2": {
+  "etag": "\"2e43a090e5c7d81ce58ecbc87e348288\"",
+  "last_modified": "Fri, 13 Nov 2026 14:56:22 GMT"
+ },
+ "https://letemps.news/feed/": {
+  "etag": "\"3e9ae604ef1e2a8b90bdf189c108df04\"",
+  "last_modified": "Sat, 14 Nov 2026 16:50:44 GMT"
+ },
+ "https://liberecky.denik.cz/rss/vse.xml": {
+  "etag": "W/\"915cd40537c16b08e3d65193222b2303\""
+ },
+ "https://libertas.mk/feed/": {
+  "etag": "\"4c463eac6417e861fd68773eb354ef05-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:01:22 GMT"
+ },
+ "https://listindiario.com/sitemap-google-news.xml": {
+  "etag": "W/\"43ffa0a52f11a67f7b31923710dd8492\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:03 GMT"
+ },
+ "https://lodz.wyborcza.pl/pub/rss/lodz.xml": {
+  "last_modified": "Sat, 14 Nov 2026 07:05:58 GMT"
+ },
+ "https://lokalno.mk/feed/": {
+  "etag": "W/\"2ac2dad7da09a7a5c5bc710521aabb43\"",
+  "last_modified": "Sat, 14 Nov 2026 15:35:48 GMT"
+ },
+ "https://lokshahilive.com/feed/": {
+  "etag": "\"e39885a5e1f0c3407a3497a738fbdfba\"",
+  "last_modified": "Fri, 13 Nov 2026 15:39:05 GMT"
+ },
+ "https://lovinmalta.com/feed/": {
+  "etag": "W/\"fcde0fb0826472e6f8cac2b56a747367\"",
+  "last_modified": "Sat, 14 Nov 2026 15:30:36 GMT"
+ },
+ "https://lr1.com.br/feed/": {
+  "etag": "W/\"f6173015ce8ca600db8b4027ff0932e8\"",
+  "last_modified": "Sat, 14 Nov 2026 17:00:00 GMT"
+ },
+ "https://lublin.wyborcza.pl/pub/rss/lublin.xml": {
+  "last_modified": "Sat, 14 Nov 2026 07:13:58 GMT"
+ },
+ "https://madraspioneer.com/rss": {
+  "etag": "W/\"f4dad280498f3c15c0d894416dfb1329\"",
+  "last_modified": "Fri, 13 Nov 2026 18:03:29 GMT"
+ },
+ "https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:57 GMT"
+ },
+ "https://malawi24.com/feed/": {
+  "etag": "\"79b9dc633c0ef3719402acaaa7b7d139\"",
+  "last_modified": "Sat, 14 Nov 2026 16:54:17 GMT"
+ },
+ "https://malijet.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:20 GMT"
+ },
+ "https://maroelamedia.co.za/feed/": {
+  "etag": "\"2adb21f0798c896f8124c355e206acb1\"",
+  "last_modified": "Sat, 14 Nov 2026 17:13:11 GMT"
+ },
+ "https://matangitonga.to/rss.xml": {
+  "etag": "\"1794677713-1\"",
+  "last_modified": "Sat, 14 Nov 2026 17:35:13 GMT"
+ },
+ "https://matinlibre.com/feed/": {
+  "etag": "W/\"d135b435d6e0556e838f745494719cb6\"",
+  "last_modified": "Tue, 10 Nov 2026 18:59:04 GMT"
+ },
+ "https://media.laregione.ch/files/domains/laregione.ch/rss/rss_home.xml": {
+  "etag": "\"f6d2-660412e0ffa00-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:02:02 GMT"
+ },
+ "https://mediaguinee.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:20:06 GMT"
+ },
+ "https://mediaindonesia.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:34 GMT"
+ },
+ "https://meduza.io/rss/all": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:30 GMT"
+ },
+ "https://melillahoy.es/feed/": {
+  "etag": "\"45f7d59b2ff692c6b8cb1107aaf125f0-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:00:20 GMT"
+ },
+ "https://meridianstar.com/rss": {
+  "etag": "W/\"aa4479523cae2bfb413993dcb8921a14\"",
+  "last_modified": "Wed, 11 Nov 2026 23:37:45 GMT"
+ },
+ "https://meta.mk/feed/": {
+  "etag": "W/\"010b85f6ae97c53fb25ea8e704e74f85\""
+ },
+ "https://metro.co.uk/feed/": {
+  "etag": "W/\"e826b907a06518e8b2674efeded1836e\"",
+  "last_modified": "Sat, 14 Nov 2026 19:14:48 GMT"
+ },
+ "https://midi-madagasikara.mg/feed": {
+  "etag": "W/\"6481cd1ad9e0d9ef9c5626c07e963a87\"",
+  "last_modified": "Sat, 14 Nov 2026 03:00:00 GMT"
+ },
+ "https://misionesonline.net/feed/": {
+  "etag": "W/\"0110201357b8eb1cf014bb0ce7279bba\"",
+  "last_modified": "Sat, 14 Nov 2026 17:52:31 GMT"
+ },
+ "https://moravskoslezsky.denik.cz/rss/vse.xml": {
+  "etag": "W/\"e236f81ef43c5b2989c2969572a59f2b\""
+ },
+ "https://nagalandpost.com/feed/": {
+  "etag": "\"c7031f0ac455543ada4772e279cc4bce\"",
+  "last_modified": "Sat, 14 Nov 2026 09:33:48 GMT"
+ },
+ "https://nasarijec.ba/feed/": {
+  "etag": "\"7a701088215c428f97acaef1be3afe73-gzip\"",
+  "last_modified": "Tue, 10 Nov 2026 08:39:37 GMT"
+ },
+ "https://nation.africa/kenya/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:03 GMT"
+ },
+ "https://nationalpost.com/feed/atom": {
+  "etag": "\"60ae9fe39379bd6e0c3d14089c23ac81\"",
+  "last_modified": "Sat, 31 Oct 2026 00:26:26 GMT"
+ },
+ "https://navabharat.com/?feed=rss2": {
+  "etag": "\"2beb35e1511f5d4b9c7266625343ab2e\"",
+  "last_modified": "Sat, 14 Nov 2026 17:50:17 GMT"
+ },
+ "https://navajotimes.com/news-sitemap.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:08:12 GMT"
+ },
+ "https://navbharattimes.indiatimes.com/sitemap/rssfeed.xml": {
+  "etag": "W/\"944e7-g+1criz1OsZdKho1/sVuI2+j00A\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:58 GMT"
+ },
+ "https://navpradesh.com/feed/": {
+  "etag": "\"36bd1964bf53253829d0c030cd1b71de\"",
+  "last_modified": "Sat, 14 Nov 2026 16:32:40 GMT"
+ },
+ "https://nawanzamana.in/?feed=rss2": {
+  "etag": "\"a9d9e7e09546cfc31e5178b0dfcfb3ab\"",
+  "last_modified": "Thu, 12 Nov 2026 18:31:37 GMT"
+ },
+ "https://necenzurirano.si/rss/site.xml": {
+  "etag": "W/\"6af8ab07-dece\"",
+  "last_modified": "Sat, 14 Nov 2026 18:40:07 GMT"
+ },
+ "https://nelsonstar.com/rss": {
+  "etag": "W/\"8a00cfede24bdcb716d47a02b941073f\"",
+  "last_modified": "Sat, 14 Nov 2026 14:40:36 GMT"
+ },
+ "https://net.hr/feed": {
+  "etag": "W/\"6af8b03c-e0e3\"",
+  "last_modified": "Sat, 14 Nov 2026 19:02:20 GMT"
+ },
+ "https://netgazeti.ge/feed/": {
+  "etag": "\"9b383a57e46e21132c1a19f06a6a7520\"",
+  "last_modified": "Sat, 14 Nov 2026 18:56:49 GMT"
+ },
+ "https://neueswochenblatt.pl/rss": {
+  "etag": "\"714548462a148c6fa9cb55530a331544\"",
+  "last_modified": "Sat, 14 Nov 2026 16:00:25 GMT"
+ },
+ "https://neweralive.na/feed/": {
+  "etag": "W/\"99fd3315bd68149598901e4889b29606\"",
+  "last_modified": "Fri, 13 Nov 2026 13:34:20 GMT"
+ },
+ "https://news-journal.com/rss": {
+  "etag": "W/\"8e99855e89fc57710c30b5051479c9df\"",
+  "last_modified": "Sat, 14 Nov 2026 03:25:26 GMT"
+ },
+ "https://newsday.co.zw/feed/": {
+  "etag": "W/\"cd16112f87613f6d8f61da768edcd0b3\"",
+  "last_modified": "Sat, 14 Nov 2026 17:40:52 GMT"
+ },
+ "https://newsfeed.zeit.de/index": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:22 GMT"
+ },
+ "https://newsmada.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 04:38:59 GMT"
+ },
+ "https://newsmaker.md/ru/feed": {
+  "etag": "\"a3b8c76014d012f2b771b88860a0ffc5\"",
+  "last_modified": "Sat, 14 Nov 2026 17:57:19 GMT"
+ },
+ "https://nezavisen.mk/feed/": {
+  "etag": "W/\"c1b2577d82939f63dfcbcddc675c7027\"",
+  "last_modified": "Sat, 14 Nov 2026 18:38:52 GMT"
+ },
+ "https://nhandan.vn/rss/home.rss": {
+  "etag": "3ddf9f92876e1b245b85f95e97463932"
+ },
+ "https://nigerianobservernews.com/rss": {
+  "etag": "W/\"0f507993b1a5861966a12ec9184983d2\"",
+  "last_modified": "Fri, 13 Nov 2026 13:15:53 GMT"
+ },
+ "https://nirvaynews.com/feed/": {
+  "etag": "\"fb464e470e5e09e320b81ff5548a562f\""
+ },
+ "https://nishkarsha.com/?feed=rss2": {
+  "etag": "\"6b460de8bef350b8962549a5f018aba6\"",
+  "last_modified": "Fri, 13 Nov 2026 17:17:11 GMT"
+ },
+ "https://nordnews.md/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 18:32:20 GMT"
+ },
+ "https://noticiasdechiapas.com.mx/feed/": {
+  "etag": "\"92beeef819ed38d4c1b844f6ebe77e6f-gzip\"",
+  "last_modified": "Fri, 13 Nov 2026 18:55:12 GMT"
+ },
+ "https://novamakedonija.com.mk/feed/": {
+  "etag": "W/\"6844a7a695fdb3b19b4c11e481d26490\"",
+  "last_modified": "Sat, 14 Nov 2026 17:08:39 GMT"
+ },
+ "https://novayagazeta.eu/feed/rss": {
+  "last_modified": "Sat, 14 Nov 2026 15:55:54 GMT"
+ },
+ "https://nowgrenada.com/feed/": {
+  "etag": "\"e8c5c4654795f34d610951d245749c15-gzip\"",
+  "last_modified": "Fri, 13 Nov 2026 21:54:58 GMT"
+ },
+ "https://nv.ua/ukr/rss/all.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:11:24 GMT"
+ },
+ "https://nyugatijelen.com/rss.xml": {
+  "etag": "\"1794673692\"",
+  "last_modified": "Sat, 14 Nov 2026 16:28:12 GMT"
+ },
+ "https://oblgazeta.ru/feed/": {
+  "etag": "W/\"f98716d038321732bfb65e5a4f7f6972\"",
+  "last_modified": "Sat, 14 Nov 2026 12:13:37 GMT"
+ },
+ "https://observador.pt/feed/": {
+  "etag": "W/\"caa2834010e438fa2e39aacd32100ada\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:26 GMT"
+ },
+ "https://observer.ug/feed/": {
+  "etag": "W/\"006313257e365ef75fabf062d4c15321\"",
+  "last_modified": "Sat, 14 Nov 2026 15:09:55 GMT"
+ },
+ "https://odia.ig.com.br/_conteudo/ultimas-noticias/rss.xml": {
+  "etag": "W/\"6af8a0a3-32e0d\"",
+  "last_modified": "Sat, 14 Nov 2026 17:55:47 GMT"
+ },
+ "https://oglobo.globo.com/rss/oglobo": {
+  "etag": "W/\"57138d21618af941677d4526a40a83ee5f327fb7\""
+ },
+ "https://oimparcial.com.br/feed/": {
+  "etag": "W/\"b4fa93b4c136334b404837b42e0225a6\"",
+  "last_modified": "Sat, 14 Nov 2026 17:15:30 GMT"
+ },
+ "https://okdiario.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:57 GMT"
+ },
+ "https://okno.mk/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:02:42 GMT"
+ },
+ "https://oko.press/feed": {
+  "etag": "W/\"3b7fe-aUCNQxzi9WdLARNRXDPd6BGirJQ\""
+ },
+ "https://olomoucky.denik.cz/rss/vse.xml": {
+  "etag": "W/\"fca3b88796ebd182cab10552c270e419\""
+ },
+ "https://olsztyn.wyborcza.pl/pub/rss/olsztyn.xml": {
+  "last_modified": "Sat, 14 Nov 2026 06:07:58 GMT"
+ },
+ "https://olympiobima.gr/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 18:40:13 GMT"
+ },
+ "https://online.le.ee/feed/": {
+  "etag": "\"0183d34353ab2a68979198669d995ae7\"",
+  "last_modified": "Sat, 14 Nov 2026 14:53:49 GMT"
+ },
+ "https://opais.co.mz/feed/": {
+  "etag": "\"862ec6269282418ecabd932910767448\"",
+  "last_modified": "Sat, 14 Nov 2026 15:06:23 GMT"
+ },
+ "https://opiniaogoias.com.br/feed": {
+  "etag": "W/\"b8d74326183d96f39207bc038dfbbf6b\"",
+  "last_modified": "Thu, 12 Nov 2026 17:03:17 GMT"
+ },
+ "https://opole.wyborcza.pl/pub/rss/opole.xml": {
+  "last_modified": "Sat, 14 Nov 2026 13:21:22 GMT"
+ },
+ "https://osetubalense.com/feed/": {
+  "etag": "\"e57c20235198c9eeec6d1d3c69414a38\"",
+  "last_modified": "Fri, 13 Nov 2026 18:47:18 GMT"
+ },
+ "https://ottawacitizen.com/feed/atom": {
+  "etag": "\"a160fd97517505b4c02867fdc93d625e\"",
+  "last_modified": "Sat, 14 Nov 2026 17:44:01 GMT"
+ },
+ "https://pakobserver.net/feed/": {
+  "etag": "\"4c97f98cdd25093f1841fb8fecaf9436\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:25 GMT"
+ },
+ "https://parichaytimes.info/feed/": {
+  "etag": "\"cd49c8a0cd1abbba1d43a49aa1baa88c\"",
+  "last_modified": "Sat, 14 Nov 2026 09:14:09 GMT"
+ },
+ "https://partner-feeds.beta.20min.ch/rss/20minuten": {
+  "etag": "W/\"1823d-giQYBx3G7YClrl9AAYibO/9+4g8\""
+ },
+ "https://partner-feeds.lessentiel.lu/rss/lessentiel-fr": {
+  "etag": "W/\"1131c-LBX6sZoy4jTDrqUnl2BD0h05Pm0\""
+ },
+ "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/front": {
+  "etag": "W/\"e167-sVaISRzaw5+0HYc3Q26qQJF6o/Q\""
+ },
+ "https://pelop.gr/feed/gn": {
+  "last_modified": "Sat, 14 Nov 2026 18:51:20 GMT"
+ },
+ "https://periodicocorreo.com.mx/rss/feed.xml": {
+  "last_modified": "Sat, 14 Nov 2026 17:35:12 GMT"
+ },
+ "https://plusinfo.mk/feed/": {
+  "etag": "\"34dd-660412af7e5cd\"",
+  "last_modified": "Sat, 14 Nov 2026 19:01:10 GMT"
+ },
+ "https://plzensky.denik.cz/rss/vse.xml": {
+  "etag": "W/\"d94ab9e4ce8267b7d0ab650af4914de5\""
+ },
+ "https://portalb.mk/feed/": {
+  "etag": "W/\"7b35fcca8da56c7b31962fdaee8ea7b2-br\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:52 GMT"
+ },
+ "https://portlandtribune.com/rss": {
+  "etag": "W/\"601008faf1cdea6f7deeecedc5754574\"",
+  "last_modified": "Sat, 14 Nov 2026 17:34:11 GMT"
+ },
+ "https://poznan.wyborcza.pl/pub/rss/poznan.xml": {
+  "last_modified": "Sat, 14 Nov 2026 05:20:22 GMT"
+ },
+ "https://prabhanews.com/feed/": {
+  "etag": "\"4f426dd5d8bd3361c93370c29e7a4782\"",
+  "last_modified": "Sat, 14 Nov 2026 18:32:42 GMT"
+ },
+ "https://prachatai.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 15:01:04 GMT"
+ },
+ "https://pragativadi.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:27:21 GMT"
+ },
+ "https://prishtinainsight.com/rss": {
+  "etag": "W/\"8e29d26d1e2abe63961e9e068ff76743\"",
+  "last_modified": "Fri, 13 Nov 2026 16:11:07 GMT"
+ },
+ "https://publish.tribuneindia.com/newscategory/india/feed/": {
+  "etag": "W/\"fe401a88f7245eea5a3d3f98be2a2386\"",
+  "last_modified": "Sat, 14 Nov 2026 18:32:09 GMT"
+ },
+ "https://pudhari.news/news_sitemap.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:17:57 GMT"
+ },
+ "https://radarbekasi.id/feed/": {
+  "etag": "W/\"09ab57c4944995686b53d4c4a9c36260\"",
+  "last_modified": "Sat, 14 Nov 2026 17:16:05 GMT"
+ },
+ "https://radom.wyborcza.pl/pub/rss/radom.xml": {
+  "last_modified": "Wed, 11 Nov 2026 06:56:58 GMT"
+ },
+ "https://rasunetul.ro/rss.xml": {
+  "etag": "\"1794682884-0-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:01:24 GMT"
+ },
+ "https://reddeeradvocate.com/rss": {
+  "etag": "W/\"c3dd31257a488eb6b3bbe741727ad276\"",
+  "last_modified": "Sat, 14 Nov 2026 00:43:37 GMT"
+ },
+ "https://reporteri.net/feed": {
+  "last_modified": "Sat, 14 Nov 2026 18:15:51 GMT"
+ },
+ "https://republika.mk/feed/": {
+  "etag": "W/\"f4cdb9da24c8bdfefa6464074b0d35dc\"",
+  "last_modified": "Sat, 14 Nov 2026 18:54:32 GMT"
+ },
+ "https://resalat-news.com/rss": {
+  "etag": "\"14273ccb6f8cb037a5edb2dfd8d511f6\"",
+  "last_modified": "Sat, 14 Nov 2026 08:34:18 GMT"
+ },
+ "https://rethnea.gr/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 13:39:27 GMT"
+ },
+ "https://revelstokereview.com/rss": {
+  "etag": "W/\"8a00cfede24bdcb716d47a02b941073f\"",
+  "last_modified": "Sat, 14 Nov 2026 14:40:36 GMT"
+ },
+ "https://risingkashmir.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 14:17:03 GMT"
+ },
+ "https://rollcall.com/rss": {
+  "etag": "\"464af21f0a11911cfd7693c4ab0e6804\"",
+  "last_modified": "Sat, 14 Nov 2026 02:59:36 GMT"
+ },
+ "https://ropravda.ru/feed/": {
+  "etag": "\"4666b21fc9de64a3d8cc0368abcf489d\"",
+  "last_modified": "Fri, 13 Nov 2026 11:56:24 GMT"
+ },
+ "https://rp-online.de/nrw/staedte/duesseldorf/feed.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:45 GMT"
+ },
+ "https://rzeszow.wyborcza.pl/pub/rss/rzeszow.xml": {
+  "last_modified": "Sat, 14 Nov 2026 09:40:22 GMT"
+ },
+ "https://saharamedias.net/feed/": {
+  "etag": "\"55bf84a54ba8b6c5d347b5ddd78a9e69-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 14:37:32 GMT"
+ },
+ "https://sampi.net.br/sitemap-news.xml": {
+  "etag": "\"35950-660404df7ba1f-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:59:22 GMT"
+ },
+ "https://sanjevani.com/feed/": {
+  "etag": "\"ef66ab210832320d4a38601663d83552\"",
+  "last_modified": "Sat, 14 Nov 2026 11:36:37 GMT"
+ },
+ "https://sanjhikhabar.com/feed/": {
+  "etag": "W/\"c041b12b5db55e3afa4ee4910fbcbc49\"",
+  "last_modified": "Fri, 13 Nov 2026 03:49:01 GMT"
+ },
+ "https://sanmarg.in/feed": {
+  "last_modified": "Sat, 14 Nov 2026 16:28:00 GMT"
+ },
+ "https://saudigazette.com.sa/sitemaps/news_sitemap.xml": {
+  "etag": "W/\"ea1aa4eb4149ccffe518c1a53a025a22\"",
+  "last_modified": "Sat, 14 Nov 2026 18:58:43 GMT"
+ },
+ "https://seattlemedium.com/feed/": {
+  "etag": "\"8641c275534a6796fc92e26ff08b18c9\"",
+  "last_modified": "Sat, 14 Nov 2026 17:04:44 GMT"
+ },
+ "https://sierraloaded.sl/rss": {
+  "etag": "\"39e4509c6dd551b203045b6d5f870d75\"",
+  "last_modified": "Sat, 14 Nov 2026 18:59:43 GMT"
+ },
+ "https://slovenskenovice.delo.si/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:09:00 GMT"
+ },
+ "https://smokymountainnews.com/feed/": {
+  "etag": "W/\"c8a7996c6f8a5e9b3948e2968a825f6f\"",
+  "last_modified": "Fri, 13 Nov 2026 17:58:48 GMT"
+ },
+ "https://snoop.ro/rss": {
+  "etag": "W/\"c1eb13f24b328eff477f43da86858e3a\"",
+  "last_modified": "Thu, 12 Nov 2026 11:32:46 GMT"
+ },
+ "https://sol.iol.pt/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:01:50 GMT"
+ },
+ "https://somalilandstandard.com/feed/": {
+  "last_modified": "Thu, 12 Nov 2026 14:11:32 GMT"
+ },
+ "https://sonara.net/feed/": {
+  "etag": "\"96268b35e48acf62218aca298bf3fa87\"",
+  "last_modified": "Sat, 14 Nov 2026 17:26:01 GMT"
+ },
+ "https://spotmedia.ro/feed": {
+  "etag": "W/\"28270cecba1d5baf4c6aee67d85e8086\"",
+  "last_modified": "Sat, 14 Nov 2026 18:33:13 GMT"
+ },
+ "https://srpskainfo.com/feed/": {
+  "etag": "\"9bfc6998597194a631d366d2557d5b0b\"",
+  "last_modified": "Sat, 14 Nov 2026 19:01:37 GMT"
+ },
+ "https://starofmysore.com/feed/": {
+  "etag": "\"717d737f461554cd0fe8d56db29f1960-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 14:00:00 GMT"
+ },
+ "https://stluciatimes.com/feed/": {
+  "etag": "\"72c94d40f66f20cda2a52e5b1b5722fa\"",
+  "last_modified": "Fri, 13 Nov 2026 23:50:58 GMT"
+ },
+ "https://sudantribune.net/feed/": {
+  "etag": "\"164a15861861b63e73118ba26cd78d08\"",
+  "last_modified": "Sat, 14 Nov 2026 18:57:31 GMT"
+ },
+ "https://supernowosci24.pl/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:00:10 GMT"
+ },
+ "https://surreynowleader.com/rss": {
+  "etag": "W/\"a98f0d60d2c93af438849ccb2cbb52fe\"",
+  "last_modified": "Sat, 14 Nov 2026 17:28:50 GMT"
+ },
+ "https://szczecin.wyborcza.pl/pub/rss/szczecin.xml": {
+  "last_modified": "Sat, 14 Nov 2026 06:07:22 GMT"
+ },
+ "https://taasir.com/feed/": {
+  "etag": "\"0f15f26e14213a3499cf001be5dbb0af\"",
+  "last_modified": "Thu, 12 Nov 2026 12:44:15 GMT"
+ },
+ "https://taifaleo.nation.co.ke/feed/": {
+  "etag": "\"e0f7308bb40800a5f045403b57d720b9-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 09:37:46 GMT"
+ },
+ "https://taz.de/rss.xml": {
+  "etag": "\"67f44-660416247e8b0\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:38 GMT"
+ },
+ "https://telanganatoday.com/rss": {
+  "etag": "\"26937375ad77a506b18172245c3a77eb-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:13:40 GMT"
+ },
+ "https://telegrafi.com/feeds/feed.rss": {
+  "etag": "\"85aab5a24c3f9c6c2edaba1a638a6f2b\"",
+  "last_modified": "Sat, 14 Nov 2026 19:08:25 GMT"
+ },
+ "https://telex.hu/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:14:22 GMT"
+ },
+ "https://telquel.ma/rss": {
+  "etag": "W/\"d9ca72e6012c5446494cfa3dcafef0bd\"",
+  "last_modified": "Sat, 14 Nov 2026 18:52:42 GMT"
+ },
+ "https://tengrinews.kz/sitemap_ru.xml": {
+  "last_modified": "Saturday, 14-Nov-2026 19:17:41 GMT"
+ },
+ "https://tetovasot.com/feed/": {
+  "etag": "\"4e8028f68ed33e476c2f549763176687-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:54:45 GMT"
+ },
+ "https://thebhutanese.bt/feed/": {
+  "etag": "\"fed5625f5826ca039489624f14791d11\"",
+  "last_modified": "Mon, 09 Nov 2026 08:54:58 GMT"
+ },
+ "https://thechronicle.com.gh/feed/": {
+  "etag": "\"ae2853508c046b00a92b675cad3da01f\"",
+  "last_modified": "Sat, 14 Nov 2026 14:26:25 GMT"
+ },
+ "https://thehill.com/feed/": {
+  "etag": "W/\"1f68547ae9883255bf6ef0cd07a1b74c\"",
+  "last_modified": "Sat, 14 Nov 2026 06:14:18 GMT"
+ },
+ "https://theislandsun.com.sb/feed/": {
+  "etag": "\"637fb1c163e515c9fc3c624670746cc6\"",
+  "last_modified": "Sat, 14 Nov 2026 09:31:18 GMT"
+ },
+ "https://thenightly.com.au/rss": {
+  "etag": "W/\"224ce-0ULDXaKspGGrva7oMcG9+W+t0dw\""
+ },
+ "https://theoutlookonline.com/rss": {
+  "etag": "W/\"3dce60bc93b717664c35ac07a3fd3b79\"",
+  "last_modified": "Sat, 14 Nov 2026 01:22:13 GMT"
+ },
+ "https://thepoint.gm/posts/rss/xml": {
+  "etag": "W/\"211be50c80abc997b473743815685966\""
+ },
+ "https://theprovince.com/feed/atom": {
+  "etag": "\"506dc0ef5a6bd7433a4eab699af26ebb\"",
+  "last_modified": "Sat, 14 Nov 2026 18:16:05 GMT"
+ },
+ "https://thescoop.co/feed/": {
+  "etag": "W/\"9c6ffc810e478c91bcdee9457d89e445\"",
+  "last_modified": "Wed, 11 Nov 2026 22:19:12 GMT"
+ },
+ "https://thesun.ng/rss": {
+  "etag": "W/\"7a463a6a0631d31672f6445a0b1fcfbe\"",
+  "last_modified": "Sat, 14 Nov 2026 18:18:06 GMT"
+ },
+ "https://thevoiceslu.com/feed/": {
+  "etag": "W/\"17a35279ea63c87e21691f574aece36e\"",
+  "last_modified": "Sat, 14 Nov 2026 18:53:20 GMT"
+ },
+ "https://thewest.com.au/rss": {
+  "etag": "W/\"1d483-/kHD+5vExlRgzbGDnTgnXB0iyWY\""
+ },
+ "https://thewillnews.com/feed/": {
+  "etag": "W/\"05da672e392026d75f62f33fdb9cf6cb\""
+ },
+ "https://times.co.sz/feed/": {
+  "etag": "\"d43784c3777efebd7b5e02516288fd66-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:16:48 GMT"
+ },
+ "https://tj.news/category/moncton-miramichi/feed.xml": {
+  "last_modified": "Sat, 14 Nov 2026 17:57:58 GMT"
+ },
+ "https://togopresse.tg/feed/": {
+  "etag": "\"1e3964e165760d91f88423d434c3bb57\"",
+  "last_modified": "Fri, 13 Nov 2026 08:34:46 GMT"
+ },
+ "https://torun.wyborcza.pl/pub/rss/torun.xml": {
+  "last_modified": "Fri, 13 Nov 2026 15:01:58 GMT"
+ },
+ "https://toz.su/rss": {
+  "last_modified": "Mon, 20 Jul 2026 05:42:39 GMT"
+ },
+ "https://triblive.com/feed/": {
+  "etag": "W/\"b63eb53ea0155b2ff3f57962b7960d52\"",
+  "last_modified": "Sat, 14 Nov 2026 16:53:02 GMT"
+ },
+ "https://tribunacampeche.com/feed/": {
+  "etag": "W/\"4620f23a4ec3adffacafecc26ca2cfe0\"",
+  "last_modified": "Sat, 14 Nov 2026 15:25:21 GMT"
+ },
+ "https://tribunademexico.com/feed/": {
+  "etag": "\"55c3ea6ae54bc7f31f77351d998bba05-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 12:00:59 GMT"
+ },
+ "https://tribunadonorte.com.br/feed/": {
+  "etag": "\"8b577e42cd0aca873b6f8650f003e8e0\"",
+  "last_modified": "Sat, 14 Nov 2026 17:10:02 GMT"
+ },
+ "https://tribune.com.pk/feed/home": {
+  "last_modified": "Sat, 14 Nov 2026 18:33:09 GMT"
+ },
+ "https://tribuneonlineng.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:41:24 GMT"
+ },
+ "https://trojmiasto.wyborcza.pl/pub/rss/trojmiasto.xml": {
+  "last_modified": "Sat, 14 Nov 2026 13:14:58 GMT"
+ },
+ "https://tuairisc.ie/feed/": {
+  "etag": "W/\"f72242cdb9bbf568bf319d26e1f2691c\"",
+  "last_modified": "Sat, 14 Nov 2026 15:47:47 GMT"
+ },
+ "https://union.sonapresse.com/rss.xml": {
+  "etag": "\"1794661767-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 13:09:27 GMT"
+ },
+ "https://ustecky.denik.cz/rss/vse.xml": {
+  "etag": "W/\"b6bc90d885becb57bed78e681547309c\""
+ },
+ "https://valor.globo.com/rss/valor": {
+  "etag": "W/\"850b9f694c34c355f46183325d78dc80a997eb83\""
+ },
+ "https://vancouversun.com/feed/atom": {
+  "etag": "\"70020b893e229aea8ef20413300cfca9\"",
+  "last_modified": "Sat, 14 Nov 2026 17:31:30 GMT"
+ },
+ "https://ve.lt/rss": {
+  "etag": "\"1794683751-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:51 GMT"
+ },
+ "https://vecer.com/sitemaps/articles.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:53 GMT"
+ },
+ "https://vedomosti.ru/rss/articles": {
+  "etag": "W/\"6af85d8b-4143f\"",
+  "last_modified": "Sat, 14 Nov 2026 13:09:31 GMT"
+ },
+ "https://veja.abril.com.br/ultimas-noticias/rss": {
+  "etag": "W/\"76dcbbf084ae31024ff15ef9004d8357\"",
+  "last_modified": "Sat, 14 Nov 2026 18:52:07 GMT"
+ },
+ "https://vietnamnet.vn/home.rss": {
+  "etag": "W/\"134391572935526537\""
+ },
+ "https://vietnamnews.vn/rss/politics-laws.rss": {
+  "etag": "\"_ZjPBniViR60ye2-jUmGI-2kL8A\""
+ },
+ "https://washingtoncitypaper.com/feed/": {
+  "etag": "W/\"ec8134fa52092ebf5d765cedac2b7b57\"",
+  "last_modified": "Fri, 13 Nov 2026 18:15:53 GMT"
+ },
+ "https://wayka.pe/feed/": {
+  "etag": "W/\"b098574fbdcdd3683f568664d6db9660\"",
+  "last_modified": "Thu, 12 Nov 2026 20:54:26 GMT"
+ },
+ "https://wiadomosci.onet.pl/.feed": {
+  "etag": "\"7469-cca27792f813b6ec\""
+ },
+ "https://wpolityce.pl/rss/polityka.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:18:04 GMT"
+ },
+ "https://wroclaw.wyborcza.pl/pub/rss/wroclaw.xml": {
+  "last_modified": "Sat, 14 Nov 2026 17:38:22 GMT"
+ },
+ "https://www.20minutes.fr/feeds/rss-une.xml": {
+  "etag": "W/\"c42440e7f8a289bf434dd5458c311f78\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:25 GMT"
+ },
+ "https://www.20minutos.es/rss/": {
+  "etag": "W/\"72960a3dd12edaf87dab212127f43e07\"",
+  "last_modified": "Sat, 14 Nov 2026 19:06:07 GMT"
+ },
+ "https://www.24haubenin.info/spip.php?page=backend": {
+  "last_modified": "Sat, 14 Nov 2026 16:25:05 GMT"
+ },
+ "https://www.7iber.com/feed/": {
+  "etag": "W/\"9200dea32edf025165b417216bbdd9f6\"",
+  "last_modified": "Thu, 12 Nov 2026 10:04:28 GMT"
+ },
+ "https://www.aajkaal.in/rss.xml": {
+  "etag": "W/\"20cb34-66040f303e983\"",
+  "last_modified": "Sat, 14 Nov 2026 18:45:31 GMT"
+ },
+ "https://www.aargauerzeitung.ch/aargau.rss": {
+  "etag": "W/\"864e-F4iUrifJ6F5E9rvweHOkHDsgodk\""
+ },
+ "https://www.abc.com.py/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"5c074-EPCrbdLg50Z0nCzFy8MLd19q/co\"",
+  "last_modified": "Sat, 14 Nov 2026 19:13:59 GMT"
+ },
+ "https://www.abendzeitung-muenchen.de/storage/rss/rss/muenchen-news-abendzeitung.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:14 GMT"
+ },
+ "https://www.acadienouvelle.com/feed/": {
+  "etag": "\"47923833941ec23fc644921321188661\"",
+  "last_modified": "Sat, 14 Nov 2026 17:52:30 GMT"
+ },
+ "https://www.ad.nl/home/rss.xml": {
+  "etag": "W/\"0d9a93b5566705c26e4c1f8563d10ece5\""
+ },
+ "https://www.ad.nl/utrecht/rss.xml": {
+  "etag": "W/\"02e6f6abfc273da075df57eec4b4c3281\""
+ },
+ "https://www.adiac-congo.com/rss.xml": {
+  "etag": "\"1794684055-1\"",
+  "last_modified": "Sat, 14 Nov 2026 19:20:55 GMT"
+ },
+ "https://www.adn.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"302cc-Br/miJltvaD+VWX5S3RQFCUOoZA\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:07 GMT"
+ },
+ "https://www.africaguinee.com/feed/": {
+  "etag": "W/\"38d7417bd3c4f621cbe889503386291d\"",
+  "last_modified": "Sat, 14 Nov 2026 17:25:44 GMT"
+ },
+ "https://www.agazeta.com.br/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:47 GMT"
+ },
+ "https://www.agniban.com/rss": {
+  "etag": "W/\"5a45-6603f83d65f32\"",
+  "last_modified": "Sat, 14 Nov 2026 17:02:51 GMT"
+ },
+ "https://www.ahdath.info/rss": {
+  "etag": "W/\"b356897946d5108103d65ba8c52adfaf\"",
+  "last_modified": "Sat, 14 Nov 2026 16:37:52 GMT"
+ },
+ "https://www.al-jazirah.com/rss/ln.xml": {
+  "last_modified": "Fri, 13 Nov 2026 03:36:13 GMT"
+ },
+ "https://www.al-madina.com/rss/feed": {
+  "last_modified": "Sat, 14 Nov 2026 14:03:21 GMT"
+ },
+ "https://www.al.com/arc/outboundfeeds/google-news-feed/": {
+  "etag": "W/\"daa17-baFfquoQfloUtbNqmxYzs0691uM\"",
+  "last_modified": "Sat, 14 Nov 2026 17:59:17 GMT"
+ },
+ "https://www.alanba.com.kw/alanba_rssfeed/kuwait-news.xml": {
+  "etag": "\"0be19745174dd1:0\"",
+  "last_modified": "Sat, 14 Nov 2026 16:01:48 GMT"
+ },
+ "https://www.aleqt.com/sitemaps/newsSitemap.xml": {
+  "etag": "W/\"6af8a1a8-22487\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:08 GMT"
+ },
+ "https://www.aletihad.ae/feed.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:38 GMT"
+ },
+ "https://www.almodon.com/rss": {
+  "etag": "W/\"2a99e-7PYjm+YOPWEOw+DlGbI5VM76ipY\""
+ },
+ "https://www.alo.rs/sitemap/google-news-sitemap.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:56:01 GMT"
+ },
+ "https://www.alquds.com/rss": {
+  "etag": "W/\"3d1b6170fb43c906fec122ce9cd41483\"",
+  "last_modified": "Sat, 14 Nov 2026 19:14:40 GMT"
+ },
+ "https://www.alraimedia.com/rssFeed/0": {
+  "last_modified": "Sat, 14 Nov 2026 17:50:12 GMT"
+ },
+ "https://www.altoonamirror.com/rss": {
+  "etag": "\"be6f8dfce8621ad6116343c43bb8a1a3-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:00:01 GMT"
+ },
+ "https://www.alwatan.com.sa/rssFeed/18": {
+  "last_modified": "Sat, 14 Nov 2026 04:41:27 GMT"
+ },
+ "https://www.alwihdainfo.com/rss/": {
+  "etag": "W/\"15998-RhYihalw0Cuy8dW6+OrW7UmR1WA\""
+ },
+ "https://www.ambito.com/rss/pages/home.xml": {
+  "etag": "\"8ae42e64c7906f75fa499a8c497f8531\"",
+  "last_modified": "Sat, 14 Nov 2026 18:58:23 GMT"
+ },
+ "https://www.andhrajyothy.com/sitemaps/news-sitemap.xml": {
+  "etag": "W/\"f9053f8d63398a00fa398aae33662177\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:47 GMT"
+ },
+ "https://www.arabnews.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 04:46:33 GMT"
+ },
+ "https://www.arcinfo.ch/news-sitemap.xml": {
+  "etag": "\"2226175c7d9f06f06db90932678730e5-gzip\""
+ },
+ "https://www.asahi.com/rss/asahi/newsheadlines.rdf": {
+  "etag": "W/\"6af86dfc-52e1\"",
+  "last_modified": "Sat, 14 Nov 2026 14:19:40 GMT"
+ },
+ "https://www.asbeiras.pt/rss": {
+  "etag": "\"0268928e1c4e777bf9e78a49c56758fc\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:59 GMT"
+ },
+ "https://www.asomiyapratidin.in/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:11:24 GMT"
+ },
+ "https://www.aspentimes.com/rss": {
+  "etag": "\"260850f5d4f48a3018c34b6b2024a203-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:03 GMT"
+ },
+ "https://www.avozdetrasosmontes.pt/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:57:38 GMT"
+ },
+ "https://www.avvir.no/feed/": {
+  "etag": "\"dd39e05e3dd955405e66310c17544622-gzip\""
+ },
+ "https://www.bainbridgereview.com/rss": {
+  "etag": "W/\"68c410a3085e8890dac08ec3e258bc9d\"",
+  "last_modified": "Fri, 13 Nov 2026 09:30:00 GMT"
+ },
+ "https://www.balkanweb.com/feed/": {
+  "etag": "W/\"1c506521b06a30cdd53d7371691ccccb\"",
+  "last_modified": "Sat, 14 Nov 2026 19:09:22 GMT"
+ },
+ "https://www.bama.hu/publicapi/hu/rss/bama/articles": {
+  "last_modified": "Sat, 14 Nov 2026 18:36:23 GMT"
+ },
+ "https://www.bangkokpost.com/rss/data/topstories.xml": {
+  "etag": "W/\"158d-660411d1f0aba\"",
+  "last_modified": "Sat, 14 Nov 2026 18:57:17 GMT"
+ },
+ "https://www.barlavento.pt/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 13:47:24 GMT"
+ },
+ "https://www.barometern.se/feeds/feed.xml": {
+  "etag": "W/\"10c74-Ex1+1HIVi70AdCLFctUPKKdxVBo\""
+ },
+ "https://www.barossaleader.com/rss/": {
+  "etag": "W/\"7003-UVCZF7yTwmsFd2jXn3/1QcakWeA\""
+ },
+ "https://www.bd.nl/den-bosch/rss.xml": {
+  "etag": "W/\"01e42cf3f27c816ce1b8804bc75781ffb\""
+ },
+ "https://www.berliner-zeitung.de/feed.xml": {
+  "etag": "W/\"15d97-tqKrjKmpcsSvwO0VB5XqmHFnmqY\""
+ },
+ "https://www.berlingske.dk/content/rss": {
+  "etag": "\"jbp9ekm6q98hg\""
+ },
+ "https://www.berria.eus/uploads/feeds/feed_berria_eu.xml": {
+  "etag": "W/\"6af8b20c-d49b\"",
+  "last_modified": "Sat, 14 Nov 2026 19:10:04 GMT"
+ },
+ "https://www.bijeljina.org/novosti/rss.html": {
+  "etag": "\"e7a86072df7c1ed66f5daca087defe98da35228b\"",
+  "last_modified": "Sat, 14 Nov 2026 15:56:08 GMT"
+ },
+ "https://www.blackpoolgazette.co.uk/news/rss": {
+  "etag": "W/\"6ffe-YmqsTINtYjV3BAZJK7eYoV/In/U-gzip\""
+ },
+ "https://www.blesk.cz/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:04 GMT"
+ },
+ "https://www.blic.rs/rss/danasnje-vesti": {
+  "etag": "\"25745-48cd8ac8038a9491\""
+ },
+ "https://www.blick.ch/rss": {
+  "etag": "\"ab5dfde8c77d65768e045887cbe5d23c\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:10 GMT"
+ },
+ "https://www.blikk.hu/rss-articles.xml": {
+  "etag": "\"5639-559f92088f076984\""
+ },
+ "https://www.bndestem.nl/breda/rss.xml": {
+  "etag": "W/\"0769dd945d449141b5c5b1475cb2d2c12\""
+ },
+ "https://www.boon.hu/publicapi/hu/rss/boon/articles": {
+  "last_modified": "Sat, 14 Nov 2026 18:47:21 GMT"
+ },
+ "https://www.bostonglobe.com/arc/outboundfeeds/news-sitemap/?outputType=xml": {
+  "etag": "W/\"17576-8556uPNmR1JtmD3cR+7Ggv/BMuw\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:56 GMT"
+ },
+ "https://www.bournemouthecho.co.uk/news/rss/": {
+  "etag": "\"0805cf68ac24f00448c2f0d0c59ac129\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:13 GMT"
+ },
+ "https://www.brecorder.com/feeds/latest-news": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:42 GMT"
+ },
+ "https://www.bt.dk/news-sitemap.xml": {
+  "etag": "\"zyb2xl1kix52bm\""
+ },
+ "https://www.bt.se/feeds/feed.xml": {
+  "etag": "W/\"11821-779uuFMdpdkE21Uf6SCeJRMwGWU\""
+ },
+ "https://www.bunburymail.com.au/rss.xml": {
+  "last_modified": "Fri, 13 Nov 2026 19:02:11 GMT"
+ },
+ "https://www.business-gazeta.ru/rss.xml": {
+  "etag": "W/\"6af8b3ea-fea5f\"",
+  "last_modified": "Sat, 14 Nov 2026 19:18:02 GMT"
+ },
+ "https://www.businessdailyafrica.com/service/rss/bd/1939132/feed.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:17 GMT"
+ },
+ "https://www.businesstimes.com.sg/rss/top-stories": {
+  "etag": "W/\"201d-hNGTmRmpIMFJ2t/WrjlADDDSX20\""
+ },
+ "https://www.busqueda.com.uy/sitemap-news.xml": {
+  "etag": "\"49f51bd8cc71a4f3e88afe49e38025ab\"",
+  "last_modified": "Sat, 14 Nov 2026 11:34:08 GMT"
+ },
+ "https://www.bz-berlin.de/sitemap-news.xml": {
+  "etag": "W/\"01b75a0913598c208140b439d94a135d6\""
+ },
+ "https://www.bzi.ro/feed": {
+  "etag": "\"6bfb5453646d0652567edfbe7e602144\"",
+  "last_modified": "Sat, 14 Nov 2026 18:42:49 GMT"
+ },
+ "https://www.caasimada.net/feed/": {
+  "etag": "\"a40d2e9d7e3b18f151511886e155697f-gzip\""
+ },
+ "https://www.cagdasburdur.com/rss.xml": {
+  "etag": "W/\"6af8a1a1-dc5b\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:01 GMT"
+ },
+ "https://www.canberratimes.com.au/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:30:00 GMT"
+ },
+ "https://www.caymancompass.com/feed/": {
+  "etag": "W/\"08d65a2cfd428b682c70d526fe458562\"",
+  "last_modified": "Sat, 14 Nov 2026 17:51:00 GMT"
+ },
+ "https://www.cdm.me/feed/": {
+  "etag": "\"e243813311f0ca89330d43e1e05d4a87\"",
+  "last_modified": "Wed, 21 Oct 2026 18:39:04 GMT"
+ },
+ "https://www.cdns.com.tw/feed": {
+  "etag": "\"0e3b145d54326e7091cb435cf0ce9ab6-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 16:00:42 GMT"
+ },
+ "https://www.centralmaine.com/feed/": {
+  "etag": "W/\"7a464e610ff7224d018a312b4a7e5321\"",
+  "last_modified": "Sat, 14 Nov 2026 17:58:57 GMT"
+ },
+ "https://www.centralwesterndaily.com.au/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 07:54:32 GMT"
+ },
+ "https://www.chinatimes.com/sitemaps/sitemap_todaynews.xml": {
+  "etag": "W/\"8c5ec6101893230824124ecd2763498b\"",
+  "last_modified": "Sat, 14 Nov 2026 18:05:03 GMT"
+ },
+ "https://www.chron.com/sitemap_news.xml": {
+  "etag": "\"mrui9l22zbb7-gzip\""
+ },
+ "https://www.chronicle.gi/rss": {
+  "etag": "\"3a0b75bedbc2a25d67465f9803aaf9a0\"",
+  "last_modified": "Sat, 14 Nov 2026 09:00:04 GMT"
+ },
+ "https://www.cleveland.com/arc/outboundfeeds/google-news-feed/": {
+  "etag": "W/\"ad813-vf7a5x/LArTD0b9LT28mUOtU2Ro\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:31 GMT"
+ },
+ "https://www.clicanoo.re/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:06:07 GMT"
+ },
+ "https://www.comoresinfos.net/feed/": {
+  "etag": "\"3cbd1ef9a9e6087c138e22e6fa8104fe\"",
+  "last_modified": "Fri, 13 Nov 2026 20:05:42 GMT"
+ },
+ "https://www.concordmonitor.com/feed/": {
+  "etag": "W/\"5eb63f96f9ccd1d52c1870030edf7f83\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:41 GMT"
+ },
+ "https://www.connachttribune.ie/rss": {
+  "etag": "W/\"2f4c-MBgC4Zr8kUCv9tLSB5qkeOFrHQs-gzip\""
+ },
+ "https://www.correio24horas.com.br/0000/01/news-sitemap.xml": {
+  "etag": "\"1e45f-uRzC/qzmsD7qdexCOC1O1+xVPgA\""
+ },
+ "https://www.correiobraziliense.com.br/sitemap/map/day/sitemap-news.xml": {
+  "etag": "W/\"25782208a4840a850156b17aea211ec7\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:09 GMT"
+ },
+ "https://www.corren.se/rss": {
+  "etag": "W/\"435d-plAQsYR+J3zsYEE1YsRJ0ZtqWdc\""
+ },
+ "https://www.cotidianul.ro/feed/": {
+  "etag": "W/\"951907d2dac4e17cd893bf1ac7dfc9ca\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:50 GMT"
+ },
+ "https://www.cridem.org/rss/actualites.xml": {
+  "etag": "\"1f27-5c0112bb7dc00\"",
+  "last_modified": "Fri, 16 Apr 2021 06:34:24 GMT"
+ },
+ "https://www.critica.com.pa/rss.xml": {
+  "etag": "\"1794676346-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:12:26 GMT"
+ },
+ "https://www.cronista.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"a52e5-nzQadrD3PzEkqd6BSRLbPC16ah4\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:55 GMT"
+ },
+ "https://www.cuartopoder.mx/feedgooglenews/nacional": {
+  "last_modified": "Sat, 14 Nov 2026 17:30:51 GMT"
+ },
+ "https://www.cuvantul-liber.ro/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 07:28:26 GMT"
+ },
+ "https://www.daily-mail.co.zm/feed/": {
+  "etag": "\"2127ecd4356dea4dd18ad11835b83f54-gzip\"",
+  "last_modified": "Tue, 10 Nov 2026 15:02:28 GMT"
+ },
+ "https://www.dailyadvertiser.com.au/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 08:00:00 GMT"
+ },
+ "https://www.dailyecho.co.uk/news/rss/": {
+  "etag": "\"40da5b0c82a5a88084bb4717bfc8457d\"",
+  "last_modified": "Sat, 14 Nov 2026 18:49:01 GMT"
+ },
+ "https://www.dailyexcelsior.com/feeds.xml": {
+  "etag": "W/\"8a93-bsbnWJeH81I8uVdXbryoYvLaAlo\""
+ },
+ "https://www.dailymaverick.co.za/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:02 GMT"
+ },
+ "https://www.dailymirror.lk/rss/breaking_news/108": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:32 GMT"
+ },
+ "https://www.dailynewsegypt.com/feed/": {
+  "etag": "W/\"d735b2f83420ea8d2edfb48add7ed82b\"",
+  "last_modified": "Sat, 14 Nov 2026 18:24:01 GMT"
+ },
+ "https://www.dailysabah.com/rss/home-page": {
+  "last_modified": "Sat, 14 Nov 2026 19:18:01 GMT"
+ },
+ "https://www.dailythanthi.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:11:33 GMT"
+ },
+ "https://www.dalademokraten.se/feeds/feed.xml": {
+  "etag": "W/\"d3e0-oqQOH233517B587bFHe9GvDB3t4\""
+ },
+ "https://www.dallasnews.com/news-sitemap.xml": {
+  "etag": "\"12p8t0zg24kbh-gzip\""
+ },
+ "https://www.dan.co.me/feed": {
+  "etag": "W/\"6af8b2f4-1af2a\"",
+  "last_modified": "Sat, 14 Nov 2026 19:13:56 GMT"
+ },
+ "https://www.danas.rs/feed/": {
+  "etag": "W/\"7a62e9a48e955708a42b59a72b948432\"",
+  "last_modified": "Sat, 14 Nov 2026 19:14:24 GMT"
+ },
+ "https://www.dawn.com/feeds/home/": {
+  "last_modified": "Sat, 14 Nov 2026 19:18:00 GMT"
+ },
+ "https://www.deccanherald.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:11:34 GMT"
+ },
+ "https://www.delfi.lv/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:39 GMT"
+ },
+ "https://www.delmagyar.hu/publicapi/hu/rss/delmagyar/articles": {
+  "last_modified": "Sat, 14 Nov 2026 18:47:02 GMT"
+ },
+ "https://www.delo.si/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:36:00 GMT"
+ },
+ "https://www.derryjournal.com/news/rss": {
+  "etag": "W/\"2e9b-C9lO/Be2xbKapHObu/QySQJf6Hw-gzip\""
+ },
+ "https://www.deseret.com/rss/latest.rss": {
+  "etag": "W/\"2f4dd-DftpUG0qrHUyaVU/ZBlO5aXFysk\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:17 GMT"
+ },
+ "https://www.destentor.nl/zwolle/rss.xml": {
+  "etag": "W/\"09fca3d345a1ff6ee19f17e504b1d2a2d\""
+ },
+ "https://www.desteptarea.ro/feed/": {
+  "etag": "\"198743b2282ef314fb75f1ecd89b673f\"",
+  "last_modified": "Sat, 14 Nov 2026 17:28:33 GMT"
+ },
+ "https://www.dhnet.be/rss": {
+  "etag": "W/\"1f794-DTpLU+wu+aByAr2ivTVRabao6EQ\"",
+  "last_modified": "Sat, 14 Nov 2026 19:14:39 GMT"
+ },
+ "https://www.diagonales.com/atom.xml": {
+  "etag": "W/\"11275-bo0Lv3jdDBuY5O0UGNCGBSLDpLc\""
+ },
+ "https://www.diarioaveiro.pt/feed/": {
+  "etag": "\"adea0d1369fdacbc07a8e4fff721bf18-gzip\""
+ },
+ "https://www.diariocoimbra.pt/feed/": {
+  "etag": "\"cea0233c74cb3e89518709236f749623-gzip\""
+ },
+ "https://www.diariodecuyo.com.ar/sitemap-news.xml": {
+  "etag": "W/\"7ba81e43214b1ae41cf9dc6c447e92cc\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:11 GMT"
+ },
+ "https://www.diariodemorelos.com/uploads/feeds/feed_diario-de-morelos_es.xml": {
+  "etag": "\"6af8a171-30cad\"",
+  "last_modified": "Sat, 14 Nov 2026 17:59:13 GMT"
+ },
+ "https://www.diariodenavarra.es/sitemap-google-news.xml": {
+  "etag": "W/\"a69b3de50a39447dcc11204be92861d9\"",
+  "last_modified": "Sat, 14 Nov 2026 19:10:03 GMT"
+ },
+ "https://www.diarioextra.com/feed": {
+  "etag": "W/\"961b1f3b7a44bec2daeb33cf298dccb7\"",
+  "last_modified": "Sat, 14 Nov 2026 17:51:52 GMT"
+ },
+ "https://www.diarioleiria.pt/feed/": {
+  "etag": "\"3176c8e39b3cba176e4619d1efc616d2-gzip\""
+ },
+ "https://www.diarioviseu.pt/feed/": {
+  "etag": "\"3176c8e39b3cba176e4619d1efc616d2-gzip\""
+ },
+ "https://www.diken.com.tr/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:55:53 GMT"
+ },
+ "https://www.dimokratia.gr/feed/": {
+  "etag": "W/\"f76d0a322f10ca5936c8dcecee676de2\"",
+  "last_modified": "Sat, 14 Nov 2026 18:33:12 GMT"
+ },
+ "https://www.dinakaran.com/sitemap-news.xml": {
+  "etag": "W/\"b425-zi1+V1Udi2nbZddfnf+winLL25c\""
+ },
+ "https://www.dinamani.com/stories.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:16 GMT"
+ },
+ "https://www.dn.pt/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:11:39 GMT"
+ },
+ "https://www.dnaindia.com/rss.xml": {
+  "etag": "\"1794683566\"",
+  "last_modified": "Sat, 14 Nov 2026 19:12:46 +0000"
+ },
+ "https://www.dnevnik.rs/rss.xml": {
+  "etag": "W/\"1794682252\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:52 GMT"
+ },
+ "https://www.dnevnik.si/rss.xml": {
+  "etag": "\"6af8b368-3575e\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:52 GMT"
+ },
+ "https://www.dnn.de/arc/outboundfeeds/rss/category/lokales/dresden/?outputType=xml": {
+  "etag": "W/\"499d-BFeZi2p/v7gCYEBcN6coYr3gCSY\"",
+  "last_modified": "Sat, 14 Nov 2026 19:02:38 GMT"
+ },
+ "https://www.dnoticias.pt/rss/madeira.xml": {
+  "etag": "W/\"6ad7b7d7-5f55\"",
+  "last_modified": "Tue, 20 Oct 2026 18:49:59 GMT"
+ },
+ "https://www.documentonews.gr/feed/": {
+  "etag": "W/\"48186a4e4ce141dcffcb94ae4dbfc5a3\"",
+  "last_modified": "Sat, 14 Nov 2026 18:58:42 GMT"
+ },
+ "https://www.donegallive.ie/rss": {
+  "etag": "W/\"9440-1moC731Xy4uXmxoXgt/V+hjvy/o-gzip\""
+ },
+ "https://www.dp.ru/news.rss": {
+  "etag": "\"097d6fa6174dd1:0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:06 GMT"
+ },
+ "https://www.dundalkdemocrat.ie/rss": {
+  "etag": "W/\"6dbc-8Hllr/vmfJl1AOUGBWbWr7OcpUc-gzip\""
+ },
+ "https://www.dunya.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 15:33:19 GMT"
+ },
+ "https://www.dv.is/rss": {
+  "etag": "\"29898591-1794683753;gz\""
+ },
+ "https://www.easternmirrornagaland.com/news-sitemap.xml": {
+  "etag": "\"dc3e8c9af739a19ec9fe9054a78f038d\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:57 GMT"
+ },
+ "https://www.ed.nl/eindhoven/rss.xml": {
+  "etag": "W/\"08d1adf18b883ad03ddf4e3493fe842a4\""
+ },
+ "https://www.edinburghnews.scotsman.com/news/rss": {
+  "etag": "W/\"48cb-joFTYJYWX+bvAdhq1Tw25Mn+exQ-gzip\""
+ },
+ "https://www.edp24.co.uk/news/rss/": {
+  "etag": "\"870655b83001c2c54a3673ca497551fb\"",
+  "last_modified": "Sat, 14 Nov 2026 18:49:03 GMT"
+ },
+ "https://www.eenadu.net/sitemap-news.xml": {
+  "etag": "\"89932-660414b616d41-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:10:14 GMT"
+ },
+ "https://www.efsyn.gr/rss": {
+  "etag": "W/\"6fd7c350aff7e70730a4ff877207a0f1\"",
+  "last_modified": "Sat, 14 Nov 2026 19:10:02 GMT"
+ },
+ "https://www.egyptindependent.com/feed/": {
+  "etag": "W/\"4049a3ad6827975623d20980336d08ff\"",
+  "last_modified": "Sat, 14 Nov 2026 13:42:53 GMT"
+ },
+ "https://www.ekuriren.se/rss": {
+  "etag": "W/\"469e-1gDHG/hPUQ4/hJJtxBSAIkz0AxI\""
+ },
+ "https://www.elancasti.com.ar/rss/pages/home.xml": {
+  "etag": "\"ed8f1cfc68c5f783aa1f2b18d06b45fa\"",
+  "last_modified": "Sat, 14 Nov 2026 17:50:44 GMT"
+ },
+ "https://www.elcomercio.com/feed": {
+  "etag": "W/\"63929fb2605dbc7fe8622d3a7d1bac77\"",
+  "last_modified": "Sat, 14 Nov 2026 19:12:48 GMT"
+ },
+ "https://www.eldia.com/feed": {
+  "etag": "W/\"48fe-tzyEImO0tm69swoujiTVFEjSxn4\""
+ },
+ "https://www.eldiario.net/portal/feed/": {
+  "etag": "W/\"b18bc0ef8f25eb219e90bd4c363c8d19\"",
+  "last_modified": "Sat, 14 Nov 2026 11:17:40 GMT"
+ },
+ "https://www.eldiariodechihuahua.mx/rss/feed.xml": {
+  "last_modified": "Sat, 14 Nov 2026 17:35:49 GMT"
+ },
+ "https://www.eldjoumhouria.dz/feed/": {
+  "last_modified": "Thu, 22 Oct 2026 20:04:00 GMT"
+ },
+ "https://www.eleftheria.gr/rss": {
+  "etag": "W/\"45e111c0b1bee8f83ece69321283fc58\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:58 GMT"
+ },
+ "https://www.eleftherostypos.gr/rss": {
+  "etag": "W/\"39a3ea3e2770f02a0254d47c62be8b93\"",
+  "last_modified": "Sat, 14 Nov 2026 19:12:12 GMT"
+ },
+ "https://www.elheraldo.co/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"82c64-MSWORVB7hKnLV3g92S3+HwJfTZ8\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:28 GMT"
+ },
+ "https://www.elimparcial.com/rss/feed.xml": {
+  "etag": "W/\"a5752-TjzOa5A39pkQ7JTG1d1Q9UCmHw0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:01 GMT"
+ },
+ "https://www.elimpulso.com/feed/": {
+  "etag": "W/\"5f43d35168a10afd30e3d76232ee9dcd\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:00 GMT"
+ },
+ "https://www.ellitoral.com/sitemaps/sitemap_google_news.xml": {
+  "etag": "W/\"3cbf9-mninjEo6HuYmGJh+//JEsjhk0t0\""
+ },
+ "https://www.elmostrador.cl/sitemap_news.xml": {
+  "etag": "W/\"6af8a1a4-c2ec\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:04 GMT"
+ },
+ "https://www.elnacional.cat/uploads/feeds/feed_ca.xml": {
+  "etag": "\"bbe9a-6604057b3f701-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:05 GMT"
+ },
+ "https://www.elnacional.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:08 GMT"
+ },
+ "https://www.elnorte.com/rss/portada.xml": {
+  "etag": "W/\"a796c62b6074dd1:0\"",
+  "last_modified": "Sat, 14 Nov 2026 17:47:09 GMT"
+ },
+ "https://www.elnuevodia.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"942e-qv5V+oAl3WenfKwZs7p9AT7a9W4\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:34 GMT"
+ },
+ "https://www.elnuevosiglo.com.co/rss.xml": {
+  "etag": "\"1794675064\"",
+  "last_modified": "Sat, 14 Nov 2026 16:51:04 GMT"
+ },
+ "https://www.elobservador.com.uy/sitemap-news.xml": {
+  "etag": "\"d0830054950ad338429a2c63851d76eb\"",
+  "last_modified": "Sat, 14 Nov 2026 18:24:04 GMT"
+ },
+ "https://www.elpais.com.co/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"9518e-lFlVObtcMx5z+2znNj/6nBgEySA\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:39 GMT"
+ },
+ "https://www.elpatagonico.com/sitemap-news.xml": {
+  "etag": "\"6649de5b66fea67b0cc29e12e7d06b25\"",
+  "last_modified": "Sat, 14 Nov 2026 17:16:03 GMT"
+ },
+ "https://www.elporvenir.mx/feedgooglenews/local": {
+  "last_modified": "Sat, 14 Nov 2026 17:17:08 GMT"
+ },
+ "https://www.elprogreso.es/rss/": {
+  "last_modified": "Sat, 14 Nov 2026 15:32:56 GMT"
+ },
+ "https://www.elpuntavui.cat/barcelona.feed?type=rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:46 GMT"
+ },
+ "https://www.elsiglodedurango.com.mx/sitemapNews.xml": {
+  "etag": "W/\"6af8a1a1-5cadc\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:01 GMT"
+ },
+ "https://www.elsiglodetorreon.com.mx/index.xml": {
+  "etag": "W/\"6af8b0b5-74af\"",
+  "last_modified": "Sat, 14 Nov 2026 19:04:21 GMT"
+ },
+ "https://www.eluniversal.com.co/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"807cd-RJeMR2qOS7fyKQUqRG6BAM2vv/c\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:12 GMT"
+ },
+ "https://www.eluniversal.com.mx/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"dcfd7-Gdnfa3vANF5Hg1+7uVvaqEK8q8Y\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:11 GMT"
+ },
+ "https://www.eluniversalhidalgo.com.mx/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"301d3-kYdC2FDuLtnm72p/KdASUE/YfQ8\"",
+  "last_modified": "Sat, 14 Nov 2026 18:03:08 GMT"
+ },
+ "https://www.eluniverso.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"247a3-HcOkLmk9CeTaHZeO7kmknw60Ud8\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:20 GMT"
+ },
+ "https://www.elwatannews.com/news-sitemap.xml": {
+  "last_modified": "Sat, 14 Nov 2026 15:06:14 GMT"
+ },
+ "https://www.em.com.br/feed": {
+  "etag": "W/\"c38aae24ad247f2af590a4b6d31b7bca\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:12 GMT"
+ },
+ "https://www.epicentrochile.com/rss": {
+  "etag": "\"36fb0677429ac44968c8e7162c6bbe5e\"",
+  "last_modified": "Sat, 14 Nov 2026 15:24:23 GMT"
+ },
+ "https://www.epokaere.com/feed/": {
+  "etag": "W/\"7be1026ebdf7e3cf10414440c6445c30\"",
+  "last_modified": "Sat, 14 Nov 2026 18:53:30 GMT"
+ },
+ "https://www.esaimaa.fi/feed/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:45:16 GMT"
+ },
+ "https://www.esakal.com/news_sitemap.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:55 GMT"
+ },
+ "https://www.ess.fi/feed/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:59:20 GMT"
+ },
+ "https://www.estadao.com.br/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"b6d52-6UMVnadOcjkyj5Lok8RW4/DsJ0w\"",
+  "last_modified": "Sat, 14 Nov 2026 19:14:26 GMT"
+ },
+ "https://www.estianews.gr/rss": {
+  "etag": "W/\"a888bbe60f496e8a1b6b3aba99014486\"",
+  "last_modified": "Sat, 14 Nov 2026 15:00:12 GMT"
+ },
+ "https://www.eswatiniobserver.com/feed/": {
+  "etag": "\"e29c75d9dcbb0a692fb9d683a1e301c1\"",
+  "last_modified": "Sat, 14 Nov 2026 07:44:03 GMT"
+ },
+ "https://www.ethiopia-insight.com/feed/": {
+  "etag": "\"88fc0a198b00d3e16db1018d375b1479-gzip\""
+ },
+ "https://www.ethnos.gr/rss-news?positionid=1": {
+  "last_modified": "Sat, 14 Nov 2026 18:59:35 GMT"
+ },
+ "https://www.evrensel.net/sitemap-news.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:37 GMT"
+ },
+ "https://www.examiner.media/rss/": {
+  "etag": "W/\"195d3-I2Jh7kdCJ+nMafQ/236g0daOFcY\""
+ },
+ "https://www.excelsior.com.mx/sitemap-google-news.xml": {
+  "etag": "W/\"dbb5c02c04269ad5a7e56cb3178ea230\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:14 GMT"
+ },
+ "https://www.expressandstar.com/rss": {
+  "etag": "W/\"1a48e-Kl0Ubzn3w3+rIipyt/99WbpraRo-gzip\""
+ },
+ "https://www.expressnews.com/sitemap_news.xml": {
+  "etag": "\"171-65f64f5db8043-gzip\"",
+  "last_modified": "Tue, 03 Nov 2026 20:18:06 GMT"
+ },
+ "https://www.fakt.pl/rss-articles.xml": {
+  "etag": "\"14721-2a9eb5e473f1efed\""
+ },
+ "https://www.folhape.com.br/sitemap/news/": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:47 GMT"
+ },
+ "https://www.fr.de/news.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:02:00 GMT"
+ },
+ "https://www.fraenkischertag.de/sitemap_news.sitemap.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:26:01 GMT"
+ },
+ "https://www.frankenpost.de/index.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:00:00 GMT"
+ },
+ "https://www.fraternitebj.info/feed/": {
+  "etag": "\"db096b4d826b0b5ae4d6ee4689f1f610-gzip\"",
+  "last_modified": "Fri, 13 Nov 2026 22:56:57 GMT"
+ },
+ "https://www.freemalaysiatoday.com/feeds/rss/headlines": {
+  "etag": "\"v79sjbz3mp4iha\""
+ },
+ "https://www.freepressjournal.in/stories.rss": {
+  "last_modified": "Sat, 14 Nov 2026 17:51:15 GMT"
+ },
+ "https://www.ft.com/rss/home/international": {
+  "etag": "W/\"18b6-Qseudcc0FMYoBczn9uVcuZEIcf4\""
+ },
+ "https://www.ft.lk/rss/top-story/26": {
+  "last_modified": "Sat, 14 Nov 2026 17:41:03 GMT"
+ },
+ "https://www.ftm.nl/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 18:17:45 GMT"
+ },
+ "https://www.g4media.ro/feed": {
+  "etag": "W/\"f5df5d5753ba84b10428d753df5a3b06\"",
+  "last_modified": "Sat, 14 Nov 2026 18:17:16 GMT"
+ },
+ "https://www.gandul.ro/feed": {
+  "etag": "W/\"37838c1a6a0ce5d50e402c6f2a6c4d43\"",
+  "last_modified": "Sat, 14 Nov 2026 19:11:27 GMT"
+ },
+ "https://www.gazetadopovo.com.br/feed/rss/ultimas-noticias.xml": {
+  "etag": "\"ef3fa4b1b27d8f074a64c9b5bb3e9084\"",
+  "last_modified": "Sat, 14 Nov 2026 19:11:42 GMT"
+ },
+ "https://www.gd.se/feeds/feed.xml": {
+  "etag": "W/\"9481-ijlTqkMFU9rgXOsFhj9Tqif5kj8\""
+ },
+ "https://www.gds.ro/feed/": {
+  "etag": "\"50a7681177c5b2165be88d6a11703c1b\"",
+  "last_modified": "Fri, 13 Nov 2026 19:42:25 GMT"
+ },
+ "https://www.gelderlander.nl/nijmegen/rss.xml": {
+  "etag": "W/\"0ed6b7664dc4253b64193b35f2eebba7c\""
+ },
+ "https://www.glas-slavonije.hr/rss.xml": {
+  "etag": "W/\"6af8af9b-e7f0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:59:39 GMT"
+ },
+ "https://www.glasgowtimes.co.uk/news/rss/": {
+  "etag": "\"95c8c9bc48baf56bc064d4e7370d59f7\"",
+  "last_modified": "Sat, 14 Nov 2026 18:51:42 GMT"
+ },
+ "https://www.glsa.ro/rss": {
+  "etag": "\"47588a77ee795e1d1148788a4256c6ed\"",
+  "last_modified": "Sat, 14 Nov 2026 13:49:10 GMT"
+ },
+ "https://www.gnlm.com.mm/feed/": {
+  "etag": "W/\"2b4a871fc5a1a889f47ce1c312255cf4\"",
+  "last_modified": "Fri, 13 Nov 2026 20:05:31 GMT"
+ },
+ "https://www.gorenjskiglas.si/rss.xml": {
+  "etag": "\"6af86ba0-e2f9\"",
+  "last_modified": "Sat, 14 Nov 2026 14:09:36 GMT"
+ },
+ "https://www.graiul.ro/feed/": {
+  "etag": "\"43728d0a2ed87db1699fb939910e1c61\"",
+  "last_modified": "Sat, 14 Nov 2026 09:20:18 GMT"
+ },
+ "https://www.graphic.com.gh/component/osmap/?view=xml&id=1&news=1&format=xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:39 GMT"
+ },
+ "https://www.greaterkashmir.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:13:34 GMT"
+ },
+ "https://www.gulf-times.com/rssFeed/9": {
+  "last_modified": "Sat, 14 Nov 2026 18:00:01 GMT"
+ },
+ "https://www.gundemkibris.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:01:48 GMT"
+ },
+ "https://www.guyaweb.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 13:04:09 GMT"
+ },
+ "https://www.haberturk.com/rss": {
+  "etag": "W/\"KXADCFAPHHLWSZLMS\""
+ },
+ "https://www.hameensanomat.fi/feed/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:59:20 GMT"
+ },
+ "https://www.hankyung.com/feed/all-news": {
+  "last_modified": "Sat, 14 Nov 2026 19:18:00 GMT"
+ },
+ "https://www.haon.hu/publicapi/hu/rss/haon/articles": {
+  "last_modified": "Sat, 14 Nov 2026 18:47:20 GMT"
+ },
+ "https://www.havadiskibris.com/feed/": {
+  "etag": "W/\"11f64fe9b11aebe4467f0af4162bac21\"",
+  "last_modified": "Sat, 14 Nov 2026 18:28:42 GMT"
+ },
+ "https://www.hawaiitribune-herald.com/rss": {
+  "etag": "W/\"94cbc844f544e01ac0711f226fad7fc0\"",
+  "last_modified": "Sat, 14 Nov 2026 10:07:00 GMT"
+ },
+ "https://www.haz.de/arc/outboundfeeds/rss/category/lokales/hannover/?outputType=xml": {
+  "etag": "W/\"1116a-VFHrOahztSI7vLriBdluWvqLKV8\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:46 GMT"
+ },
+ "https://www.hbl.fi/feeds/feed.xml": {
+  "etag": "W/\"ecf8-i2A/mMfQjy07dGBMEzCK+U1xIS8\""
+ },
+ "https://www.hd.se/feeds/feed.xml": {
+  "etag": "W/\"b2a3-ubJZjwSfqM26ID+hWcRbSJ/gS9Q\""
+ },
+ "https://www.heraldnet.com/rss": {
+  "etag": "W/\"b6a03f9e6ba0f20e2b4cbd8e237a9ba9\"",
+  "last_modified": "Sat, 14 Nov 2026 09:30:28 GMT"
+ },
+ "https://www.heraldscotland.com/news/homenews/rss/": {
+  "etag": "\"68c175f75cec71965eeae0e92ec256c4\"",
+  "last_modified": "Sat, 14 Nov 2026 17:00:22 GMT"
+ },
+ "https://www.hespress.com/rss": {
+  "etag": "W/\"fd7b85139f4564a4570e5b263f968b8a\"",
+  "last_modified": "Sat, 14 Nov 2026 19:11:44 GMT"
+ },
+ "https://www.heute.at/storage/sitemaps/sitemap_news.xml": {
+  "etag": "\"25891-660415c9c9309-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:03 GMT"
+ },
+ "https://www.hln.be/rss.xml": {
+  "etag": "W/\"0de8a58cff033a68eae909bcfc5601610\""
+ },
+ "https://www.hokkaido-np.co.jp/output/7/free/index.ad.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:08:08 GMT"
+ },
+ "https://www.hronikatm.com/feed/": {
+  "etag": "\"cb639a5fa0066e968622e18e579d3cda\"",
+  "last_modified": "Fri, 13 Nov 2026 10:32:30 GMT"
+ },
+ "https://www.huffpost.com/static-assets/isolated/huffpostsitemapgeneratorjob-prod-public/us/sitemaps/sitemap-google-news.xml": {
+  "etag": "\"c54ce74f095a685bf7e7de3551516fc2\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:20 GMT"
+ },
+ "https://www.humanite.fr/rss": {
+  "etag": "W/\"763506914234e05a35419ba5af41678b\"",
+  "last_modified": "Sat, 14 Nov 2026 18:27:36 GMT"
+ },
+ "https://www.hurriyetdailynews.com/sitemaps/newssitemap.xml": {
+  "etag": "W/\"825205781d9d5d988a0acdcdd3e89cdb\"",
+  "last_modified": "Fri, 13 Nov 2026 14:08:17 GMT"
+ },
+ "https://www.ibtimes.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:38:53 GMT"
+ },
+ "https://www.idl-reporteros.pe/feed/": {
+  "etag": "\"d15a918b940d6c12c231e32545a9efcd\"",
+  "last_modified": "Sat, 14 Nov 2026 12:22:32 GMT"
+ },
+ "https://www.iefimerida.gr/rss.xml": {
+  "etag": "\"1794683829\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:09 GMT"
+ },
+ "https://www.ilfattoquotidiano.it/feed/": {
+  "etag": "W/\"3476e78f4156fd799ac5ba19dfb2e3b9\"",
+  "last_modified": "Sat, 14 Nov 2026 18:47:02 GMT"
+ },
+ "https://www.ilgiornale.it/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"76b6c-Vtc/ykuvL7S0dKEdBpnJ34Ua+MY\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:08 GMT"
+ },
+ "https://www.ilgiorno.it/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:59 GMT"
+ },
+ "https://www.ilkkapohjalainen.fi/feed": {
+  "last_modified": "Sat, 14 Nov 2026 17:30:00 GMT"
+ },
+ "https://www.ilpost.it/feed": {
+  "etag": "\"368ca2815f3215f0d37d729b83e2f758\"",
+  "last_modified": "Sat, 14 Nov 2026 17:56:10 GMT"
+ },
+ "https://www.ilrestodelcarlino.it/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:24 GMT"
+ },
+ "https://www.ilsole24ore.com/rss/italia.xml": {
+  "etag": "W/\"6af8aaf3-3729\"",
+  "last_modified": "Sat, 14 Nov 2026 18:39:47 GMT"
+ },
+ "https://www.iltempo.it/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"6d2e2-esUi7+ob1nMOSF+nv1DjqLi7my0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:03:00 GMT"
+ },
+ "https://www.in.gr/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:00:45 GMT"
+ },
+ "https://www.independent.co.ug/feed/": {
+  "etag": "W/\"a06bdac44155dd2c3c55178a6c315c25\"",
+  "last_modified": "Sat, 14 Nov 2026 15:00:55 GMT"
+ },
+ "https://www.independent.co.uk/rss": {
+  "etag": "W/\"1c0a2-ja1DVisaMhLfYPNOsbCHOca9vmc-gzip\""
+ },
+ "https://www.independent.com/feed/": {
+  "etag": "W/\"4b92e8fcf4d20f7bf9748b182403c5b1\"",
+  "last_modified": "Sat, 14 Nov 2026 17:58:51 GMT"
+ },
+ "https://www.infobae.com/arc/outboundfeeds/rss/category/america/mundo/": {
+  "etag": "W/\"b8a46-c6pF4XbfEvn1F00ZAcqRF1ggdEA\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:45 GMT"
+ },
+ "https://www.informador.mx/sitemaps/googlenews.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:42 GMT"
+ },
+ "https://www.information.dk/feed": {
+  "etag": "\"1794683435\"",
+  "last_modified": "Sat, 14 Nov 2026 19:10:35 GMT"
+ },
+ "https://www.inquirer.com/sitemaps/48hour-news-sitemap-partner.xml": {
+  "etag": "\"e8b5f5f5f04fd0e47a59a40c5b561a3f\"",
+  "last_modified": "Sat, 14 Nov 2026 19:18:06 GMT"
+ },
+ "https://www.inverness-courier.co.uk/_api/rss/inverness-news-feed.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:00:00 GMT"
+ },
+ "https://www.invernessoran.ca/rss": {
+  "etag": "\"9ae8eaecec5509a3cc91044e1dd40cd1\""
+ },
+ "https://www.iomtoday.co.im/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:18 GMT"
+ },
+ "https://www.irishnews.com/arc/outboundfeeds/rss/": {
+  "etag": "W/\"9efbe-A7f2W7duglH14ghYTbi6FoxNxW4\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:49 GMT"
+ },
+ "https://www.irishtimes.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"ac700-mWS72yfKFBfLZIfUlKQey0ZxE8k\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:35 GMT"
+ },
+ "https://www.irrawaddy.com/rss": {
+  "etag": "W/\"edbe6650f17b5c6626c6bfaa8e3c42f9\"",
+  "last_modified": "Fri, 13 Nov 2026 12:30:37 GMT"
+ },
+ "https://www.israelhayom.co.il/rss.xml": {
+  "etag": "W/\"6af8b344-16aca\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:16 GMT"
+ },
+ "https://www.iwacu-burundi.org/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 14:23:23 GMT"
+ },
+ "https://www.jamaicaobserver.com/feed": {
+  "etag": "W/\"642963cc07bc1760410699eacbad7ea9-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:47:44 GMT"
+ },
+ "https://www.jewishtimes.com/feed/": {
+  "etag": "\"ec103baf8aae8a15e06bdae64282bf04\"",
+  "last_modified": "Fri, 13 Nov 2026 20:14:41 GMT"
+ },
+ "https://www.jornada.com.mx/rss/edicion.xml?v=1": {
+  "etag": "W/\"6af81202-f5f5\"",
+  "last_modified": "Sat, 14 Nov 2026 07:47:14 GMT"
+ },
+ "https://www.jornaldocomercio.com/_conteudo/home/rss.xml": {
+  "etag": "\"10b1ee53fd9524729bed5374bbf11669\"",
+  "last_modified": "Sat, 14 Nov 2026 17:46:19 GMT"
+ },
+ "https://www.jp.se/feeds/feed.xml": {
+  "etag": "W/\"dcbe-auRbTOF7c6OCvqX0AU+k1Uy3sk4\""
+ },
+ "https://www.juneauempire.com/rss": {
+  "etag": "W/\"f3d17ba7d5e8d2fb2e2deca688b8a6a6\"",
+  "last_modified": "Sat, 14 Nov 2026 13:30:00 GMT"
+ },
+ "https://www.jungewelt.de/feeds/newsticker.rss": {
+  "etag": "\"8afb-66040f14fedd3-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:45:02 GMT"
+ },
+ "https://www.justhorseracing.com.au/category/news/australian-racing/feed": {
+  "etag": "W/\"3208e58b72db3274f992e5dc01d9ab30\"",
+  "last_modified": "Sat, 14 Nov 2026 09:24:28 GMT"
+ },
+ "https://www.juznevesti.com/feed/": {
+  "etag": "W/\"638a30beb39df3fb16a6805bc3a2065d\"",
+  "last_modified": "Sat, 14 Nov 2026 18:47:54 GMT"
+ },
+ "https://www.kaleva.fi/feedit/rss/managed-listing/rss-uusimmat/": {
+  "last_modified": "Sat, 14 Nov 2026 19:11:50 GMT"
+ },
+ "https://www.kanaloco.jp/rss.xml": {
+  "etag": "W/\"1794602017\"",
+  "last_modified": "Fri, 13 Nov 2026 20:33:37 GMT"
+ },
+ "https://www.kannadaprabha.com/news_sitemap.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:55 GMT"
+ },
+ "https://www.karjalainen.fi/feed/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:05:02 GMT"
+ },
+ "https://www.kathimerini.gr/infeeds/rss/nx-rss-feed.xml": {
+  "etag": "W/\"6af8b127-245a4\"",
+  "last_modified": "Sat, 14 Nov 2026 19:06:15 GMT"
+ },
+ "https://www.kccallnews.net/rss": {
+  "etag": "\"99a7e83eb1bdca551dacead70a670efc\"",
+  "last_modified": "Fri, 16 Oct 2026 12:03:47 GMT"
+ },
+ "https://www.kentonline.co.uk/_api/rss/kent_online_news_feed.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:52:44 GMT"
+ },
+ "https://www.khaleejtimes.com/api/v1/collections/top-section.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:14:05 GMT"
+ },
+ "https://www.khan.co.kr/rss/rssdata/total_news.xml": {
+  "etag": "\"cd25-6604163a28540-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:01 GMT"
+ },
+ "https://www.khaosod.co.th/rss": {
+  "etag": "W/\"99caf346531c0834cd74864841356972\"",
+  "last_modified": "Sat, 14 Nov 2026 18:11:00 GMT"
+ },
+ "https://www.kilkennypeople.ie/rss": {
+  "etag": "W/\"68ce-wZ6bOQ8S7O7ws4ebhN6bPuTE9LM-gzip\""
+ },
+ "https://www.kisalfold.hu/publicapi/hu/rss/kisalfold/articles": {
+  "last_modified": "Sat, 14 Nov 2026 18:41:02 GMT"
+ },
+ "https://www.kn-online.de/arc/outboundfeeds/rss/category/lokales/kiel/?outputType=xml": {
+  "etag": "W/\"86d7-wB4nWm0whXTCT+jXmNAx0FnmMfg\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:45 GMT"
+ },
+ "https://www.kommersant.ru/RSS/main.xml": {
+  "etag": "\"981fc4246b74dd1:0\"",
+  "last_modified": "Sat, 14 Nov 2026 19:05:41 GMT"
+ },
+ "https://www.krik.rs/feed/": {
+  "etag": "\"88e9b49d7e91da5f61ff2421142726c7\"",
+  "last_modified": "Thu, 12 Nov 2026 13:55:22 GMT"
+ },
+ "https://www.kristianstadsbladet.se/feeds/feed.xml": {
+  "etag": "W/\"1292d-Y4ZmhBDP8WnhYKHnNoLl2/DDjxE\""
+ },
+ "https://www.ksml.fi/feed/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:14:53 GMT"
+ },
+ "https://www.ktpress.rw/feed/": {
+  "etag": "W/\"56c67b681091e9d6861c92c796c9e08f\"",
+  "last_modified": "Sat, 14 Nov 2026 14:36:59 GMT"
+ },
+ "https://www.kyivpost.com/feed": {
+  "etag": "W/\"6af8b212-648a\""
+ },
+ "https://www.kymensanomat.fi/feed/rss": {
+  "last_modified": "Sat, 14 Nov 2026 16:13:36 GMT"
+ },
+ "https://www.la-croix.com/rss": {
+  "etag": "\"d38c16d5d37a8fad9fb7c6acc7fe98f8\"",
+  "last_modified": "Sat, 14 Nov 2026 19:12:22 GMT"
+ },
+ "https://www.lacuarta.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"9c674-VuTO4x2nDAtPRmNpYubY+q/a2Ok\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:21 GMT"
+ },
+ "https://www.lajornadadeoriente.com.mx/feed/": {
+  "etag": "\"df3d51ef22d8a54a895a9038fd7b8edc-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:05:44 GMT"
+ },
+ "https://www.lalibre.be/rss": {
+  "etag": "W/\"1fdbb-80BPjOKlaa3LAMqV5wX2xRsvcUA\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:52 GMT"
+ },
+ "https://www.lanacion.com.co/feed/": {
+  "etag": "\"e4a780f05abc09b22c0ced3ff79dd944\"",
+  "last_modified": "Sat, 14 Nov 2026 16:03:20 GMT"
+ },
+ "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"7dbf5-itayyB3baTZIrYhJVe1Dtt5C2gU\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:10 GMT"
+ },
+ "https://www.lanation.dj/feed/": {
+  "etag": "\"2e075363e2101cbd756375d2138459f5-gzip\"",
+  "last_modified": "Thu, 12 Nov 2026 08:15:09 GMT"
+ },
+ "https://www.lanazione.it/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:31 GMT"
+ },
+ "https://www.lancashiretelegraph.co.uk/news/rss/": {
+  "etag": "\"0bb64aec4dd59938eea3687851e727b5\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:41 GMT"
+ },
+ "https://www.lankadeepa.lk/rss/latest_news/1": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:16 GMT"
+ },
+ "https://www.lapinkansa.fi/feedit/rss/newest-free/": {
+  "last_modified": "Wed, 11 Nov 2026 09:42:05 GMT"
+ },
+ "https://www.laprensani.com/sitemaps/news-sitemap.xml": {
+  "etag": "\"6af8b0df-1485\"",
+  "last_modified": "Sat, 14 Nov 2026 19:05:03 GMT"
+ },
+ "https://www.lapresse.tn/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 18:30:51 GMT"
+ },
+ "https://www.laprovence.com/googlenews.xml": {
+  "etag": "\"fcjk4kw2cz4p9v\""
+ },
+ "https://www.lastampa.it/rss/copertina.xml": {
+  "last_modified": "Sat, 14 Nov 2026 16:16:00 GMT"
+ },
+ "https://www.latercera.com/rss": {
+  "etag": "W/\"a1bd5-laBd01O+3+pk//lyFhg/jUH3YSk\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:56 GMT"
+ },
+ "https://www.lavanguardia.com/rss/home.xml": {
+  "etag": "W/\"a87d6c09ee88c7d163f8bba7f8575d08\"",
+  "last_modified": "Sat, 14 Nov 2026 18:44:22 GMT"
+ },
+ "https://www.lavenir.net/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"191f8-M1q3lHbuyedIIEGHhbS0yrqEdQM\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:32 GMT"
+ },
+ "https://www.laverita.info/feed": {
+  "last_modified": "Sat, 14 Nov 2026 17:00:00 GMT"
+ },
+ "https://www.leclaireurprogres.ca/feed": {
+  "etag": "W/\"aefcf55abe0841156142b2538b6d662a\"",
+  "last_modified": "Sat, 14 Nov 2026 13:01:28 GMT"
+ },
+ "https://www.leconomistemaghrebin.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 15:48:09 GMT"
+ },
+ "https://www.ledroit.com/arc/outboundfeeds/sitemap-news?outputType=xml": {
+  "etag": "W/\"198f7-lLKTzCnKeXLCE4gJfvgaJuVh6Y4\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:11 GMT"
+ },
+ "https://www.leinsterexpress.ie/rss": {
+  "etag": "W/\"9dde-oixiMav1bT+Tcnil3K2v9wWfQBs-gzip\""
+ },
+ "https://www.lenouvelliste.ch/news-sitemap.xml": {
+  "etag": "\"252d3565b72279ecd1031a7227269135-gzip\""
+ },
+ "https://www.lep.co.uk/news/rss": {
+  "etag": "W/\"58d8-9deTOJqndl8MjEPtGqoV1JITZvE-gzip\""
+ },
+ "https://www.lepaystchad.com/feed/": {
+  "etag": "\"efd1549bca5b7a40728ac2723a97369f\"",
+  "last_modified": "Sat, 14 Nov 2026 10:39:20 GMT"
+ },
+ "https://www.lesahel.org/feed/": {
+  "etag": "\"a247365d6751db97c33c174210000d8a-gzip\"",
+  "last_modified": "Fri, 13 Nov 2026 18:38:55 GMT"
+ },
+ "https://www.letelegramme.fr/rss.xml": {
+  "last_modified": "Wed, 14 Oct 2026 16:03:17 GMT"
+ },
+ "https://www.letemps.ch/feed": {
+  "etag": "W/\"c4a16a053f7bec1d8a53968e707d4656\""
+ },
+ "https://www.lexpress.mg/feeds/posts/default": {
+  "etag": "W/\"d38f4da91c85ee737ff4412bf63ec9f5cd669eea4d9b5f30d61c7cef430659a9\"",
+  "last_modified": "Sat, 14 Nov 2026 15:36:37 GMT"
+ },
+ "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml": {
+  "etag": "W/\"ab3d-Ten1Bx+B/+NHVWKwu2yZI1J/gwI\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:54 GMT"
+ },
+ "https://www.liberta.it/google-news-sitemap.xml": {
+  "etag": "W/\"fdf1b8ff11cd832818cff81bbbb05047\"",
+  "last_modified": "Sat, 14 Nov 2026 18:22:10 GMT"
+ },
+ "https://www.limerickleader.ie/rss": {
+  "etag": "W/\"8942-9jLYPBFS0E7LE8XMQb70/ACITdk-gzip\""
+ },
+ "https://www.limerickpost.ie/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 18:30:11 GMT"
+ },
+ "https://www.lmcordoba.com.ar/feed/": {
+  "etag": "W/\"071dfa571fddd47ea32b5518b27371cc\"",
+  "last_modified": "Sat, 14 Nov 2026 05:17:34 GMT"
+ },
+ "https://www.ln-online.de/arc/outboundfeeds/rss/category/lokales/luebeck/?outputType=xml": {
+  "etag": "W/\"6632-8S2RkkVEu44kfA7Qjwx46sNnyLI\"",
+  "last_modified": "Sat, 14 Nov 2026 19:02:39 GMT"
+ },
+ "https://www.lnc.nc/rss.xml": {
+  "etag": "\"1794682819-1\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:19 GMT"
+ },
+ "https://www.longfordleader.ie/rss": {
+  "etag": "W/\"59b6-19Vzr5ToEEwwI1IboopGeAYy71w-gzip\""
+ },
+ "https://www.losandes.com.ar/rss/pages/ultimas-noticias.xml": {
+  "etag": "\"b1f5d94d938cedf26dcd0622f76cb31f\"",
+  "last_modified": "Sat, 14 Nov 2026 17:57:27 GMT"
+ },
+ "https://www.lostiempos.com/rss/portada": {
+  "etag": "\"1794674949-1\"",
+  "last_modified": "Sat, 14 Nov 2026 16:49:09 GMT"
+ },
+ "https://www.lr-online.de/sitemap-news.xml": {
+  "etag": "W/\"158592e39190edfea475d8cd4f517c4e\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:56 GMT"
+ },
+ "https://www.lrytas.lt/rss": {
+  "etag": "W/\"z9qS2ouCmeY7a123l_yR9B5A-FI\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:10 GMT"
+ },
+ "https://www.luzernerzeitung.ch/zentralschweiz.rss": {
+  "etag": "W/\"646e-WfzJdr4TXS4+LlQCeqMaA3tQzRk\""
+ },
+ "https://www.lvz.de/arc/outboundfeeds/rss/category/lokales/leipzig/?outputType=xml": {
+  "etag": "W/\"c0eb-Q5t7ZlLYGfQdLvtJgHZwT6671ZA\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:46 GMT"
+ },
+ "https://www.lz.de/_lz_daten/_export/rss/detmold/index.rss": {
+  "etag": "\"1708-6604113a05257\"",
+  "last_modified": "Sat, 14 Nov 2026 18:54:38 GMT"
+ },
+ "https://www.maalaimalar.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:43 GMT"
+ },
+ "https://www.macleayargus.com.au/rss.xml": {
+  "last_modified": "Thu, 12 Nov 2026 23:00:00 GMT"
+ },
+ "https://www.madamasr.com/rss": {
+  "etag": "W/\"bf6b51edfd58b2de10adfe44424b566e\"",
+  "last_modified": "Tue, 10 Nov 2026 00:22:17 GMT"
+ },
+ "https://www.madhyamam.com/feeds.xml": {
+  "etag": "\"449884-1794681600085\"",
+  "last_modified": "Sat, 14 Nov 2026 18:40:00 GMT"
+ },
+ "https://www.main-echo.de/storage/rss/rss/stadt_kreis_aschaffenburg.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:55:01 GMT"
+ },
+ "https://www.malaysiakini.com/rss/en/news.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:10:25 GMT"
+ },
+ "https://www.masrawy.com/rss/feed/25/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1": {
+  "last_modified": "Sat, 14 Nov 2026 15:26:53 GMT"
+ },
+ "https://www.masslive.com/arc/outboundfeeds/google-news-feed/": {
+  "etag": "W/\"b9a8d-N5l0WLanrnWKDZacJC1Xlo5B7Uk\"",
+  "last_modified": "Sat, 14 Nov 2026 19:18:15 GMT"
+ },
+ "https://www.matichon.co.th/feed": {
+  "etag": "W/\"7a25d11fca315c53d821f21f27ef2997\"",
+  "last_modified": "Sat, 14 Nov 2026 16:03:17 GMT"
+ },
+ "https://www.matsusentinel.com/rss/": {
+  "etag": "W/\"c73b7-0bXFcxzom9pn6cRfM3u8nSiWS/4\""
+ },
+ "https://www.mauinews.com/rss": {
+  "etag": "\"756b4bd732228204dc08a1f56934672e-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 13:16:24 GMT"
+ },
+ "https://www.mayonews.ie/rss": {
+  "etag": "W/\"2fd0-ajToG58A3I09DeQXSqgn9F91g4s-gzip\""
+ },
+ "https://www.maz-online.de/arc/outboundfeeds/rss/category/lokales/potsdam/?outputType=xml": {
+  "etag": "W/\"50c8-D3fCWbauoZsCKTEPCO4qYGnlGNo\"",
+  "last_modified": "Sat, 14 Nov 2026 19:02:38 GMT"
+ },
+ "https://www.mbl.is/feeds/fp/": {
+  "etag": "\"6f3abbb11b5775f794d9e1926583e478-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:59:00 GMT"
+ },
+ "https://www.mediapool.bg/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 18:06:32 GMT"
+ },
+ "https://www.meydan.tv/az/rss/": {
+  "etag": "\"39115e5c47b281cad54aea33644b6772\"",
+  "last_modified": "Sat, 14 Nov 2026 11:50:58 GMT"
+ },
+ "https://www.midiario.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"4024c-TiLD0+k7HnvcLehRnIei7akUjHY\"",
+  "last_modified": "Sat, 14 Nov 2026 18:03:09 GMT"
+ },
+ "https://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml": {
+  "etag": "W/\"e45ba760b5abe72e73a7f876c9b6673f\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:01 GMT"
+ },
+ "https://www.miningjournal.net/rss": {
+  "etag": "\"fd648b7129f0284f59f3233c68a0aba2-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 08:01:10 GMT"
+ },
+ "https://www.minotdailynews.com/rss": {
+  "etag": "\"8a59eb7b8cdd02b3b1c7021c74dc6ad3-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:41:00 GMT"
+ },
+ "https://www.mlive.com/arc/outboundfeeds/google-news-feed/": {
+  "etag": "W/\"c8f68-JwqMMT5HtoHNS/+775oIUilalls\"",
+  "last_modified": "Sat, 14 Nov 2026 17:59:55 GMT"
+ },
+ "https://www.monitor.co.ug/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:05 GMT"
+ },
+ "https://www.monitorulbt.ro/feed/": {
+  "etag": "\"5ee08c54f2e7a5aebb2234513235b331\"",
+  "last_modified": "Sat, 14 Nov 2026 16:09:20 GMT"
+ },
+ "https://www.monitoruldegalati.ro/feed": {
+  "etag": "\"cff91c004d599fbb334fd1b34321a67b\"",
+  "last_modified": "Sat, 14 Nov 2026 05:32:25 GMT"
+ },
+ "https://www.monitorulexpres.ro/feed/": {
+  "etag": "\"826e6bc2f837e9b655f18ee0c9f4c1ee\"",
+  "last_modified": "Sat, 14 Nov 2026 15:56:40 GMT"
+ },
+ "https://www.monitorulsv.ro/sitemap-news.xml": {
+  "etag": "W/\"6af8afe6-57c5\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:54 GMT"
+ },
+ "https://www.moreto.net/rss/lastnews.xml": {
+  "last_modified": "Sat, 14 Nov 2026 15:10:19 GMT"
+ },
+ "https://www.moz.de/sitemap-news.xml": {
+  "etag": "W/\"79ddcdec2c84f6864c56a9e2b08a89f0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:56 GMT"
+ },
+ "https://www.munster-express.ie/feed/": {
+  "etag": "\"6468f5009abc511ecff0d694b3d07396\"",
+  "last_modified": "Fri, 13 Nov 2026 15:30:39 GMT"
+ },
+ "https://www.na.se/feeds/feed.xml": {
+  "etag": "W/\"c3f5-N/VMX0DlHoTkS0IeL1BSWq8kRGQ\""
+ },
+ "https://www.nachrichten.at/storage/rss/rss/nachrichten.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:20 GMT"
+ },
+ "https://www.nacion.com/rss": {
+  "etag": "W/\"915fe-mR9dUTnQTy1IBsvD8z/Da9RAoV8\"",
+  "last_modified": "Sat, 14 Nov 2026 19:14:42 GMT"
+ },
+ "https://www.naiz.eus/eu/rss/publications/gara.rss": {
+  "etag": "W/\"e991e83c68fe943d5ccb6a211fbda875\""
+ },
+ "https://www.namibian.com.na/feed/": {
+  "etag": "\"ae5df7124ebbccdbe64479a10c2ab00c-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 14:57:22 GMT"
+ },
+ "https://www.nationalheraldindia.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:35 GMT"
+ },
+ "https://www.nationalobserver.com/front/rss": {
+  "etag": "\"1794657974-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 12:06:14 GMT"
+ },
+ "https://www.newindianexpress.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:11:23 GMT"
+ },
+ "https://www.newsday.com/api/rss/recent": {
+  "etag": "W/\"e08c7-K1JDIqcFsAgSbI6hFe3FRSv+8vg\""
+ },
+ "https://www.newsletter.co.uk/news/rss": {
+  "etag": "W/\"4ed2-8EKf7Ou+ogvlFBlwpNg5QY4O8ek-gzip\""
+ },
+ "https://www.nhregister.com/sitemap_news.xml": {
+  "etag": "\"16f-65e0c168551da-gzip\"",
+  "last_modified": "Sat, 17 Oct 2026 16:51:10 GMT"
+ },
+ "https://www.nj.com/arc/outboundfeeds/google-news-feed/": {
+  "etag": "W/\"100759-0daCH/Ljp0W9oxt+4Y6blWfYYS0\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:22 GMT"
+ },
+ "https://www.nordkurier.de/sitemaps/nord/google-news-sitemap-index.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:35:21 GMT"
+ },
+ "https://www.northamptonchron.co.uk/news/rss": {
+  "etag": "W/\"169f-SGBSs11A3XbvZy9M7JDR+VeVEwE-gzip\""
+ },
+ "https://www.northerndailyleader.com.au/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 00:00:00 GMT"
+ },
+ "https://www.northqueenslandregister.com.au/rss.xml": {
+  "last_modified": "Fri, 13 Nov 2026 21:27:01 GMT"
+ },
+ "https://www.nosdiario.gal/rss/": {
+  "last_modified": "Sat, 14 Nov 2026 18:01:43 GMT"
+ },
+ "https://www.noticiasaominuto.com/rss/ultima-hora": {
+  "etag": "W/\"bcb4cee244759f9ec99329982e9a4026\""
+ },
+ "https://www.novilist.hr/feed/": {
+  "etag": "\"78ccbe5336e1fb6b1420ee3310904b1d\""
+ },
+ "https://www.nsd.se/rss": {
+  "etag": "W/\"3d32-+DLWI0iZgaiwkFPVRqQxDnyOu3s\""
+ },
+ "https://www.nst.com.my/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:39 GMT"
+ },
+ "https://www.nt.se/rss": {
+  "etag": "W/\"435b-kduAeNT29TyaJB2sl6f+t3semfY\""
+ },
+ "https://www.nu.nl/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:50:33 GMT"
+ },
+ "https://www.nw.de/_export/site_rss/nw/index.rss": {
+  "etag": "\"1a6b-660410ed69e5e\"",
+  "last_modified": "Sat, 14 Nov 2026 18:53:18 GMT"
+ },
+ "https://www.nwt.se/feeds/feed.xml": {
+  "etag": "W/\"b15a-E0WMrpf5Ig9wKuZFSVAJWtguwOU\""
+ },
+ "https://www.nyasatimes.com/feed/": {
+  "etag": "W/\"6fc09dbaddb207e8dfc28696fe9f1726\"",
+  "last_modified": "Sat, 14 Nov 2026 06:31:30 GMT"
+ },
+ "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&_website=nzh": {
+  "etag": "W/\"4c40-cdX0xie778vcIkZKUI5GPHo+vdg\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:48 GMT"
+ },
+ "https://www.nzz.ch/startseite.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:22 GMT"
+ },
+ "https://www.observatorulph.ro/feed": {
+  "etag": "W/\"e1940c3b165f3e869bd6080e51e12c29\"",
+  "last_modified": "Sat, 14 Nov 2026 18:16:38 GMT"
+ },
+ "https://www.odemocratagb.com/?feed=rss2": {
+  "etag": "\"6b13999f45d84891d825f66a709538cd-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 09:36:46 GMT"
+ },
+ "https://www.offalyexpress.ie/rss": {
+  "etag": "W/\"54f1-NN5eRYaIdscpyWkNqJb06eE4lao-gzip\""
+ },
+ "https://www.ohtuleht.ee/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:06 GMT"
+ },
+ "https://www.okaz.com.sa/sitemaps/news_sitemap.xml": {
+  "etag": "W/\"80c790f821c419e7bcb0bd55541d39dd\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:18 GMT"
+ },
+ "https://www.op-marburg.de/arc/outboundfeeds/rss/category/lokales/marburg-biedenkopf/?outputType=xml": {
+  "etag": "W/\"23d3-x2TGBqUNb4O3Hr6AY+tYnAgZqao\"",
+  "last_modified": "Sat, 14 Nov 2026 19:02:37 GMT"
+ },
+ "https://www.op.se/feeds/feed.xml": {
+  "etag": "W/\"dc6f-K8NTTCwAMANwYvIba+ediL/LsPI\""
+ },
+ "https://www.opiniatimisoarei.ro/rss": {
+  "etag": "W/\"9fe57bd784752de519d761af13412edc\"",
+  "last_modified": "Sat, 14 Nov 2026 18:57:52 GMT"
+ },
+ "https://www.opinion.com.bo/rss/": {
+  "last_modified": "Sat, 14 Nov 2026 18:00:44 GMT"
+ },
+ "https://www.oregonlive.com/arc/outboundfeeds/google-news-feed/": {
+  "etag": "W/\"aad5b-vQ/6hP8oG99ISVwBVNGk9wJ4s0g\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:47 GMT"
+ },
+ "https://www.origo.hu/publicapi/hu/rss/origo/articles": {
+  "last_modified": "Sat, 14 Nov 2026 19:01:34 GMT"
+ },
+ "https://www.orissapost.com/feed/": {
+  "etag": "\"b555703dcf9641b3d5d3241bb0c5536e\""
+ },
+ "https://www.oslobodjenje.ba/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:50 GMT"
+ },
+ "https://www.osterbottenstidning.fi/feeds/feed.xml": {
+  "etag": "W/\"151ba-oyD46vF1wjCxLO3RIxZtjAG6qR4\""
+ },
+ "https://www.ostsee-zeitung.de/arc/outboundfeeds/rss/category/lokales/rostock/?outputType=xml": {
+  "etag": "W/\"834a-RtsCrJFn7CoIn4dAFIo7fRI5220\"",
+  "last_modified": "Sat, 14 Nov 2026 19:02:38 GMT"
+ },
+ "https://www.outlookindia.com/oisitemap-news.xml": {
+  "etag": "W/\"7dc0e-Eskfk7uX2In1wX7S90Q0mWXuxTo\""
+ },
+ "https://www.oxfordmail.co.uk/news/rss/": {
+  "etag": "\"e748e48e06e2efab6bedd5465d6c35c8\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:02 GMT"
+ },
+ "https://www.ozonpress.net/feed/": {
+  "etag": "W/\"115972c750cca2f8aece0f157769c045\"",
+  "last_modified": "Sat, 14 Nov 2026 16:03:27 GMT"
+ },
+ "https://www.pacificislandtimes.com/blog-feed.xml": {
+  "last_modified": "Sat, 14 Nov 2026 14:12:54 GMT"
+ },
+ "https://www.pagina12.com.ar/arc/outboundfeeds/rss/portada": {
+  "etag": "W/\"19fa-deJAV85o19shdeR/8pVZhe5i8Ec\"",
+  "last_modified": "Sat, 14 Nov 2026 19:13:36 GMT"
+ },
+ "https://www.panamaamerica.com.pa/rss/recent/index.xml": {
+  "etag": "\"1ad06-6562fd79b6140-gzip\"",
+  "last_modified": "Thu, 09 Jul 2026 16:09:01 GMT"
+ },
+ "https://www.peninsulaclarion.com/rss": {
+  "etag": "W/\"d839b9bf53e7f7be3a7a87a08e477cb7\"",
+  "last_modified": "Sat, 14 Nov 2026 12:00:29 GMT"
+ },
+ "https://www.peninsuladailynews.com/rss": {
+  "etag": "W/\"fa55b4fa3bf383cbf0b80ddc295d056a\"",
+  "last_modified": "Sat, 14 Nov 2026 09:31:17 GMT"
+ },
+ "https://www.perfil.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:11 GMT"
+ },
+ "https://www.periodicolaperla.com/feed/": {
+  "etag": "\"fd38c01c353924750184e28a675d6ef5-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:54:07 GMT"
+ },
+ "https://www.perthnow.com.au/rss": {
+  "etag": "W/\"1cedf-lT4YOOB468uWRxbRbhBa0DiPhm8\""
+ },
+ "https://www.philenews.com/rss": {
+  "etag": "\"18107d1107084e23ef67b3d88bb50101\"",
+  "last_modified": "Sat, 14 Nov 2026 19:11:35 GMT"
+ },
+ "https://www.poder360.com.br/feed/": {
+  "etag": "\"7c37ecc79dafb03bffc64df5223033f0-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:59 GMT"
+ },
+ "https://www.politico.eu/feed/": {
+  "etag": "W/\"e9025b67c486cb8ce0797bc394c85c46\"",
+  "last_modified": "Sat, 14 Nov 2026 18:53:01 GMT"
+ },
+ "https://www.politis.com.cy/feed": {
+  "etag": "W/\"5E7xtm1d4L\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:15 GMT"
+ },
+ "https://www.portsmouth.co.uk/news/rss": {
+  "etag": "W/\"3192-9VLxnvbb6cqV7flbt5bOEppZTF0-gzip\""
+ },
+ "https://www.postcourier.com.pg/feed/": {
+  "etag": "W/\"d96b97c18a2956bc54dc157b8a0a864b\"",
+  "last_modified": "Sat, 14 Nov 2026 11:39:05 GMT"
+ },
+ "https://www.postnewsgroup.com/feed/": {
+  "etag": "W/\"1073016b5ef216cb955438e7f2e3b839\"",
+  "last_modified": "Fri, 06 Nov 2026 19:32:20 GMT"
+ },
+ "https://www.prabhasakshi.com/rss/national": {
+  "etag": "\"123-b\""
+ },
+ "https://www.prajavani.net/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:14:24 GMT"
+ },
+ "https://www.pravda.com.ua/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:51 GMT"
+ },
+ "https://www.premiumtimesng.com/feed": {
+  "etag": "W/\"3a8f767adf8b44a2c297911f9b3bdb91\"",
+  "last_modified": "Sat, 14 Nov 2026 19:04:45 GMT"
+ },
+ "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"a2e21-HqckFjgRR3Pf8qsolp6Qo7gwPJo\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:40 GMT"
+ },
+ "https://www.prensalibre.com/feed/": {
+  "etag": "W/\"6582df93df6abc3e0adcdfe8a622767e\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:26 GMT"
+ },
+ "https://www.pressherald.com/feed/": {
+  "etag": "W/\"7a464e610ff7224d018a312b4a7e5321\"",
+  "last_modified": "Sat, 14 Nov 2026 17:58:57 GMT"
+ },
+ "https://www.primeraedicion.com.ar/feed/": {
+  "etag": "\"db9b5ed6fc3859e6004f82fe11733958\""
+ },
+ "https://www.primerahora.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"1456b-GplaNzxFEFuW9N7NOzL+Zj0gy28\"",
+  "last_modified": "Sat, 14 Nov 2026 18:00:00 GMT"
+ },
+ "https://www.prothomalo.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:42 GMT"
+ },
+ "https://www.ptreyeslight.com/feed/": {
+  "etag": "W/\"be458576a0f4217c907e22631eb4cabb\"",
+  "last_modified": "Thu, 12 Nov 2026 15:44:09 GMT"
+ },
+ "https://www.punjabkesari.in/newssitemap.xml": {
+  "etag": "W/\"4c15b03e63d2dc1:0\"",
+  "last_modified": "Wed, 22 Apr 2026 14:21:00 GMT"
+ },
+ "https://www.puntal.com.ar/rss/pages/home.xml": {
+  "etag": "\"c00c212a177dc780b27e89a5ea5fb5d5\"",
+  "last_modified": "Sat, 14 Nov 2026 17:10:57 GMT"
+ },
+ "https://www.pzc.nl/middelburg/rss.xml": {
+  "etag": "W/\"06fd6af4dd5a16b3fd980e4f44ca2082a\""
+ },
+ "https://www.quotidianodelsud.it/feed": {
+  "etag": "W/\"2474a4ae6b271f99da53cd41b50cc519\"",
+  "last_modified": "Sat, 14 Nov 2026 15:30:25 GMT"
+ },
+ "https://www.rakhewaldaily.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 18:03:00 GMT"
+ },
+ "https://www.rappler.com/feed/": {
+  "etag": "\"5e3e371482d2f410eed17a196fa8679a\"",
+  "last_modified": "Sat, 14 Nov 2026 16:41:36 GMT"
+ },
+ "https://www.razon.com.mx/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"91d68-BFqvi4KJs7Haqf/BxmdC9ccs3mc\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:58 GMT"
+ },
+ "https://www.rbc.ua/static/rss/all.ukr.rss.xml": {
+  "etag": "W/\"6af8b33d-69708a\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:09 GMT"
+ },
+ "https://www.real.gr/feed/": {
+  "etag": "W/\"5bf55e013861df473bf6a683858a7e14\"",
+  "last_modified": "Sat, 14 Nov 2026 19:02:40 GMT"
+ },
+ "https://www.reforma.com/rss/portada.xml": {
+  "etag": "W/\"497899a96674dd1:0\"",
+  "last_modified": "Sat, 14 Nov 2026 18:33:37 GMT"
+ },
+ "https://www.reporter.al/feed/": {
+  "etag": "\"8a3775c6699377e3a1c80f7c2a7613a4-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 08:18:24 GMT"
+ },
+ "https://www.reviewjournal.com/feed/": {
+  "etag": "W/\"20227d94686ccb18e5794eab475d1e4e\"",
+  "last_modified": "Sat, 14 Nov 2026 18:49:16 GMT"
+ },
+ "https://www.richmond-news.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:01:22 GMT"
+ },
+ "https://www.rionegro.com.ar/feed/": {
+  "etag": "W/\"5fa0501df28666c7600d4e75ccbef657\"",
+  "last_modified": "Sat, 14 Nov 2026 17:55:49 GMT"
+ },
+ "https://www.riotimesonline.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:12:31 GMT"
+ },
+ "https://www.rmoutlook.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:00:54 GMT"
+ },
+ "https://www.royalgazette.com/feeds": {
+  "etag": "\"89adae34\""
+ },
+ "https://www.rp.pl/rss_main": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:48 GMT"
+ },
+ "https://www.ruhrnachrichten.de/region/dortmund/feed/": {
+  "etag": "\"742b03bacc9bc7812ab5fef7b78475e1\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:00 GMT"
+ },
+ "https://www.ruskeslovo.com/feed/": {
+  "etag": "\"f6fc38dd8f9973b6b2257c53f27c26d9\"",
+  "last_modified": "Sat, 14 Nov 2026 13:20:00 GMT"
+ },
+ "https://www.saarbruecker-zeitung.de/saarland/saarbruecken/feed.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:02:37 GMT"
+ },
+ "https://www.sabah.com.tr/rss/anasayfa.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:44 GMT"
+ },
+ "https://www.saechsische.de/arc/outboundfeeds/rss/category/lokales/dresden/?outputType=xml": {
+  "etag": "W/\"7405-kPQwrD9Odu5Q+Y8Uec40iVYgOv0\"",
+  "last_modified": "Sat, 14 Nov 2026 19:00:56 GMT"
+ },
+ "https://www.saipantribune.com/index.php/feed/": {
+  "etag": "\"a2da94e636e803693e9817309f2dc9d2\"",
+  "last_modified": "Fri, 30 May 2025 07:33:44 GMT"
+ },
+ "https://www.sakshi.com/rss.xml": {
+  "etag": "W/\"1794612685\"",
+  "last_modified": "Fri, 13 Nov 2026 23:31:25 GMT"
+ },
+ "https://www.saltwire.com/feed/atom": {
+  "etag": "\"78fc1972ab3fec197600383ea926fcb0\"",
+  "last_modified": "Sat, 14 Nov 2026 16:39:29 GMT"
+ },
+ "https://www.samacharjagat.com/rss/top-news": {
+  "etag": "\"bu37dwcrc71evam\""
+ },
+ "https://www.sangbadpratidin.in/feed/": {
+  "etag": "\"5ccc3088ddc0e6fab21ccfde0f5e6f84\"",
+  "last_modified": "Sat, 14 Nov 2026 17:28:56 GMT"
+ },
+ "https://www.sankei.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"63630-PeKztKeTqKw6LKiLQjtQ0sMAf2o\"",
+  "last_modified": "Sat, 14 Nov 2026 19:13:15 GMT"
+ },
+ "https://www.savonsanomat.fi/feed/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:48:32 GMT"
+ },
+ "https://www.schwaebische.de/sitemaps/sch/google-news-sitemap-index.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:02:37 GMT"
+ },
+ "https://www.schwarzwaelder-bote.de/sitemap-news.xml": {
+  "etag": "W/\"8ddc9ac2190254630a2de12df169db59\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:58 GMT"
+ },
+ "https://www.scmp.com/rss/feed": {
+  "last_modified": "Sat, 14 Nov 2026 19:04:09 GMT"
+ },
+ "https://www.scotsman.com/news/rss": {
+  "etag": "W/\"588f-I1prQxCDcXw5ytpst9qWbe8Tppc-gzip\""
+ },
+ "https://www.sdpnoticias.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"83ad8-GUFT9bKkKVF2+CPPlSF54X5ZBIM\"",
+  "last_modified": "Sat, 14 Nov 2026 17:59:49 GMT"
+ },
+ "https://www.searchlight.vc/rss": {
+  "etag": "W/\"94ad2c55ddc890f8ecb06fb42d22a35f-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 18:03:08 GMT"
+ },
+ "https://www.seattletimes.com/feed/": {
+  "etag": "\"5e9e8d68dee56efd3bb5cad17d8a9c1e-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 15:10:52 GMT"
+ },
+ "https://www.segabg.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:41 GMT"
+ },
+ "https://www.segye.com/Articles/RSSList/segye_recent.xml": {
+  "last_modified": "Sat, 14 Nov 2026 13:25:49 GMT"
+ },
+ "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"c8cdb-q7ZxsRXoAmLjt9fRgLpOh+ghk6E\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:45 GMT"
+ },
+ "https://www.seoul.co.kr/xml/rss/google_flash_seoul.xml": {
+  "etag": "\"6af87d11-f4b\"",
+  "last_modified": "Sat, 14 Nov 2026 15:24:01 GMT"
+ },
+ "https://www.sfchronicle.com/sitemap_news.xml": {
+  "etag": "W/\"171-6602e56719037-gzip\"",
+  "last_modified": "Fri, 13 Nov 2026 20:33:15 GMT"
+ },
+ "https://www.shafaq.com/ar?rss=1": {
+  "etag": "W/\"6151857e4bbe8b6ad0aaf4f3284731ef\""
+ },
+ "https://www.shawlocal.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"3a6f6-TufeS9Jhp7ET261w7jXpAD7GuWg\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:51 GMT"
+ },
+ "https://www.shropshirestar.com/rss": {
+  "etag": "W/\"1a5a9-guzu2vtyeMuszSGdsfLgaa7P3lg-gzip\""
+ },
+ "https://www.siasat.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 17:20:14 GMT"
+ },
+ "https://www.silive.com/arc/outboundfeeds/google-news-feed/": {
+  "etag": "W/\"c5f1f-L5mbrr08FzNLZfkTldkVO/ynSU4\"",
+  "last_modified": "Sat, 14 Nov 2026 18:01:50 GMT"
+ },
+ "https://www.sirajlive.com/rss": {
+  "etag": "\"9b5bd823ff5913b7cd9344f39f90fc0b\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:02 GMT"
+ },
+ "https://www.sltrib.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"e154-p25EZcTdwwUfRqByYWN3FsMBGU4\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:18 GMT"
+ },
+ "https://www.smp.se/feeds/feed.xml": {
+  "etag": "W/\"dec7-zC0Po/h56t7nvt6mcswTNgnoevw\""
+ },
+ "https://www.snl24.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"5aca1-TBbBJd0XJFx8sRh1TzuKy8/0qnw\"",
+  "last_modified": "Thu, 12 Nov 2026 15:26:09 GMT"
+ },
+ "https://www.sobujsylhet.com/feed": {
+  "last_modified": "Sat, 14 Nov 2026 15:59:00 GMT"
+ },
+ "https://www.somaliguardian.com/feed/": {
+  "etag": "\"5e03494c347efa93ac651efd38b0296a\"",
+  "last_modified": "Sat, 14 Nov 2026 16:19:49 GMT"
+ },
+ "https://www.southwalesargus.co.uk/news/rss/": {
+  "etag": "\"364a3bc6f1f6a9fde4fc5a3ba25d7f28\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:01 GMT"
+ },
+ "https://www.st.nu/feeds/feed.xml": {
+  "etag": "W/\"12456-SLlAu++eUQpRtf9jFtkW5fImjEc\""
+ },
+ "https://www.standard.co.uk/rss": {
+  "etag": "W/\"18f75-XRzOLHWMEQxh3v91oB8lKBxwXJU-gzip\""
+ },
+ "https://www.standard.net.au/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 09:52:32 GMT"
+ },
+ "https://www.standardmedia.co.ke/rss/headlines.php": {
+  "last_modified": "Sat, 14 Nov 2026 19:16:24 GMT"
+ },
+ "https://www.staradvertiser.com/feed/": {
+  "etag": "W/\"8ac34b72e47749a2b157efed93ccd23e\"",
+  "last_modified": "Sat, 14 Nov 2026 19:03:03 GMT"
+ },
+ "https://www.startribune.com/rss": {
+  "etag": "W/\"2873-Xmvx9f/DON91FSv/nwfNnR3RZ+o\""
+ },
+ "https://www.statesman.com/sitemap_news.xml": {
+  "etag": "\"pa0mnyxu5d7o-gzip\""
+ },
+ "https://www.stheadline.com/rss": {
+  "etag": "W/\"f9268c97c31099104f6335836392064b\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:02 GMT"
+ },
+ "https://www.stol.it/rss": {
+  "etag": "W/\"6af8b375-1d5af\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:05 GMT"
+ },
+ "https://www.stomp.sg/rss": {
+  "etag": "W/\"1712b-ERtDIn7ajkxs0iGMRqBk7ppMJ30\""
+ },
+ "https://www.straitstimes.com/news/singapore/rss.xml": {
+  "etag": "W/\"7d5c-ptG9uOHBr1wfq7b7b7qRZ/uxduc\""
+ },
+ "https://www.stuttgarter-zeitung.de/sitemap-news.xml": {
+  "etag": "W/\"49de83f2d72193d91859555a8291b339\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:59 GMT"
+ },
+ "https://www.sudanspost.com/feed/": {
+  "etag": "\"f3a37d3a09d62a9e4f9814ba3634e379\"",
+  "last_modified": "Sat, 14 Nov 2026 17:22:10 GMT"
+ },
+ "https://www.sulinformacao.pt/feed/": {
+  "etag": "W/\"949872db5cce54bdd90b2d488a993f7d\"",
+  "last_modified": "Sat, 14 Nov 2026 16:17:50 GMT"
+ },
+ "https://www.sundaystandard.info/feed/": {
+  "etag": "\"cacb2ce5fd0f63a5bd77c7d3c874c325\""
+ },
+ "https://www.sunderlandecho.com/news/rss": {
+  "etag": "W/\"2bd4-5JsnHxzrN38uHjXyPtx3Dp9yTdU-gzip\""
+ },
+ "https://www.sunstar.com.ph/api/v1/collections/home.rss": {
+  "last_modified": "Sat, 14 Nov 2026 17:58:50 GMT"
+ },
+ "https://www.surenio.com.ar/feed/": {
+  "etag": "\"65e2674f9d310ac6a41249ead509e349-gzip\"",
+  "last_modified": "Thu, 12 Nov 2026 03:43:30 GMT"
+ },
+ "https://www.swp.de/sitemap-news.xml": {
+  "etag": "W/\"e7a0b7edb68f32f40336079f054a590b\"",
+  "last_modified": "Sat, 14 Nov 2026 18:50:59 GMT"
+ },
+ "https://www.sydsvenskan.se/feeds/feed.xml": {
+  "etag": "W/\"be9d-VqmBjqD/FRzQPLpFHH1e4kjdGTc\""
+ },
+ "https://www.tagesspiegel.de/contentexport/feed/home": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:22 GMT"
+ },
+ "https://www.tamilmurasu.com.sg/rss.xml": {
+  "etag": "W/\"cc8c-h75n1CAGnesnLNfAsUpwAQFsKnY\""
+ },
+ "https://www.tampabay.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"3a0b7-wE7vYd+zguRZn/Jgw20RZiBWVW8\"",
+  "last_modified": "Sat, 14 Nov 2026 19:11:43 GMT"
+ },
+ "https://www.tarunbharat.com/feed/": {
+  "etag": "W/\"212f4c2ee64632a0d0769cdb2fec0e1c\"",
+  "last_modified": "Sat, 14 Nov 2026 18:24:21 GMT"
+ },
+ "https://www.telanon.info/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 00:06:32 GMT"
+ },
+ "https://www.telegram.hr/feed/": {
+  "etag": "W/\"9559293aa52beeafdf2edf2bf00ef9ae\"",
+  "last_modified": "Sat, 14 Nov 2026 19:02:35 GMT"
+ },
+ "https://www.telegraph.co.uk/rss": {
+  "etag": "\"87d8539f65b07752c361b609ee746cc1\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:52 GMT"
+ },
+ "https://www.thaipost.net/feed/": {
+  "etag": "W/\"56e677b6eb7882a3cb5bf1768500212e\"",
+  "last_modified": "Saturday, 14-Nov-2026 17:11:12 GMT"
+ },
+ "https://www.thairath.co.th/rss/news": {
+  "etag": "W/\"52be-88Vn0Phac9++Aozgtb576HN0lkw\""
+ },
+ "https://www.tharrosnews.gr/feed/": {
+  "etag": "W/\"38555a4e6a0d5bd70ebf38db4be8b4fe\"",
+  "last_modified": "Sat, 14 Nov 2026 18:58:00 GMT"
+ },
+ "https://www.theargus.co.uk/news/rss/": {
+  "etag": "\"6e6ef59e3f5cd7a67d48229c48b7bb8a\"",
+  "last_modified": "Sat, 14 Nov 2026 18:49:13 GMT"
+ },
+ "https://www.theatlantic.com/feed/all/": {
+  "last_modified": "Sat, 14 Nov 2026 18:58:49 GMT"
+ },
+ "https://www.thecourier.com.au/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 07:24:31 GMT"
+ },
+ "https://www.thegardenisland.com/rss": {
+  "etag": "W/\"23740c455e2a983ace25309eacbca1a2\"",
+  "last_modified": "Sat, 14 Nov 2026 10:05:00 GMT"
+ },
+ "https://www.theglobeandmail.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"2d8f6-WY6lXXzNUbbHhOtsJRblxB3pLHg\"",
+  "last_modified": "Sat, 14 Nov 2026 19:14:51 GMT"
+ },
+ "https://www.theguardian.com/europe/rss": {
+  "etag": "W/\"hash4855662337672069456\""
+ },
+ "https://www.thehansindia.com/google_feeds.xml": {
+  "last_modified": "Sat, 14 Nov 2026 16:09:12 GMT"
+ },
+ "https://www.thehindu.com/feeder/default.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:14:05 GMT"
+ },
+ "https://www.thehindubusinessline.com/feeder/default.rss": {
+  "last_modified": "Sat, 14 Nov 2026 16:40:18 GMT"
+ },
+ "https://www.thekashmirmonitor.net/feed/": {
+  "etag": "\"0bc13b0d4e505db95e8a6c785e25b02a\"",
+  "last_modified": "Sat, 14 Nov 2026 16:15:54 GMT"
+ },
+ "https://www.themoscowtimes.com/rss/news": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:57 GMT"
+ },
+ "https://www.thenational.scot/news/rss/": {
+  "etag": "\"743cd2fad240b6b3423aace596641bbd\"",
+  "last_modified": "Sat, 14 Nov 2026 19:09:45 GMT"
+ },
+ "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"a81ed-aCDgKR1anWFxRvgOM53S0dWDIkk\"",
+  "last_modified": "Sat, 14 Nov 2026 19:13:08 GMT"
+ },
+ "https://www.thenorthernecho.co.uk/news/rss/": {
+  "etag": "\"1890bc06291e97b9ae66884bf8e563bb\"",
+  "last_modified": "Sat, 14 Nov 2026 18:55:29 GMT"
+ },
+ "https://www.thesaturdaypaper.com.au/feed.xml": {
+  "etag": "\"uel45ifb6kob1\""
+ },
+ "https://www.thestar.co.uk/news/rss": {
+  "etag": "W/\"74fd-csIQIb4bV6nYDCVFSeJjUTBxPPA-gzip\""
+ },
+ "https://www.thesun.co.uk/feed/": {
+  "etag": "W/\"d5669d2a15c4c7a9e9b144b118bcc484\"",
+  "last_modified": "Sat, 14 Nov 2026 19:17:41 GMT"
+ },
+ "https://www.thesun.ie/news/irish-news/feed/": {
+  "etag": "W/\"ad4877aae2c134f20c0d3986a8e5cda5\"",
+  "last_modified": "Sat, 14 Nov 2026 18:42:48 GMT"
+ },
+ "https://www.thetelegraphandargus.co.uk/news/rss/": {
+  "etag": "\"d8afed1f5fd3e0cf0fae253a9ff69492\"",
+  "last_modified": "Sat, 14 Nov 2026 18:55:19 GMT"
+ },
+ "https://www.thetidenewsonline.com/feed/": {
+  "etag": "\"9e1ae9c3e7677cdb2027d3a51d8d1d52-gzip\"",
+  "last_modified": "Fri, 13 Nov 2026 16:48:41 GMT"
+ },
+ "https://www.thetimes.com/sitemaps/news": {
+  "etag": "\"2a3be-57KtwRlVQXY28GRIN0T+jPeyoCo\""
+ },
+ "https://www.timescolonist.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:36 GMT"
+ },
+ "https://www.timesleader.com/feed": {
+  "etag": "W/\"0bcccda1f394265f15aabc93db650423\"",
+  "last_modified": "Sat, 14 Nov 2026 13:03:20 GMT"
+ },
+ "https://www.timeslive.co.za/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"1e1a0-RqhZwPXEjkVdyQd0RwbbdCDn/R0\"",
+  "last_modified": "Sat, 14 Nov 2026 19:16:45 GMT"
+ },
+ "https://www.tion.ro/feed": {
+  "etag": "\"9b383a57e46e21132c1a19f06a6a7520\"",
+  "last_modified": "Sat, 14 Nov 2026 18:56:49 GMT"
+ },
+ "https://www.tipperarylive.ie/rss": {
+  "etag": "W/\"717e-hDXhWNdagiaahVuvuPa4+xCKaiw-gzip\""
+ },
+ "https://www.toledoblade.com/rss/": {
+  "last_modified": "Sat, 14 Nov 2026 19:15:09 GMT"
+ },
+ "https://www.tooeleonline.com/rss": {
+  "etag": "\"3220a59fa0f7851e80817437b7362d8a\"",
+  "last_modified": "Thu, 12 Nov 2026 15:40:07 GMT"
+ },
+ "https://www.tovima.gr/rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:09:37 GMT"
+ },
+ "https://www.tribuna.ro/rss": {
+  "etag": "\"bb400f968e26c60df8b18c77e7229013-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 16:20:09 GMT"
+ },
+ "https://www.tricityrecordnm.com/rss": {
+  "etag": "\"a7fe18c8d69bffe7ad6876b99c69da03\"",
+  "last_modified": "Sat, 14 Nov 2026 17:30:23 GMT"
+ },
+ "https://www.tt.com/rss/news.xml": {
+  "etag": "W/\"1308f-lWlFo4A2HQwIT660Q/U9rGT8bGw\""
+ },
+ "https://www.tubantia.nl/enschede/rss.xml": {
+  "etag": "W/\"036931e5eb4acc8be1dd2c8e12b5abb50\""
+ },
+ "https://www.tunisienumerique.com/news-sitemap.xml": {
+  "last_modified": "Sat, 14 Nov 2026 18:03:16 GMT"
+ },
+ "https://www.unt.se/rss": {
+  "etag": "W/\"3f41-JQG4uURaPXb8mozCGAJSOy1ruo0\""
+ },
+ "https://www.ururau.com.br/rss/geral/": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:48 GMT"
+ },
+ "https://www.vancouverisawesome.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 18:02:38 GMT"
+ },
+ "https://www.vanguardia.com/arc/outboundfeeds/rss/?outputType=xml": {
+  "etag": "W/\"b7ecc-5SiAupCZSxqeHARJdKM5NQhLGD4\"",
+  "last_modified": "Sat, 14 Nov 2026 18:02:27 GMT"
+ },
+ "https://www.vaol.hu/publicapi/hu/rss/vaol/articles": {
+  "last_modified": "Sat, 14 Nov 2026 18:34:47 GMT"
+ },
+ "https://www.vasabladet.fi/feeds/feed.xml": {
+  "etag": "W/\"12f77-Cy0ucT2U1B7MQore1vyH52qED0k\""
+ },
+ "https://www.vaticannews.va/en.rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:00:16 GMT"
+ },
+ "https://www.vb.kg/?rss": {
+  "last_modified": "Sat, 14 Nov 2026 08:19:39 GMT"
+ },
+ "https://www.vecernji.hr/feeds/latest": {
+  "last_modified": "Sat, 14 Nov 2026 19:02:00 GMT"
+ },
+ "https://www.vetogate.com/rss.aspx": {
+  "last_modified": "Sat, 14 Nov 2026 18:01:46 GMT"
+ },
+ "https://www.vilaweb.cat/rss": {
+  "etag": "W/\"4775125be21707f5512efc03ff455e0c-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 19:15:50 GMT"
+ },
+ "https://www.vlt.se/feeds/feed.xml": {
+  "etag": "W/\"ac43-G1M5Gvu8Nw0GWaByYHQjxyHLztw\""
+ },
+ "https://www.volksfreund.de/region/trier-trierer-land/feed.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:02:38 GMT"
+ },
+ "https://www.voria.gr/rss-feed": {
+  "etag": "W/\"1794682684\"",
+  "last_modified": "Sat, 14 Nov 2026 18:58:04 GMT"
+ },
+ "https://www.wakatsera.com/feed/": {
+  "etag": "\"8bdf65afdf86c672997f6dd62618c550-gzip\"",
+  "last_modified": "Sat, 14 Nov 2026 17:26:04 GMT"
+ },
+ "https://www.washingtontimes.com/rss/headlines/culture/": {
+  "etag": "W/\"b4c4f5f8e4d3d864298ed1d4e4bfe224\"",
+  "last_modified": "Sat, 14 Nov 2026 14:50:06 GMT"
+ },
+ "https://www.westernadvocate.com.au/rss.xml": {
+  "last_modified": "Sat, 14 Nov 2026 04:00:00 GMT"
+ },
+ "https://www.westhawaiitoday.com/rss": {
+  "etag": "W/\"70bf7a213b427c46354039578e1b6afb\"",
+  "last_modified": "Sat, 14 Nov 2026 10:09:00 GMT"
+ },
+ "https://www.wienerzeitung.at/rss.xml": {
+  "etag": "\"6af7dd4d-4944\"",
+  "last_modified": "Sat, 14 Nov 2026 04:02:21 GMT"
+ },
+ "https://www.worcesternews.co.uk/news/rss/": {
+  "etag": "\"66d257170058f4c8c905649cae9e530d\"",
+  "last_modified": "Sat, 14 Nov 2026 18:49:02 GMT"
+ },
+ "https://www.wz.de/nrw/wuppertal/feed.rss": {
+  "last_modified": "Sat, 14 Nov 2026 19:02:37 GMT"
+ },
+ "https://www.yaeyama-nippo.co.jp/rss": {
+  "etag": "W/\"f8e0cb191d747792686c86d03082a190\"",
+  "last_modified": "Sat, 14 Nov 2026 04:51:02 GMT"
+ },
+ "https://www.yamagata-np.jp/news/rss/index.xml": {
+  "etag": "\"18e3-6603bf4ac59b8\"",
+  "last_modified": "Sat, 14 Nov 2026 12:48:04 GMT"
+ },
+ "https://www.yasstribune.com.au/rss.xml": {
+  "last_modified": "Thu, 12 Nov 2026 23:00:00 GMT"
+ },
+ "https://www.yeniasir.com.tr/rss/anasayfa.xml": {
+  "last_modified": "Sat, 14 Nov 2026 17:56:23 GMT"
+ },
+ "https://www.yenicaggazetesi.com/rss": {
+  "last_modified": "Sat, 14 Nov 2026 15:33:19 GMT"
+ },
+ "https://www.yenisafak.com/rss?take=60": {
+  "last_modified": "Sat, 14 Nov 2026 19:18:07 GMT"
+ },
+ "https://www.ynet.co.il/Integration/StoryRss2.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:14:50 GMT"
+ },
+ "https://www.yorkpress.co.uk/news/rss/": {
+  "etag": "\"b95458700f445f1b7f92694caa84b3b4\"",
+  "last_modified": "Sat, 14 Nov 2026 18:55:10 GMT"
+ },
+ "https://www.yorkshirepost.co.uk/news/rss": {
+  "etag": "W/\"804a-Q3wSzYHjpiAvCXcipmX2I2yUOzg-gzip\""
+ },
+ "https://www.youm7.com/rss/SectionRss?SectionID=97": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:23 GMT"
+ },
+ "https://www.yucatan.com.mx/feed": {
+  "etag": "W/\"134fe33f631b47196d12acdee44dba46\"",
+  "last_modified": "Sat, 14 Nov 2026 17:35:16 GMT"
+ },
+ "https://www.zdg.md/rss": {
+  "etag": "W/\"f62021d04e288952a45b71cd4e4e1e48\""
+ },
+ "https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:22 GMT"
+ },
+ "https://xml2.corriereobjects.it/feed-hp/homepage-restyle-2025.xml": {
+  "last_modified": "Sat, 14 Nov 2026 19:07:08 GMT"
+ },
+ "https://xperttimes.com/feed/": {
+  "last_modified": "Sat, 14 Nov 2026 12:29:17 GMT"
+ },
+ "https://yellowknifer.com/rss": {
+  "etag": "W/\"7304761558e52a59ea28c650610c03d9\"",
+  "last_modified": "Sat, 14 Nov 2026 12:39:54 GMT"
+ },
+ "https://yukon-news.com/rss": {
+  "etag": "W/\"f3d17ba7d5e8d2fb2e2deca688b8a6a6\"",
+  "last_modified": "Sat, 14 Nov 2026 13:30:00 GMT"
+ },
+ "https://zarata.info/feed/": {
+  "etag": "W/\"21d138c5c5890b2f60d6d6cf61fdc1da\"",
+  "last_modified": "Sat, 14 Nov 2026 18:49:13 GMT"
+ },
+ "https://ziare.com/rss/breaking_news.xml": {
+  "etag": "W/\"6af481cb-c375\"",
+  "last_modified": "Wed, 11 Nov 2026 14:55:07 GMT"
+ },
+ "https://ziarulunirea.ro/rss": {
+  "etag": "W/\"11eda504f9423e74d84da598ebe8b3c7\"",
+  "last_modified": "Sat, 14 Nov 2026 18:55:07 GMT"
+ },
+ "https://zlinsky.denik.cz/rss/vse.xml": {
+  "etag": "W/\"a910d8e1c51a75e5773f7c6b27b1d166\""
+ },
+ "https://zn.ua/ukr/rss/full/": {
+  "last_modified": "Sat, 14 Nov 2026 19:17:51 GMT"
+ },
+ "https://zpravy.aktualne.cz/rss": {
+  "etag": "W/\"267d7da956c8e7b49c2f74681717b3e0242bb82f\"",
+  "last_modified": "Sat, 14 Nov 2026 18:51:00 GMT"
+ }
+}
